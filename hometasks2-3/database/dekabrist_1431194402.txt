@@ -1,0 +1,12 @@
+{
+  "text": "Белый с розовой серединой. В горшке два растения. Продаю весь горшок без разделения ростков.\n",
+  "title": "Декабрист",
+  "price": 400,
+  "index": 1431194402,
+  "address": "Москва, м. Лихоборы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1431194402",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 02:53  ",
+  "seller": "Светлана",
+  "seller_link": "/user/deaf37aa4e6659285c31e20bb3cdc52e/profile?id=1431194402&src=item"
+}

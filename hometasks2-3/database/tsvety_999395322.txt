@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Лермонтовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_999395322",
+  "price": 50,
+  "seller": "Анна",
+  "post_date": "  08 October в 16:52  ",
+  "title": "Цветы",
+  "text": "Каждый цветок с горшком. Цена каждого 50 р. Фиалки нежно сиреневого цвета и вишнёвого. Могу выслать фото.\nФото 1-продан\n",
+  "index": 999395322,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/b045b9750a633a309b9c9cefa2480e4b/profile?id=999395322&src=item"
+}

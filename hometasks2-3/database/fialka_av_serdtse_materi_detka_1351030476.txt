@@ -1,0 +1,12 @@
+{
+  "price": 130,
+  "seller_status": "Частное лицо",
+  "index": 1351030476,
+  "title": "Фиалка ав Сердце Матери (детка)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_av_serdtse_materi_detka_1351030476",
+  "seller": "Оксана",
+  "address": "Москва, м. Улица Старокачаловская",
+  "text": "Предлагаю детку фиалки АВ Сердце Матери.\nНа фото цветение материнского растения и детки от этого растения.\nМного деток есть других сортов около 200 наименований.\n",
+  "post_date": "  07 October в 11:00  ",
+  "seller_link": "/user/6994749df8bb5ee01ebe3f718cf7963e/profile?id=1351030476&src=item"
+}

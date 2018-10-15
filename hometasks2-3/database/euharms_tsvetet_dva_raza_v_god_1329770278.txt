@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1329770278,
+  "title": "Эухармс цветет два раза в год",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/euharms_tsvetet_dva_raza_v_god_1329770278",
+  "seller": "ольга",
+  "address": "Москва, м. Алексеевская",
+  "text": "Эухарис, цветет два -три раза в год, цветы белые похожи на нарциссы,продаётся вместе с горшком,пересадка не требуется,земля свежая\n",
+  "post_date": "  5 октября в 19:37  ",
+  "seller_link": "/user/f7d93ddf205817df2264b609ddb470ac/profile?id=1329770278&src=item"
+}

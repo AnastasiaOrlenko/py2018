@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам излишки сортовых фиалок( листы с корнями) более 6 сортов, все за 100₽. Отвечу на все вопросы\n",
+  "index": 1561696551,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1561696551",
+  "seller": "Екатерина",
+  "address": "Москва, м. Коломенская",
+  "post_date": "  5 октября в 15:42  ",
+  "seller_link": "/user/2e4d5d031394302a9a5ededbdfc52804/profile?id=1561696551&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 2300,
+  "seller_status": "Частное лицо",
+  "index": 1353212754,
+  "title": "Euphorbia Cocklebur (bupleurifolia x susannae)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/euphorbia_cocklebur_bupleurifolia_x_susannae_1353212754",
+  "seller": "Инна",
+  "address": "Москва, м. Пражская",
+  "text": "Продаю редкое, сукулентное, взрослое растение. Адаптированное, выращенное в домашних условиях.Диаметр растения 11см..\n",
+  "post_date": "  5 октября в 12:38  ",
+  "seller_link": "/user/bab424da9e09bc2aed41d1648a06e1b4/profile?id=1353212754&src=item"
+}

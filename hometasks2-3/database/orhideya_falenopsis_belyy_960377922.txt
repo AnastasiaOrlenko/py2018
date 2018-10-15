@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 960377922,
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_belyy_960377922",
+  "address": "Москва, м. Белорусская",
+  "title": "Орхидея фаленопсис белый",
+  "seller_link": "/user/3862cf1a76e223315556185c0c695ae8/profile?id=960377922&src=item",
+  "text": "Продается белый фаленопсис миди\n",
+  "post_date": "  07 October в 21:12  "
+}

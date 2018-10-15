@@ -1,0 +1,12 @@
+{
+  "text": "ЭПРА WHITE DIGITA HPS/MH 1000 W S-plug, Double Ended edition\nВ отличном состоянии.\n",
+  "title": "Эпра white digita HPS/MH 1000 W S-plug, Double End",
+  "price": 13000,
+  "index": 1254450685,
+  "address": "Москва, м. Нахимовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epra_white_digita_hpsmh_1000_w_s-plug_double_end_1254450685",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:37  ",
+  "seller": "Георгий",
+  "seller_link": "/user/3ab98ff105886e50ef9e015048386020/profile?id=1254450685&src=item"
+}

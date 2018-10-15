@@ -1,0 +1,12 @@
+{
+  "price": 3650,
+  "seller_status": "Магазин",
+  "index": 1348255196,
+  "title": "Корзинка цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzinka_tsvetov_1348255196",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "21 белая роза, эвкалипт, лаванда, салал,15 астильба, 10 мисти баблс роза.\n",
+  "post_date": "  6 октября в 22:34  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 290,
+  "seller_status": "Компания",
+  "index": 1242355932,
+  "title": "Музыкальный цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/muzykalnyy_tsvetok_1242355932",
+  "seller": "Частные",
+  "seller-contact": "По объявлению",
+  "address": "Москва, м. Курская",
+  "text": "Заводится,цветок двигается вращающейся,заводится и музыка\n",
+  "post_date": "  07 October в 10:48  ",
+  "seller_link": "/user/644ce3932476b3eed75749dd159accdd/profile?id=1242355932&src=item"
+}

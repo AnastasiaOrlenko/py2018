@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1428563270,
+  "seller": "ЕЛЕНА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_prirechnaya_1428563270",
+  "address": "Москва, м. Новогиреево",
+  "title": "Традесканция приречная",
+  "seller_link": "/user/199af50e6fa843bd7da997c240bcbe14/profile?id=1428563270&src=item",
+  "text": "Красивое растение, листья зелено-фиолетовые свисающие. Высота в горшке 33см.\n",
+  "post_date": "  07 October в 13:38  "
+}

@@ -1,0 +1,13 @@
+{
+  "text": "В хорошем состоянии.\nМогу продать без горшка за 500 руб.\n",
+  "title": "Монстера 1 шт",
+  "price": 1000,
+  "index": 1548583667,
+  "address": "Москва, м. Алексеевская",
+  "seller-contact": "Зинаида не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1_sht_1548583667",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:16  ",
+  "seller": "Зинаида",
+  "seller_link": "/user/8e8794edfadc1b40671130a784997ede/profile?id=1548583667&src=item"
+}

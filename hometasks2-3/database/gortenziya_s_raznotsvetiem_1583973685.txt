@@ -1,0 +1,12 @@
+{
+  "price": 4800,
+  "seller_status": "Магазин",
+  "index": 1583973685,
+  "title": "Гортензия с разноцветием",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_s_raznotsvetiem_1583973685",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Доставка и самовывоз по Москве и области\n",
+  "post_date": "  6 октября в 22:35  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1680,
+  "seller_status": "Частное лицо",
+  "index": 1200269605,
+  "title": "Гузмания хоуп",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/guzmaniya_houp_1200269605",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д высота 50см\n",
+  "post_date": "  07 October в 01:12  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1200269605&src=item"
+}

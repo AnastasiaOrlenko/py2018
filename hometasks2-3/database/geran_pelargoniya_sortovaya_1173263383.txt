@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1173263383,
+  "title": "Герань пеларгония сортовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_sortovaya_1173263383",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Хорошевская",
+  "text": "Продаются молодые растения в горшках сортовых пеларгоний. \nФото-1- Powder puff -500р. Молодой кустик в горшке. \nФото-2- Americana Rose Mega Splash -500р молодой кустик в горшке.\nФото -3- Doods super double. - 500р. Укорененный черенок. Большой.\nСамовывоз. Звоните. Пример цветения на фото. Есть другие сорта смотрите, спрашивайте. Есть доставка.\n",
+  "post_date": "  5 октября в 13:05  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1173263383&src=item"
+}

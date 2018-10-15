@@ -1,0 +1,13 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 1196563302,
+  "title": "Декоративный керамический горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekorativnyy_keramicheskiy_gorshok_1196563302",
+  "seller": "Юлия (частное лицо)",
+  "seller-contact": "Борис Алексеевич",
+  "address": "Москва, м. Сходненская",
+  "text": "с экибаной из камня.\n",
+  "post_date": "  6 октября в 13:49  ",
+  "seller_link": "/user/14c6bc066a38ce6b6c9381f268494aee/profile?id=1196563302&src=item"
+}

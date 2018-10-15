@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1471488066,
+  "title": "Гинура",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ginura_1471488066",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 15д. Высота 20см. Есть ещё подвесная.\n",
+  "post_date": "  07 October в 01:17  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1471488066&src=item"
+}

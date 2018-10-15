@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1545285862,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1545285862",
+  "seller": "Светлана",
+  "address": "Москва, м. Сходненская",
+  "text": "Драцена. 1и2-фото не продается. Полностью укоренившееся взрослое растение, обсалютно не прихотлив\n",
+  "post_date": "  07 October в 00:25  ",
+  "seller_link": "/user/77b00050d60ddb63bd612b005c13eebd/profile?id=1545285862&src=item"
+}

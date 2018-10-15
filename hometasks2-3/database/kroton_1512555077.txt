@@ -1,0 +1,12 @@
+{
+  "price": 399,
+  "seller_status": "Частное лицо",
+  "index": 1512555077,
+  "title": "Кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_1512555077",
+  "seller": "Алексей",
+  "address": "Москва, м. Марксистская",
+  "text": "Срочно продам, т.к переезжаю\n",
+  "post_date": "  4 октября в 23:33  ",
+  "seller_link": "/user/0937e74c0cd720acef454eac63f41790/profile?id=1512555077&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 750,
+  "seller_status": "Компания",
+  "index": 1307947799,
+  "title": "Золотой ус с горшком (4 уса)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_s_gorshkom_4_usa_1307947799",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Печатники",
+  "text": "Продаю Золотой ус с горшком. Высота основного стебля почти метр, 4 уса\n",
+  "post_date": "  5 октября в 13:29  ",
+  "seller_link": "/user/97cb16ceb01de0e275a588c374b6e13e/profile?id=1307947799&src=item"
+}

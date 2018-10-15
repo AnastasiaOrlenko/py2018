@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1618170263,
+  "title": "Подставка для рассады или балконных цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_dlya_rassady_ili_balkonnyh_tsvetov_1618170263",
+  "seller": "Катерина",
+  "address": "Москва, м. Первомайская",
+  "text": "Высота 66см\nШирина 50см\nШирина ячейки 13см\nВ комплекте ящики\n",
+  "post_date": "  5 октября в 17:26  ",
+  "seller_link": "/user/aec796e9f9237ec7fe21d714b94795a7/profile?id=1618170263&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/be6506901d1dd7d5556d01b7d271eeed/profile?id=1494327155&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_po_elku_1494327155",
+  "post_date": "  08 October в 10:10  ",
+  "address": "Москва, м. Академическая",
+  "seller": ".",
+  "text": "Тяжёлая деревянная подставка под ель\n",
+  "index": 1494327155,
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "title": "Подставка по ёлку"
+}

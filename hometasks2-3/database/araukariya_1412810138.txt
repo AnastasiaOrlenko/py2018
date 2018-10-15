@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1412810138,
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/araukariya_1412810138",
+  "address": "Москва, м. Электрозаводская",
+  "title": "Араукария",
+  "seller_link": "/user/f7482902ea9cea230da0e9b5444eb90b/profile?id=1412810138&src=item",
+  "text": "Продаю Араукарию, высота и ширина около 1 м 10 см, только самовывоз.\n",
+  "post_date": "  07 October в 15:43  "
+}

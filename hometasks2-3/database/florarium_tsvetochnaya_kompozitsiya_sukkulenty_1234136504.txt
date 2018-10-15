@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/53e63b7bfc55a371a72a5a92e3cf5607/profile?id=1234136504&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_tsvetochnaya_kompozitsiya_sukkulenty_1234136504",
+  "post_date": "  08 October в 09:39  ",
+  "address": "Москва, м. Улица Горчакова",
+  "seller": "Светлана",
+  "text": "Цветочные композиции, флорариум, на любой праздник! Композиция будет долго радовать вас! Есть в наличии и на заказ. Быстрое изготовление. Доставка 200р.\n",
+  "index": 1234136504,
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "title": "Флорариум, цветочная композиция, суккуленты"
+}

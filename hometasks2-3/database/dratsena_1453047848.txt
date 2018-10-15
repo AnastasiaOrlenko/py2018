@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 700,
+  "index": 1453047848,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1453047848",
+  "address": "Москва, м. Говорово",
+  "title": "Драцена",
+  "seller_link": "/user/c47a9b724bad96065846f3932e56b665/profile?id=1453047848&src=item",
+  "text": "Высота от земли 110, от пола до кончика листьев 160. Продаем в связи с переездом. Самовывоз из Солнцево.\n",
+  "post_date": "  08 October в 07:49  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 885061088,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_885061088",
+  "seller": "вика ( не компания)",
+  "seller-contact": "Вика",
+  "address": "Москва, м. Братиславская",
+  "text": "Продам большой шикарный декабрист!!))) Фотки получились не очень.\n",
+  "post_date": "  5 октября в 17:48  ",
+  "seller_link": "/user/567869404041980115a788cd61ff4e9f/profile?id=885061088&src=item"
+}

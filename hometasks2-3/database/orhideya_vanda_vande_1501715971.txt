@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1501715971,
+  "title": "Орхидея ванда vande",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_vanda_vande_1501715971",
+  "seller": "Елена",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Подростки сортовых ванд. Замечательное качество, цена одинаковая\n",
+  "post_date": "  5 октября в 07:02  ",
+  "seller_link": "/user/e1e363e3ab40a036ebca7c62d179cf3c/profile?id=1501715971&src=item"
+}

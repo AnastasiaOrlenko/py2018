@@ -1,0 +1,12 @@
+{
+  "price": 2300,
+  "seller_status": "Магазин",
+  "index": 1556731785,
+  "title": "Корзина цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzina_tsvetov_1556731785",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Композиция соответствует фото\n",
+  "post_date": "  4 октября в 21:32  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

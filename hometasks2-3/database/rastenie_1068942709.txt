@@ -1,0 +1,12 @@
+{
+  "text": "в большом горшке\n",
+  "title": "Растение",
+  "price": 2470,
+  "index": 1068942709,
+  "address": "Москва, м. Андроновка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_1068942709",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:57  ",
+  "seller": "Максим",
+  "seller_link": "/user/11303590bf2f7961b5e17fd397c0873f/profile?id=1068942709&src=item"
+}

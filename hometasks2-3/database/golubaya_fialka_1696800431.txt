@@ -1,0 +1,12 @@
+{
+  "price": 80,
+  "seller_status": "Частное лицо",
+  "index": 1696800431,
+  "title": "Голубая фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/golubaya_fialka_1696800431",
+  "seller": "Анна",
+  "address": "Москва, м. Маяковская",
+  "text": "Продам фиалку. Молодое цветущее в данный момент растение.\n",
+  "post_date": "  6 октября в 09:03  ",
+  "seller_link": "/user/5c0737868668351b9c5d008c44da6594/profile?id=1696800431&src=item"
+}

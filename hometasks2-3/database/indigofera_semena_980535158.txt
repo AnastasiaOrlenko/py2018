@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 980535158,
+  "title": "Индигофера, семена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/indigofera_semena_980535158",
+  "seller": "sagmina",
+  "address": "Москва, м. Тульская",
+  "text": "Индигофера красильная (Басма), семена, 30 шт - 100р.\nЕсть гиностемма, колеусы, джинура, переския.\nВстреча в районе/у турникетов м.Тульская при покупке от 200р.\n",
+  "post_date": "  07 October в 10:22  ",
+  "seller_link": "/user/7f389f723a93405277058c1249eb2fdf/profile?id=980535158&src=item"
+}

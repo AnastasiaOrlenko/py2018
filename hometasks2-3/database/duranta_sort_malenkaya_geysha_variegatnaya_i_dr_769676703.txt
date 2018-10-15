@@ -1,0 +1,12 @@
+{
+  "address": "Москва",
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/duranta_sort_malenkaya_geysha_variegatnaya_i_dr_769676703",
+  "seller_status": "Компания",
+  "title": "Дуранта сорт маленькая гейша, вариегатная и др",
+  "post_date": "  08 October в 13:29  ",
+  "price": 250,
+  "index": 769676703,
+  "seller_link": "/user/695008f1684377891c1cb1f6ea035769/profile?id=769676703&src=item",
+  "text": "Дуранта сорт маленькая гейша- 349р. \nДуранта вариегатная- 349р \nДуранта Sweet mimories- 420р\nЕсть очень большое разнообразие красивых и экзотических цветов - от 250р \nПолный прайс пришлю на ваш е- mail. Указывайте его в письме \nОтправляю в другие города .Есть доставка по Москве - 250р\n"
+}

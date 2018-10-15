@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1503097273,
+  "title": "Бегония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_1503097273",
+  "seller": "Людмила",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "хороший кустик\n",
+  "post_date": "  5 октября в 09:41  ",
+  "seller_link": "/user/adf7435f98a26bf00d6d55bbd6156c1e/profile?id=1503097273&src=item"
+}

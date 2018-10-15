@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1425395600,
+  "seller": "наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_anzhelika_1425395600",
+  "address": "Москва, м. Коньково",
+  "title": "Фиалка Анжелика",
+  "seller_link": "/user/60603fe87466f011b9f29b11601eb006/profile?id=1425395600&src=item",
+  "text": "Продаю детку фиалки Анжелика фото 3-4 Цветение взрослой фиалки фото 1-2\n",
+  "post_date": "  07 October в 17:46  "
+}

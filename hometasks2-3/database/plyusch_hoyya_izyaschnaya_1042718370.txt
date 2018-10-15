@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plyusch_hoyya_izyaschnaya_1042718370",
+  "price": 500,
+  "seller": "Надежда",
+  "post_date": "  08 October в 20:00  ",
+  "title": "Плющ хойя изящная",
+  "text": "Красиво цветущее растение, может быть все усыпано цветами. Сейчас отцвело, один цветочек остался\n",
+  "index": 1042718370,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a0e9215d179950bf0068cdd19fedaadc/profile?id=1042718370&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Нагорная",
+  "seller": "Маргарита",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oasis_avto_rondella_20_sm_841935441",
+  "seller_status": "Частное лицо",
+  "title": "Oasis avto rondella 20 см",
+  "post_date": "  08 October в 14:01  ",
+  "price": 400,
+  "index": 841935441,
+  "seller_link": "/user/902298690ff5de9d5b2b485074621748/profile?id=841935441&src=item",
+  "text": "Продаю новый оазис авторонделла 20см. Предназначен для оформления автомобиля срезанными цветами. Могу отправить почтой.\n"
+}

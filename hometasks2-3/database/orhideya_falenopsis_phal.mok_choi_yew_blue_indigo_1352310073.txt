@@ -1,0 +1,13 @@
+{
+  "price": 3500,
+  "seller_status": "Компания",
+  "index": 1352310073,
+  "title": "Орхидея фаленопсис Phal.Mok Choi Yew Blue (Indigo)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_phal.mok_choi_yew_blue_indigo_1352310073",
+  "seller": "частное лицо",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Тропарево",
+  "text": "Встречи у м.Тропарево.\n",
+  "post_date": "  07 October в 00:18  ",
+  "seller_link": "/user/3385f527076460ff628076579e6a53b4/profile?id=1352310073&src=item"
+}

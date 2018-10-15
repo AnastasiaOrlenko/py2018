@@ -1,0 +1,12 @@
+{
+  "price": 1480,
+  "seller_status": "Частное лицо",
+  "index": 1436612230,
+  "title": "Эхмея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ehmeya_1436612230",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 55см.\n",
+  "post_date": "  07 October в 01:16  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1436612230&src=item"
+}

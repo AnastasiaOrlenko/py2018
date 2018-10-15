@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1403113090,
+  "title": "Домашние растения",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/domashnie_rasteniya_1403113090",
+  "seller": "частное лицо",
+  "seller-contact": "Надежда",
+  "address": "Зеленоград",
+  "text": "Первое фото диффенбахия 200 руб. Высокая, метра 2. Денежное дерево 400. Зеленоград самовывоз\n",
+  "post_date": "  5 октября в 09:04  ",
+  "seller_link": "/user/31d6e71f60d7ce7030f98477d4e303d6/profile?id=1403113090&src=item"
+}

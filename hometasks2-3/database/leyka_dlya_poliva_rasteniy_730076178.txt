@@ -1,0 +1,13 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 730076178,
+  "title": "Лейка для полива растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/leyka_dlya_poliva_rasteniy_730076178",
+  "seller": "Ирина",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Новокосино",
+  "text": "Лейка жестяная в стиле Прованс с декупажем лаванды. Станет практичным и стильным подарком на любой случай.\n",
+  "post_date": "  07 October в 12:09  ",
+  "seller_link": "/user/0d95396fdfb387d9ee8f3a0d1cc21011/profile?id=730076178&src=item"
+}

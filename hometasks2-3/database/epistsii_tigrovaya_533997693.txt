@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 533997693,
+  "seller": "Тамара Чайковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epistsii_tigrovaya_533997693",
+  "address": "Москва, м. Текстильщики",
+  "title": "Эписции тигровая",
+  "seller_link": "/user/17ce31b0a590f30d9676e7768a7ad72d/profile?id=533997693&src=item",
+  "text": "Эписция тигровая, есть 6шт.,\n",
+  "post_date": "  07 October в 17:32  "
+}

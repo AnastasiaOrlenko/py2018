@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Юго-Западная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_karasula_34726060",
+  "price": 900,
+  "seller": "Эдуард",
+  "post_date": "  08 October в 21:43  ",
+  "title": "Денежное дерево, карасула",
+  "text": "Смотрите фото, очень полезное растение. Молодое растение -900 р. Больше, чем на фото. Еще есть две красулы отдельно растущие в горшках высотой от10 до 15 см. 200 и 300 р.\n",
+  "index": 34726060,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/3216020d1384a9cff0b1245547ada172/profile?id=34726060&src=item"
+}

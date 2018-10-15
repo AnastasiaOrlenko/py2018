@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1329208158,
+  "title": "Шлюмбергера (декабрист) красный или жёлтый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shlyumbergera_dekabrist_krasnyy_ili_zheltyy_1329208158",
+  "seller": "Татьяна",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Южная",
+  "text": "Продам стаканчик с черенками декабриста, укорены во мху. Цветение сюрприз, может быть цветение: красный и жёлтый, или красный, или жёлтый, фото 5 и 6.\nЦена за весь стаканчик !!!\nПередам м. Чертановская или м. Южная после 19-00 ч.\n",
+  "post_date": "  6 октября в 19:43  ",
+  "seller_link": "/user/b57aa01cb35ee84cff56ad3c3c224ebc/profile?id=1329208158&src=item"
+}

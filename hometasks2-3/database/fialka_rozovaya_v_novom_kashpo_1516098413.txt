@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1516098413,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_rozovaya_v_novom_kashpo_1516098413",
+  "address": "Москва, м. Ботанический сад",
+  "title": "Фиалка розовая в новом кашпо",
+  "seller_link": "/user/cd79ec3f88a2f879f78f597ae76adda2/profile?id=1516098413&src=item",
+  "text": "Красивые 2-летние растения. В цвету. Вместе с кашпо. По 300 руб. Связь через Сообщения на Авито\n",
+  "post_date": "  07 October в 22:57  "
+}

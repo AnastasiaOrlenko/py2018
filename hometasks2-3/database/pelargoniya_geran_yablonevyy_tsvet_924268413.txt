@@ -1,0 +1,12 @@
+{
+  "price": 180,
+  "seller_status": "Компания",
+  "index": 924268413,
+  "title": "Пеларгония (Герань) Яблоневый цвет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_yablonevyy_tsvet_924268413",
+  "seller": "Зинаида",
+  "address": "Москва, м. Царицыно",
+  "text": "Продаю герань Яблоневый цвет,выращенную из семян,Цветки бледно-розовые,собраны в крупные шаровидные соцветия. .\n",
+  "post_date": "  5 октября в 17:12  ",
+  "seller_link": "/user/5c79916a33c6e75b1eaef54d13da0fec/profile?id=924268413&src=item"
+}

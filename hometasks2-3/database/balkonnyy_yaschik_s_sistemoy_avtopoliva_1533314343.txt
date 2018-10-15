@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Частное лицо",
+  "index": 1533314343,
+  "title": "Балконный ящик с системой автополива",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/balkonnyy_yaschik_s_sistemoy_avtopoliva_1533314343",
+  "seller": "Стейн",
+  "address": "Москва, м. Академическая",
+  "text": "Балконный ящик с системой автополива EMSA LAGO\nТемно-серый. 100*22*18см. В хорошем состоянии.\n",
+  "post_date": "  6 октября в 13:26  ",
+  "seller_link": "/user/8c0d17427fe699b7ae122cd007902d55/profile?id=1533314343&src=item"
+}

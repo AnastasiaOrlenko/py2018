@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кунцевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1685629802",
+  "price": 100,
+  "seller": "Ирина",
+  "post_date": "  08 October в 18:42  ",
+  "title": "Фиалки",
+  "text": "Фиалки детки сортовые\n",
+  "index": 1685629802,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/b141c6aa5afe5d83d23f4d09ff0617dd/profile?id=1685629802&src=item"
+}

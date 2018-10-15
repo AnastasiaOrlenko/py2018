@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сокол",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1086621606",
+  "price": 150,
+  "seller": "irina",
+  "post_date": "  08 October в 18:25  ",
+  "title": "Каланхоэ",
+  "text": "Лечебные свойства цветка: хорошее средство от насморка, полоскание разведенным в воде соком хорошо помогает при воспалении горла, примочки из мякоти листьев помогают быстрее заживить раны.\n",
+  "index": 1086621606,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/f02dc7568e2aac0cbfbcec8db18c532b/profile?id=1086621606&src=item"
+}

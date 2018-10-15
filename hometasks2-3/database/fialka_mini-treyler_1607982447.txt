@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1607982447,
+  "title": "Фиалка мини-трейлер",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_mini-treyler_1607982447",
+  "seller": "Ирина Кирсанова",
+  "address": "Москва, м. Коломенская",
+  "text": "Фиалка мини-трейлер Rob,s Boolaroo, цветет.\n",
+  "post_date": "  5 октября в 12:21  ",
+  "seller_link": "/user/01e4f59d9e20b046384964189305328c/profile?id=1607982447&src=item"
+}

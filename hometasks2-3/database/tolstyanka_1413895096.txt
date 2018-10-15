@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1413895096,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1413895096",
+  "address": "Москва, м. Текстильщики",
+  "title": "Толстянка",
+  "seller_link": "/user/f079c9d8283d27590053eecfe9b204f9/profile?id=1413895096&src=item",
+  "text": "Денежное дерево\n",
+  "post_date": "  07 October в 22:29  "
+}

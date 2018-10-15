@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 933270658,
+  "title": "Сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_933270658",
+  "seller": "светлана",
+  "address": "Москва, м. ВДНХ",
+  "text": "Вместе посажены отростки сингониума 2х видов : 1 отросток Imperial white и два ножколистный.\n",
+  "post_date": "  5 октября в 13:45  ",
+  "seller_link": "/user/31d352c55dc2018b1acfcc1610d1082e/profile?id=933270658&src=item"
+}

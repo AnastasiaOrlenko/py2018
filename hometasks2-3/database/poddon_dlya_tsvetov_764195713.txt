@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 764195713,
+  "title": "Поддон для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/poddon_dlya_tsvetov_764195713",
+  "seller": "Не компания",
+  "seller-contact": "Лана",
+  "address": "Москва, м. Марьина Роща",
+  "text": "Поддон широкий для цветов. Старая цена - 2,70 руб.\n",
+  "post_date": "  07 October в 12:17  ",
+  "seller_link": "/user/267b3b5a4dd4f3f6491917d61acedf39/profile?id=764195713&src=item"
+}

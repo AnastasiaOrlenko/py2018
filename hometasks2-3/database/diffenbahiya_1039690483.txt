@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1039690483,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1039690483",
+  "seller": "Ирина",
+  "address": "Москва, м. Домодедовская",
+  "text": "Молодое растение. Неприхотлива. Растёт даже при электрическом освещении.\n",
+  "post_date": "  6 октября в 16:40  ",
+  "seller_link": "/user/7be240fab10eed710c2c4f64e37c4b70/profile?id=1039690483&src=item"
+}

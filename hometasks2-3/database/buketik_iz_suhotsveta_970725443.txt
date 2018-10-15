@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Шаболовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buketik_iz_suhotsveta_970725443",
+  "price": 150,
+  "seller": "Маргарита",
+  "post_date": "  08 October в 22:41  ",
+  "title": "Букетик из сухоцвета",
+  "text": "продается без вазочки и бабочки,возможна продажа с вазой и бабочкой,по договоренности\n",
+  "index": 970725443,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/934ccb5c9493ac14ad755b5ad4d3fe15/profile?id=970725443&src=item"
+}

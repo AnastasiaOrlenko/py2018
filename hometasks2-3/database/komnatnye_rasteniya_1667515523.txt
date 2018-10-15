@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. ЦСКА",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_1667515523",
+  "seller_status": "Частное лицо",
+  "title": "Комнатные растения",
+  "post_date": "  08 October в 12:16  ",
+  "price": 150,
+  "index": 1667515523,
+  "seller_link": "/user/2f0b37c181c8466c72d1f6053ffa5d3a/profile?id=1667515523&src=item",
+  "text": "Продаю комнатные растения и кактусы.Стоимость отростка 150 рублей\n"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Пятницкое шоссе",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_conny_1556426696",
+  "price": 350,
+  "seller": "Елена",
+  "post_date": "  08 October в 14:59  ",
+  "title": "Пеларгония Conny",
+  "text": "Укоренённый черенок\n",
+  "index": 1556426696,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/d269fcb169618cbaa47d28132ae63943/profile?id=1556426696&src=item"
+}

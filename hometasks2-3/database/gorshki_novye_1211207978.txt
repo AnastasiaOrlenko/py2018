@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1211207978,
+  "title": "Горшки новые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_novye_1211207978",
+  "seller": "А",
+  "address": "Москва, м. Солнцево",
+  "text": "Продам 2 новых горшка,цена за оба,керамика.Район Солнцево, могу встретиться в метро.Возможен обмен на продукты питания, корм для кошек.\n",
+  "post_date": "  6 октября в 11:07  ",
+  "seller_link": "/user/feaf48c5a5ce2e563ea1a2d12132a48f/profile?id=1211207978&src=item"
+}

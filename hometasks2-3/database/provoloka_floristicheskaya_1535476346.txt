@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1535476346,
+  "title": "Проволока флористическая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/provoloka_floristicheskaya_1535476346",
+  "seller": "Денис Кулаков",
+  "address": "Москва, м. Сходненская",
+  "text": "Флористическая проволока. Цена за кг. В наличии 0,6 - 0,9 - 1,2мм.\n",
+  "post_date": "  5 октября в 23:26  ",
+  "seller_link": "/user/90213604563b983970a56562169780ab/profile?id=1535476346&src=item"
+}

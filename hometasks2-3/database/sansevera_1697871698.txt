@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1697871698,
+  "title": "Сансевьера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevera_1697871698",
+  "seller": "надежда",
+  "address": "Москва, м. Молодежная",
+  "text": "(щучий хвост)\n",
+  "post_date": "  5 октября в 16:35  ",
+  "seller_link": "/user/61ab67d4d696af7a8b87aef6946526e4/profile?id=1697871698&src=item"
+}

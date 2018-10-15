@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Аннино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pandanus_1250996185",
+  "price": 50,
+  "seller": "Vi",
+  "post_date": "  08 October в 16:17  ",
+  "title": "Панданус",
+  "text": "Панданус (винтовая пальма). В наличии 3 отростка (не укорененные). Продажа или обмен.\nСвязь только через чат Авито\n",
+  "index": 1250996185,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/8f4166cf1a1629031579235a227f7994/profile?id=1250996185&src=item"
+}

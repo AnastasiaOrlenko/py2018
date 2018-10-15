@@ -1,0 +1,13 @@
+{
+  "price": 90,
+  "seller_status": "Компания",
+  "index": 1052597300,
+  "title": "Пальма домашняя, традисканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_domashnyaya_tradiskantsiya_1052597300",
+  "seller": "не компания.",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Марьино",
+  "text": "Пальма - 200 Высота растения 40см. Традисканция - по 90 р за шт. В связи с переездом , объявление актуально еще несколько дней.\n",
+  "post_date": "  6 октября в 08:59  ",
+  "seller_link": "/user/f3a30915d8566707b42db4538147b6bb/profile?id=1052597300&src=item"
+}

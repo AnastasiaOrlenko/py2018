@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 950,
+  "index": 1438016672,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_golden_sean_baby_1438016672",
+  "address": "Москва, м. Пражская",
+  "title": "Орхидея фаленопсис Golden Sean baby",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1438016672&src=item",
+  "text": "Орхидея фаленопсис Golden Sean baby( ароматная) посадка мох, С ДЕТКОЙ! размер 3,5 . Производство Азия ( питомник Mikki orchid)\n",
+  "post_date": "  07 October в 16:14  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1028452547,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1028452547",
+  "seller": "Ekaterina Chubaeva",
+  "address": "Москва, м. Дубровка",
+  "text": "Состояние хорошее\n",
+  "post_date": "  07 October в 07:21  ",
+  "seller_link": "/user/2975874ac30ce6838e415a2df1651928/profile?id=1028452547&src=item"
+}

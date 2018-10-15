@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1574195634,
+  "title": "Молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1574195634",
+  "seller": "Евгения",
+  "address": "Москва, м. Щелковская",
+  "text": "Молочай \nМного молодых ростков готовых к пересадке\n",
+  "post_date": "  6 октября в 21:38  ",
+  "seller_link": "/user/d202650912de62a4695bb47273ffbe04/profile?id=1574195634&src=item"
+}

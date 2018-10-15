@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1043282437,
+  "title": "Смартпот Click Grow",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/smartpot_click_grow_1043282437",
+  "seller": "Максим",
+  "address": "Москва, м. Водный стадион",
+  "text": "Состояние идеальное.\n",
+  "post_date": "  5 октября в 18:48  ",
+  "seller_link": "/user/53ff59467a82c56598169dc7e0ed64c2/profile?id=1043282437&src=item"
+}

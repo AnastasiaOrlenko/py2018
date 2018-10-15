@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1134089362,
+  "seller": "Илья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sosna_bolshaya_i_sosny_malenkie_1134089362",
+  "address": "Москва, м. ВДНХ",
+  "title": "Сосна большая и сосны маленькие",
+  "seller_link": "/user/2df9228f8c563e250705b722f8d18ce0/profile?id=1134089362&src=item",
+  "text": "Сосны разной высоты.с дачного участка. Выросли сами. Большие сосны по 1000 руб. Маленькие по 100-200 руб. Доставлю маленькие. Большие самовывоз Щелковский район.\n",
+  "post_date": "  07 October в 14:56  "
+}

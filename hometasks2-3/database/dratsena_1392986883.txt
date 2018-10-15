@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1392986883,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1392986883",
+  "seller": "Анна",
+  "address": "Москва, м. Университет",
+  "text": "Продам в связи с отсутствием места!! Огромную пальму в горшке. Здоровая, ухоженная, примерно 1,5 метра.\n",
+  "post_date": "  5 октября в 22:42  ",
+  "seller_link": "/user/2d1cbca55db492f013faf58ee77f05e4/profile?id=1392986883&src=item"
+}

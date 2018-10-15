@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1171392144,
+  "title": "Фикус Бенджамина пестролистный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_pestrolistnyy_1171392144",
+  "seller": "Елена",
+  "address": "Москва, м. Волоколамская",
+  "text": "Самовывоз Митино, около Радиорынка.\nВысота - 100см\nС пластиковым горшком - 800р.\n",
+  "post_date": "  5 октября в 09:57  ",
+  "seller_link": "/user/47625ee4e7e676340258cde2ff4921dc/profile?id=1171392144&src=item"
+}

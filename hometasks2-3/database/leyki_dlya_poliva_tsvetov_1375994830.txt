@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Марксистская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/leyki_dlya_poliva_tsvetov_1375994830",
+  "seller-contact": "Марина",
+  "price": 300,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 17:37  ",
+  "title": "Лейки для полива цветов",
+  "text": "Лейки разных размеров\n",
+  "index": 1375994830,
+  "seller_status": "Компания",
+  "seller_link": "/user/484551008c5d4b2c257757b68de6d202/profile?id=1375994830&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Цветы красные\n",
+  "title": "Гибискус Китайская роза",
+  "price": 1999,
+  "index": 1524118969,
+  "address": "Москва, м. Кузьминки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kitayskaya_roza_1524118969",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:00  ",
+  "seller": "Ольга",
+  "seller_link": "/user/ff7e60cfe2d0364fb8d36f76b0c2cc32/profile?id=1524118969&src=item"
+}

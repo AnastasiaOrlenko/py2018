@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/1732e9f0a533761bceb72a99a1b11ac1/profile?id=1661172728&src=item",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_1661172728",
+  "post_date": "  08 October в 10:11  ",
+  "address": "Москва, м. Стрешнево",
+  "seller": "OOO \"РиК\"",
+  "text": "Большие цветы.Один в горшке,остальные так.Переезжаем.\n",
+  "index": 1661172728,
+  "seller_status": "Компания",
+  "price": 350,
+  "title": "Комнатные цветы"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_tolstyanka_1682010828",
+  "price": 1500,
+  "seller": "Ольга",
+  "post_date": "  08 October в 22:08  ",
+  "title": "Денежное дерево (толстянка)",
+  "text": "Высота растения 42см. Выращено с любовью, поэтому красивый внешний вид. Дереву 5-6лет. \nЗабирать метро Бабушкинская.\n",
+  "index": 1682010828,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/dac478d1e0f7877831eaacafc79c111c/profile?id=1682010828&src=item"
+}

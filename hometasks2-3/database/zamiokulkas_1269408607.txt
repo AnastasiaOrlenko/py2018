@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1269408607,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1269408607",
+  "seller": "Комнатные цветы",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Самовывоз. Торг уместен\n",
+  "post_date": "  6 октября в 11:36  ",
+  "seller_link": "/user/bfc2f5109b84ca034d110bc90a086513/profile?id=1269408607&src=item"
+}

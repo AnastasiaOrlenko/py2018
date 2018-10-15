@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 700,
+  "index": 1231641647,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1231641647",
+  "address": "Москва, м. Алма-Атинская",
+  "title": "Диффенбахия",
+  "seller_link": "/user/abb09cd914143d81fb6783c6457ba712/profile?id=1231641647&src=item",
+  "text": "Украсит любой уголок вашей квартиры, офиса, дома и т.д\n",
+  "seller-contact": "Ольга",
+  "post_date": "  07 October в 21:18  "
+}

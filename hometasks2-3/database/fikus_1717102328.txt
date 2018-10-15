@@ -1,0 +1,13 @@
+{
+  "price": 2600,
+  "seller_status": "Компания",
+  "index": 1717102328,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1717102328",
+  "seller": "Любовь. Звоните до 24:00",
+  "seller-contact": "Любовь",
+  "address": "Москва, м. Новогиреево",
+  "text": "ФИКУС\n112 см\nПишите в любое время\n",
+  "post_date": "  4 октября в 21:28  ",
+  "seller_link": "/user/ccaa8e9844a4fd23667acdd9f9cd0d57/profile?id=1717102328&src=item"
+}

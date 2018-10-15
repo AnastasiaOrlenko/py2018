@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 941042616,
+  "title": "Цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_941042616",
+  "seller": "Людмила",
+  "address": "Москва, м. Строгино",
+  "text": "Цветок\nВ ухоженном состоянии\nКак называется не знаю(((\n",
+  "post_date": "  07 October в 12:22  ",
+  "seller_link": "/user/317d5deb24eb322e2881ceccbc0e292f/profile?id=941042616&src=item"
+}

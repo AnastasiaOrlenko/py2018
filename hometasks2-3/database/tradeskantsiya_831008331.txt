@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 831008331,
+  "title": "Традесканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_831008331",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Традесканция комнатное растение в горшке.\nЧистит, увлажняет воздух.\n",
+  "post_date": "  5 октября в 08:55  ",
+  "seller_link": "/user/a7fbd1771049886f03e88cd6c1b8dcb8/profile?id=831008331&src=item"
+}

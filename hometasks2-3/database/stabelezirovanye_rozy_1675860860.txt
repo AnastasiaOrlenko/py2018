@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1675860860,
+  "title": "Стабелезированые розы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stabelezirovanye_rozy_1675860860",
+  "seller": "игорь",
+  "address": "Москва, м. Автозаводская",
+  "text": "Продажа стабилизированных роз, квин ,прайм,джейм писать воцап опт\n",
+  "post_date": "  5 октября в 20:53  ",
+  "seller_link": "/user/62b2a251929a01add75a9e4a412778e4/profile?id=1675860860&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 932061131,
+  "title": "Букет из сухоцветов алый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_suhotsvetov_alyy_932061131",
+  "seller": "Елена",
+  "address": "Москва, м. Площадь революции",
+  "text": "Мини букет-комплимент ярко-алого цвета для тех, кого вы любите ❤️\nВысота 20 см \nДоставка до любой станции метро бесплатно\n",
+  "post_date": "  4 октября в 22:56  ",
+  "seller_link": "/user/f8391b00cc24b296d501d9bad95688ef/profile?id=932061131&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 270,
+  "seller_status": "Компания",
+  "index": 963627712,
+  "title": "Ящики из фанеры размер :165*90*170 и 200*120*230",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaschiki_iz_fanery_razmer_16590170_i_200120230_963627712",
+  "seller": "woodfriends",
+  "seller-contact": "Сергей",
+  "address": "Москва, м. Ясенево",
+  "text": "Ящики из фанеры размер :165*90*170 и 200*120*230, большая каталог красок, доставка во все регионы РФ\n",
+  "post_date": "  6 октября в 00:30  ",
+  "seller_link": "/user/a1e9f1b1ec5e37dc5b5fae2fbd3cc3ff/profile?id=963627712&src=item"
+}

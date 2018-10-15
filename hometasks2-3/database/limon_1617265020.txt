@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1617265020,
+  "title": "Лимон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/limon_1617265020",
+  "seller": "Влад Костиков",
+  "address": "Москва, м. Медведково",
+  "text": "Продаю лимон в горшке, в высоту примерно 1 метр, без плодов. Самовывоз\n",
+  "post_date": "  6 октября в 13:56  ",
+  "seller_link": "/user/bbc8ae7eedd11129d4533fb3ec0aec07/profile?id=1617265020&src=item"
+}

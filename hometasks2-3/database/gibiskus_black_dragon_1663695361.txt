@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 1350,
+  "index": 1663695361,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_black_dragon_1663695361",
+  "address": "Москва, м. Новокосино",
+  "title": "Гибискус \"Black dragon\"",
+  "seller_link": "/user/91d6d47e84cf863893c798a5e8a8ec84/profile?id=1663695361&src=item",
+  "text": "Продам растение на фотографии 3. Цветение моего растения.\n",
+  "post_date": "  07 October в 17:17  "
+}

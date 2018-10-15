@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1306166367,
+  "title": "Традисканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradiskantsiya_1306166367",
+  "seller": "Анна",
+  "address": "Москва, м. Шипиловская",
+  "text": "Традисканция\n",
+  "post_date": "  6 октября в 11:15  ",
+  "seller_link": "/user/da997a6abee740b76d9f049477a02325/profile?id=1306166367&src=item"
+}

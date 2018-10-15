@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кантемировская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1565536738",
+  "price": 100,
+  "seller": "Ольга",
+  "post_date": "  08 October в 21:17  ",
+  "title": "Кактус",
+  "text": "Кактус укоренился. На втором фото родитель. Буду рада поменяться на другой кактус\n",
+  "index": 1565536738,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c683246e475571a8254696d2d52cbf80/profile?id=1565536738&src=item"
+}

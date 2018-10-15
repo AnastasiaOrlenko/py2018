@@ -1,0 +1,12 @@
+{
+  "price": 160,
+  "seller_status": "Частное лицо",
+  "index": 1441582408,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1441582408",
+  "seller": "Ирина",
+  "address": "Москва, м. Свиблово",
+  "text": "Фиалки цветущие сиреневые, фиолетовые и бледно розовые. Можно в подарок. Метро Свиблово.\n",
+  "post_date": "  4 октября в 21:31  ",
+  "seller_link": "/user/61da6465a7acc54554bac4fde2158f9f/profile?id=1441582408&src=item"
+}

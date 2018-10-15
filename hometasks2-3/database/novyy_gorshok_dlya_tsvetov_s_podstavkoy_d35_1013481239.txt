@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1013481239,
+  "title": "Новый горшок для цветов с подставкой d35",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novyy_gorshok_dlya_tsvetov_s_podstavkoy_d35_1013481239",
+  "seller": "Мила-ПО РЕКЛАМЕ НЕ БЕСПОКОИТЬ!",
+  "address": "Москва, м. Нагорная",
+  "text": "Новый пластиковый горшок для цветов Terra, диам. 35 см., 13 литров с подставкой.\nПОЧТОЙ НЕ ОТПРАВЛЯЮ!\nПО РЕКЛАМЕ НЕ БЕСПОКОИТЬ!\nЗвонки после 19.00 или whatsapp, viber, telegram или сообщения на авито.\n",
+  "post_date": "  6 октября в 14:05  ",
+  "seller_link": "/user/e559fd771085a5561f07b75b1879c4b6/profile?id=1013481239&src=item"
+}

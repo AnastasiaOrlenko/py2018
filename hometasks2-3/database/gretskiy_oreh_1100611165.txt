@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1100611165,
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gretskiy_oreh_1100611165",
+  "address": "Москва, м. Кантемировская",
+  "title": "Грецкий орех",
+  "seller_link": "/user/66e6e7236c5201f564364a694fe08eef/profile?id=1100611165&src=item",
+  "text": "Грецкий орех, 3 месяца, 30см\n",
+  "post_date": "  07 October в 18:43  "
+}

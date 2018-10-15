@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1529644075,
+  "title": "Антуриум \"мужской цветок\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_muzhskoy_tsvetok_1529644075",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Отросток антуриума от 15 см с корнями. Растение на фото 2, отдам в пластике с землей\n",
+  "post_date": "  5 октября в 15:07  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=1529644075&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Молодые циперусы",
+  "price": 300,
+  "seller": "Елена",
+  "seller_link": "/user/3c8c199fe93486407985b42546163cb4/profile?id=963836478&src=item",
+  "address": "Москва, м. Улица академика Янгеля",
+  "index": 963836478,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molodye_tsiperusy_963836478",
+  "text": "Циперус - легкий в выращивании цветок. Этим растениям пол года. Цена за одну штуку.\n",
+  "post_date": "  4 октября в 17:35  "
+}

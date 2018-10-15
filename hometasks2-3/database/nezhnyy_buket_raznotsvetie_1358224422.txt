@@ -1,0 +1,12 @@
+{
+  "text": "Матиола 5 эустома 2 альстрамерия 3 ирис 5 салал эвкалипт роза двумулия Бавария 1 Вероника 3\n",
+  "title": "Нежный букет разноцветие",
+  "price": 1700,
+  "index": 1358224422,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nezhnyy_buket_raznotsvetie_1358224422",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

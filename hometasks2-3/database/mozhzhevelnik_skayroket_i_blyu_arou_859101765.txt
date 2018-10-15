@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3500,
+  "index": 859101765,
+  "seller": "евгений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mozhzhevelnik_skayroket_i_blyu_arou_859101765",
+  "address": "Москва, м. Выхино",
+  "title": "Можжевельник Скайрокет и Блю Ароу",
+  "seller_link": "/user/33be6318a51ba67fe331cb2d5f9ea0b3/profile?id=859101765&src=item",
+  "text": "Можжевельник Скайрокет и Блю Арроу 2-2.5м .\n",
+  "post_date": "  07 October в 12:49  "
+}

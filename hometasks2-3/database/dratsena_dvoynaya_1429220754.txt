@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1429220754,
+  "title": "Драцена двойная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_dvoynaya_1429220754",
+  "seller": "Частное лицо.",
+  "address": "Москва, м. Бауманская",
+  "text": "Цена если купить 3 шт 3000 руб.\nЕсли купить по штучно, цена от 1600 руб.\n",
+  "post_date": "  4 октября в 20:02  ",
+  "seller_link": "/user/9957c12e866d60a61a1fb68d6db15527/profile?id=1429220754&src=item"
+}

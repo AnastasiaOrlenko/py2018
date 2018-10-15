@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mandarin_rastenie_1480892094",
+  "seller-contact": "Галина Анатольевна",
+  "price": 320,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:48  ",
+  "title": "Мандарин растение",
+  "text": "Растение мандарин 3 года. Выращено из косточек мандаринов, купленных в Москве. Адаптирован для внутренних помещений. Два растения в комплекте.\n",
+  "index": 1480892094,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1480892094&src=item"
+}

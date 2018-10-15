@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1561500870,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_cv_michele_mb1_255_cherenki_1561500870",
+  "address": "Москва, м. Достоевская",
+  "title": "Хойя cv michele mb1 255 черенки",
+  "seller_link": "/user/1b25e337a97b1617eb14e55a9d2d0d32/profile?id=1561500870&src=item",
+  "text": "черенки хойи cv michele mb1 255 быстро растущая американка -это verticillata laos и acuta albomarginata сплеш великолепный лист глянцевый для сплеша не надо яркого света на 1-2 фото родитель у меня ещё не цвела\n5-черенок с 2 листами и 3 узла сверху безлистные-5500р\n6-черенок с одним листом и проснувшаяся растущая почка слева на фото-2500р\n черенок kamuki-большой растёт -продан\n черенок хойи macgillvrayi-большой растет -продан\nсвязь через сообщение на авито\n",
+  "post_date": "  07 October в 15:11  "
+}

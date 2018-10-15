@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1700419764,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/euharis_amazonskaya_liliya_1700419764",
+  "address": "Москва, м. Университет",
+  "title": "Эухарис амазонская лилия",
+  "seller_link": "/user/0c58a7972ef49ed83765b9071c299dc3/profile?id=1700419764&src=item",
+  "text": "Комнатное луковичное растение. Цветы схожи с цветами нарцисса. Продолжительность цветения месяца три. При должном уходе цветёт каждый год.\n",
+  "post_date": "  07 October в 20:03  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 550,
+  "seller_status": "Компания",
+  "index": 1236774379,
+  "title": "Бегония Belleconia Soft Orange и Belleconia Cream",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_belleconia_soft_orange_i_belleconia_cream_1236774379",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Продаю излишки от своих растений. Посаженные весной черенки хорошо разрослись и цветут.. При желании можно укоренить пару-тройку черенков. Сорта очень красивые, нарядные. грунт свежий, не требуется пересадка и перевалка.Fragrant Falls Lemon (300 руб),Bellecona Soft Orange, Bellicona Cream (продано), Solenia Apricot (300 руб), Bellina Apricot.\n",
+  "post_date": "  5 октября в 22:37  ",
+  "seller_link": "/user/1641c725cb3e69cdeac5930078fc6818/profile?id=1236774379&src=item"
+}

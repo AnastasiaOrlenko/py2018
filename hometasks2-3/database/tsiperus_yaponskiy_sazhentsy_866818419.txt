@@ -1,0 +1,12 @@
+{
+  "title": "Циперус японский, саженцы",
+  "price": 50,
+  "seller": "Елена",
+  "seller_link": "/user/3c8c199fe93486407985b42546163cb4/profile?id=866818419&src=item",
+  "address": "Москва, м. Улица академика Янгеля",
+  "index": 866818419,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiperus_yaponskiy_sazhentsy_866818419",
+  "text": "Саженцы японского циперуса, вырастает высоким и большим, как на заднем плане фотографии.\n",
+  "post_date": "  4 октября в 17:35  "
+}

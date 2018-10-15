@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1350122828,
+  "title": "Замиокулькас большой и маленький",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_bolshoy_i_malenkiy_1350122828",
+  "seller": "Вячеслав",
+  "seller-contact": "собственник",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "Продам Замиакулькас большой 2600\n",
+  "post_date": "  6 октября в 02:17  ",
+  "seller_link": "/user/7e8c788581f7f91e943f91dc017ddeca/profile?id=1350122828&src=item"
+}

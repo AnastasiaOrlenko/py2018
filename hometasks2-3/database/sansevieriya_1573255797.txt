@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1573255797,
+  "seller": "Евгения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1573255797",
+  "address": "Москва, м. Войковская",
+  "title": "Сансевиерия",
+  "seller_link": "/user/1dee8f3152208074170951191a1ae7bd/profile?id=1573255797&src=item",
+  "text": "Растение с горшком.\n",
+  "post_date": "  07 October в 13:21  "
+}

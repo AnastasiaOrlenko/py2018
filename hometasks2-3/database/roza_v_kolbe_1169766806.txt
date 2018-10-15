@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1169766806,
+  "title": "Роза в колбе",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_1169766806",
+  "seller": "игорь",
+  "address": "Москва, м. Автозаводская",
+  "text": "Роза в колбе опт от 650 руб, писать воцап, любые цвета любые размеры ,оптовые продажи\n",
+  "post_date": "  07 October в 09:34  ",
+  "seller_link": "/user/62b2a251929a01add75a9e4a412778e4/profile?id=1169766806&src=item"
+}

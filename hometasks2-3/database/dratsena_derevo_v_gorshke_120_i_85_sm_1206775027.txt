@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/b28c96e40991c24240728ab1819f8de3/profile?id=1206775027&src=item",
+  "seller-contact": "Всё своё",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_derevo_v_gorshke_120_i_85_sm_1206775027",
+  "post_date": "  08 October в 09:45  ",
+  "address": "Москва, м. Профсоюзная",
+  "seller": "Не компания",
+  "text": "Две драцены, высота 120 и 85 см. Большая 1200 руб., маленькая 700.\n",
+  "index": 1206775027,
+  "seller_status": "Компания",
+  "price": 700,
+  "title": "Драцена дерево в горшке 120 и 85 см"
+}

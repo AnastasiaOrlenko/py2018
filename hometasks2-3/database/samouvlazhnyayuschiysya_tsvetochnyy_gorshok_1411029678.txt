@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1411029678,
+  "title": "Самоувлажняющийся цветочный горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/samouvlazhnyayuschiysya_tsvetochnyy_gorshok_1411029678",
+  "seller": "Александра",
+  "address": "Москва",
+  "text": "Самоувлажняющийся цветочный горшок из прочного пластика.\nРазмер: 20х20.\nЦвет: белый.\nПроизводитель: \"Plastia\".\nСтарина: Чехия.\n",
+  "post_date": "  4 октября в 22:31  ",
+  "seller_link": "/user/1d67eb917d4d312adf7510a9f62c1ac0/profile?id=1411029678&src=item"
+}

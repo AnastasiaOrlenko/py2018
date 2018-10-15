@@ -1,0 +1,12 @@
+{
+  "text": "Герберы, калы, розы, декор, упаковка\n",
+  "title": "Осенний букет",
+  "price": 2480,
+  "index": 1599183882,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/osenniy_buket_1599183882",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

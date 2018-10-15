@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Петровско-Разумовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klerodendrum_306397874",
+  "price": 200,
+  "seller": "Анна",
+  "post_date": "  08 October в 16:25  ",
+  "title": "Клеродендрум",
+  "text": "Укорененных пока нет, могу нарезать отростков.\n",
+  "index": 306397874,
+  "seller_status": "Компания",
+  "seller_link": "/user/67541c61ee17a3fd0a0ad077a71bcc3e/profile?id=306397874&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1384117631,
+  "title": "Фиалки (много, разные)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_mnogo_raznye_1384117631",
+  "seller": "Daria Polshchikova",
+  "address": "Москва, м. Профсоюзная",
+  "text": "Молодые фиалки. Белых - 3 штуки. Вишневых - 5 штук, должны быстро зацвести при рассадке, цветы достигают 5 см. У нас дома уже некуда ставить цветы, пусть кого-нибудь ещё порадуют!\n",
+  "post_date": "  5 октября в 21:24  ",
+  "seller_link": "/user/87f84fa5e97e0298c6b83ae147d531b6/profile?id=1384117631&src=item"
+}

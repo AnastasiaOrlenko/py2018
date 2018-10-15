@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1683982340,
+  "title": "Драцена.Дифенбахия.Спатифиллум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena.difenbahiya.spatifillum_1683982340",
+  "seller": "************",
+  "address": "Москва, м. Новогиреево",
+  "text": "Дифенбахия.спатифиллум.драцена.\n",
+  "post_date": "  4 октября в 23:35  ",
+  "seller_link": "/user/e6151ad3dd55ef8d4b8becd9b8d342b6/profile?id=1683982340&src=item"
+}

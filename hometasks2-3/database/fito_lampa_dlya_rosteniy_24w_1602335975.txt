@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Строгино",
+  "seller": "АНДРЕЙ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fito_lampa_dlya_rosteniy_24w_1602335975",
+  "seller_status": "Частное лицо",
+  "title": "Фито лампа для ростений 24w",
+  "post_date": "  08 October в 12:38  ",
+  "price": 800,
+  "index": 1602335975,
+  "seller_link": "/user/3ec4626b9addd6719e1867215aacbcdc/profile?id=1602335975&src=item",
+  "text": "Продаю фито лампу не понадобиласть\n"
+}

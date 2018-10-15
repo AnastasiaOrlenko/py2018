@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1703558163,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1703558163",
+  "seller": "Полина",
+  "address": "Москва, м. Кантемировская",
+  "text": "Алое, столетник, молодой.\n",
+  "post_date": "  6 октября в 17:49  ",
+  "seller_link": "/user/66e6e7236c5201f564364a694fe08eef/profile?id=1703558163&src=item"
+}

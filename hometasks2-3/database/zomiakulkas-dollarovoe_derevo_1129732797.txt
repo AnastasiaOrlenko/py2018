@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 1129732797,
+  "title": "Зомиакулькас-долларовое дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zomiakulkas-dollarovoe_derevo_1129732797",
+  "seller": "Марина",
+  "address": "Москва, м. Новокосино",
+  "text": "Высота растения вместе с кашпо 124 см\nВысота кашпо 54 см\nШирина кашпо 29 см\nТорг уместен.\n",
+  "post_date": "  5 октября в 10:40  ",
+  "seller_link": "/user/c9131e8bac59c311d4c38aca9be020d0/profile?id=1129732797&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 990,
+  "seller_status": "Частное лицо",
+  "index": 1320290499,
+  "title": "Аглаонема крит",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aglaonema_krit_1320290499",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 40см. Есть и другие размеры\n",
+  "post_date": "  07 October в 01:03  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1320290499&src=item"
+}

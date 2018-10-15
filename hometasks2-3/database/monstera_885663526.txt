@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 885663526,
+  "title": "Монстера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_885663526",
+  "seller": "Рита",
+  "address": "Москва, м. Фонвизинская",
+  "text": "Украсит ваш дом или офис\n",
+  "post_date": "  5 октября в 09:44  ",
+  "seller_link": "/user/d50a48a26d2593d5f0e47d15993007cd/profile?id=885663526&src=item"
+}

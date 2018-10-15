@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1084888425,
+  "title": "Удерживает ёлки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/uderzhivaet_elki_1084888425",
+  "seller": "Сергей",
+  "address": "Москва, м. Митино",
+  "text": "Декоративное удерживающие устройство\n",
+  "post_date": "  07 October в 00:15  ",
+  "seller_link": "/user/ed5235e9c998117cfa1ff107c354c57f/profile?id=1084888425&src=item"
+}

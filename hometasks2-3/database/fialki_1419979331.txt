@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Верхние Лихоборы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1419979331",
+  "price": 50,
+  "seller": "Алексей",
+  "post_date": "  08 October в 18:15  ",
+  "title": "Фиалки",
+  "text": "Предлагаются листья фиалки сортовой для укоренения. Цена за 3 листочка. На фото представлен образец цветения.\n",
+  "index": 1419979331,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/322bf4ab962c771891179cab118afe66/profile?id=1419979331&src=item"
+}

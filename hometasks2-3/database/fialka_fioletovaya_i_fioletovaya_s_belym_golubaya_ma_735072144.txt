@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 735072144,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_fioletovaya_i_fioletovaya_s_belym_golubaya_ma_735072144",
+  "address": "Москва, м. Бибирево",
+  "title": "Фиалка фиолетовая и фиолетовая с белым, голубая ма",
+  "seller_link": "/user/ed11718e1c31cf9a7964ad3ff9666f9a/profile?id=735072144&src=item",
+  "text": "Можно укорененные детки за 150р. Листик 50р. Цена за цветок без горшка.\n",
+  "post_date": "  07 October в 22:30  "
+}

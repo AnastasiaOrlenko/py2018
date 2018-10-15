@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Фаилка разрослась.\nОтдаю в дар. Или меняю на другого вида. \n2 куста.\n",
+  "index": 1583389496,
+  "title": "Фиалка в дар",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_v_dar_1583389496",
+  "seller": "Николай",
+  "address": "Москва, м. Тульская",
+  "post_date": "  6 октября в 11:47  ",
+  "seller_link": "/user/0593229eec09a08ceabd59b8aa8c424f/profile?id=1583389496&src=item"
+}

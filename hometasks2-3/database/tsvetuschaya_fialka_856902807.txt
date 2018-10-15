@@ -1,0 +1,12 @@
+{
+  "text": "Цвет светло-сиреневый, молодая.\n",
+  "title": "Цветущая фиалка",
+  "price": 150,
+  "index": 856902807,
+  "address": "Москва, м. Октябрьское поле",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetuschaya_fialka_856902807",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:48  ",
+  "seller": "татьяна",
+  "seller_link": "/user/87a87c0b181639d11ad85db6cf909348/profile?id=856902807&src=item"
+}

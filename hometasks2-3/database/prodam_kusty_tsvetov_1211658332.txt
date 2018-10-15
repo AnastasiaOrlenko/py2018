@@ -1,0 +1,12 @@
+{
+  "price": 55,
+  "seller_status": "Частное лицо",
+  "index": 1211658332,
+  "title": "Продам кусты цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_kusty_tsvetov_1211658332",
+  "seller": "сергей",
+  "address": "Москва, м. Серпуховская",
+  "text": "4разных по55.cмотр все мои об.\n",
+  "post_date": "  6 октября в 17:15  ",
+  "seller_link": "/user/41b91bded2994a1e09e56d148419bc2f/profile?id=1211658332&src=item"
+}

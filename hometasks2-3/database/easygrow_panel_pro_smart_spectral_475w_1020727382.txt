@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 30000,
+  "index": 1020727382,
+  "seller": "Аркадий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/easygrow_panel_pro_smart_spectral_475w_1020727382",
+  "address": "Москва, м. Кунцевская",
+  "title": "EasyGrow Panel Pro Smart Spectral 475W",
+  "seller_link": "/user/52d98f0324eb5dbe5d6060c34ccfa344/profile?id=1020727382&src=item",
+  "text": "EasyGrow Panel Pro Smart Spectral 475W \nЛед/led светильник\nвозможно настраивать режимы и часы работы\n",
+  "post_date": "  07 October в 22:14  "
+}

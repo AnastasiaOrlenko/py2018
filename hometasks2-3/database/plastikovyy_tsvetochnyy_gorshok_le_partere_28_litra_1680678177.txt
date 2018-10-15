@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1680678177,
+  "title": "Пластиковый цветочный горшок Le Partere 2,8 литра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plastikovyy_tsvetochnyy_gorshok_le_partere_28_litra_1680678177",
+  "seller": "Виктория",
+  "address": "Москва, м. Тушинская",
+  "text": "Горшок с возможностью прикорневого полива, Le Partere цвета \"графит\", объем - 2,8 литра, высота - 17 см, диаметр - 19 см.\n",
+  "post_date": "  6 октября в 18:33  ",
+  "seller_link": "/user/194b5d4e2f50d674cfadc51287c483c0/profile?id=1680678177&src=item"
+}

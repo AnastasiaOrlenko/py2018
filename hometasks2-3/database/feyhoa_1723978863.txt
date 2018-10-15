@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1723978863,
+  "title": "Фейхоа",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/feyhoa_1723978863",
+  "seller": "Дина",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Фейхоа из семян. Цветет и плодоносит. Неприхотливое в уходе растение. Высота приблизительно 12-14 см. В наличии 7 шт.\n",
+  "post_date": "  6 октября в 09:56  ",
+  "seller_link": "/user/0157d94f4f6bfa4fa522d4ae7544e52f/profile?id=1723978863&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Горшки цветочные керамика/пластик",
+  "price": 100,
+  "seller": "Людмила",
+  "seller_link": "/user/1a80caea279b7355424598ac1fe8db0b/profile?id=1597709649&src=item",
+  "address": "Москва, м. Строгино",
+  "index": 1597709649,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_tsvetochnye_keramikaplastik_1597709649",
+  "text": "Большой цветочный горшок с поддоном (керамика). Цвет - слоновая кость, краска местами облупилась. - 500р\n2 Пластиковых горшка с поддоном D-230мм. Цвет белый - 100р.\n",
+  "post_date": "  4 октября в 18:17  "
+}

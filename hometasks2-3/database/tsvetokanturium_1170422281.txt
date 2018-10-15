@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1170422281,
+  "title": "Цветок\"Антуриум\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetokanturium_1170422281",
+  "seller": "Надежда",
+  "address": "Москва, м. Первомайская",
+  "text": "Фото реальное. Цветок цветёт\n",
+  "post_date": "  07 October в 01:24  ",
+  "seller_link": "/user/2f217da481eb4bf044f8396ff8341d0f/profile?id=1170422281&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1423178452,
+  "title": "Букет с цветами, орехами, сухофруктами, фруктами",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_s_tsvetami_orehami_suhofruktami_fruktami_1423178452",
+  "seller": "Съедобный букет",
+  "address": "Москва, м. Марьино",
+  "text": "Составлю букет, корзину, композицию с любым наполнением.\nДелаю исходя из Вашего бюджета и по Вашим пожеланиям \nОбращайтесь ))\n",
+  "post_date": "  5 октября в 08:50  ",
+  "seller_link": "/user/3ad7221ddc9831ec6858ec173a0c3398/profile?id=1423178452&src=item"
+}

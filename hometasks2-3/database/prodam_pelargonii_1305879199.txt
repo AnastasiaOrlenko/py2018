@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1305879199,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_pelargonii_1305879199",
+  "address": "Москва, м. Орехово",
+  "title": "Продам пеларгонии",
+  "seller_link": "/user/a720683fb9a2c89211f93acd63b31161/profile?id=1305879199&src=item",
+  "text": "РАСПРОДАЖА ПЕЛАРГОНИЙ С 01.10 по 12.10 ВСЕ ЧЕРЕНКИ ПО 150Р, ЕСЛИ НЕ НАПИСАНО ИНОЕ \nЗОНАРТИК\nU.Z. Diva 2000р \nРОЗЕБУД\nWedding Royale 250р\nTrondhjem (цветет) 250р\nЗОНАЛЬНАЯ\nSaga 300р бронь, есть еще\nРОССИЙСКАЯ СЕЛЕКЦИЯ\nШелк Куколка (новинка) 2800р бронь, есть еще одна\nШелк Ракушка (новинка, оригинальный, единственный в своем роде лист) 3300р бронь, есть еще один\nШелк Маркиза (новинка) 2500р, бронь есть еще одна\nИВ-Скромница 300р\nИВ Любава 300р\nЖЕЛТОЦВЕТКОВЫЕ\nFrench Vanilla 400р\nCreamery 350р\nПЛЮЩЕЛИСТНАЯ\nPAC Viva Carolina 150р\nIci Rose 150р\nРАСПРОДАЖА ВСЕ ПО 150Р\nCharmay Snowflurry (пестролистная, душистая) 100р, 150р\nMisterioso (королевская) \nCaroline Schmidt (пестролистная)\np. elongatum (видовая, пестролистная)\nPAC Angeleyes Orange (пахнет морковкой)\nIci Rose (плющелистная)\nPygmalion бронь, есть еще один\nPaul West (баклажановые листья и абсолютная неприхотливость) бронь, есть еще один\nPotter Heigham (махровая карликовая)\nCristal Palace Gem (пестролистность бабочки) \nMangles Variegated (пестролистность бабочки) бронь, есть еще\nDistinction (оригинальная пестролистность) бронь, есть еще одна\nPlatinum (красивый, кленовый листик с белой окантовкой) черенок\nDovepoint\nPAC Mosaik Pink (цветет)\nClaire (очень милый и нежный)\nERAs Silva\nOdensjo Himmingbirds Egg Butterfly \nP. crispum 'Variegatum' (пестролистная, крупная) бронь\nRosa Della Sera\nСРЕЗКА \nApril Snow 50р\nSunstar Salmon 50р, маточник 200р\nЮГ- Шукар 50р\nШелк Зайка 50р\nШелк Лагуна 100р\nЯР Самарканд 100р\nGazelle (пестролистность бабочки) 50р\nVictoria Andrea (тюльпанка) 100р\nDeacon Moonlight (холодный розовый цвет) н/у черенок 50р, маточник 150р\nNorrland (клон зацветающий с черенка) 100р, маточник 350\nSomething Else 50р\nMoulin Rouge DZ 100р\nKarleks 50р\nDR Westerlund (душистый, видовой) 50р, маточник 150р\nDylan Cherone 50р\nOdensjo Mathilda 50р, маточник 150р\nDagmar Murray 50р, маточник 150р\n",
+  "post_date": "  07 October в 20:40  "
+}

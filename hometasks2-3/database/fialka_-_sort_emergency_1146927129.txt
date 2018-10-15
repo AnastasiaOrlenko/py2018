@@ -1,0 +1,12 @@
+{
+  "title": "Фиалка - сорт Emergency",
+  "price": 30,
+  "seller": "Алёна",
+  "seller_link": "/user/7ce6d64ecd5b00fa79c1310ec3059e77/profile?id=1146927129&src=item",
+  "address": "Москва, м. Каширская",
+  "index": 1146927129,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_emergency_1146927129",
+  "text": "Фиалки - сорт Emergency. \n(черенки - 30 руб., детки, стартеры, взрослые). \nЕсть другие сорта.\n",
+  "post_date": "  4 октября в 17:29  "
+}

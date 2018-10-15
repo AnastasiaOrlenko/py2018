@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/21e826b0b99118167f3edbad3845487a/profile?id=1279178409&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1279178409",
+  "post_date": "  08 October в 09:22  ",
+  "address": "Москва, м. Шипиловская",
+  "seller": "Виктория",
+  "text": "Драцена-высота растения 1 метр, Мадагаскарская пальма-высота 1метр 20см\n",
+  "index": 1279178409,
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "title": "Драцена"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 90,
+  "index": 709238692,
+  "seller": "Александр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udlinitel_dlya_tsvetov_709238692",
+  "address": "Москва, м. Улица Горчакова",
+  "title": "Удлинитель для цветов",
+  "seller_link": "/user/69ddd8b9b3d7e5fa302e88c2213adbdc/profile?id=709238692&src=item",
+  "text": "Пластиковый удлинитель для цветов-19шт\n",
+  "post_date": "  07 October в 20:52  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Шаболовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plagron_alga_bloom_1_litr_987399391",
+  "price": 980,
+  "seller": "Константин",
+  "post_date": "  08 October в 18:34  ",
+  "title": "Plagron Alga Bloom (1 литр)",
+  "text": "Продаю удобрение для цветения PLAGRON Alga Bloom (1 литр)\nНе вскрывалось (контроль вскрытия сохранён)\nЖелательно использовать в течении 6 мес\nВместе с ним отдам остатки Green Sensation (50 мл) и Bud Candy (около 200 мл) их желательно использовать в течении (3-4 мес)\nВ случае если телефон не отвечает, напишите SMS со словом \"Авито\" и я обязательно вам перезвоню.\n",
+  "index": 987399391,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/25dcd23a8f77ff84c58b5ba7c144d697/profile?id=987399391&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Волгоградский проспект",
+  "seller": "собственник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_1134365547",
+  "seller_status": "Частное лицо",
+  "title": "Золотой ус",
+  "post_date": "  08 October в 13:54  ",
+  "price": 600,
+  "index": 1134365547,
+  "seller_link": "/user/0e6eb5f07df93021d533cfd0fa0a8208/profile?id=1134365547&src=item",
+  "text": "продам золотой ус в связи с отьездом.Привезу к любому метро за 200руб.\n"
+}

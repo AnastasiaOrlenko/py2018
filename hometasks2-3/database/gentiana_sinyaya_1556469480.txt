@@ -1,0 +1,12 @@
+{
+  "price": 1100,
+  "seller_status": "Частное лицо",
+  "index": 1556469480,
+  "title": "Гентиана синяя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gentiana_sinyaya_1556469480",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 12д. Высота 35см\n",
+  "post_date": "  6 октября в 20:38  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1556469480&src=item"
+}

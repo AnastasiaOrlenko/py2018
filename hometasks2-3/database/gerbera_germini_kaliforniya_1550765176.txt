@@ -1,0 +1,12 @@
+{
+  "text": "Гербера, гермини, калифорния, альстромерия\n",
+  "title": "Гербера, гермини, калифорния",
+  "price": 1910,
+  "index": 1550765176,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gerbera_germini_kaliforniya_1550765176",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

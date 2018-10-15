@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/369d3920b2282df640fb887f8ae3bc01/profile?id=1694902310&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_pod_tsvety_2_sht_1694902310",
+  "post_date": "  08 October в 09:29  ",
+  "address": "Москва, м. Чертановская",
+  "seller": "anastasia",
+  "text": "Горшки под цветы с поддонами. В идеальном состоянии.\n",
+  "index": 1694902310,
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "title": "Горшок под цветы 2 шт"
+}

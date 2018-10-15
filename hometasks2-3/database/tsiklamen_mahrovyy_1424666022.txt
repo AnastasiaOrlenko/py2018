@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ховрино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiklamen_mahrovyy_1424666022",
+  "price": 200,
+  "seller": "Ольга",
+  "post_date": "  08 October в 18:18  ",
+  "title": "Цикламен махровый",
+  "text": "Цикламен махровый в горшочке\n",
+  "index": 1424666022,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/ccfbdf6beea7f6278016f1bae60e0695/profile?id=1424666022&src=item"
+}

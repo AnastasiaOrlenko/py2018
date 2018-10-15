@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1444994179,
+  "title": "Тёщин язык. Ном.1",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/teschin_yazyk._nom.1_1444994179",
+  "seller": "Наталья",
+  "address": "Москва, м. Выхино",
+  "text": "Высота с горшком - 66см\n",
+  "post_date": "  6 октября в 08:43  ",
+  "seller_link": "/user/36c169de5a2c0b72637ef15c5d59d9a4/profile?id=1444994179&src=item"
+}

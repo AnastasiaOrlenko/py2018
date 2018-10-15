@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1026134116,
+  "title": "Глоксиния + подарок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gloksiniya_podarok_1026134116",
+  "seller": "Александра",
+  "address": "Москва, м. Щукинская",
+  "text": "Большая глоксиния красного цвета, два ростка, вместе с горшком, в подарок отдам синюю с фото 3 и 4, уже скидывает листья к зиме\n",
+  "post_date": "  07 October в 10:50  ",
+  "seller_link": "/user/ce9371666150e9882b23b884bdccb045/profile?id=1026134116&src=item"
+}

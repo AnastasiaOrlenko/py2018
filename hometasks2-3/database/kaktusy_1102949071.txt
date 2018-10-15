@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1102949071,
+  "seller": "инна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_1102949071",
+  "address": "Москва, м. Речной вокзал",
+  "title": "Кактусы",
+  "seller_link": "/user/df1fe56055e48aafa27b0b912c55cd9d/profile?id=1102949071&src=item",
+  "text": "В широком горшке , как клумба\n",
+  "post_date": "  07 October в 17:52  "
+}

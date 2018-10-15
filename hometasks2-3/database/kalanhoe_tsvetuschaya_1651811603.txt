@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Селигерская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_tsvetuschaya_1651811603",
+  "price": 100,
+  "seller": "Анастасия",
+  "post_date": "  08 October в 18:37  ",
+  "title": "Каланхоэ цветущая",
+  "text": "Молодые отростки \nКрасного цвета\nЕсть каланхоэ лечебное, разных размеров; \nЕсть много разных отростков, отдаю недорого;\n",
+  "index": 1651811603,
+  "seller_status": "Компания",
+  "seller_link": "/user/977b219a628f9580f17e433603e0b8ee/profile?id=1651811603&src=item"
+}

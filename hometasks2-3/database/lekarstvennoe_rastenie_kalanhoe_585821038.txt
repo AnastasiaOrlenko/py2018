@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 585821038,
+  "title": "Лекарственное растение Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lekarstvennoe_rastenie_kalanhoe_585821038",
+  "seller": "нет",
+  "address": "Москва, м. Сокол",
+  "text": "Лекарственное растение Каланхоэ. В настоящее время растение больше высотой\n",
+  "post_date": "  6 октября в 15:55  ",
+  "seller_link": "/user/145ef74dacee3e5bd9c3b1e9f023b634/profile?id=585821038&src=item"
+}

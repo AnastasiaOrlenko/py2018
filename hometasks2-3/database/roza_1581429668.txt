@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1581429668,
+  "title": "Роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_1581429668",
+  "seller": "Oliga",
+  "address": "Москва, м. Ясенево",
+  "text": "Китайская роза 1,5 метра высоты. Цветёт 2 раза в год, цветок похож на пион\n",
+  "post_date": "  5 октября в 15:20  ",
+  "seller_link": "/user/0c35089ce30344c28b66791f3b224088/profile?id=1581429668&src=item"
+}

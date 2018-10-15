@@ -1,0 +1,12 @@
+{
+  "price": 45,
+  "seller_status": "Компания",
+  "index": 1158637731,
+  "title": "Цветы, растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_rasteniya_1158637731",
+  "seller": "Ольга",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Продаются растения алое, рэо, фиолетовая фиалка. Любое 45р, Забирать с Петрозаводской,5.\n",
+  "post_date": "  6 октября в 12:38  ",
+  "seller_link": "/user/ab1b1965bdd26666af10384b1cdf96c9/profile?id=1158637731&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Гортензия 1, эустома-9, эвкалипт 7, питасплриум 10, матиола 9, скобиоза 5, лимониум 2, астер 5, ирисы 10\n",
+  "title": "Гортензия букет",
+  "price": 4220,
+  "index": 1453735066,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_buket_1453735066",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

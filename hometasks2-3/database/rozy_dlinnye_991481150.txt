@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Рижская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_dlinnye_991481150",
+  "seller-contact": "Менеджер Екатерина",
+  "price": 9990,
+  "seller": "Btcflowers",
+  "post_date": "  08 October в 15:31  ",
+  "title": "Розы длинные",
+  "text": "Длинные розы высотой до 2 метров.\nДоставка от 2 часов. Букеты от 5 роз. Крупные бутоны.\nЦены уточняйте у менеджера!\nПришлем фото перед доставкой.\n Другие композиции смотрите ниже, сразу под объявлением или справа от фото, в нашем авито-магазине по ссылке btcflowers! \n",
+  "index": 991481150,
+  "seller_status": "Магазин",
+  "seller_link": "/dostavka-tsvetov?gdlkerfdnwq=101&shopId=100895"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1475382714,
+  "seller": "Гузель",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kitayskaya_roza_gibiskus_1475382714",
+  "address": "Москва, м. Южная",
+  "title": "Китайская роза (гибискус)",
+  "seller_link": "/user/32a0938cb02a5c4b765e7854156aa599/profile?id=1475382714&src=item",
+  "text": "Растения 40 см в высоту. Цветы крупные, темно вишневые (бардовые). Цветет с мая по сентябрь, неприхотлив. 2 растения.\n",
+  "post_date": "  07 October в 16:42  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1481258682,
+  "title": "Амазонская лилия эухарис (эвхарис)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amazonskaya_liliya_euharis_evharis_1481258682",
+  "seller": "Вера",
+  "address": "Москва, м. Цветной бульвар",
+  "text": "Продам амазонскую лилию Эухарис. Растению более 3 лет, выращено в домашних условиях из саженца без химии. Только отцвела первый раз.\n",
+  "post_date": "  6 октября в 14:12  ",
+  "seller_link": "/user/44bbc9b54547ac43553a4643349c50ee/profile?id=1481258682&src=item"
+}

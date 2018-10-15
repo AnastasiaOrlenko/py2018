@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1667484328,
+  "title": "Горшки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_1667484328",
+  "seller": "люба",
+  "address": "Москва, м. Парк Победы",
+  "text": "б\\у в хорошем состоянии\n",
+  "post_date": "  5 октября в 13:41  ",
+  "seller_link": "/user/0a666be2cb858e6a6140f0c737b66d9c/profile?id=1667484328&src=item"
+}

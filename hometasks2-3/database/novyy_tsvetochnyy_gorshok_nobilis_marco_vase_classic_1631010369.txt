@@ -1,0 +1,13 @@
+{
+  "price": 700,
+  "seller_status": "Компания",
+  "index": 1631010369,
+  "title": "Новый цветочный Горшок Nobilis Marco Vase Classic",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novyy_tsvetochnyy_gorshok_nobilis_marco_vase_classic_1631010369",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Саларьево",
+  "text": "цветочный Горшок Nobilis Marco Vase Classic\nХарактеристики\nМатериал\tПластик\nНазначение Для лиственных\nВысота 42 см\nДиаметр 28 см\nФорма\tВазон\nФактура\tсветло коричневая\nТип полива\tРучной полив\nТип использования Для дома, для улицы\nСтрана производитель Вьетнам\n",
+  "post_date": "  6 октября в 07:55  ",
+  "seller_link": "/user/9899e2449a8e9e2b9c9068329ce28b54/profile?id=1631010369&src=item"
+}

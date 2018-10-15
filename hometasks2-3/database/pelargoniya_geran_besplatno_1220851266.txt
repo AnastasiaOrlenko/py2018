@@ -1,0 +1,11 @@
+{
+  "seller_status": "Компания",
+  "text": "Отдам большую герань, кому надо. Бесплатно. Цвет бледно-розовый. Пересажена в свежую землю. Самовывоз с Хованской ул.\n",
+  "index": 1220851266,
+  "title": "Пеларгония герань бесплатно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_besplatno_1220851266",
+  "seller": "Надежда (не компания)",
+  "address": "Москва, м. ВДНХ",
+  "post_date": "  6 октября в 17:51  ",
+  "seller_link": "/user/e64b8150b880d56fc4a3acdd75d14283/profile?id=1220851266&src=item"
+}

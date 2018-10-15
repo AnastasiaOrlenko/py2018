@@ -1,0 +1,12 @@
+{
+  "price": 10,
+  "seller_status": "Частное лицо",
+  "index": 988916705,
+  "title": "Поддоны для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/poddony_dlya_tsvetov_988916705",
+  "seller": "Юлия",
+  "address": "Москва, м. Алтуфьево",
+  "text": "пластик 10р/шт\nдиаметр 10см - 51шт\nдиаметр 11см - 3 шт\nдиаметр 12см - 4 шт\nкерамика 12 см - 1 шт - 30р.\nСамовывоз м.Алтуфьево\n",
+  "post_date": "  4 октября в 18:59  ",
+  "seller_link": "/user/7ff886e93db76e01142efdd24d936c3a/profile?id=988916705&src=item"
+}

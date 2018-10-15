@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1130797971,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kaktusy_1130797971",
+  "address": "Зеленоград",
+  "title": "Кактусы",
+  "seller_link": "/user/2a8519e8da95608d993bdfeda770fcf5/profile?id=1130797971&src=item",
+  "text": "Кактус типа звездочки\n",
+  "post_date": "  07 October в 13:00  "
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 109561075,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_stoletnik_109561075",
+  "address": "Москва, м. Охотный ряд",
+  "title": "Алоэ (столетник)",
+  "seller_link": "/user/c8370204aec3bfa563f549bbf7b27c25/profile?id=109561075&src=item",
+  "text": "Высота ~ 1,5 м.\n",
+  "post_date": "  07 October в 23:48  "
+}

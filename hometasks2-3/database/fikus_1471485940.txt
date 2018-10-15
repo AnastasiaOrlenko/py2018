@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 1471485940,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1471485940",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Фикус в керамическом горшке.\n",
+  "post_date": "  5 октября в 08:55  ",
+  "seller_link": "/user/a7fbd1771049886f03e88cd6c1b8dcb8/profile?id=1471485940&src=item"
+}

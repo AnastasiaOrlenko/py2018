@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1648534177,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/myata_melissa_ukorenennoe_komnatnoe_rastenie_1648534177",
+  "address": "Москва, м. Ботанический сад",
+  "title": "Мята Мелисса укорененное комнатное растение",
+  "seller_link": "/user/cd79ec3f88a2f879f78f597ae76adda2/profile?id=1648534177&src=item",
+  "text": "Молодые укоренённые черенки Мелиссы, мяты перечной. 150 руб штучка. Рядом с метро. Связь через Сообщения на Авито\n",
+  "post_date": "  07 October в 22:57  "
+}

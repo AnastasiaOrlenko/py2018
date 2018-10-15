@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1236504667,
+  "title": "Инжир",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/inzhir_1236504667",
+  "seller": "Наталия",
+  "seller-contact": "Галина",
+  "address": "Москва, м. Выхино",
+  "text": "Продаю сеянцы инжира годовалые желтого цвета. (Большой не продается).\n",
+  "post_date": "  4 октября в 22:05  ",
+  "seller_link": "/user/5cdae5962a36b39ba3eaad21c033bfc0/profile?id=1236504667&src=item"
+}

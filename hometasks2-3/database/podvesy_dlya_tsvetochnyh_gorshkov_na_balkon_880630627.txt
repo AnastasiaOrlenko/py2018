@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 880630627,
+  "seller": "необходимые вещи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podvesy_dlya_tsvetochnyh_gorshkov_na_balkon_880630627",
+  "address": "Москва, м. Киевская",
+  "title": "Подвесы для цветочных горшков на балкон",
+  "seller_link": "/user/042505e2f9e0b438e8afb0f590ac3ce0/profile?id=880630627&src=item",
+  "text": "Подвесы для цветочных горшков на балкон, 2 штуки, цена за оба\nПожалуйста, всегда сначала пишите SMS.\n",
+  "post_date": "  07 October в 21:14  "
+}

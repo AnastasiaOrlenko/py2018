@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1512892858,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_schuchiy_hvost_1512892858",
+  "address": "Москва, м. Ботанический сад",
+  "title": "Сансевиерия (щучий хвост)",
+  "seller_link": "/user/cd79ec3f88a2f879f78f597ae76adda2/profile?id=1512892858&src=item",
+  "text": "Цена за взрослое растение с керамическим кашпо 350 руб. За 2 и более растений внутри одного кашпо 500 руб\nСвязь через Сообщения на на Авито\n",
+  "post_date": "  07 October в 22:58  "
+}

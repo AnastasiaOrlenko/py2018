@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1269871021",
+  "price": 200,
+  "seller": "Екатерина",
+  "post_date": "  08 October в 22:51  ",
+  "title": "Кактус",
+  "text": "Продам кактус\n",
+  "index": 1269871021,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/aec6899c795229d599d3a2b57cb1a86d/profile?id=1269871021&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3000,
+  "index": 1386751710,
+  "seller": "Владимир",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1386751710",
+  "address": "Москва, м. Новогиреево",
+  "title": "Замиокулькас",
+  "seller_link": "/user/4cb17ab61276544f1705d3ac6c83f968/profile?id=1386751710&src=item",
+  "text": "Продаёт домашний цветок Замиокулькас, возраст которого 5-6 лет, в связи с переездом некуда ставить, цветок неприхотливый.\n",
+  "post_date": "  07 October в 20:28  "
+}

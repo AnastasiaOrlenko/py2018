@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1406425558,
+  "title": "Семена панкриации прекрасной домашний цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semena_pankriatsii_prekrasnoy_domashniy_tsvetok_1406425558",
+  "seller": "Katrish",
+  "address": "Москва, м. Университет",
+  "text": "продам семена панкриации прекрасной или белой лилии, цветет очень красиво несколько раз в году каждая стрелка дает много бутонов запах нежнейший\n",
+  "post_date": "  5 октября в 08:16  ",
+  "seller_link": "/user/07f324ac0d767953234fd7cf4116c69e/profile?id=1406425558&src=item"
+}

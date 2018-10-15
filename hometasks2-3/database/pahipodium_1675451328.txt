@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/a883dd349247b7e8496412b91dcc0aae/profile?id=1675451328&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pahipodium_1675451328",
+  "post_date": "  08 October в 08:46  ",
+  "address": "Москва, м. Площадь Ильича",
+  "seller": "Галина Тимур",
+  "text": "Пахиподиум 55см ,цена без горшка\n",
+  "index": 1675451328,
+  "seller_status": "Частное лицо",
+  "price": 990,
+  "title": "Пахиподиум"
+}

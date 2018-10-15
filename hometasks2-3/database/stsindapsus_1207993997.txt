@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stsindapsus_1207993997",
+  "price": 500,
+  "seller": "Оксана",
+  "post_date": "  08 October в 16:11  ",
+  "title": "Сциндапсус",
+  "text": "Взрослое красивое неприхотливое зеленое растение сциндапсус\n",
+  "index": 1207993997,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/23973e98fccccd022a0cf7a6cf3f2e53/profile?id=1207993997&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 330,
+  "index": 1709109534,
+  "seller": "Юля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_i_kashpo_dlya_tsvetov_1709109534",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Горшки и кашпо для цветов",
+  "seller_link": "/user/34007ab7e0cd4b7335a2b29e254f93bf/profile?id=1709109534&src=item",
+  "text": "Продам кашпо для цветов лилия 120 мм. Все в одни руки 21-22 штуки разных цветов за 330 р\n",
+  "post_date": "  07 October в 15:30  "
+}

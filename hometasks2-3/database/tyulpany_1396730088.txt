@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1396730088,
+  "title": "Тюльпаны",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tyulpany_1396730088",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Домодедовская",
+  "text": "Тюльпаны попугайные из моей коллекции.\n✔ Фото N 1- 2 Monarch Parrot\n✔ Фото N 3 Muriel\n✔ Фото N 4 Parrot Lizen\n✔ Фото N 5 Parrot King\n✔ Фото N 6 Parrot Negrita\n✔ Фото N 7 Parrot Prince\n✔ Фото N 8 Rai\n✔ Фото N 9 Roccoco Double\n✔ Фото N 10 Sun Parrot\n✔Наличие в ограниченном количестве.\n✔ В другие города высылаю.\n",
+  "post_date": "  07 October в 09:28  ",
+  "seller_link": "/user/cb0828e1553f9433cb9959155afa8419/profile?id=1396730088&src=item"
+}

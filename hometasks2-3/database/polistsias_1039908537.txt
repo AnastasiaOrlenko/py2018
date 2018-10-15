@@ -1,0 +1,12 @@
+{
+  "text": "Продам взрослый полисциас, требуется формировка для красивого куста, у меня нет места для него. Высота около 50 см, не меньше.\n",
+  "title": "Полисциас",
+  "price": 400,
+  "index": 1039908537,
+  "address": "Москва, м. Борисово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polistsias_1039908537",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:54  ",
+  "seller": "Евгения",
+  "seller_link": "/user/30035705042befe8ce220a3b1cbe56d6/profile?id=1039908537&src=item"
+}

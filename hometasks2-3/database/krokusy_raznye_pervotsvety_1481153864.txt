@@ -1,0 +1,13 @@
+{
+  "price": 25,
+  "seller_status": "Компания",
+  "index": 1481153864,
+  "title": "Крокусы разные первоцветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krokusy_raznye_pervotsvety_1481153864",
+  "seller": "ч/л",
+  "seller-contact": "ТАня",
+  "address": "Москва, м. Жулебино",
+  "text": "Крим бьюти, блю перл. Жанна д, арк. Кинг оф страйпс. Крокус романас. Крокус смесь. В наличии более 50 штук. Хранить до весны в холодильнике или посадить в грунт до первых заморозков.\n",
+  "post_date": "  5 октября в 22:40  ",
+  "seller_link": "/user/90291b7c14beb0c1b4ddea6840b4be31/profile?id=1481153864&src=item"
+}

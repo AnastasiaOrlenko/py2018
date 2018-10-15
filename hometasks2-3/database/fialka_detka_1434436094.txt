@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1434436094,
+  "title": "Фиалка детка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_detka_1434436094",
+  "seller": "Александр Никитин",
+  "address": "Москва, м. Отрадное",
+  "text": "продается именно эта детка на фото (в коричневом горшке).\n",
+  "post_date": "  5 октября в 15:54  ",
+  "seller_link": "/user/14f30be6caca4f67aaf83872b036169b/profile?id=1434436094&src=item"
+}

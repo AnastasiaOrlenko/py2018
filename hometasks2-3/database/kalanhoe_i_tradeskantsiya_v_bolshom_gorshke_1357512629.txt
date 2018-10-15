@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1357512629,
+  "title": "Каланхоэ и традесканция в большом горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_i_tradeskantsiya_v_bolshom_gorshke_1357512629",
+  "seller": "Наталья",
+  "address": "Москва, м. Профсоюзная",
+  "text": "Каланхоэ цветет сейчас! Высота растения с горшком 50 см, высота горшка 18 см.\n",
+  "post_date": "  5 октября в 11:58  ",
+  "seller_link": "/user/b0d742dd5fb8bd7653541ebfaa31fe4c/profile?id=1357512629&src=item"
+}

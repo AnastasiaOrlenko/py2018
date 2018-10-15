@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1005161962,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1005161962",
+  "seller": "сергей",
+  "address": "Москва, м. Орехово",
+  "text": "Фикус в большом горшке высота куста 1.20\n",
+  "post_date": "  6 октября в 21:40  ",
+  "seller_link": "/user/9cf4180acd7d31cd6df4da34029d91f0/profile?id=1005161962&src=item"
+}

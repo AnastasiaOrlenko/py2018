@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1329287103,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gloksiniya_1329287103",
+  "address": "Москва, м. Авиамоторная",
+  "title": "Глоксиния",
+  "seller_link": "/user/50f952a9c4f5d26cc758c5d38874bff6/profile?id=1329287103&src=item",
+  "text": "Продаю детку такой глоксинии.\n",
+  "seller-contact": "Анастасия",
+  "post_date": "  07 October в 23:33  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 948469585,
+  "title": "Саженцы кизильника блестящего, дерена, бирючины",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_kizilnika_blestyaschego_derena_biryuchiny_948469585",
+  "seller": "Николай",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Кизильник блестящий 30-100 см. ОКС/ЗКСзкс\nНаходится в Рузском районе, возможна доставка и посадка.\nПроизводитель\n",
+  "post_date": "  07 October в 10:53  ",
+  "seller_link": "/user/414e5b48a912825a9036e5d73410bee4/profile?id=948469585&src=item"
+}

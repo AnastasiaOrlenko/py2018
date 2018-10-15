@@ -1,0 +1,12 @@
+{
+  "price": 120,
+  "seller_status": "Частное лицо",
+  "index": 1438917022,
+  "title": "Фиалки классические",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_klassicheskie_1438917022",
+  "seller": "Май",
+  "address": "Москва, м. Академическая",
+  "text": "Фиалки классические, 2 шт, начали цвести, продаются в простом пластиковом горшке с поддоном. 1 шт. - 120 р.\nМатеринский цветок на последнем фото.\n",
+  "post_date": "  6 октября в 13:31  ",
+  "seller_link": "/user/c00191d70fe1e1c060bff162a7e6ead4/profile?id=1438917022&src=item"
+}

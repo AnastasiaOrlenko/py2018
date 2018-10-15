@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Красные ворота",
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_mikrokarpa_bonsay_-120_sm_1016635987",
+  "seller_status": "Частное лицо",
+  "title": "Фикус Микрокарпа Бонсай -120 см",
+  "post_date": "  08 October в 14:23  ",
+  "price": 7000,
+  "index": 1016635987,
+  "seller_link": "/user/13f5be90815fc1f9259fce1c1920ebe9/profile?id=1016635987&src=item",
+  "text": "Фикус Микрокарпа Бонсай-120 см вместе большой глиняной вазой и поддоном..\n"
+}

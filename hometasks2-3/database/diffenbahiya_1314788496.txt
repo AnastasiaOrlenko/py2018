@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам (на обмен) большие черенки от взрослого растения, стоят в воде, дали корешки.\nЛучше писать здесь, на звонки не отвечаю.\n",
+  "index": 1314788496,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1314788496",
+  "seller": "Игорь",
+  "address": "Москва, м. Полянка",
+  "post_date": "  6 октября в 10:53  ",
+  "seller_link": "/user/c195eb953bf60f85184f9186fe9cdbb4/profile?id=1314788496&src=item"
+}

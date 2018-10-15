@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/iris_borodatyy_1508494801",
+  "price": 250,
+  "seller": "Татьяна",
+  "post_date": "  08 October в 20:45  ",
+  "title": "Ирис бородатый",
+  "text": "Ирис - высота 1м, цветок - крупный 15 см, легкий аромат, неприхотливый, выносит полутень.\n",
+  "index": 1508494801,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a750de62bf5c9a00a757df1086c2a819/profile?id=1508494801&src=item"
+}

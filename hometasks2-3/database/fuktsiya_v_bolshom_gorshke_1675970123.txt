@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1675970123,
+  "title": "Фукция в большом горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuktsiya_v_bolshom_gorshke_1675970123",
+  "seller": "Светлана Иванова",
+  "address": "Москва, м. Царицыно",
+  "text": "Растение хорошо растет 4 м длины для офиса\n",
+  "post_date": "  4 октября в 21:10  ",
+  "seller_link": "/user/d6561ded58bb466d62c46b6d008d14e5/profile?id=1675970123&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 1714046979,
+  "title": "Горшок керамический 33 диаметр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramicheskiy_33_diametr_1714046979",
+  "seller": "Олеся",
+  "address": "Москва, м. Менделеевская",
+  "text": "Горшок керамический большой с поддоном. 33диаметр. Без дефектов.\n",
+  "post_date": "  5 октября в 18:57  ",
+  "seller_link": "/user/1d1c101b179d4d181868eba45f227c74/profile?id=1714046979&src=item"
+}

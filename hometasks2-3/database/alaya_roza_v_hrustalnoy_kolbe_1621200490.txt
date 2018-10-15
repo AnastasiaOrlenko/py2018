@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сходненская",
+  "seller": "Elena",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/alaya_roza_v_hrustalnoy_kolbe_1621200490",
+  "seller_status": "Частное лицо",
+  "title": "Алая роза в хрустальной колбе",
+  "post_date": "  08 October в 11:41  ",
+  "price": 1000,
+  "index": 1621200490,
+  "seller_link": "/user/14783d013566dfa2818ff4770940386f/profile?id=1621200490&src=item",
+  "text": "Долговечная алая роза в хрустальной колбе, высота и диаметр колбы на ваше усмотрение.\n"
+}

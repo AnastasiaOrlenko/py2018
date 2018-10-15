@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица Горчакова",
+  "seller": "Гребенщикова Д.О.",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_komnatnoe_rastenie_1561172126",
+  "seller_status": "Частное лицо",
+  "title": "Продам комнатное растение",
+  "post_date": "  08 October в 13:43  ",
+  "price": 3000,
+  "index": 1561172126,
+  "seller_link": "/user/290b0ab556c8942b5f9acd44ff273b84/profile?id=1561172126&src=item",
+  "text": "продам растение шеффлера возраст 16 лет, рост дерева 1.80, здоровое, ухоженное, в горшке. самовывоз - Южное Бутово\n"
+}

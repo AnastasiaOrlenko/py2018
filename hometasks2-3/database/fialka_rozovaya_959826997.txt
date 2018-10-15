@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 959826997,
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_rozovaya_959826997",
+  "address": "Москва, м. Кузнецкий мост",
+  "title": "Фиалка розовая",
+  "seller_link": "/user/1eb76223efac3605849fa60f3ae506fe/profile?id=959826997&src=item",
+  "text": "Продаю фиалку розового цвета, без горшка\n",
+  "post_date": "  07 October в 16:38  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1396013202,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1396013202",
+  "seller": "МАРГАРИТА",
+  "address": "Москва, м. Щелковская",
+  "text": "Продам цветок.В высоту 65см.В пересадке не требуется.\n",
+  "post_date": "  5 октября в 14:31  ",
+  "seller_link": "/user/59765970b71c2e9b82d3ad97b61ae880/profile?id=1396013202&src=item"
+}

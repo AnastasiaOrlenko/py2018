@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1177980213,
+  "title": "Малина. Саженцы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/malina._sazhentsy_1177980213",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Комсомольская",
+  "text": "Продаю саженцы малины со своего участка\nКуст среднерослый, до 2,5 м. Зимостойкость, устойчивость к болезням и вредителям хорошая.\n",
+  "post_date": "  6 октября в 01:03  ",
+  "seller_link": "/user/996f92d433cb13c6879db4324d2461a4/profile?id=1177980213&src=item"
+}

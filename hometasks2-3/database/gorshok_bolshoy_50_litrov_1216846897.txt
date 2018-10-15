@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1216846897,
+  "title": "Горшок большой 50 литров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_bolshoy_50_litrov_1216846897",
+  "seller": "Антонина",
+  "address": "Москва, м. Третьяковская",
+  "text": "Горшок керамический,темно-зеленого цвета,с поддоном,высота горшка 35 см диаметр 38см\n",
+  "post_date": "  5 октября в 03:10  ",
+  "seller_link": "/user/7856daeca478cd4fdaeb8eeac89b8e20/profile?id=1216846897&src=item"
+}

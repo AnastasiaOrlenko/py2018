@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1704699272,
+  "title": "Каланхоэ (олений рог)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_oleniy_rog_1704699272",
+  "seller": "Юлия",
+  "address": "Москва, м. Молодежная",
+  "text": "Отростки. Самовывоз.\n",
+  "post_date": "  6 октября в 18:34  ",
+  "seller_link": "/user/8cf6b59dc6d44f8a9cbb9a4175258e5d/profile?id=1704699272&src=item"
+}

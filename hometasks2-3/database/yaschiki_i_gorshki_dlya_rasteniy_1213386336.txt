@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 1213386336,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaschiki_i_gorshki_dlya_rasteniy_1213386336",
+  "address": "Москва, м. Савеловская",
+  "title": "Ящики и горшки для растений",
+  "seller_link": "/user/5b95ad784c16797a892df182f03a061f/profile?id=1213386336&src=item",
+  "text": "См фото. Все за 500. Забирать ул Зелёная Химки\n",
+  "post_date": "  07 October в 22:48  "
+}

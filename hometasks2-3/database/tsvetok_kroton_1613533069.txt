@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1613533069,
+  "title": "Цветок кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_kroton_1613533069",
+  "seller": "Артём",
+  "address": "Москва, м. Печатники",
+  "text": "Домашний цветок кротон очень красиво, я сама растила в домашних условиях, подробности по телефону,\n",
+  "post_date": "  5 октября в 15:49  ",
+  "seller_link": "/user/335304604e5819365afbfd3d9354a979/profile?id=1613533069&src=item"
+}

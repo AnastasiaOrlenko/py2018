@@ -1,0 +1,12 @@
+{
+  "text": "Продаю молодые (100 руб) и взрослые (200 руб) фиалки в горшочках. Расскажу, как ухаживать.\n",
+  "title": "Продаю фиалки",
+  "price": 100,
+  "index": 1566394371,
+  "address": "Москва, м. Третьяковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodayu_fialki_1566394371",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 01:03  ",
+  "seller": "Дмитрий",
+  "seller_link": "/user/d067e1a02eb39cdbff321881b82bf38a/profile?id=1566394371&src=item"
+}

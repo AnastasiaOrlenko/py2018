@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 299,
+  "index": 1611777497,
+  "seller": "Ника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kitayskaya_roza_s_gorshkom_50_sm_1611777497",
+  "address": "Москва, м. Аннино",
+  "title": "Гибискус (Китайская роза) с горшком, 50 см",
+  "seller_link": "/user/b254a947a1734765066169d4ac576ae5/profile?id=1611777497&src=item",
+  "text": "Гибискус (Китайская роза) с горшком,высота 50 см.Самовывоз от м.Аннино,возможна встреча на другой станции метро по договоренности.\n",
+  "post_date": "  07 October в 16:18  "
+}

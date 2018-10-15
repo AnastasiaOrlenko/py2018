@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 1543178989,
+  "title": "Монстера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1543178989",
+  "seller": "Андрей",
+  "address": "Москва, м. Котельники",
+  "text": "Очень пышная и ухоженная. Один-два новых листка каждый месяц. Высота от пола - 140 см.\n",
+  "post_date": "  6 октября в 11:14  ",
+  "seller_link": "/user/7c172a893586a9acca852354ab07fc79/profile?id=1543178989&src=item"
+}

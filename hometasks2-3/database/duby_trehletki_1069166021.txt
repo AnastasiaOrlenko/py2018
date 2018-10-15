@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1069166021,
+  "title": "Дубы трехлетки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/duby_trehletki_1069166021",
+  "seller": "*",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "Дубы трехлетки, 2 штуки: 150см и 210см, крепкие, хорошо зимуют. Самовывоз 20км от мкад по Новориж.шоссе. 1500руб. за 2шт.\n",
+  "post_date": "  6 октября в 09:47  ",
+  "seller_link": "/user/034b08b2837c69d593d9a17a86f482db/profile?id=1069166021&src=item"
+}

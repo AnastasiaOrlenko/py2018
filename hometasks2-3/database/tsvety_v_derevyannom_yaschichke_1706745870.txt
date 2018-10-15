@@ -1,0 +1,12 @@
+{
+  "price": 1600,
+  "seller_status": "Магазин",
+  "index": 1706745870,
+  "title": "Цветы в деревянном ящичке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_v_derevyannom_yaschichke_1706745870",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Соответствует фото\n",
+  "post_date": "  6 октября в 22:42  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 589341595,
+  "title": "Кротон домашний желтый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_domashniy_zheltyy_589341595",
+  "seller": "Елена",
+  "address": "Москва, м. Новогиреево",
+  "text": "Кротон желтый красный, очень красивый 65 см\nБез обмена!\n",
+  "post_date": "  07 October в 00:02  ",
+  "seller_link": "/user/a0c1901f2c6f1848deba1a4397cf8642/profile?id=589341595&src=item"
+}

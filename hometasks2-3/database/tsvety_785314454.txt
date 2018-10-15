@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 785314454,
+  "seller": "константин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_785314454",
+  "address": "Москва, м. Коломенская",
+  "title": "Цветы",
+  "seller_link": "/user/9f860dabef6a4d36ab5b1d177a0ac26e/profile?id=785314454&src=item",
+  "text": "Все цветы по 150 рублей . Забирать м. Октябрьское поле или Сокол .\n",
+  "post_date": "  07 October в 18:42  "
+}

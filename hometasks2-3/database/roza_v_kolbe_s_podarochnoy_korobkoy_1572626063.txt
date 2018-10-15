@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щукинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_s_podarochnoy_korobkoy_1572626063",
+  "price": 1800,
+  "seller": "Татьяна",
+  "post_date": "  08 October в 16:21  ",
+  "title": "Роза в колбе с подарочной коробкой",
+  "text": "Роза в колбе премиум с подарочной коробкой.\n",
+  "index": 1572626063,
+  "seller_status": "Компания",
+  "seller_link": "/user/4f7457cc21a92f12acad7702f02ee163/profile?id=1572626063&src=item"
+}

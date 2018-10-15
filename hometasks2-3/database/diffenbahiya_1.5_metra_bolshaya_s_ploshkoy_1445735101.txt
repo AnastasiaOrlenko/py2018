@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1445735101,
+  "title": "Диффенбахия 1.5 метра большая с плошкой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1.5_metra_bolshaya_s_ploshkoy_1445735101",
+  "seller": "Геннадий",
+  "address": "Москва, м. Кантемировская",
+  "text": "Большая и красивая диффенбахия 1.5 метра с горшком (тоже большой, покупался за 1600р) само собой качественный грунт и уход. Есть отростки. Растению ~5 лет\n",
+  "post_date": "  6 октября в 10:27  ",
+  "seller_link": "/user/d9747d1b8a26c4e40d3ffe876f86f382/profile?id=1445735101&src=item"
+}

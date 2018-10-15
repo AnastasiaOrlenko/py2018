@@ -1,0 +1,13 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1117084326,
+  "title": "Алоэ в керамическом горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_v_keramicheskom_gorshke_1117084326",
+  "seller": "Катерина",
+  "seller-contact": "Катерина",
+  "address": "Москва, м. Проспект Мира",
+  "text": "Алое .\nВ красивом керамическом горшке.\n",
+  "post_date": "  5 октября в 14:09  ",
+  "seller_link": "/user/995d1b7a1c76f547b995563d4c6d88e9/profile?id=1117084326&src=item"
+}

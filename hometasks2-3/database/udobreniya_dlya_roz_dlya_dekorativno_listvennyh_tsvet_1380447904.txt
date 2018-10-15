@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Не магазин",
+  "index": 1380447904,
+  "title": "Удобрения для роз, для декоративно лиственных цвет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobreniya_dlya_roz_dlya_dekorativno_listvennyh_tsvet_1380447904",
+  "seller": "Не магазин",
+  "address": "Москва, м. Ростокино",
+  "text": "Удобрения Bona Forte \n1. Удобрение Bona Forte универсальное 750 мл Новое - 200 р. \n2. Удобрение Bona Forte для декоратвных растений садовое (состав такой же, как и для комнатных растений). Серия Красота, 750 мл Новое - 200 р. \n3. Удобрение Bona Forte для роз и хризантем 285 мл Новое - 90 р. \nСроки производства на фото. \nБез торга! \nПросьба писать на авито, не звонить.\n",
+  "post_date": "  07 October в 11:53  ",
+  "seller_link": "/user/a32de02329fd0109733449ce5de7e938/profile?id=1380447904&src=item"
+}

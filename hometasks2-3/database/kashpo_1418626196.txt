@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1418626196,
+  "title": "Кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_1418626196",
+  "seller": "123",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "Продаю керамический горшок под цветы. Без сколов и трещин. В отличном состоянии. Высота 15 см, диаметр 16,5 см.\nЕсть другие горшки, см. в профиле\n",
+  "post_date": "  07 October в 11:28  ",
+  "seller_link": "/user/232c64055b742fdabf983fd92608c782/profile?id=1418626196&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Самовывоз. 1 км от МКАДа пос. Немчиновка. Возможна доставка по ЗАО 200 Руб\n",
+  "title": "Сансевиерия цилиндрическая",
+  "price": 150,
+  "index": 1065308297,
+  "address": "Москва, м. Молодежная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_tsilindricheskaya_1065308297",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:09  ",
+  "seller": "Физическое лицо",
+  "seller_link": "/user/0ac43ae0ada898b38f3f368bb9fec4cb/profile?id=1065308297&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 999,
+  "seller_status": "Частное лицо",
+  "index": 1688725682,
+  "title": "Продам комнатное растение панданус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_komnatnoe_rastenie_pandanus_1688725682",
+  "seller": "Марина",
+  "address": "Москва, м. Новокосино",
+  "text": "Продам комнатное растение панданус. Растение врозлое, крупное, хорошо подойдёт для зимнего сада. Продаю по причине того что перестал помещаться на подоконник.\n",
+  "post_date": "  6 октября в 15:37  ",
+  "seller_link": "/user/c187ec2981ddea3ecb19d4687bce5d2c/profile?id=1688725682&src=item"
+}

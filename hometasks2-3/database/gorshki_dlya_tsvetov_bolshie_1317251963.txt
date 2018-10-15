@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1317251963,
+  "title": "Горшки для цветов большие",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_bolshie_1317251963",
+  "seller": "Екатерина",
+  "address": "Москва, м. Митино",
+  "text": "Цена указана за два горшка\n",
+  "post_date": "  6 октября в 16:06  ",
+  "seller_link": "/user/3fa7bc201941b6951f77a539ca3dd6bb/profile?id=1317251963&src=item"
+}

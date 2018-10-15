@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_981511524",
+  "price": 80,
+  "seller": "Алёна",
+  "post_date": "  08 October в 18:47  ",
+  "title": "Саженцы",
+  "text": "Продаю саженцы! Разных сортов, в наличие есть 1 и 2 летние. Имеются также розы.\n",
+  "index": 981511524,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/20f97d21040814bb232dac9ae2fd1bd6/profile?id=981511524&src=item"
+}

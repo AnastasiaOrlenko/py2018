@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 1112033077,
+  "title": "Пальма Нолина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_nolina_1112033077",
+  "seller": "Евгений",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "комнатная пальма Нолина\nвысота ствола от поверхности горшка \"от земли\" ~90см\nвысота от пола до \"верха листьев\" ~180см\n",
+  "post_date": "  6 октября в 13:39  ",
+  "seller_link": "/user/7c2bdc2f07e69ce6009799af4d1d3d73/profile?id=1112033077&src=item"
+}

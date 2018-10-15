@@ -1,0 +1,13 @@
+{
+  "text": "Стойка из рассады металлическая на колесах с выдвижными деревянными стеллажами, можно использовать для расстойки\n",
+  "title": "Стойка для рассады или расстойки",
+  "price": 5000,
+  "index": 997845340,
+  "address": "Москва, м. Митино",
+  "seller-contact": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoyka_dlya_rassady_ili_rasstoyki_997845340",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:13  ",
+  "seller": "Наталья",
+  "seller_link": "/user/320820dc6d84ba98045f34b34c5c3e59/profile?id=997845340&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1320842260,
+  "title": "Фикус каучуконосный 185 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukonosnyy_185_sm_1320842260",
+  "seller": "Гузель",
+  "address": "Москва, м. Кантемировская",
+  "text": "Продам фикус, высота с горшком 185 см. Самовывоз из г.Видное.\n",
+  "post_date": "  5 октября в 19:52  ",
+  "seller_link": "/user/3bb317fe7f708af4d6c96ec43c41e8b6/profile?id=1320842260&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 6390,
+  "seller_status": "Магазин",
+  "index": 1381616133,
+  "title": "101 роза с бесплатной упаковкой и доставкой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/101_roza_s_besplatnoy_upakovkoy_i_dostavkoy_1381616133",
+  "seller": "Сервис доставки цветов по оптовым ценам ZABYKETOM",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Сервис доставки цветов Zabyketom предлагает акцию дня! \n101 роза всего за 6390!!!\nЭто лучшее решение для подарка родным и близким!\nЗвони прямо сейчас и мы поможем выбрать цвет розы и упаковку.\n",
+  "post_date": "  4 октября в 22:21  ",
+  "seller_link": "/zabuketom?gdlkerfdnwq=101&shopId=166362"
+}

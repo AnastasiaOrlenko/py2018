@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1458493098,
+  "title": "Бовиэя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bovieya_1458493098",
+  "seller": "Елена",
+  "address": "Москва, м. Окружная",
+  "text": "Редкое растение бовиэя (морской огурец), неприхотлива в уходе, цветёт зелёными цветочками.\n",
+  "post_date": "  07 October в 09:29  ",
+  "seller_link": "/user/1b044a942623e69623d227abedaa15d3/profile?id=1458493098&src=item"
+}

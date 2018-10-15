@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1579095946,
+  "title": "Грунт, Песок с оперативной доставкой по Москве и",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grunt_pesok_s_operativnoy_dostavkoy_po_moskve_i_1579095946",
+  "seller": "Максим",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Мин.объём 10м3.\nСыпучие грузы с доставкой по Москве и всей обл.\nГрунт , Чернозем , Песок и тд\n10м3=22000₽\n20м3=28000₽\n",
+  "post_date": "  07 October в 08:48  ",
+  "seller_link": "/user/0abbd2d7a438e8d40ae8dccc09d5d008/profile?id=1579095946&src=item"
+}

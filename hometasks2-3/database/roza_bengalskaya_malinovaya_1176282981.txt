@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новослободская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_bengalskaya_malinovaya_1176282981",
+  "price": 200,
+  "seller": "оля",
+  "post_date": "  08 October в 15:37  ",
+  "title": "Роза бенгальская малиновая",
+  "text": "роза бенгальская малиновая, белая, розовая, лимонная, укорененные, есть с бутоном\n",
+  "index": 1176282981,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/5613252047f534c1f01a0ad56696b8dc/profile?id=1176282981&src=item"
+}

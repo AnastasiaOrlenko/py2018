@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Проспект Вернадского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_mini_i_polumini_951826650",
+  "price": 150,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 22:34  ",
+  "title": "Фиалки мини и полумини",
+  "text": "Фиалки мини и полумини цвктущие. Цены от 150 рублей.\nФото 1,2,3 Н-Адам 250\nФото 4 petite blarney 200\nФото 5 jolly magic 200\nФото 6 Ле-шелковые кружева 200\nФото 7 sassy Sister mini 200\nФото 8 Ав-Зинаида серебрякова 150\nФото 9 Н-сюрприз 150\nФото 10 ds-харизма оса 150\nЕсть детки \nPainted silk\nBlue blazes\nLittle caboose\nLituanika пасынки\nЖемчужный восторг химера пасынки\n",
+  "index": 951826650,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/de119fe2e044e460633f355e240e3f69/profile?id=951826650&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1055495359,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1055495359",
+  "address": "Москва, м. Крылатское",
+  "title": "Сансевиерия",
+  "seller_link": "/user/8df4baa3185094ec4b4f946163b11509/profile?id=1055495359&src=item",
+  "text": "Неприхотлива в уходе. Очень разрослась.\n",
+  "post_date": "  07 October в 15:15  "
+}

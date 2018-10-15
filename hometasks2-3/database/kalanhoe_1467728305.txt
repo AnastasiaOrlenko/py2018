@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 1467728305,
+  "seller": "ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1467728305",
+  "address": "Москва, м. Выхино",
+  "title": "Каланхоэ",
+  "seller_link": "/user/ca14553d1fc53b05ab295ead40f30418/profile?id=1467728305&src=item",
+  "text": "Продам цветы Каланхоэ.От 10 до 40 см.высотой.Отличное лекарство от насморка,для детишек неумеющих сморкаться.прочищает нос начисто.Я своим детям отчихивала сопли.\n",
+  "seller-contact": "ольга",
+  "post_date": "  07 October в 23:45  "
+}

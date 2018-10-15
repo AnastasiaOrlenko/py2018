@@ -1,0 +1,12 @@
+{
+  "title": "Пеларгония red rambler",
+  "price": 350,
+  "seller": "Елена",
+  "seller_link": "/user/ad61906c10f29925e2bd4d42fde13ce1/profile?id=1283262432&src=item",
+  "address": "Москва, м. Полежаевская",
+  "index": 1283262432,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_red_rambler_1283262432",
+  "text": "Продаю укорененный черенок сортовой пеларгонии, звоните, самовывоз:\n350-маленький с горшком,\n400-большой с горшком.\n",
+  "post_date": "  4 октября в 18:41  "
+}

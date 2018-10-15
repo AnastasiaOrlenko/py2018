@@ -1,0 +1,12 @@
+{
+  "text": "Реализую посадочный материал 3-4 группы как лиственных так и хвойных деревьев.\nЛюбой размер в любом количестве.\nЗвоните в любое время.\n",
+  "title": "Посадочный материал 3-4 группа",
+  "price": 500,
+  "index": 1615041193,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/posadochnyy_material_3-4_gruppa_1615041193",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 01:06  ",
+  "seller": "Валерий",
+  "seller_link": "/user/f7112c1598dc89886e192ad8d3eebc97/profile?id=1615041193&src=item"
+}

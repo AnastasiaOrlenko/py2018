@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1707451924,
+  "title": "Кофе Арабика",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kofe_arabika_1707451924",
+  "seller": "Наталья",
+  "address": "Москва, м. Кузьминки",
+  "text": "В метро не встречаюсь\n",
+  "post_date": "  5 октября в 23:40  ",
+  "seller_link": "/user/54d1797e11e10607cf2194cd25c4e0ca/profile?id=1707451924&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 10000,
+  "seller_status": "Частное лицо",
+  "index": 1429274618,
+  "title": "Advanced Nutrients Piranha 5 литров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/advanced_nutrients_piranha_5_litrov_1429274618",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "Advanced Nutrients Piranha 5 литров.\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1429274618&src=item"
+}

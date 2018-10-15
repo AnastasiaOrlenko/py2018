@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1575866027,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1575866027",
+  "seller": "Наталья",
+  "address": "Москва, м. Перово",
+  "text": "Высотой от горшка 50 см.\n",
+  "post_date": "  5 октября в 22:50  ",
+  "seller_link": "/user/a445774c5e959fbef8e25e3b35bdf092/profile?id=1575866027&src=item"
+}

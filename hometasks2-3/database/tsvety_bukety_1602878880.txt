@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/fd81a7556002cc82ea704fd0934aad71/profile?id=1602878880&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_bukety_1602878880",
+  "post_date": "  08 October в 10:14  ",
+  "address": "Москва, м. Кантемировская",
+  "seller": "Ксения",
+  "text": "Продаю Цветы и составляю букеты. При оплате по безналу предоставляю все документы. Розы продаются упаковками по 10шт. Букеты от 900₽\n",
+  "index": 1602878880,
+  "seller_status": "Частное лицо",
+  "price": 60,
+  "title": "Цветы, букеты"
+}

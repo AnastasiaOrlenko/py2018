@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Отрадное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/puansettiya_rozhdestvenskaya_zvezda_1072899113",
+  "price": 450,
+  "seller": "Макс",
+  "post_date": "  08 October в 21:51  ",
+  "title": "Пуансеттия (рождественская звезда)",
+  "text": "Пуансеттия, высота 43 см. Цветущее растение.\n",
+  "index": 1072899113,
+  "seller_status": "Компания",
+  "seller_link": "/user/edeeca4dc4954d3ad948af24326c2a13/profile?id=1072899113&src=item"
+}

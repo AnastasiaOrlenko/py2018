@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1078298795,
+  "title": "Филодендрон Неон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/filodendron_neon_1078298795",
+  "seller": "Наталия",
+  "address": "Москва, м. Селигерская",
+  "text": "Укорененный черенок\n",
+  "post_date": "  5 октября в 20:14  ",
+  "seller_link": "/user/bf59973dfad57bb79301fc3a46909446/profile?id=1078298795&src=item"
+}

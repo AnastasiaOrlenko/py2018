@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "seller": "Лариса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramicheskiy_2_shtuki_1352423020",
+  "seller_status": "Частное лицо",
+  "title": "Горшок керамический 2 штуки",
+  "post_date": "  08 October в 13:24  ",
+  "price": 1200,
+  "index": 1352423020,
+  "seller_link": "/user/7a84d15a212f21fc565601b3c6a7e532/profile?id=1352423020&src=item",
+  "text": "Керамические горшки 2 штуки. Новые. Высота 21 см.\n"
+}

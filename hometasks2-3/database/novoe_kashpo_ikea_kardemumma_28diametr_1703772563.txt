@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1703772563,
+  "title": "Новое кашпо ikea kardemumma 28диаметр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novoe_kashpo_ikea_kardemumma_28diametr_1703772563",
+  "seller": "частное лицо",
+  "address": "Москва, м. Селигерская",
+  "text": "Диаметр 28, высота 26\n",
+  "post_date": "  5 октября в 17:51  ",
+  "seller_link": "/user/7f345b5c8a9848def3cd184cd631d336/profile?id=1703772563&src=item"
+}

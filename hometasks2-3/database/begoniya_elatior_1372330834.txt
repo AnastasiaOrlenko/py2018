@@ -1,0 +1,13 @@
+{
+  "price": 1100,
+  "seller_status": "Компания",
+  "index": 1372330834,
+  "title": "Бегония элатиор",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_elatior_1372330834",
+  "seller": "janmus",
+  "seller-contact": "Ольга",
+  "address": "Москва, м. Шипиловская",
+  "text": "Продам очень яркую и красочную бегонию элатиор.Пусть украсит серые осенние дни яркими красками!\n",
+  "post_date": "  5 октября в 14:42  ",
+  "seller_link": "/user/922779761cc174f043021e1154f5b68e/profile?id=1372330834&src=item"
+}

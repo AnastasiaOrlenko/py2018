@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_1533474714",
+  "seller-contact": "Галина Анатольевна",
+  "price": 200,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:47  ",
+  "title": "Пеларгония герань",
+  "text": "Герань двух лет. Цветет цветами белого цвета.\n",
+  "index": 1533474714,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1533474714&src=item"
+}

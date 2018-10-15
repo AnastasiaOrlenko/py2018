@@ -1,0 +1,13 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 24946448,
+  "title": "Молочай Эуфорбия тригона",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_euforbiya_trigona_24946448",
+  "seller": "Ирина",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Беляево",
+  "text": "Молочай Эуфорбия тригона. \nВозраст 12 лет. Высота 250 см. Цена 2000 руб. (с керамическим горшком). почта исключена, извините\n",
+  "post_date": "  4 октября в 18:42  ",
+  "seller_link": "/user/8e64342e98b9e0d1af72cd2e2160f105/profile?id=24946448&src=item"
+}

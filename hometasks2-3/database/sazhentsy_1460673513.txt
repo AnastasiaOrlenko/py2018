@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1460673513,
+  "seller": "Елена Бор",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_1460673513",
+  "address": "Москва, м. Тургеневская",
+  "title": "Саженцы",
+  "seller_link": "/user/faae823742210d1f3bb37fbeaeeacec7/profile?id=1460673513&src=item",
+  "text": "Добрый день! \nВ связи с закрытием летних веранд распродаем Куст Пузыреплодник калинолистный\" Леди ред\" 40 см.по выгодным ценам.\n100 руб. \nСамовывоз из 4 точек в Москве .\n",
+  "post_date": "  07 October в 16:34  "
+}

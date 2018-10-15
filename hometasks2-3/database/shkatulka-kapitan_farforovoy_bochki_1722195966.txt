@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3000,
+  "index": 1722195966,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shkatulka-kapitan_farforovoy_bochki_1722195966",
+  "address": "Москва, м. Строгино",
+  "title": "Шкатулка-капитан фарфоровой бочки",
+  "seller_link": "/user/b8dea16a10ca02f8cdda2d1e09f43784/profile?id=1722195966&src=item",
+  "text": "Коллекционирование . 16см с крышкой , фарфор.\n",
+  "post_date": "  08 October в 08:19  "
+}

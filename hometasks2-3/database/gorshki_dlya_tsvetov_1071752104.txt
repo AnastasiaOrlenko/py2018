@@ -1,0 +1,11 @@
+{
+  "seller_link": "/user/f3894b278d006a3e1826efdb8d3b795d/profile?id=1071752104&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_1071752104",
+  "post_date": "  08 October в 09:40  ",
+  "seller": "Наталья",
+  "text": "Продам цветочные горшки, по 30 руб за штуку, если все заберёте 200 руб, по 20 руб получается, в наличии 10 шт\nМ Выхино или Новокосино район Кожухово\n",
+  "index": 1071752104,
+  "seller_status": "Частное лицо",
+  "address": "Москва, м. Новокосино",
+  "title": "Горшки для цветов"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 973230003,
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kofe_rastenie_973230003",
+  "address": "Москва, м. Кантемировская",
+  "title": "Кофе растение",
+  "seller_link": "/user/66e6e7236c5201f564364a694fe08eef/profile?id=973230003&src=item",
+  "text": "Вырос из кофейного зерна.\n",
+  "post_date": "  07 October в 17:53  "
+}

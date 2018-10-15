@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1553611302,
+  "title": "Кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_1553611302",
+  "seller": "Виталий",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Высота вместе с горшком - 85см.\n",
+  "post_date": "  07 October в 08:34  ",
+  "seller_link": "/user/c9d7669b7d5ab5777c8b3543aad1bcc6/profile?id=1553611302&src=item"
+}

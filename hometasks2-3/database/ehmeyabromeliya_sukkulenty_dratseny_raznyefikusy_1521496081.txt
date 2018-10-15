@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1521496081,
+  "title": "Эхмея,бромелия, суккуленты, драцены разные,фикусы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ehmeyabromeliya_sukkulenty_dratseny_raznyefikusy_1521496081",
+  "seller": "Гала",
+  "address": "Москва, м. Свиблово",
+  "text": "Срочно продам здоровый взрослый красивый цветок недорого.могу привезти\n",
+  "post_date": "  5 октября в 15:14  ",
+  "seller_link": "/user/d033c225efcbffd4d4b1cbcb1a06031c/profile?id=1521496081&src=item"
+}

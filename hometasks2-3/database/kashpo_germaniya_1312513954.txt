@@ -1,0 +1,12 @@
+{
+  "text": "пластик, цена за 2\n",
+  "title": "Кашпо Германия",
+  "price": 50,
+  "index": 1312513954,
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_germaniya_1312513954",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 07:44  ",
+  "seller": "Елена",
+  "seller_link": "/user/2e460d0edbcef93267b7425223882d38/profile?id=1312513954&src=item"
+}

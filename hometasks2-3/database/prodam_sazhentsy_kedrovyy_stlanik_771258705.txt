@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 771258705,
+  "title": "Продам саженцы кедровый стланик",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_sazhentsy_kedrovyy_stlanik_771258705",
+  "seller": "Валерий",
+  "address": "Москва",
+  "text": "15 - 20 см. В наличии около 40 шт. Возможна доставка до Москвы.\n",
+  "post_date": "  6 октября в 18:15  ",
+  "seller_link": "/user/fc583b3cd578c4f7e63c1cd086e0fa4c/profile?id=771258705&src=item"
+}

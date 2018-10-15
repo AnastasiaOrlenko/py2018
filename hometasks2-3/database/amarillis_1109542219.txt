@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amarillis_1109542219",
+  "price": 50,
+  "seller": "Татьяна",
+  "post_date": "  08 October в 18:34  ",
+  "title": "Амариллис",
+  "text": "Детки амариллиса, 50 р горшочек, красный, цветёт раз в год\n",
+  "index": 1109542219,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/808c9608edfbde558210781c4672d6df/profile?id=1109542219&src=item"
+}

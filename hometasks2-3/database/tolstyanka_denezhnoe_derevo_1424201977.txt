@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1424201977,
+  "title": "Толстянка денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1424201977",
+  "seller": "Вера",
+  "seller-contact": "Лариса",
+  "address": "Москва, м. Строгино",
+  "text": "Толстянка - денежное дерево. В пластиковом горшке три молодых растения. Высота - 20 см. Неприхотливы в уходе.\n",
+  "post_date": "  4 октября в 18:48  ",
+  "seller_link": "/user/0f031d39057d6ce0cbc5ba02b202c443/profile?id=1424201977&src=item"
+}

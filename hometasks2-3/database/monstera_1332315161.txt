@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ясенево",
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1332315161",
+  "seller_status": "Частное лицо",
+  "title": "Монстера",
+  "post_date": "  08 October в 12:54  ",
+  "price": 1000,
+  "index": 1332315161,
+  "seller_link": "/user/da1368f82e61abb0e84e72c68170f870/profile?id=1332315161&src=item",
+  "text": "Монстера. Более 5 лет. Продаю с горшком. Самовывоз.\n"
+}

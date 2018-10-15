@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1427861744,
+  "title": "Кливии коллекционные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klivii_kollektsionnye_1427861744",
+  "seller": "Любовь",
+  "address": "Москва, м. Люблино",
+  "text": "кливия ЦИРТАНТИФЛОРА, продается именно это растение, сейчас цветет, опылена\n",
+  "post_date": "  6 октября в 12:57  ",
+  "seller_link": "/user/41af86abbeaefcbfbaed57193ca1baf9/profile?id=1427861744&src=item"
+}

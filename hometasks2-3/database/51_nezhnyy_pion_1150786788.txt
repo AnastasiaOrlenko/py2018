@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/3bd038078d9dc209dd241cd882910bf0/profile?id=1150786788&src=item",
+  "seller-contact": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/51_nezhnyy_pion_1150786788",
+  "post_date": "  08 October в 10:10  ",
+  "address": "Москва, м. Коньково",
+  "seller": "ДОСТАВКА ЦВЕТОВ",
+  "text": "От 400р за пион!\nЕсть пионы других цветов\nПишите, звоните!)\n",
+  "index": 1150786788,
+  "seller_status": "Компания",
+  "price": 400,
+  "title": "51 нежный пион"
+}

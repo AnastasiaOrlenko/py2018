@@ -1,0 +1,13 @@
+{
+  "text": "Продаю композиции из стабилизированных роз. В наличии и под заказ. Цена от 3500 руб.\n",
+  "title": "Композиции из роз",
+  "price": 3500,
+  "index": 1637605690,
+  "address": "Москва, м. Ховрино",
+  "seller-contact": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kompozitsii_iz_roz_1637605690",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:36  ",
+  "seller": "Para-Ella",
+  "seller_link": "/user/b3ebfefca67b7b2300318aa32e91c1f8/profile?id=1637605690&src=item"
+}

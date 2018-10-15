@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1461597722,
+  "title": "Пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_1461597722",
+  "seller": "Лариса",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Пальма(искусственная) высотой 1м 30см.В хорошем состоянии.Торг уместен.\n",
+  "post_date": "  5 октября в 20:52  ",
+  "seller_link": "/user/1ba5398874567eaa19511640e8530831/profile?id=1461597722&src=item"
+}

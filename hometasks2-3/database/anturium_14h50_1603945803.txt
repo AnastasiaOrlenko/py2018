@@ -1,0 +1,12 @@
+{
+  "price": 1400,
+  "seller_status": "Частное лицо",
+  "index": 1603945803,
+  "title": "Антуриум 14х50",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_14h50_1603945803",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 14д. Высота 50см\n",
+  "post_date": "  07 October в 10:57  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1603945803&src=item"
+}

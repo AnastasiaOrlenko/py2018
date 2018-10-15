@@ -1,0 +1,12 @@
+{
+  "title": "Клён гиннала",
+  "price": 750,
+  "seller": "иван",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=974028527&src=item",
+  "address": "Москва",
+  "index": 974028527,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klen_ginnala_974028527",
+  "text": "Клён гиннала и клён татарский любой высоты. Быстрая доставка,любая форма оплаты .Высота около 1,5 метра.\n",
+  "post_date": "  4 октября в 18:02  "
+}

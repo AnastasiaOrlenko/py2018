@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1624098022,
+  "title": "Столетник старый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoletnik_staryy_1624098022",
+  "seller": "Виктор",
+  "address": "Москва, м. Новокосино",
+  "text": "Столетник, более 10 лет, рост от земли 90 см.\n",
+  "post_date": "  5 октября в 23:40  ",
+  "seller_link": "/user/3f671bdd02a8d83ff48c52968b18a98b/profile?id=1624098022&src=item"
+}

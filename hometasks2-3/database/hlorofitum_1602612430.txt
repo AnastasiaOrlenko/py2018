@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1602612430,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1602612430",
+  "seller": "Людмила",
+  "address": "Москва, м. Румянцево",
+  "text": "Отросток\n",
+  "post_date": "  6 октября в 15:43  ",
+  "seller_link": "/user/99f4e193ed85e6cd43a412aadbd40411/profile?id=1602612430&src=item"
+}

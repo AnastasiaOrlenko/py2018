@@ -1,0 +1,12 @@
+{
+  "text": "Высота в горшке от пола около метра. Большой керамический горшок. Возраст дерева около 10 лет. Есть 6 растений таких же и чуть меньше. На даче под Чеховом. Самовывоз.\n",
+  "title": "Денежное дерево",
+  "price": 5000,
+  "index": 1104765131,
+  "address": "Москва, м. Университет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1104765131",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 00:55  ",
+  "seller": "Полина",
+  "seller_link": "/user/7a53aeccb3e6ff5de5eb780409cafeb5/profile?id=1104765131&src=item"
+}

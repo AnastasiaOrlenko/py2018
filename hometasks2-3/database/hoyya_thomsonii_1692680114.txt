@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1692680114,
+  "title": "Хойя Thomsonii",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_thomsonii_1692680114",
+  "seller": "Андрей",
+  "address": "Москва, м. Братиславская",
+  "text": "Укорененные черенки хойи thomsonii.Цветет осенью.\nм.Проспект Вернадского, м. Охотный ряд с 9-18 в будни, в другое время м.Братиславская\n",
+  "post_date": "  5 октября в 10:08  ",
+  "seller_link": "/user/83de5080910bea9b9283af798819d4c9/profile?id=1692680114&src=item"
+}

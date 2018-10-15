@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 249,
+  "index": 1551213920,
+  "seller": "Галина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiyabegoniya_1551213920",
+  "address": "Москва, м. Бунинская аллея",
+  "title": "Фуксия,бегония",
+  "seller_link": "/user/ae9a05981b82afceed244e5a80c1e1cb/profile?id=1551213920&src=item",
+  "text": "Продам:Фото №1 - фуксия - 249 руб.,Фото №2,3 - бегония мексиканская - 599 р.На смс не отвечаю.\n",
+  "post_date": "  07 October в 20:54  "
+}

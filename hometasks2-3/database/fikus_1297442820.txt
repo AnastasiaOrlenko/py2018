@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 5000,
+  "index": 1297442820,
+  "seller": ".",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1297442820",
+  "address": "Москва, м. Выхино",
+  "title": "Фикус",
+  "seller_link": "/user/b86bdbc18512502e48bd44fa2889ba32/profile?id=1297442820&src=item",
+  "text": "Фикус 160 см вместе с горшком\n",
+  "seller-contact": "Александра",
+  "post_date": "  07 October в 20:37  "
+}

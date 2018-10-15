@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1268052323,
+  "title": "Хамедорея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hamedoreya_1268052323",
+  "seller": "Ольга",
+  "address": "Москва, м. Домодедовская",
+  "text": "Рассаживаю растение на фото, цена за деленку. Втречаюсь м. Домодедовская\n",
+  "post_date": "  6 октября в 23:21  ",
+  "seller_link": "/user/bea210134eef6721dc61bf6a01f45b99/profile?id=1268052323&src=item"
+}

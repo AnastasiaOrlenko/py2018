@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3900,
+  "index": 1424890285,
+  "seller": "Лана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_nevesty_svadebnyy_buket_butonerka_1424890285",
+  "address": "Москва, м. Баррикадная",
+  "title": "Букет невесты/ Свадебный букет/ бутоньерка",
+  "seller_link": "/user/1bb9aa3081901a3680bff52879a4981e/profile?id=1424890285&src=item",
+  "text": "Букет невесты / Свадебный букет / Бутоньерка \nРазмер S - 3900 руб\nРазмер М - 5900 руб\nРазмер L - 7900 руб\nЦена с доставкой Москва/Красногорск/МО\n",
+  "post_date": "  07 October в 19:42  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1610244200,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1610244200",
+  "seller": "частное лицо",
+  "address": "Москва, м. Домодедовская",
+  "text": "Спешите! Продаю цветущие растение взрослое - 100₽. И детки, молодые растения начинают уже цвести - 50₽. Прекрасно укореняются листики. Они по 10₽\n",
+  "post_date": "  07 October в 12:45  ",
+  "seller_link": "/user/56975e743a9ab3ea59b1b0c65cfe4dd2/profile?id=1610244200&src=item"
+}

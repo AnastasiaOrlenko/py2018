@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1675317300,
+  "title": "Blc. King's Monkey",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/blc._kings_monkey_1675317300",
+  "seller": "Анна",
+  "address": "Москва, м. Селигерская",
+  "text": "Продается деленка каттлеи Blc. King's Monkey. Готовая к цветению. Фото цветения материнского растения.\nОрхидея Фаленопсис каттлея\n",
+  "post_date": "  5 октября в 18:23  ",
+  "seller_link": "/user/aacfbb77888d7b1d9b7fa0ae1091149d/profile?id=1675317300&src=item"
+}

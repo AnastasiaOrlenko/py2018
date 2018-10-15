@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1181659301,
+  "title": "Уникальный гибрид Аморфа lewallei х impressus",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/unikalnyy_gibrid_amorfa_lewallei_h_impressus_1181659301",
+  "seller": "Сергей",
+  "seller-contact": "Не компания!",
+  "address": "Москва",
+  "text": "Продаются детки уникального гибрида Аморфофаллуса. Очень неприхотливый гибрид. Форма цветков еще не известна! Уход как за обычным аморфофаллус коньяк. На фото цветки \"родителей\".\n",
+  "post_date": "  07 October в 09:52  ",
+  "seller_link": "/user/a7baf2d99a78692c6b4da36aa798a2c7/profile?id=1181659301&src=item"
+}

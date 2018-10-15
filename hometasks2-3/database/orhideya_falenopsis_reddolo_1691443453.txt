@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1691443453,
+  "title": "Орхидея фаленопсис Реддоло",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_reddolo_1691443453",
+  "seller": "Кристина",
+  "seller-contact": "Кристина",
+  "address": "Москва, м. Менделеевская",
+  "text": "Ухоженное, в двойном горшке. Начало только цвести, по мере цветения даёт бутоны, цветёт долго.\n",
+  "post_date": "  07 October в 12:21  ",
+  "seller_link": "/user/74fd3eda0a7206012d7e1f1748cddfee/profile?id=1691443453&src=item"
+}

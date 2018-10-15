@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1504946413,
+  "seller": "Sveta",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1504946413",
+  "address": "Москва, м. Водный стадион",
+  "title": "Денежное дерево",
+  "seller_link": "/user/91809d58faa390a27ce24b75a81dcd5b/profile?id=1504946413&src=item",
+  "text": "Растения крепкие, хорошо укоренившиеся, рост от 20 см и выше. Возможна встреча у метро.\n",
+  "post_date": "  07 October в 17:14  "
+}

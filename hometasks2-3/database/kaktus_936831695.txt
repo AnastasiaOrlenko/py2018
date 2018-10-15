@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 936831695,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kaktus_936831695",
+  "seller": "Андрей",
+  "address": "Зеленоград",
+  "text": "кактус высота 1м37см.г.Зеленоград.\n",
+  "post_date": "  5 октября в 17:01  ",
+  "seller_link": "/user/70226604a472a71f5e0e3570d49fb4ba/profile?id=936831695&src=item"
+}

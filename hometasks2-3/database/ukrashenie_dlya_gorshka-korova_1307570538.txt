@@ -1,0 +1,12 @@
+{
+  "price": 99,
+  "seller_status": "Частное лицо",
+  "index": 1307570538,
+  "title": "Украшение для горшка-корова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ukrashenie_dlya_gorshka-korova_1307570538",
+  "seller": "Продавец",
+  "address": "Москва, м. Жулебино",
+  "text": "Продается насадка-украшение для керамического горшка\\кашпо\n",
+  "post_date": "  6 октября в 14:02  ",
+  "seller_link": "/user/1b96e32d7cbe4681c431506fc8f6a6a0/profile?id=1307570538&src=item"
+}

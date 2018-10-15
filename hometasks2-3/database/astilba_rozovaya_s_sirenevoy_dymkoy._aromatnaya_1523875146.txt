@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1523875146,
+  "title": "Астильба розовая с сиреневой дымкой. Ароматная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/astilba_rozovaya_s_sirenevoy_dymkoy._aromatnaya_1523875146",
+  "seller": "Светлана",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "Астильба. Деленки от 150 до 250р (от размера).\nАРОМАТНАЯ!\n",
+  "post_date": "  5 октября в 15:13  ",
+  "seller_link": "/user/d0276ee22540ab71c04eee7f7d4aa216/profile?id=1523875146&src=item"
+}

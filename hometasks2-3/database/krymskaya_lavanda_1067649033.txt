@@ -1,0 +1,12 @@
+{
+  "title": "Крымская лаванда",
+  "price": 350,
+  "seller": "Светлана",
+  "seller_link": "/user/6aaacf2c916fe382cc5cb84a8197dfaa/profile?id=1067649033&src=item",
+  "address": "Москва, м. Севастопольская",
+  "index": 1067649033,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krymskaya_lavanda_1067649033",
+  "text": "Крымская лаванда пучок, высота 27 см.\n",
+  "post_date": "  4 октября в 17:25  "
+}

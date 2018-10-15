@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1351781389,
+  "title": "Фиалка голубая, взрослая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_golubaya_vzroslaya_1351781389",
+  "seller": "Частное лицо",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Лубянка",
+  "text": "Без горшка\nПодхожу к метро Площадь революции или Китай город и Митино\n",
+  "post_date": "  5 октября в 15:15  ",
+  "seller_link": "/user/f790942940dd56a7333f2b21cc34eb24/profile?id=1351781389&src=item"
+}

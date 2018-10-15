@@ -1,0 +1,12 @@
+{
+  "text": "большое большое с поддоном.Размер высота 17 см, 20х60, дно 12х51.\n",
+  "title": "Кашпо для цветов",
+  "price": 150,
+  "index": 1421239158,
+  "address": "Москва, м. Шоссе Энтузиастов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetov_1421239158",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:00  ",
+  "seller": "Анна",
+  "seller_link": "/user/95ad3437ed15df9b6ddf5c3e8aa71d2e/profile?id=1421239158&src=item"
+}

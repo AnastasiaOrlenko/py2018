@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1294237723,
+  "title": "Орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_1294237723",
+  "seller": "Ольга",
+  "address": "Москва, м. Царицыно",
+  "text": "Только самовывоз. Район бирюлево восточное\n",
+  "post_date": "  5 октября в 08:43  ",
+  "seller_link": "/user/e187f88952d706cc8d8520b694af029d/profile?id=1294237723&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Фиалка Виконт",
+  "price": 150,
+  "seller": "Лариса",
+  "seller_link": "/user/20f97fe45d73c642c1f7b8c8cc46d232/profile?id=1598521295&src=item",
+  "address": "Москва, м. Краснопресненская",
+  "index": 1598521295,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_vikont_1598521295",
+  "text": "Сортовая фиалка Виконт .\nЕсть другие сорта. Предлагаются к продаже сортовые фиалки цветущие,стартеры,детки и с/с черенки\n",
+  "post_date": "  4 октября в 18:14  ",
+  "seller-contact": "Лариса"
+}

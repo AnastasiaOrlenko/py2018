@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Селигерская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stsindapsus_zolotistyypeperomiya_1215739372",
+  "price": 100,
+  "seller": "Татьяна",
+  "post_date": "  08 October в 17:17  ",
+  "title": "Сциндапсус золотистый,пеперомия",
+  "text": "На фото продаваемые растения. Сциндапсус 250р.,пеперомии 100 и 150р.\n",
+  "index": 1215739372,
+  "seller_status": "Компания",
+  "seller_link": "/user/de5a04208a2aabc7580468695b8fd8b2/profile?id=1215739372&src=item"
+}

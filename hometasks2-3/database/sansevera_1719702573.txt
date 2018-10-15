@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1719702573,
+  "title": "Сансевьера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevera_1719702573",
+  "seller": "Елена",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "За каждое кашпо 300 руб.\n",
+  "post_date": "  07 October в 09:20  ",
+  "seller_link": "/user/687a624a410f04a21ced6f5fce42d5e2/profile?id=1719702573&src=item"
+}

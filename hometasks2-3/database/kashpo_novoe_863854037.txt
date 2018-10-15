@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 863854037,
+  "title": "Кашпо новое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_novoe_863854037",
+  "seller": "Мария",
+  "address": "Москва, м. Войковская",
+  "text": "Кашпо новое\n",
+  "post_date": "  6 октября в 15:42  ",
+  "seller_link": "/user/399018b1f354802046858c88cf01af00/profile?id=863854037&src=item"
+}

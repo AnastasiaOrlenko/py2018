@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1014851232,
+  "title": "Огромный Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ogromnyy_zamiokulkas_1014851232",
+  "seller": ".",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Выращиваю сию красоту 15 лет. Продаю в связи со скорым переездом, ставить будет некуда.... В придачу бесплатно отдам \"кадушку\" для пересадки (см. фото)\n",
+  "post_date": "  07 October в 09:19  ",
+  "seller_link": "/user/4cc3da22068ee8ebaf009c01b674d3af/profile?id=1014851232&src=item"
+}

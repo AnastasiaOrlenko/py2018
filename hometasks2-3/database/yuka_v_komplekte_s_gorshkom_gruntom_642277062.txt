@@ -1,0 +1,13 @@
+{
+  "text": "Юка, в комплекте, вместе с горшком и грунтом. Если, есть вопросы, звоните или пишите на эл. Почту. Дмитрий.\n",
+  "title": "Юка, в комплекте, с горшком, грунтом",
+  "price": 799,
+  "index": 642277062,
+  "address": "Москва, м. Краснопресненская",
+  "seller-contact": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yuka_v_komplekte_s_gorshkom_gruntom_642277062",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:39  ",
+  "seller": "Дмитрий",
+  "seller_link": "/user/525f083a4c21e22ca63ce77271bfce72/profile?id=642277062&src=item"
+}

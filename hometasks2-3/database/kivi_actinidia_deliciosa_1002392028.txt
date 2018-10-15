@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "seller": "Tatiana",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kivi_actinidia_deliciosa_1002392028",
+  "seller_status": "Частное лицо",
+  "title": "Киви (Actinidia deliciosa)",
+  "post_date": "  08 October в 12:15  ",
+  "price": 550,
+  "index": 1002392028,
+  "seller_link": "/user/65744c947e875738ab68b867ca0ebf6e/profile?id=1002392028&src=item",
+  "text": "Киви (Actinidia deliciosa) или \"китайский крыжовник\" - лоза ягодной лианы пущенная в рост спиралькой на опоре. Растение здоровое. По заверению “бывалых”, благодаря перекрестному опылению, плодоносящее. \nВысота от пола 64 см.\n"
+}

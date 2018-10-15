@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1081158310,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1081158310",
+  "seller": "Кузнецова Алена",
+  "address": "Москва, м. Добрынинская",
+  "text": "Молодой фикус Бенджамина классической зеленой вариации. Посажен в новый грунт. Не будет нуждаться в пересадке до следующей осени.\n",
+  "post_date": "  4 октября в 20:47  ",
+  "seller_link": "/user/03b3e120ee580a09c3bd6fd13dab3833/profile?id=1081158310&src=item"
+}

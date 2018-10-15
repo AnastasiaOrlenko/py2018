@@ -1,0 +1,12 @@
+{
+  "price": 450,
+  "seller_status": "Частное лицо",
+  "index": 1484497898,
+  "title": "Аспарагус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/asparagus_1484497898",
+  "seller": "ирина",
+  "address": "Москва, м. Марьино",
+  "text": "Аспарагус серповидный. Высота цветка без горшка 80 см.\n",
+  "post_date": "  5 октября в 19:45  ",
+  "seller_link": "/user/82dfdf3fde12172ff2a3a0448123b858/profile?id=1484497898&src=item"
+}

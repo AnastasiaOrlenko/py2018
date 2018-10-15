@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 984898756,
+  "title": "Цветы комнатные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_komnatnye_984898756",
+  "seller": "Татьяна",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "Цветы монстера 1300\n",
+  "post_date": "  07 October в 07:22  ",
+  "seller_link": "/user/31d4bd95714be5f751c7177107fc23b8/profile?id=984898756&src=item"
+}

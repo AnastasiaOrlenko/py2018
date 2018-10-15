@@ -1,0 +1,12 @@
+{
+  "text": "Цветы\n",
+  "title": "Цветы",
+  "price": 1000,
+  "index": 1596100918,
+  "address": "Москва, м. Новогиреево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_1596100918",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:10  ",
+  "seller": "Damira Jumasheva",
+  "seller_link": "/user/812a65a01ddb65ccc90a6c7aa7380528/profile?id=1596100918&src=item"
+}

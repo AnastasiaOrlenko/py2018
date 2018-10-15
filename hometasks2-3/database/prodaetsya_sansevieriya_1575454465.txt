@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Аэропорт",
+  "seller": "Натэла",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodaetsya_sansevieriya_1575454465",
+  "seller_status": "Частное лицо",
+  "title": "Продается сансевиерия",
+  "post_date": "  08 October в 10:55  ",
+  "price": 5000,
+  "index": 1575454465,
+  "seller_link": "/user/5e6618468e9957495535060a16ed9907/profile?id=1575454465&src=item",
+  "text": "Продается сансевиерия, возраст - 15 лет. Цветет 2 раза в год. Высота растения - 125 см(без горшка).\n"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1518938812,
+  "seller": "Алина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_detka_1518938812",
+  "address": "Москва, м. Бибирево",
+  "title": "Гиппеаструм детка",
+  "seller_link": "/user/e2888c3be51803ecd3592669c014c52b/profile?id=1518938812&src=item",
+  "text": "Бесплатно при покупке взрослого\n",
+  "post_date": "  07 October в 13:12  "
+}

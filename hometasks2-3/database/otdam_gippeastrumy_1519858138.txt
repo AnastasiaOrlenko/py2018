@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "1 взрослый и 7 деток. Сейчас не цветут, но при должном уходе перезимуют и будут цвести весной.\n",
+  "index": 1519858138,
+  "title": "Отдам гиппеаструмы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otdam_gippeastrumy_1519858138",
+  "seller": "Евгения",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "post_date": "  6 октября в 16:59  ",
+  "seller_link": "/user/bf7abe4152bddf77c04d747111d31488/profile?id=1519858138&src=item"
+}

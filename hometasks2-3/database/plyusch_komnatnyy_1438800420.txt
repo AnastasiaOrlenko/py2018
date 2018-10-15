@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1438800420,
+  "title": "Плющ комнатный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plyusch_komnatnyy_1438800420",
+  "seller": "Гиорги",
+  "address": "Москва, м. ВДНХ",
+  "text": "Продаются 6 плюща размером примерно метр. Плющ - идеальное растение для декорирования дома, абсолютно неприхотливый и быстро растущий .\n",
+  "post_date": "  6 октября в 11:48  ",
+  "seller_link": "/user/55d3ae7b135595f9cd6c7798ed0749cb/profile?id=1438800420&src=item"
+}

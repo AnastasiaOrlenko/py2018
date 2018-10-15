@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1413410546,
+  "title": "Ножницы с изогнутыми концами",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/nozhnitsy_s_izognutymi_kontsami_1413410546",
+  "seller": "николай",
+  "address": "Зеленоград",
+  "text": "Продам ножницы с изогнутыми концами применяемые для стрижки растений в террариумах, флорариумах, аквариумах и других искусственных ёмкостях где есть живые растения, длина - 25 сантиметров.\n",
+  "post_date": "  07 October в 11:18  ",
+  "seller_link": "/user/150aa2f1c5acded7abd6b194404efc12/profile?id=1413410546&src=item"
+}

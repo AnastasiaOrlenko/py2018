@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1474051262,
+  "seller": "Нина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_mahrovye_1474051262",
+  "address": "Москва, м. Щелковская",
+  "title": "Фиалки махровые",
+  "seller_link": "/user/5b47e3d9be72460911e79bc4d119a39a/profile?id=1474051262&src=item",
+  "text": "Цена за 1 горшок - 150 руб. Фото сделано с натуры.\nМесто встречи возможно на Курской /Щелковской станции метро.\n",
+  "seller-contact": "Нина",
+  "post_date": "  08 October в 07:42  "
+}

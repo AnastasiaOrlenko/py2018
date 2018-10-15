@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бибирево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1123997238",
+  "price": 100,
+  "seller": "Эльфира",
+  "post_date": "  08 October в 16:58  ",
+  "title": "Толстянка (денежное дерево)",
+  "text": "Укорененные отростки денежного дерево, очень неприхотливый цветок\n",
+  "index": 1123997238,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e2e729b22e30dcd34bdc419bc37002e1/profile?id=1123997238&src=item"
+}

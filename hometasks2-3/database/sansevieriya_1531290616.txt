@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1531290616,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1531290616",
+  "address": "Москва, м. Марьино",
+  "title": "Сансевиерия",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1531290616&src=item",
+  "text": "Продаю растения-сансевиерия. Растения с хорошо развитой корневой системой. В горшке 4 отростка, высота 45 см. Возможна доставка до любой станции метро. Любой горшок 300 рублей, белый горшок продан\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 16:02  "
+}

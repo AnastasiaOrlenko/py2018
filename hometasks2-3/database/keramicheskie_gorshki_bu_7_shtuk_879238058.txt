@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 879238058,
+  "title": "Керамические горшки б/у (7 штук)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskie_gorshki_bu_7_shtuk_879238058",
+  "seller": "Ирина",
+  "address": "Москва, м. Люблино",
+  "text": "Продаются вместе 7 керамических горшков. Горшки без трещин, всё в хорошем состоянии. Самовывоз, звоните после 17-00.\n",
+  "post_date": "  5 октября в 16:43  ",
+  "seller_link": "/user/26ded339510985b011b9cbaece329c22/profile?id=879238058&src=item"
+}

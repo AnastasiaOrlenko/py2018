@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1299608102,
+  "title": "Фиалка Rainbow's quiet riot",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_rainbows_quiet_riot_1299608102",
+  "seller": "Мария",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Молодая сортовая фиалка\n",
+  "post_date": "  6 октября в 13:59  ",
+  "seller_link": "/user/3434f2a0b2c297440435c92df28aa839/profile?id=1299608102&src=item"
+}

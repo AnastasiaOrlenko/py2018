@@ -1,0 +1,12 @@
+{
+  "price": 1990,
+  "seller_status": "Частное лицо",
+  "index": 1342647793,
+  "title": "Молочай (высота 1,5 м)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_vysota_15_m_1342647793",
+  "seller": "Женя",
+  "address": "Москва, м. Выхино",
+  "text": "Шикарное растение высотой более 1,5 метров. Выращено в естественных условиях.\n",
+  "post_date": "  5 октября в 08:06  ",
+  "seller_link": "/user/e9280c461e5f61724d3f229863140105/profile?id=1342647793&src=item"
+}

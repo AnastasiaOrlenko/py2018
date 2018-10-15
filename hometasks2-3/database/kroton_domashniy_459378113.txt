@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Компания",
+  "index": 459378113,
+  "title": "Кротон домашний",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_domashniy_459378113",
+  "seller": "Елена",
+  "address": "Москва, м. Новогиреево",
+  "text": "Про обмен не писать !!!\nКротон выращен в домашних условиях. Без горшка 65 см\n",
+  "post_date": "  07 October в 00:03  ",
+  "seller_link": "/user/a0c1901f2c6f1848deba1a4397cf8642/profile?id=459378113&src=item"
+}

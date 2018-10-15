@@ -1,0 +1,12 @@
+{
+  "price": 690,
+  "seller_status": "Частное лицо",
+  "index": 1304899238,
+  "title": "Принцеттия микс",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/printsettiya_miks_1304899238",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 12д. Высота 40см\n",
+  "post_date": "  6 октября в 20:33  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1304899238&src=item"
+}

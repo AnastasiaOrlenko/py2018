@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 7500,
+  "index": 1323116896,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/etazherka_dlya_tsvetov_1323116896",
+  "address": "Москва, м. Крылатское",
+  "title": "Этажерка для цветов",
+  "seller_link": "/user/6c75a2bbd51717dc4be1e09bc0e4b2a3/profile?id=1323116896&src=item",
+  "text": "Продаю. Одна полка сломалась.\n",
+  "post_date": "  07 October в 15:54  "
+}

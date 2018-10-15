@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1331721922,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1331721922",
+  "seller": "Сергей",
+  "address": "Москва, м. Новые Черемушки",
+  "text": "Большой 1000р , маленькие 500р\n",
+  "post_date": "  07 October в 12:47  ",
+  "seller_link": "/user/bafb329779489a3d1d13f109f4e3be63/profile?id=1331721922&src=item"
+}

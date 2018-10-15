@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1576143346,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1576143346",
+  "seller": "Раиса",
+  "address": "Москва, м. Семеновская",
+  "text": "ДРАЦЕНА деременская очень простая в уходе. Высота 50 см\n",
+  "post_date": "  07 October в 00:35  ",
+  "seller_link": "/user/114da70008295aa15325bb286036aa36/profile?id=1576143346&src=item"
+}

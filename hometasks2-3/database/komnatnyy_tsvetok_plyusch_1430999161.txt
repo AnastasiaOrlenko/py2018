@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1430999161,
+  "title": "Комнатный цветок Плющ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_plyusch_1430999161",
+  "seller": "Наталия",
+  "address": "Москва, м. Выхино",
+  "text": "Комнатный цветок Плющ. \nВ горшке с питательным грунтом и дренажом. \nПродаётся именно это растение, что на фото. \nВстреча возможна в/у метро Выхино или Авиамоторная.\n",
+  "post_date": "  5 октября в 14:10  ",
+  "seller_link": "/user/331ffdf057132fbc0f820ee1c57777cd/profile?id=1430999161&src=item"
+}

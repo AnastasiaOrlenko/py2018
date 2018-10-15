@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Домодедовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitolampa_lineynaya_dlya_rasteniy_minifermer_40vat_1504102197",
+  "price": 2500,
+  "seller": "Александр",
+  "post_date": "  08 October в 23:33  ",
+  "title": "Фитолампа линейная для растений MiniFermer 40ват",
+  "text": "Продаю 4 линейные фитолампы от MiniFermer.\nБиколор, потребляемая мощность 40 ват у каждой. Все вместе дают 160 ват. Длина 140 см.\nПользовался примерно 90 дней, по 15 часов в день. \nЛинзы на 60 градусов, не хватает 7 линз.\nПродам по 2500 за штуку. Если возьмете 4 лампы, то возможен торг.\n",
+  "index": 1504102197,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/345b63d9b4baf1c1a4b16067fe59a100/profile?id=1504102197&src=item"
+}

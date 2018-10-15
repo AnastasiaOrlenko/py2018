@@ -1,0 +1,12 @@
+{
+  "text": "Буцефаландры:\nBrownie \nLamandau Purple\nShine green\nVelvet\nCrocodile\nSuang blue\nSuang red\nPenoh blue\nTreasure ll\nCrokodil\nSilver powder\nPinoh silver\nPinoh\n и еще много видов без названий, названия не сохранились) дон фото по запросу)))\n",
+  "title": "Буцефаландры",
+  "price": 200,
+  "index": 1306322135,
+  "address": "Москва, м. Маяковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/butsefalandry_1306322135",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:35  ",
+  "seller": "Виталий",
+  "seller_link": "/user/2566c3acecbbed4a61adb1de583d4b24/profile?id=1306322135&src=item"
+}

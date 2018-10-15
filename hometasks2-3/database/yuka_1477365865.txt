@@ -1,0 +1,12 @@
+{
+  "text": "Без горшка.\n",
+  "title": "Юка",
+  "price": 50,
+  "index": 1477365865,
+  "address": "Москва, м. Бауманская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yuka_1477365865",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:08  ",
+  "seller": "Ирина",
+  "seller_link": "/user/d1802092d0752a5bd17f7f97c695e76c/profile?id=1477365865&src=item"
+}

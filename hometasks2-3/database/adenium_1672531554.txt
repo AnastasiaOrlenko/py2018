@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1672531554,
+  "title": "Адениум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/adenium_1672531554",
+  "seller": "Наталия",
+  "seller-contact": "Галина",
+  "address": "Москва, м. Выхино",
+  "text": "Продаю трехлетние сеянцы адениума\n",
+  "post_date": "  4 октября в 22:01  ",
+  "seller_link": "/user/5cdae5962a36b39ba3eaad21c033bfc0/profile?id=1672531554&src=item"
+}

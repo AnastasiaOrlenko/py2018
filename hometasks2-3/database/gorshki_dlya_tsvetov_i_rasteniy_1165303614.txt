@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1165303614,
+  "seller": "Не Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_i_rasteniy_1165303614",
+  "address": "Москва, м. Спортивная",
+  "title": "Горшки для цветов и растений",
+  "seller_link": "/user/3f01faaafbf5d6261c31d74d400bbe3b/profile?id=1165303614&src=item",
+  "text": "Продам горшки. Разные. Бу в хорошем состоянии. Любые доп фото и замеры по запросу. От 100₽ За горшок\n",
+  "seller-contact": "Ирина",
+  "post_date": "  07 October в 23:15  "
+}

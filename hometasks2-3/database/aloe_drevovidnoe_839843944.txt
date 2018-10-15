@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 839843944,
+  "title": "Алое древовидное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_drevovidnoe_839843944",
+  "seller": "Мария",
+  "address": "Москва, м. Царицыно",
+  "text": "Продам алое от 50р\n",
+  "post_date": "  4 октября в 18:59  ",
+  "seller_link": "/user/d119a33bda9a99b907d5b9da62cad985/profile?id=839843944&src=item"
+}

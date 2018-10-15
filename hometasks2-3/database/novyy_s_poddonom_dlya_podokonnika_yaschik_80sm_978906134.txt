@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 978906134,
+  "title": "Новый с поддоном для подоконника ящик 80см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novyy_s_poddonom_dlya_podokonnika_yaschik_80sm_978906134",
+  "seller": "lina",
+  "address": "Москва, м. Курская",
+  "text": "Новый\nДлина 80см с поддоном-Цвет точно как на фото\n-Высота 15см \nШирина 17см\n Длина 80см\n цена 230р\nНовый -передам в метро В наличии две шт -Новые,купила,оказались лишние За два 400руб\n",
+  "post_date": "  6 октября в 13:49  ",
+  "seller_link": "/user/65e02c7953348eeed61a3919cb054687/profile?id=978906134&src=item"
+}

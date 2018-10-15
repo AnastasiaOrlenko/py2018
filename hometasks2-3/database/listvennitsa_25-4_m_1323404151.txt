@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/listvennitsa_25-4_m_1323404151",
+  "seller-contact": "Андрей",
+  "price": 2800,
+  "seller": "ЯР-КРУПНОМЕР",
+  "post_date": "  08 October в 23:37  ",
+  "title": "Лиственница 2,5-4 м",
+  "text": "Реализуем лиственницу сибирскую 2,5-4м высотой с комом земли. \nПо всем вопросам звоните\n",
+  "index": 1323404151,
+  "seller_status": "Магазин",
+  "seller_link": "/i68949607?gdlkerfdnwq=101&shopId=119204"
+}

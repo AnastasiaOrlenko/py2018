@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Селигерская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1545439267",
+  "seller-contact": "Яна",
+  "price": 150,
+  "seller": "Яна(Не компания)",
+  "post_date": "  08 October в 18:46  ",
+  "title": "Декабрист",
+  "text": "Продам микс из разного цвета декабристов.самовывоз\n",
+  "index": 1545439267,
+  "seller_status": "Компания",
+  "seller_link": "/user/9898a8171caae25e0efd6a6f2fed33bf/profile?id=1545439267&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1177298257,
+  "title": "Фиалка - сорт Зефир",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_zefir_1177298257",
+  "seller": "Алёна",
+  "address": "Москва, м. Каширская",
+  "text": "Фиалки - сорт Зефир. \n(черенки - 30 руб., детки, стартеры, взрослые). \nЕсть другие сорта.\n",
+  "post_date": "  6 октября в 15:00  ",
+  "seller_link": "/user/7ce6d64ecd5b00fa79c1310ec3059e77/profile?id=1177298257&src=item"
+}

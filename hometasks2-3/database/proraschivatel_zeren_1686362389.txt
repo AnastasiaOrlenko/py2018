@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1686362389,
+  "title": "Проращиватель зерен",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/proraschivatel_zeren_1686362389",
+  "seller": "Максим",
+  "address": "Москва, м. Волгоградский проспект",
+  "text": "Проращиватель для зерен\n",
+  "post_date": "  6 октября в 10:49  ",
+  "seller_link": "/user/3a4354fd2385d6fe17ed24111e2e8d5f/profile?id=1686362389&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 562036259,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_kashpo_dlya_tsvetov_562036259",
+  "address": "Москва, м. Жулебино",
+  "title": "Горшки (кашпо) для цветов",
+  "seller_link": "/user/23fc2dcde6f8fe04d1a878f4187f2d69/profile?id=562036259&src=item",
+  "text": "Керамические синие и красные кашпо новые , большие пластиковые полгода б/у. Розовые и пластиковые большие проданы. Цена за один.\n",
+  "seller-contact": "Лина",
+  "post_date": "  07 October в 21:37  "
+}

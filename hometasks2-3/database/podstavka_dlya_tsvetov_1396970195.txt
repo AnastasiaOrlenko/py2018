@@ -1,0 +1,13 @@
+{
+  "text": "Подставка для балконных, цветочных ящиков. Разм.75х26 - 2 шт.\nМеталл. Могу отдать с ящиками.\n",
+  "title": "Подставка для цветов",
+  "price": 600,
+  "index": 1396970195,
+  "address": "Москва, м. Марьино",
+  "seller-contact": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_dlya_tsvetov_1396970195",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:17  ",
+  "seller": "Елена",
+  "seller_link": "/user/12d3547355dbe94b2d416b2dd44549e4/profile?id=1396970195&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1442285779,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zefirantes_rozovyy_1442285779",
+  "address": "Москва, м. Бибирево",
+  "title": "Зефирантес розовый",
+  "seller_link": "/user/ed11718e1c31cf9a7964ad3ff9666f9a/profile?id=1442285779&src=item",
+  "text": "Продаю взрослое цветущее растение, которое на фото. Без горшка.\n",
+  "post_date": "  07 October в 22:28  "
+}

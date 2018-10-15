@@ -1,0 +1,12 @@
+{
+  "text": "Высота с горшком 130 см.\n",
+  "title": "Фикус каучуконосный эластика",
+  "price": 2100,
+  "index": 1303352844,
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukonosnyy_elastika_1303352844",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:37  ",
+  "seller": "Вета",
+  "seller_link": "/user/f68c7cdeb9ed8b574369244ff6c603c5/profile?id=1303352844&src=item"
+}

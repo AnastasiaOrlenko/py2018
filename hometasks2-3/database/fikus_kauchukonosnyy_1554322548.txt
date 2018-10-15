@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1554322548,
+  "title": "Фикус каучуконосный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukonosnyy_1554322548",
+  "seller": "Людмила",
+  "address": "Москва, м. Перово",
+  "text": "Продам фикусы каучуконосные. Фото 1,в декоративном горшке ручной работы - 2000 руб.( высота около метра). Фото 2- 1000 руб,\n",
+  "post_date": "  5 октября в 17:06  ",
+  "seller_link": "/user/e897f54241982ed106dc97860244bf38/profile?id=1554322548&src=item"
+}

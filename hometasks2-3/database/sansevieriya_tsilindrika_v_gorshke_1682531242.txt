@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1682531242,
+  "title": "Сансевиерия цилиндрика в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_tsilindrika_v_gorshke_1682531242",
+  "seller": "частное лицо, Елена",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Котельники",
+  "text": "Продам Комнатное растение. Сансевиерия цилиндрика с деткой, в горшке.\n",
+  "post_date": "  6 октября в 13:06  ",
+  "seller_link": "/user/6e8292f462b0000a21abf16688c17291/profile?id=1682531242&src=item"
+}

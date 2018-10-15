@@ -1,0 +1,11 @@
+{
+  "seller_status": "Компания",
+  "text": "В наличии яркий коллекционный гибрид - Phal. PG 'Triada Sway'. Сорторазмер F/S. По 3000,-\nПолный каталог по наличию сортов (с фото и ценами) - по запросу на Ваш e-mail\n",
+  "index": 711412345,
+  "title": "Орхидея фаленопсис PG \"Triada Sway\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_pg_triada_sway_711412345",
+  "seller": "Анюта",
+  "address": "Москва, м. Охотный ряд",
+  "post_date": "  07 October в 03:04  ",
+  "seller_link": "/user/a6a31603dcd748ad1bb08a87d6eb9064/profile?id=711412345&src=item"
+}

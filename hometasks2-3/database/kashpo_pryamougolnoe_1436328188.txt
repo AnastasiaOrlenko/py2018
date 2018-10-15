@@ -1,0 +1,12 @@
+{
+  "text": "Изготовлено из массива сосны ,морилка+лак .В эко стиле.\nИзготовим под любые горшки в любом цвете и размере.\n",
+  "title": "Кашпо прямоугольное",
+  "price": 600,
+  "index": 1436328188,
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_pryamougolnoe_1436328188",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:21  ",
+  "seller": "ash",
+  "seller_link": "/user/52c2d2eadc1edf62f0daaab6d9a955be/profile?id=1436328188&src=item"
+}

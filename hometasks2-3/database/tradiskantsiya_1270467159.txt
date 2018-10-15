@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1270467159,
+  "title": "Традисканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradiskantsiya_1270467159",
+  "seller": "Наталия",
+  "address": "Москва, м. Теплый стан",
+  "text": "Неприхотливо в уходе,быстро разрастается.\n",
+  "post_date": "  6 октября в 11:18  ",
+  "seller_link": "/user/550cc158c55047bbb7e6263e2362016f/profile?id=1270467159&src=item"
+}

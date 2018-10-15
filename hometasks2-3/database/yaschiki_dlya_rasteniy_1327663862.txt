@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 2500,
+  "index": 1327663862,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaschiki_dlya_rasteniy_1327663862",
+  "address": "Москва, м. Кузьминки",
+  "title": "Ящики для растений",
+  "seller_link": "/user/a910bb69f7427423dfc03427f24959fb/profile?id=1327663862&src=item",
+  "text": "Декоративные ёмкости для Ваших любимых растений.\nРазмеры изделия по вашему заказу могут быть любыми,как и цвет под любую породу древесины.\n",
+  "post_date": "  07 October в 14:57  "
+}

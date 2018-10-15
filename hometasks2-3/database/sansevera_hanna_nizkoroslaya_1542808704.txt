@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1542808704,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevera_hanna_nizkoroslaya_1542808704",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "title": "Сансевьера Ханна низкорослая",
+  "seller_link": "/user/7c69104128b92db219cec742edd1d570/profile?id=1542808704&src=item",
+  "text": "Цветок- Сансевьера Ханна низкорослая,\n",
+  "post_date": "  07 October в 13:04  "
+}

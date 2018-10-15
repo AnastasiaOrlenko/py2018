@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1289152959,
+  "title": "Лудизия - драгоценная орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ludiziya_-_dragotsennaya_orhideya_1289152959",
+  "seller": "Мари",
+  "address": "Москва, м. Аннино",
+  "text": "Продаю молодые растения Лудизии по цене 300 р.\nИменно те, что на фото 2.\nВстречаюсь м Аннино в любое время.\n",
+  "post_date": "  4 октября в 21:46  ",
+  "seller_link": "/user/0c381a868c078ac3f6b4f736625efd7b/profile?id=1289152959&src=item"
+}

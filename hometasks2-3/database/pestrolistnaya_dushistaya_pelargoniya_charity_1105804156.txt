@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1105804156,
+  "title": "Пестролистная душистая пеларгония Charity",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pestrolistnaya_dushistaya_pelargoniya_charity_1105804156",
+  "seller": "Ирина",
+  "address": "Москва, м. Волжская",
+  "text": "Черенки пестролистной душистой пеларгонии Charity.\nПоменьше 150,побольше 200\n",
+  "post_date": "  6 октября в 17:18  ",
+  "seller_link": "/user/d4f7ecc0fb78be6dff4bd9dcc111e0ea/profile?id=1105804156&src=item"
+}

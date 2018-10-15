@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1032553096,
+  "title": "Монстера комнатный цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_komnatnyy_tsvetok_1032553096",
+  "seller": "Наталия",
+  "address": "Москва, м. Выхино",
+  "text": "Объявление АКТУАЛЬНО. \nВзрослое растение в горшке. Высота 50-55 см\nЖиву в области. \nВстреча возможна у/в метро Выхино или Авиамоторная.\n",
+  "post_date": "  5 октября в 14:10  ",
+  "seller_link": "/user/331ffdf057132fbc0f820ee1c57777cd/profile?id=1032553096&src=item"
+}

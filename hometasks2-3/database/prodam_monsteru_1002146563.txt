@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1002146563,
+  "title": "Продам монстеру",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_monsteru_1002146563",
+  "seller": "Любовь",
+  "address": "Москва, м. Щелковская",
+  "text": "210 см. Горшок на роликах.\nДиффенбахия в подарок.\n",
+  "post_date": "  5 октября в 21:39  ",
+  "seller_link": "/user/6b523c6b6d5b9f8f39dd03b53720b0ac/profile?id=1002146563&src=item"
+}

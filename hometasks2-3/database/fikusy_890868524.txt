@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 890868524,
+  "title": "Фикусы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikusy_890868524",
+  "seller": "Женя",
+  "address": "Москва, м. Алексеевская",
+  "text": "Два отростка с корнями, можно сажать. Цена символическая.\n",
+  "post_date": "  07 October в 10:49  ",
+  "seller_link": "/user/75cfcf80349cf416c83a0828a18cd819/profile?id=890868524&src=item"
+}

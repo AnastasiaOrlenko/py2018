@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1579668945,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kaktusy_1579668945",
+  "address": "Зеленоград",
+  "title": "Кактусы",
+  "seller_link": "/user/2a8519e8da95608d993bdfeda770fcf5/profile?id=1579668945&src=item",
+  "text": "Каждый по 300 руб, муммилярия цветет белыми мелкими цветами, второй кактус мягкий,пушистый высотой 47 см\n",
+  "post_date": "  07 October в 13:16  "
+}

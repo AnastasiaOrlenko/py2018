@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1593919105,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_mahrovoe_aloe_ostistoe_1593919105",
+  "address": "Москва, м. Октябрьское поле",
+  "title": "Каланхоэ махровое, Алоэ остистое",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1593919105&src=item",
+  "text": "Каланхоэ сейчас не цветёт, цветение как на 1 фото. От 50 до 150 руб.\nАлоэ-В подвесном кашпо 6 кустиков . Цена 100 р.вместе с кашпо\n",
+  "post_date": "  07 October в 22:22  "
+}

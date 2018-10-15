@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1709544980,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1709544980",
+  "seller": "Вячеслав",
+  "seller-contact": "собственник",
+  "address": "Москва, м. Окружная",
+  "text": "Продам Юкку. Цена зависит от размера.\n",
+  "post_date": "  6 октября в 02:17  ",
+  "seller_link": "/user/7e8c788581f7f91e943f91dc017ddeca/profile?id=1709544980&src=item"
+}

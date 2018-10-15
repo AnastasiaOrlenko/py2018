@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 5000,
+  "index": 1183034588,
+  "seller": "сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_benzhamin_1183034588",
+  "address": "Москва, м. Царицыно",
+  "title": "Фикус Бенжамин",
+  "seller_link": "/user/9cf4180acd7d31cd6df4da34029d91f0/profile?id=1183034588&src=item",
+  "text": "цветок большой 1м25 см\n",
+  "post_date": "  07 October в 21:29  "
+}

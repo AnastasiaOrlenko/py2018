@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1586295811,
+  "title": "Кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_1586295811",
+  "seller": "Кэш",
+  "address": "Москва, м. Беляево",
+  "text": "Красивый очень. Пышные листья.\n",
+  "post_date": "  6 октября в 00:33  ",
+  "seller_link": "/user/29c1620471c237c2192ae0ad7695eee4/profile?id=1586295811&src=item"
+}

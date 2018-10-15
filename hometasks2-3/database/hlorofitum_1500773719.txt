@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1500773719,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1500773719",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Хлорофитум в керамическом горшке.\n",
+  "post_date": "  07 October в 08:18  ",
+  "seller_link": "/user/a7fbd1771049886f03e88cd6c1b8dcb8/profile?id=1500773719&src=item"
+}

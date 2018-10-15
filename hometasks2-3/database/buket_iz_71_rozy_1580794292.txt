@@ -1,0 +1,12 @@
+{
+  "text": "Радужный букет из роз\n",
+  "title": "Букет из 71 розы",
+  "price": 4260,
+  "index": 1580794292,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_71_rozy_1580794292",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:12  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

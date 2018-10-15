@@ -1,0 +1,12 @@
+{
+  "price": 1250,
+  "seller_status": "Частное лицо",
+  "index": 1710909275,
+  "title": "Комплект днат 250",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komplekt_dnat_250_1710909275",
+  "seller": "Римма",
+  "address": "Москва, м. Белокаменная",
+  "text": "Комплект ДНаТ 250 Вт в сборе. Возможна доставка по России. Звоните\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/a15325d0520d25bf51eb32ef14347f8d/profile?id=1710909275&src=item"
+}

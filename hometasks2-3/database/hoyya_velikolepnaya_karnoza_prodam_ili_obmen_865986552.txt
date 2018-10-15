@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 865986552,
+  "title": "Хойя великолепная (карноза) продам или обмен",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_velikolepnaya_karnoza_prodam_ili_obmen_865986552",
+  "seller": "Елена",
+  "address": "Москва, м. Площадь Ильича",
+  "text": "Есть большое цветущее, взрослое растение 2тыс.руб\nК сожалению сделать фото нет возможности. Живу около метро,\nможно посмотреть в живую\nобменяю на кампанулу\n",
+  "post_date": "  07 October в 10:15  ",
+  "seller_link": "/user/b1767bd1de84100360de82fa279965e9/profile?id=865986552&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 707283854,
+  "title": "Тюльпаны, каны",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tyulpany_kany_707283854",
+  "seller": "частное лицо",
+  "seller-contact": "частное лицо",
+  "address": "Москва, м. Молодежная",
+  "text": "продаю:\n-Тюльпаны махровые, цена за луковицу 250 руб.\n-каны зеленые листья, цена 300руб\n",
+  "post_date": "  5 октября в 22:59  ",
+  "seller_link": "/user/31674dc10dd5b12fb5a62e895f270ecc/profile?id=707283854&src=item"
+}

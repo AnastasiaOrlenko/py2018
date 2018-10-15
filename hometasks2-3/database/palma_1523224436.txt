@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1523224436,
+  "title": "Пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_1523224436",
+  "seller": "Екатерина",
+  "address": "Москва, м. Новогиреево",
+  "text": "Отлично подойдёт в офис или в большую квартиру .\n",
+  "post_date": "  6 октября в 15:58  ",
+  "seller_link": "/user/b5d2703a3d3ae87bb6e1e61e285410df/profile?id=1523224436&src=item"
+}

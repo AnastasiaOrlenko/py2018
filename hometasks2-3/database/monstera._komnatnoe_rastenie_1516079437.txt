@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Коломенская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera._komnatnoe_rastenie_1516079437",
+  "price": 3000,
+  "seller": "ЯНА",
+  "post_date": "  08 October в 18:07  ",
+  "title": "Монстера. Комнатное растение",
+  "text": "Продаю в связи с переездом\n",
+  "index": 1516079437,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2a0caaa8ea9b38797b3fed78d0e52227/profile?id=1516079437&src=item"
+}

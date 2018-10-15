@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1648903522,
+  "title": "Большой горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoy_gorshok_1648903522",
+  "seller": "Анна",
+  "address": "Москва, м. Балтийская",
+  "text": "большой глиняный горшок.высота 32, диаметр 37 см\n",
+  "post_date": "  5 октября в 18:03  ",
+  "seller_link": "/user/77f01a9503818c6bafbd0298b4c0ddcf/profile?id=1648903522&src=item"
+}

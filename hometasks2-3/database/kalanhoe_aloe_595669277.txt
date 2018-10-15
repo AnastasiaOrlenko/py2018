@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_aloe_595669277",
+  "price": 150,
+  "seller": "elena",
+  "post_date": "  08 October в 18:55  ",
+  "title": "Каланхоэ, алоэ",
+  "text": "Есть каланхоэ по 150 р., по 350 р.\nАлоэ - по 150 р.(молодые, на 3, 4 фотогр.)\nВстреча - у метро Бабушкинская, желательно, за день позвонить.\n",
+  "index": 595669277,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/eeb7a75910eafaa3e225f4e99b8bab42/profile?id=595669277&src=item"
+}

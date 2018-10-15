@@ -1,0 +1,12 @@
+{
+  "text": "Продам сосну ложновеймутову (pinus ayacahuite). Возраст 3 года. Иглы около 17 см. Абсолютно морозостойкая в Подмосковье.\n",
+  "title": "Сосна ложновеймутова",
+  "price": 2500,
+  "index": 1585792249,
+  "address": "Москва, м. Теплый стан",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sosna_lozhnoveymutova_1585792249",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:27  ",
+  "seller": "Вадим",
+  "seller_link": "/user/237638a3687e4ffbf56144591454b3ac/profile?id=1585792249&src=item"
+}

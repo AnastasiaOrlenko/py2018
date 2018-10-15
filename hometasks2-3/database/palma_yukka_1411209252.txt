@@ -1,0 +1,12 @@
+{
+  "price": 8000,
+  "seller_status": "Частное лицо",
+  "index": 1411209252,
+  "title": "Пальма Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_yukka_1411209252",
+  "seller": "Наталья/Юрий",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Высота 2м в горшке\n",
+  "post_date": "  5 октября в 17:52  ",
+  "seller_link": "/user/453a2ba9b761ec59c075664f82b4f9c2/profile?id=1411209252&src=item"
+}

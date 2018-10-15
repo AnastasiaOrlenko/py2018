@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 724414785,
+  "title": "Цветочный горшок в стиле Шебби шик",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_v_stile_shebbi_shik_724414785",
+  "seller": "Не компания",
+  "address": "Москва, м. Бауманская",
+  "text": "Стиль Шебби шик цветочный горшок .\nХороший подарок модницам .\n",
+  "post_date": "  6 октября в 19:09  ",
+  "seller_link": "/user/5c181017ba74a287e218d1560d4c55b1/profile?id=724414785&src=item"
+}

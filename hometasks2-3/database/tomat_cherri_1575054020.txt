@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1575054020,
+  "title": "Томат черри",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tomat_cherri_1575054020",
+  "seller": "Таис",
+  "address": "Москва, м. Отрадное",
+  "text": "Томат цветет и плодоносит\nПродаю тот что на фото\nМетро отрадное или самовывоз\n",
+  "post_date": "  5 октября в 17:11  ",
+  "seller_link": "/user/df84309d0b64171caa5df6f129d25dca/profile?id=1575054020&src=item"
+}

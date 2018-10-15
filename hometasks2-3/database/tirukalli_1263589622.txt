@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1263589622,
+  "title": "Тирукалли",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tirukalli_1263589622",
+  "seller": "Анна",
+  "address": "Москва, м. Шипиловская",
+  "text": "Тирукалли. В горшке 2шт.-400руб.В ведерке 1шт-300руб.\n",
+  "post_date": "  6 октября в 12:58  ",
+  "seller_link": "/user/da997a6abee740b76d9f049477a02325/profile?id=1263589622&src=item"
+}

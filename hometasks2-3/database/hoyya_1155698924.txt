@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1155698924,
+  "title": "Хойя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_1155698924",
+  "seller": "Ольга",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Очень красивый большой куст.\n",
+  "post_date": "  5 октября в 15:51  ",
+  "seller_link": "/user/d4a25a2e72b18e999a585e1b7ac4b064/profile?id=1155698924&src=item"
+}

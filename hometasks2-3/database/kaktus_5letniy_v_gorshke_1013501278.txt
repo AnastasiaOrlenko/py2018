@@ -1,0 +1,12 @@
+{
+  "price": 140,
+  "seller_status": "Частное лицо",
+  "index": 1013501278,
+  "title": "Кактус 5летний в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_5letniy_v_gorshke_1013501278",
+  "seller": "валентина",
+  "address": "Москва, м. Перово",
+  "text": "Кактус в горшке очень оригинален и красив, весь покрывается \"пухом\" Высота растения 23 см от земли.Высота горшка 13 см.\n",
+  "post_date": "  07 October в 10:42  ",
+  "seller_link": "/user/ac2cdb82a8401a9e36a24d9fa2c03f04/profile?id=1013501278&src=item"
+}

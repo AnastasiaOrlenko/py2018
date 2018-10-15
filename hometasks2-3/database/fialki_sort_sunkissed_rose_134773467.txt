@@ -1,0 +1,13 @@
+{
+  "price": 30,
+  "seller_status": "Компания",
+  "index": 134773467,
+  "title": "Фиалки сорт Sunkissed Rose",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_sort_sunkissed_rose_134773467",
+  "seller": "ОБУВЬ МЕЧТЫ - OASIS SHOES",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Кантемировская",
+  "text": "Продаётся фиалка сорт Sunkissed Rose (черенки - 30 руб., детки, стартеры).\nЕсть другие сорта.\n",
+  "post_date": "  6 октября в 12:57  ",
+  "seller_link": "/user/c2900c4f264d126e41d9e617d2129963/profile?id=134773467&src=item"
+}

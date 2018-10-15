@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1610504925,
+  "title": "Детки фиалки Свадебный букет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/detki_fialki_svadebnyy_buket_1610504925",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "Детки фиалки Свадебный букет\n",
+  "post_date": "  6 октября в 18:07  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1610504925&src=item"
+}

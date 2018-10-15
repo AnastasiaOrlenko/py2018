@@ -1,0 +1,12 @@
+{
+  "title": "Хойя Balaensis splash",
+  "price": 500,
+  "seller": "Светлана",
+  "seller_link": "/user/8b52155bb1e3a2922316e12833759492/profile?id=1136915290&src=item",
+  "address": "Москва, м. Домодедовская",
+  "index": 1136915290,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_balaensis_splash_1136915290",
+  "text": "В наличии 1шт.Укоренённая.Брони нет,без торга. Доставка до вашего метро 150р.(центр зала). Только сообщения на сайте,на звонки не отвечаю. Почта,СДЕК.\n",
+  "post_date": "  4 октября в 17:27  "
+}

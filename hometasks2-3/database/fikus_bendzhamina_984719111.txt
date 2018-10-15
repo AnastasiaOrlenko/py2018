@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 984719111,
+  "seller": "Инна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_984719111",
+  "address": "Москва, м. Новогиреево",
+  "title": "Фикус Бенджамина",
+  "seller_link": "/user/9111a007b7e5544ab658bb1be87a822d/profile?id=984719111&src=item",
+  "text": "Фикус Бенджамина,высота 46 см.\nСамовывоз от дома (вторая остановка на общественном траспорте от м.Новогиреево),дом рядом с остановкой,найти не сложно.\n",
+  "post_date": "  07 October в 15:39  "
+}

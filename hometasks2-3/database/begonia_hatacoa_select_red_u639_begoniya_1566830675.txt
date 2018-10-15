@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/585bdac171e35b01144625b79da5eef8/profile?id=1566830675&src=item",
+  "seller-contact": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begonia_hatacoa_select_red_u639_begoniya_1566830675",
+  "post_date": "  08 October в 09:35  ",
+  "address": "Москва, м. Пражская",
+  "seller": "***",
+  "text": "Продам детку Begonia Hatacoa Select Red (U639) с фото 3 (подросла уже) - 400р. \nОчень красивая бегония с плотными глянцевыми листьями.\nЕсть много других сортов бегоний селекции Dimetris (DS бегонии).\nПо запросу вышлю каталог.\nСамовывоз из дома 10 мин от м. Пражская, по средам м. Китай-город или по договоренности м. Серпуховская с 18-45 до 19-15.\nОтправляю в другие города\n",
+  "index": 1566830675,
+  "seller_status": "Компания",
+  "price": 400,
+  "title": "Begonia Hatacoa Select Red (U639) Бегония"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1017205438,
+  "seller": "Алина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_1017205438",
+  "address": "Москва, м. Медведково",
+  "title": "Гиппеаструм",
+  "seller_link": "/user/e2888c3be51803ecd3592669c014c52b/profile?id=1017205438&src=item",
+  "text": "Гиппеаструм\n взрослое растение 250р\n детки (6-8мес) 150р \nм. Медведково, Бибирево или Алтуфьево\nул.Корнейчука, Белозёрская\n87-й км МКАД ТЦ \"Час Пик\"\n",
+  "post_date": "  07 October в 13:11  "
+}

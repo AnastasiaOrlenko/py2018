@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1175125179,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1175125179",
+  "seller": "Ирина",
+  "address": "Москва, м. Теплый стан",
+  "text": "1,35 м высота.\n",
+  "post_date": "  5 октября в 16:51  ",
+  "seller_link": "/user/359dfa0a67d1073336171a6efc604360/profile?id=1175125179&src=item"
+}

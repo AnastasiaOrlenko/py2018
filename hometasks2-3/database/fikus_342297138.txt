@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Комсомольская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_342297138",
+  "price": 500,
+  "seller": "частное лицо",
+  "post_date": "  08 October в 18:29  ",
+  "title": "Фикус",
+  "text": "Продается крепкий сочный молодой фикус.\n",
+  "index": 342297138,
+  "seller_status": "Компания",
+  "seller_link": "/user/5484579703291e1b7be1efef67e4828d/profile?id=342297138&src=item"
+}

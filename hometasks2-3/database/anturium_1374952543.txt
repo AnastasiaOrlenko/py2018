@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Улица академика Янгеля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1374952543",
+  "seller-contact": "Продавец",
+  "price": 650,
+  "seller": "Продавец",
+  "post_date": "  08 October в 18:03  ",
+  "title": "Антуриум",
+  "text": "Продаются три куста антуриума. Цветения крупные, красного цвета (сейчас не цветёт). Стоимость без керамического горшка. Только цветы.\n",
+  "index": 1374952543,
+  "seller_status": "Компания",
+  "seller_link": "/user/94253a4eaab97c44f81188ecac997a16/profile?id=1374952543&src=item"
+}

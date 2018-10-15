@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1544813484,
+  "title": "Синия традисканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/siniya_tradiskantsiya_1544813484",
+  "seller": "Татьяна",
+  "address": "Москва, м. Печатники",
+  "text": "Красивая синия традисканция цветет белыми цветочками\n",
+  "post_date": "  5 октября в 09:33  ",
+  "seller_link": "/user/ca521b88f46c6b0e4c52957875875d55/profile?id=1544813484&src=item"
+}

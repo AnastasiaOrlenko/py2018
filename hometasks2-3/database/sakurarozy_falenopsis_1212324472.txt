@@ -1,0 +1,12 @@
+{
+  "text": "Есть очень хорошего качества раскошные цветы\n",
+  "title": "Сакура,розы, фаленопсис",
+  "price": 500,
+  "index": 1212324472,
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sakurarozy_falenopsis_1212324472",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 02:41  ",
+  "seller": "Гала",
+  "seller_link": "/user/d033c225efcbffd4d4b1cbcb1a06031c/profile?id=1212324472&src=item"
+}

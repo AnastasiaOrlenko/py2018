@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "готовая к продаже 50-500 кг\n",
+  "index": 1466544441,
+  "title": "Мята садовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/myata_sadovaya_1466544441",
+  "seller": "симион",
+  "address": "Москва",
+  "post_date": "  6 октября в 22:47  ",
+  "seller_link": "/user/5eb555945e01ebe271863ed517a6bea5/profile?id=1466544441&src=item"
+}

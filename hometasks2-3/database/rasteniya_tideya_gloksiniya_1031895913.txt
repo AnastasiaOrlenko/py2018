@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1031895913,
+  "title": "Растения: тидея, глоксиния",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rasteniya_tideya_gloksiniya_1031895913",
+  "seller": "Алла",
+  "address": "Москва, м. Красногвардейская",
+  "text": "Молодые растения тидеи фиолетовой по 200 каждая, есть 2 шт. Взрослое растение на фото для примера.\nГлоксиния филетовая в горшке-300р.\n",
+  "post_date": "  6 октября в 22:37  ",
+  "seller_link": "/user/50c82ad05687c1b610bb076c235bcea6/profile?id=1031895913&src=item"
+}

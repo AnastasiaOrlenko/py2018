@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Калужская",
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetka_714272825",
+  "seller_status": "Частное лицо",
+  "title": "Горшок для цветка",
+  "post_date": "  08 October в 13:34  ",
+  "price": 300,
+  "index": 714272825,
+  "seller_link": "/user/e422abdfdde8e7172d9b5b960d87dcd0/profile?id=714272825&src=item",
+  "text": "Оригинальный горшочек два зайчтка украсит любой интерьер\n"
+}

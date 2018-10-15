@@ -1,0 +1,12 @@
+{
+  "price": 2,
+  "seller_status": "Компания",
+  "index": 1377226230,
+  "title": "Горшок б/у",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_bu_1377226230",
+  "seller": "Протея",
+  "address": "Москва",
+  "text": "горшки для рассады б/у диаметр до 12см\n",
+  "post_date": "  07 October в 12:46  ",
+  "seller_link": "/user/5142b42dbd59263e3b0b22fffabd7c9c/profile?id=1377226230&src=item"
+}

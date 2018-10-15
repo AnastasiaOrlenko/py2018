@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1475761271,
+  "title": "Сортовые бальзамины в горшках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_balzaminy_v_gorshkah_1475761271",
+  "seller": "Наталия",
+  "address": "Москва, м. Отрадное",
+  "text": "Продаю подрощенные сортовые бальзамины в горшках, некоторые с бутонами. Стоимость 250₽ за каждый.\nСорта: \nМахровый красно-белый\nНовогвинейский белый\nCoral bells\nFiesta salsa red\nStarflake rose\nРозовый махровый\nDouble bicolor\nFiesta deep orange\nРозово-белый махровый\nSparkler hot pink\nStardust blue\nStardust pink - черенок с хорошими корнями в стакане 150₽\nСамовывоз\n",
+  "post_date": "  5 октября в 18:41  ",
+  "seller_link": "/user/5939983cc53975eae8ca6e977a57e450/profile?id=1475761271&src=item"
+}

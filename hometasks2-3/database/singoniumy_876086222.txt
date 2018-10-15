@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/a4ffa16343efe9916367042f4cb861f0/profile?id=876086222&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singoniumy_876086222",
+  "post_date": "  08 October в 08:52  ",
+  "address": "Москва",
+  "seller": "Александра",
+  "text": "Фото 1: regina red 150-450р\nФото 2: panda 200-450р\nФото 3: silver pearl 80-200р\nФото 4: brocante 50-350р\nФото 5: mango 200-250 \nФото 6: confetti 250-450р\nФото 7: wendlendi 350-500\nФото 8: cristmas 150-400р\nИмпериал вайт 350-500р\npink neon 150-400р\nPink spot 300-500р\nPink splash 250-400р\nБатерфляй алюжн 250-400р\nЕсть множество других видов растений, вышлю ссылку.\nВысылаю фото.\nВстреча проходит по договоренности в метро или у турникетов.\nНа смс не отвечаю, пожалуйста, пишите на сайте, в вотс ап или звоните.\n",
+  "index": 876086222,
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "title": "Сингониумы"
+}

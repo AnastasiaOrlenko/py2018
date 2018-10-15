@@ -1,0 +1,12 @@
+{
+  "text": "Кактус большой .\nВысота 70 см.\nЦветущий\n",
+  "title": "Кактус",
+  "price": 2500,
+  "index": 1421815728,
+  "address": "Москва, м. Профсоюзная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1421815728",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:25  ",
+  "seller": "елена",
+  "seller_link": "/user/e3d4053134465490d28b23f1cc13fc2b/profile?id=1421815728&src=item"
+}

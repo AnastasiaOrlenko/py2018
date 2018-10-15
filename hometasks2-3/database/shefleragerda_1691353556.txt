@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1691353556,
+  "title": "Шефлера,Герда\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shefleragerda_1691353556",
+  "seller": "Наталия",
+  "address": "Москва, м. Аэропорт",
+  "text": "Растение высотой 35 см.Плотные зеленые листья с более светлыми фрагментами.Продается в рассадочном горшке.\n",
+  "post_date": "  6 октября в 14:44  ",
+  "seller_link": "/user/c0ac243504cb61c3b829e7d553801c6e/profile?id=1691353556&src=item"
+}

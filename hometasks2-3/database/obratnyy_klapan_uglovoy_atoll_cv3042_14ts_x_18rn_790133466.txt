@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Савеловская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/obratnyy_klapan_uglovoy_atoll_cv3042_14ts_x_18rn_790133466",
+  "seller-contact": "Олег",
+  "price": 200,
+  "seller": "HansUrmann (Не магазин)",
+  "post_date": "  08 October в 16:27  ",
+  "title": "Обратный клапан угловой atoll CV3042 1/4ц x 1/8рн",
+  "text": "Обратный клапан угловой atoll CV3042 1/4ц x 1/8рн\nКак получить:\nЛичная встреча в метро: утром (в будни), ВТ, ЧТ вечером, на выходных - Химки\n",
+  "index": 790133466,
+  "seller_status": "Компания",
+  "seller_link": "/user/36e10a645752cf1682a0ac214fa89dc8/profile?id=790133466&src=item"
+}

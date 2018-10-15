@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица 1905 года",
+  "seller": "/",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_869108890",
+  "seller_status": "Компания",
+  "title": "Денежное дерево",
+  "post_date": "  08 October в 14:27  ",
+  "price": 300,
+  "index": 869108890,
+  "seller_link": "/user/c8506830e69c88c5c98d1b409841746c/profile?id=869108890&src=item",
+  "text": "Есть несколько. \nСамое маленькое 25 см\nКаждое по 300 вместе с горшком.\n"
+}

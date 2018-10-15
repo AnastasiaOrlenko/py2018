@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 995022498,
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_995022498",
+  "address": "Москва, м. Аэропорт",
+  "title": "Традесканция",
+  "seller_link": "/user/c0ac243504cb61c3b829e7d553801c6e/profile?id=995022498&src=item",
+  "text": "салатовая с белыми полосами различной толщины, смотрится очень нежно.\n",
+  "post_date": "  07 October в 18:59  "
+}

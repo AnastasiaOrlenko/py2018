@@ -1,0 +1,12 @@
+{
+  "text": "GrowLab GL100 Original (100x100x200)\nВ отличном состоянии.\n",
+  "title": "Гроутент",
+  "price": 12000,
+  "index": 1670720608,
+  "address": "Москва, м. Нахимовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/groutent_1670720608",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:12  ",
+  "seller": "Георгий",
+  "seller_link": "/user/3ab98ff105886e50ef9e015048386020/profile?id=1670720608&src=item"
+}

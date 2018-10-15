@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Автозаводская",
+  "seller": "Алевтина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1702055175",
+  "seller_status": "Компания",
+  "title": "Диффенбахия",
+  "post_date": "  08 October в 14:00  ",
+  "price": 150,
+  "index": 1702055175,
+  "seller_link": "/user/161377e7ba5cae38bb7c2d6a927c5a98/profile?id=1702055175&src=item",
+  "text": "Диффенбахия вечнозелёная, красивая, неприхотливая. Растения продаются с горшками. Любое на выбор за 150.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 30536964,
+  "title": "Цветок Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_aloe_30536964",
+  "seller": "Частник",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Алоэ, цветку 2,10 года -250 рублей и 1,5 год за 150 рублей.\n",
+  "post_date": "  6 октября в 22:07  ",
+  "seller_link": "/user/66ed9b8b0866a2530fc782bbd49f4f8f/profile?id=30536964&src=item"
+}

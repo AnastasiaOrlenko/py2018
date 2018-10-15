@@ -1,0 +1,12 @@
+{
+  "price": 750,
+  "seller_status": "Частное лицо",
+  "index": 1420575008,
+  "title": "Букет учителю",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_uchitelyu_1420575008",
+  "seller": "Владислава",
+  "address": "Москва, м. Сходненская",
+  "text": "Цветы на заказ! На любой бюджет! На любое праздник/мероприятие ! Для связи вотсап и по телефону ! Buketdostavka (Инстаграмм )\n",
+  "post_date": "  5 октября в 13:23  ",
+  "seller_link": "/user/c1f3ebd4ca441991579b09b6b67b0ad5/profile?id=1420575008&src=item"
+}

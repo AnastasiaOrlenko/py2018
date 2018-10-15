@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Высота 2,8, 30 лет \nЦена договорная\n",
+  "index": 1643721803,
+  "seller": "Раиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aukubazolotoe_derevo_yaponiya_1643721803",
+  "address": "Москва, м. Строгино",
+  "title": "Аукуба(золотое дерево, Япония)",
+  "seller_link": "/user/1fa4fd345fb10f3b1b45f2e8a196f59f/profile?id=1643721803&src=item",
+  "post_date": "  07 October в 19:21  "
+}

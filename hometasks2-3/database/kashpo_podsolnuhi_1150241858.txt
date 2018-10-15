@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1150241858,
+  "title": "Кашпо Подсолнухи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_podsolnuhi_1150241858",
+  "seller": "Марина",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Цена указана за одно кашпо.\n",
+  "post_date": "  5 октября в 22:28  ",
+  "seller_link": "/user/b87f4aabb2b5fac8b0f63507eda38d23/profile?id=1150241858&src=item"
+}

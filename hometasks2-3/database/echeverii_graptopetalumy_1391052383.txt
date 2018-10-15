@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1391052383,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/echeverii_graptopetalumy_1391052383",
+  "address": "Москва, м. Курская",
+  "title": "Эчеверии, граптопеталумы",
+  "seller_link": "/user/d05eec28d58bbac04de7c6c9cb1508c2/profile?id=1391052383&src=item",
+  "text": "Фото1 Echeveria Violet Queen - 500p\nФото2 Graptopetalum Snow White - 350p\nФото3 Graptopetalum superbum - 250p\nФото4 Echeveria Luella cristata - 300p\nФото5 Echeveria Ben Badis - 400p\nФото6 два типа седума клаватума. Левый - 120 р (есть розетки поменьше за 80), правый - 200р\nЕсть еще суккуленты, вышлю ссылку на альбом по запросу. \nСамовывоз м Курская. Отправка почтой по России\n",
+  "post_date": "  07 October в 13:14  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 869859728,
+  "title": "Корзина для цветочных композиций",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzina_dlya_tsvetochnyh_kompozitsiy_869859728",
+  "seller": "Анна",
+  "address": "Москва, м. Достоевская",
+  "text": "Корзина для композиций\nВысота корзинки 13 см.\nДлина - 23 см.\nШирина - 12 см., в центре расширена до 17 см.\n",
+  "post_date": "  5 октября в 08:28  ",
+  "seller_link": "/user/53161a92fd3e3229e51d4b313f951f16/profile?id=869859728&src=item"
+}

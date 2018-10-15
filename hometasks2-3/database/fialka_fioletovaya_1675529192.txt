@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1675529192,
+  "title": "Фиалка фиолетовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_fioletovaya_1675529192",
+  "seller": "Олеся",
+  "seller-contact": "Олеся",
+  "address": "Москва, м. Бабушкинская",
+  "text": "В фиалетовом горшочке 200 руб, в пластмассовом 150 руб.\n",
+  "post_date": "  4 октября в 19:23  ",
+  "seller_link": "/user/6c21cea9651403c0f14afe16617ca667/profile?id=1675529192&src=item"
+}

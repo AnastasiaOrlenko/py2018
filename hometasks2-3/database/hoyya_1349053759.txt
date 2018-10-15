@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Первомайская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_1349053759",
+  "price": 150,
+  "seller": "Нина",
+  "post_date": "  08 October в 19:50  ",
+  "title": "Хойя",
+  "text": "Растущий черенок Hoya Krincle 8 Встречи по договоренности. В профиле есть ещё хойи.\n",
+  "index": 1349053759,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/849f68b21d252651a831ed69d676bf06/profile?id=1349053759&src=item"
+}

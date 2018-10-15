@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1503757961,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1503757961",
+  "seller": "Анна",
+  "address": "Москва, м. Шипиловская",
+  "text": "Хлорофитум\n",
+  "post_date": "  6 октября в 11:17  ",
+  "seller_link": "/user/da997a6abee740b76d9f049477a02325/profile?id=1503757961&src=item"
+}

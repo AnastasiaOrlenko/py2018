@@ -1,0 +1,12 @@
+{
+  "text": "Продаю трех годовалый финик,не капризный.Хороший горшок.\n",
+  "title": "Финик",
+  "price": 350,
+  "index": 1368080651,
+  "address": "Москва, м. Крылатское",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/finik_1368080651",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:22  ",
+  "seller": "Галина",
+  "seller_link": "/user/4b28669d6b536927b8658c6591a8a433/profile?id=1368080651&src=item"
+}

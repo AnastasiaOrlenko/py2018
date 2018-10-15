@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 588916151,
+  "title": "Папоротник страусник садовый большие кусты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_strausnik_sadovyy_bolshie_kusty_588916151",
+  "seller": "частное лицо",
+  "seller-contact": "частное лицо",
+  "address": "Москва, м. Молодежная",
+  "text": "Продаю папоротники садовые \n100 руб саженец\n",
+  "post_date": "  5 октября в 22:59  ",
+  "seller_link": "/user/31674dc10dd5b12fb5a62e895f270ecc/profile?id=588916151&src=item"
+}

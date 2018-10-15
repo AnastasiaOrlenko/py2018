@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 500,
+  "index": 981889512,
+  "seller": "Частное Лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_ladya_moiseya_v_gorshke_981889512",
+  "address": "Москва, м. Зябликово",
+  "title": "Рео (Ладья Моисея) в горшке",
+  "seller_link": "/user/ed6cc36b34f3476cfcd5bf3adf8c6a1e/profile?id=981889512&src=item",
+  "text": "Рео (Ладья Моисея) в горшке!\nСостояние на фото, диаметр 12 см., высота 11 см.!\nВстреча в Москве только у метро Красногвардейская/Зябликово.\n",
+  "seller-contact": "Артем",
+  "post_date": "  07 October в 19:39  "
+}

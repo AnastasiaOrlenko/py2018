@@ -1,0 +1,13 @@
+{
+  "price": 700,
+  "seller_status": "Компания",
+  "index": 1680298139,
+  "title": "Инжир японский комнатный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/inzhir_yaponskiy_komnatnyy_1680298139",
+  "seller": "Надежная кровля",
+  "seller-contact": "Валерий",
+  "address": "Москва, м. Тушинская",
+  "text": "Деревце инжира в комнатных условиях вырастает до 1 ,5- 2 метров плоды небольшие янтарно желтые очень сладкие ,плодоносит при хорошем уходе 2 раза в год\n",
+  "post_date": "  5 октября в 11:13  ",
+  "seller_link": "/user/127cb6067a73f8ae2fbbeb8ab25b5073/profile?id=1680298139&src=item"
+}

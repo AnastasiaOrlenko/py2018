@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1651891277,
+  "title": "Эвкалипт лимонный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/evkalipt_limonnyy_1651891277",
+  "seller": "К",
+  "seller-contact": "Константин",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Эвкалипт лимонный, высота 35 см\n",
+  "post_date": "  07 October в 10:17  ",
+  "seller_link": "/user/50f8434439472f377fb51e209a9ae35d/profile?id=1651891277&src=item"
+}

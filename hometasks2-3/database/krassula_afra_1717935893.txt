@@ -1,0 +1,12 @@
+{
+  "price": 420,
+  "seller_status": "Частное лицо",
+  "index": 1717935893,
+  "title": "Крассула афра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krassula_afra_1717935893",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 10д. Высота 15см.\n",
+  "post_date": "  6 октября в 22:54  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1717935893&src=item"
+}

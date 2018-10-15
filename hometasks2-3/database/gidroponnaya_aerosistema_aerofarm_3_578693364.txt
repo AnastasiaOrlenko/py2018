@@ -1,0 +1,13 @@
+{
+  "price": 9400,
+  "seller_status": "Компания",
+  "index": 578693364,
+  "title": "Гидропонная аэросистема AeroFarm 3\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gidroponnaya_aerosistema_aerofarm_3_578693364",
+  "seller": "HomeHarvest",
+  "seller-contact": "Максим",
+  "address": "Москва, м. Тульская",
+  "text": "Гидропонная аэросистема AeroFarm 3\"\n Гидропонная аэросистема AeroFarm 3\"\n Модуль 1 шт\n Габариты: 450х450х430 мм\n Диаметр горшочков: 80 мм - 5 шт\n Бак: 45 л\n Заходите в наш интернет-магазин\n Все для ваших растений\n",
+  "post_date": "  6 октября в 15:28  ",
+  "seller_link": "/user/69bbf71bb4658e5c1bcb40341065e47d/profile?id=578693364&src=item"
+}

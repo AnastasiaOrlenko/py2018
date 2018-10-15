@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1563986195,
+  "title": "Продажа растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodazha_rasteniy_1563986195",
+  "seller": "елена",
+  "address": "Москва, м. Беляево",
+  "text": "Продаю кактус.\n",
+  "post_date": "  07 October в 09:34  ",
+  "seller_link": "/user/374c36ab83cafa1232bf2b75a0b68809/profile?id=1563986195&src=item"
+}

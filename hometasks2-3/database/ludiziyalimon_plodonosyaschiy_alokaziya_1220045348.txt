@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Преображенская площадь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ludiziyalimon_plodonosyaschiy_alokaziya_1220045348",
+  "seller_link": "/user/6e426598222254db9b04ad283d6d3688/profile?id=1220045348&src=item",
+  "seller": "Нина",
+  "post_date": "  08 October в 15:07  ",
+  "title": "Лудизия,лимон плодоносящий, алоказия",
+  "text": "Драгоценная орхидея -150 алоказия-200 лимон Мейера 450\n",
+  "index": 1220045348,
+  "seller_status": "Частное лицо"
+}

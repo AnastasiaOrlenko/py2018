@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 986617182,
+  "title": "Цветы Гелиопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_geliopsis_986617182",
+  "seller": "Елена",
+  "address": "Москва, м. Нагорная",
+  "text": "Гелиопсис подсолнечниковый, очень красивое растение, редкий гость в саду, высотой 100-120см, цветет с июля по октябрь.\n",
+  "post_date": "  5 октября в 16:04  ",
+  "seller_link": "/user/e07128b85ea3b67e4b361e256e1cec4a/profile?id=986617182&src=item"
+}

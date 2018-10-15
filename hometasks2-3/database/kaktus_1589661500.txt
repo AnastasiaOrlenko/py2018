@@ -1,0 +1,12 @@
+{
+  "text": "Очень красиво цветёт . Продаю деток.\n",
+  "title": "Кактус",
+  "price": 50,
+  "index": 1589661500,
+  "address": "Москва, м. Солнцево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1589661500",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 06:32  ",
+  "seller": "ирина",
+  "seller_link": "/user/9b1033bbdc0fc2776d14eabe90968bef/profile?id=1589661500&src=item"
+}

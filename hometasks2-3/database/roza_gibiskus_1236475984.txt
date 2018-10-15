@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1236475984,
+  "title": "Роза гибискус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_gibiskus_1236475984",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Отросток более 30 см с корнями, недавно отцвел. Растение на фото, отдаю вместе с горшком.\n",
+  "post_date": "  5 октября в 15:32  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=1236475984&src=item"
+}

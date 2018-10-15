@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 990,
+  "index": 1199951758,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1199951758",
+  "address": "Москва, м. Крылатское",
+  "title": "Монстера",
+  "seller_link": "/user/8df4baa3185094ec4b4f946163b11509/profile?id=1199951758&src=item",
+  "text": "Продается комнатное растение монстера. Неприхотлива в уходе. Возраст 7 лет.\n",
+  "post_date": "  07 October в 15:15  "
+}

@@ -1,0 +1,12 @@
+{
+  "text": "БУГЕНВИЛЛИИ сортовые. - от 260р - 1200р \nЕсли нужны фото продаваемых бугенвиллий , присылайте ваш е-mail.\n Могу отправить в другой город. \nДоставка по Москве 250р или Самовывоз .\n",
+  "title": "Бугенвиллии комнатные сортовые",
+  "price": 260,
+  "index": 773938938,
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bugenvillii_komnatnye_sortovye_773938938",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 07:39  ",
+  "seller": "Полина",
+  "seller_link": "/user/695008f1684377891c1cb1f6ea035769/profile?id=773938938&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1420056723,
+  "title": "Крымская сосна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krymskaya_sosna_1420056723",
+  "seller": "Вечнозелёный питомник",
+  "seller-contact": "иван",
+  "address": "Москва, м. Площадь революции",
+  "text": "Размер от 1.2 до 2.2\nЦена 2500 на любой размер.\nСкидка от обьёма.\nфото наши с питмника.\n",
+  "post_date": "  6 октября в 18:22  ",
+  "seller_link": "/user/f6927810a746afefa7f8e3f72e4704f7/profile?id=1420056723&src=item"
+}

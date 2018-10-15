@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1667552604,
+  "title": "1-2 дримиопсис пятнистый. Молодые луковицы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/1-2_drimiopsis_pyatnistyy._molodye_lukovitsy_1667552604",
+  "seller": "оля",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Цена за цветок с горшком. Самовывоз от м. Алтуфьево\n",
+  "post_date": "  4 октября в 21:54  ",
+  "seller_link": "/user/7c7899b314b93b176343f005a124261a/profile?id=1667552604&src=item"
+}

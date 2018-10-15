@@ -1,0 +1,12 @@
+{
+  "price": 1700,
+  "seller_status": "Магазин",
+  "index": 1383637753,
+  "title": "Подсолнухи в композиции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podsolnuhi_v_kompozitsii_1383637753",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Соответствует фото\n",
+  "post_date": "  6 октября в 22:46  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

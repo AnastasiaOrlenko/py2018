@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 993859949,
+  "title": "Кудрявый хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kudryavyy_hlorofitum_993859949",
+  "seller": "Наталья",
+  "address": "Москва, м. Теплый стан",
+  "text": "Продаю по 150 руб\n",
+  "post_date": "  6 октября в 10:34  ",
+  "seller_link": "/user/c5cbe69f520caaa8d5006c8c8d4587b9/profile?id=993859949&src=item"
+}

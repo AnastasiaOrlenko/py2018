@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1455637877,
+  "title": "Эхеверия Лингвас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eheveriya_lingvas_1455637877",
+  "seller": "Юлия",
+  "address": "Москва, м. Домодедовская",
+  "text": "Echeveria linguas.\nОчень нарядная эхеверия с наростами. \nСветолюбивая, полив редкий.\nПродаю растение с фото, пока без корней \nПочтой отправляю, первый класс +250 руб\n",
+  "post_date": "  5 октября в 19:15  ",
+  "seller_link": "/user/0ee0887698b144aafe41fc9996d55c68/profile?id=1455637877&src=item"
+}

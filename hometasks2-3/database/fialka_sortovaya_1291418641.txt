@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Жулебино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sortovaya_1291418641",
+  "price": 300,
+  "seller": "Вера",
+  "post_date": "  08 October в 23:41  ",
+  "title": "Фиалка сортовая",
+  "text": "Продам сортовые фиалки( первый год), те что на фото. Цена за один горшок.\n",
+  "index": 1291418641,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/141e985a627d804dbf902475d4d3aea1/profile?id=1291418641&src=item"
+}

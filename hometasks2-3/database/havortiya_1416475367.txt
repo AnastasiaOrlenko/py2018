@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1416475367,
+  "title": "Хавортия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_1416475367",
+  "seller": "Анжела",
+  "address": "Москва, м. Улица Скобелевская",
+  "text": "Молодое растение.\nПишите,дам номер телефона\n",
+  "post_date": "  5 октября в 16:09  ",
+  "seller_link": "/user/d5d7477b956084860d19ec8119785567/profile?id=1416475367&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 6895,
+  "seller_status": "Частное лицо",
+  "index": 1693950038,
+  "title": "Лемон лайм",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lemon_laym_1693950038",
+  "seller": "Veronika",
+  "address": "Москва, м. Киевская",
+  "text": "Распродажа Лемон Лайм драцена 21см×120см.\nБольшой выбор растений. Пишите...звоните. Быстрая доставка при наличии в салоне.\n",
+  "post_date": "  4 октября в 19:22  ",
+  "seller_link": "/user/1d4e930cb3bfc79fd0e7cc374e178e56/profile?id=1693950038&src=item"
+}

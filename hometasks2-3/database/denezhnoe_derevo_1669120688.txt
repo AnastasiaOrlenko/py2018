@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кузьминки",
+  "seller": "распродажа!",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1669120688",
+  "seller_status": "Частное лицо",
+  "title": "Денежное дерево",
+  "post_date": "  08 October в 12:42  ",
+  "price": 100,
+  "index": 1669120688,
+  "seller_link": "/user/308fec1b2c6177455d29f529f89d22be/profile?id=1669120688&src=item",
+  "text": "Отдам денежное деревце в горшочках за 100р.есть несколько ростом от 15-22см.возможен обмен\n"
+}

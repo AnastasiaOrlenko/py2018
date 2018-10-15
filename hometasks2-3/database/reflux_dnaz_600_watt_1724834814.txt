@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1724834814,
+  "title": "Reflux дназ 600 watt",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reflux_dnaz_600_watt_1724834814",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "Reflux дназ 600 watt, б/у. Возможен опт и вариант комплектом в сборе (эпра + култуб)\nТак же продам:\nЭПРА для ламп ДНаТ/ДРИ 600 watt, лампы ЭСЛ 250 watt, култубы, канальные вентиляторы TD Silent 1000/200\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1724834814&src=item"
+}

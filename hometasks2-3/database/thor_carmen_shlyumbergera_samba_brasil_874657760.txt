@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 874657760,
+  "seller": "любитель",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/thor_carmen_shlyumbergera_samba_brasil_874657760",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Thor Carmen Шлюмбергера Samba Brasil",
+  "seller_link": "/user/63c03c7027582a60964231155989004c/profile?id=874657760&src=item",
+  "text": "Черенки и молодые растения сортовых коллекционных декабристов (schlumbergera) хорошо укоренены.\nДана стоимость в заголовке объявления за комнатный цветок шлюмбергера\nSamba Brasil (фото № 1 и 4) – один ук. черенок из 7 сегментов – 200 руб.\nИмеются:\nLorelei (Exotica Hybrid), Dark Eva, Campinas Brasil, Shooting Star он же Chiba Spot и другие сорта зигокактуса (рождественский кактус, christmas cactus). Все объявления на цветы смотрите в моем профиле.\nThor Carmen – фото № 2 и 3 (укорененные черенки):\n1 сег. – 250 руб., 2 сег. – 400 руб., 3 сег. – 500 руб., 4 сег. – 550 руб., 5 сег. – 600 руб.\n",
+  "post_date": "  07 October в 13:57  "
+}

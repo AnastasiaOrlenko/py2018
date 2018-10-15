@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1365161532,
+  "title": "Распылитель воды на 5 литров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/raspylitel_vody_na_5_litrov_1365161532",
+  "seller": "Наиль",
+  "address": "Москва, м. Тульская",
+  "text": "Max Fill Распылитель воды для сада и дома.\n",
+  "post_date": "  5 октября в 21:52  ",
+  "seller_link": "/user/71395e2db6fb8e42dddde70427f2fdf3/profile?id=1365161532&src=item"
+}

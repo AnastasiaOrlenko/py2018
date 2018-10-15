@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Лермонтовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dva_vysokih_rasteniya_malochaya_1652808377",
+  "price": 600,
+  "seller": "Валентина",
+  "post_date": "  08 October в 19:16  ",
+  "title": "Два высоких растения малочая",
+  "text": "Продаю дваа высоких растения малочая высотой более метра. Цена 500 и 600 р\nЕсть еще растения меньшего размера\n",
+  "index": 1652808377,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/56eaeac4aa1359dd9c59413c73efcfc8/profile?id=1652808377&src=item"
+}

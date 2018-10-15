@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1080211611,
+  "title": "Подставка под цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_pod_tsvety_1080211611",
+  "seller": "Люба",
+  "address": "Москва, м. Университет",
+  "text": "Подставка под цветы, 25оо (напольная), фото можно посмотреть здесь: beriwse домашние растения\n",
+  "post_date": "  4 октября в 20:55  ",
+  "seller_link": "/user/d0f717a9a2e21fd87b605492a32ce37e/profile?id=1080211611&src=item"
+}

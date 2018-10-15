@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "seller": "Евдокия Романова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobrenie_ghe_diamond_nectar_1449820586",
+  "seller_status": "Частное лицо",
+  "title": "Удобрение GHE Diamond Nectar",
+  "post_date": "  08 October в 10:39  ",
+  "price": 650,
+  "index": 1449820586,
+  "seller_link": "/user/44d9bf763e6b9a6d312f31b76c29917f/profile?id=1449820586&src=item",
+  "text": "Продам удобрение GHE Diamond Nectar 0,5 Original\n"
+}

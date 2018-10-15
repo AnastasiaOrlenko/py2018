@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1322249192,
+  "seller": "Сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_iz_dereva_1322249192",
+  "address": "Москва, м. Площадь революции",
+  "title": "Кашпо из дерева",
+  "seller_link": "/user/82486ce9e3eb32cd2f2c64b2c868e3f5/profile?id=1322249192&src=item",
+  "text": "Кашпо из пенька ясеня. H 8см. D 10-13см. цена 100-250 р. шт.\n На заказ другие размеры. Мелкий опт . Поставка в регионы\n",
+  "seller-contact": "Сергей",
+  "post_date": "  07 October в 14:36  "
+}

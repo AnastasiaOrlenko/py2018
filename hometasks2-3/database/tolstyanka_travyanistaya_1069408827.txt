@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Планерная",
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_travyanistaya_1069408827",
+  "seller_status": "Частное лицо",
+  "title": "Толстянка травянистая",
+  "post_date": "  08 October в 14:49  ",
+  "price": 50,
+  "index": 1069408827,
+  "seller_link": "/user/d299e6121b8c09bd35eb82bafe30e377/profile?id=1069408827&src=item",
+  "text": "Толстянка травянистая. Привезена из субтропиков. Очень редкий, красивый комнатный цветок. Украсит любой подоконник.\nЦена указана за 1 растение.\n"
+}

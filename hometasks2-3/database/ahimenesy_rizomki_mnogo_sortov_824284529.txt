@@ -1,0 +1,13 @@
+{
+  "price": 80,
+  "seller_status": "Компания",
+  "index": 824284529,
+  "title": "Ахименесы ризомки много сортов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ahimenesy_rizomki_mnogo_sortov_824284529",
+  "seller": "не компания",
+  "seller-contact": "Людмила",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Милые Дамы и Господа!\nПродаю ризомы ахименесов.\nЦена за ризомку от 80 р.\nАхименес Rainbow warrior 100 руб. \nАхименес Purple triumph 100 руб. \nАхименес Violette Charm 80 руб. \nАхименес Vie En Bleu 300 руб. \nАхименес Achimenantha Sagittano 100 руб. \nАхименес Ambroise Verschaffelt 100 руб. \nАхименес Cote d'Ivoire 80 руб. \nАхименес Golden lady - золотистый оттенок!!! 300 руб. \nАхименес Yellow fever 100 руб. \nАхименес Mary Poppins 200 руб. \nАхименес Sauline 80 руб. \nАхименес Nero красный с золотом 300 руб. \nАхименес Orange Queen цветок 5 см.200 руб. \nАхименес Petite Fadette 150 руб. \nАхименес Femme Fatale 200 руб. \nАхименес Icy Volga 250 руб. \nАхименес Yellow English Rose 200 руб. \nАхименес Lemon Ochard 150 руб. \nАхименес Sweet and sour цвет кораллово-персиковый, крупный ампель 150 руб. \nStans delight лососево-коралловый 200 руб. \nАхименес Messang blansh 150 руб. \nАхименес Honey Quenn 250 руб. \nАхименес Strawberry Lemon 100 руб. \nPulcherrima – самая красивая 100 руб.\nАхименес Firenze 300 руб. \nАхименес Delicatesse 250 руб. \nАхименес Pearly Queen 250 руб.\nАхименес Summer Festival 250 руб. \nАхименес XY Pink Pearl 250 руб. \nАхименес Tropical Dusk 200 руб. \nАхименес Blueberry Lemon - Чернильный лимон 200 руб. \nПосмотреть фото можно на моем сайте пишите вышлю адрес сайта)))\nЕсть еще много разных цветов ))).\nЛучше писать в WhatsApp т.к. прихожу поздно и не всегда просматриваю Авито, а на WhatsApp всегда отвечу ))).\nОтправляю в другие города.\n",
+  "post_date": "  6 октября в 09:28  ",
+  "seller_link": "/user/7ac47997cb83a89b26d53733b0fd18a4/profile?id=824284529&src=item"
+}

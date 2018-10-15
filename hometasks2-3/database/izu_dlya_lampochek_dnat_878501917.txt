@@ -1,0 +1,12 @@
+{
+  "text": "Продаю ИЗУ для днат\n",
+  "title": "Изу для лампoчек днaт",
+  "price": 160,
+  "index": 878501917,
+  "address": "Москва, м. Динамо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/izu_dlya_lampochek_dnat_878501917",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:38  ",
+  "seller": "Жанна Журавлева",
+  "seller_link": "/user/8d458b2e9d661e52ee45fd17e31c1205/profile?id=878501917&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/indoliluksusnaya_kislota_642470182",
+  "seller-contact": "Роки",
+  "price": 1145,
+  "seller": "Alchetech",
+  "post_date": "  08 October в 18:31  ",
+  "title": "Индолилуксусная кислота",
+  "text": "Гетероауксин (β-индолилуксусная кислота) \nФасовки 5 грамм, 10, 50, 100, 1кг. Опт от 10 кг.\nВ наличии! Цена указана за 5 гр. фасовку\n",
+  "index": 642470182,
+  "seller_status": "Компания",
+  "seller_link": "/user/dec62890414a4045ae3a17bd89aabbe1/profile?id=642470182&src=item"
+}

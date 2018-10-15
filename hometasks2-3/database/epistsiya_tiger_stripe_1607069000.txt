@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "seller": "ника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epistsiya_tiger_stripe_1607069000",
+  "seller_status": "Частное лицо",
+  "title": "Эписция Tiger Stripe",
+  "post_date": "  08 October в 11:29  ",
+  "price": 250,
+  "index": 1607069000,
+  "seller_link": "/user/7901c979e94ac738837d74cc11d7123e/profile?id=1607069000&src=item",
+  "text": "Продаю молодое растение в горшке с фото2, пересаживать не надо\n"
+}

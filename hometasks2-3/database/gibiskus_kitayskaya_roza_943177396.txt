@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 943177396,
+  "title": "Гибискус Китайская роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kitayskaya_roza_943177396",
+  "seller": "Иван",
+  "address": "Москва, м. Рижская",
+  "text": "Гибискус, Китайская роза, в наличии 2 шт., возраст 3 года, оба цвели, фото 2, 3, 4, 5. Требуют пересадки в горшок большего объёма. Цена за один\n",
+  "post_date": "  5 октября в 20:31  ",
+  "seller_link": "/user/f11161513ff53355c046ffcae8c9db20/profile?id=943177396&src=item"
+}

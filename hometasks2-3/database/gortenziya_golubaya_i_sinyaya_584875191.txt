@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 584875191,
+  "title": "Гортензия голубая и синяя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_golubaya_i_sinyaya_584875191",
+  "seller": "Ариша",
+  "seller-contact": "Частное лицо (Не компания)",
+  "address": "Москва, м. Площадь революции",
+  "text": "150р укорененный черенок\n450р - взрослое растение\n.......\nСиняя гортензия сорт Bodensee\nГолубая гортензия сорт Everblue\n.......\nТак же из красивых комнатных растений\n~ Эписция Northern Light\n~ Королевские пеларгонии\nMorwenna \nNoir \nTuonis perfekta\nBushfire \nRuby Rosebud \n~ Фиалка Rebels Cherry\n",
+  "post_date": "  5 октября в 07:50  ",
+  "seller_link": "/user/4dab6db1fa60caf9df2d1a98c1872235/profile?id=584875191&src=item"
+}

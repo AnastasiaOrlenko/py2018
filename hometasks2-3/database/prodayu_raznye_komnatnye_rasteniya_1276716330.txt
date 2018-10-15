@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1276716330,
+  "title": "Продаю разные комнатные растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodayu_raznye_komnatnye_rasteniya_1276716330",
+  "seller": "Алена",
+  "address": "Москва, м. ВДНХ",
+  "text": "Продаю укорененные колеусы и розмарин летнего укоренения по 70р-100р, срезка по 30р. Есть очень много сортов - спрашивайте. \nфото 1 - Peter Wonder, 70р\nфото 2 - розмарин, 3 черенка в стакане, 150р\nфото 3 - Keystone Kopper, 100р\nфото 4 - Saturn, 100р\nфото 5 - Beckwith\"s Gem, 100р\nфото 6 - Solar Shadow, 70р\nфото 7 - Spitfire вроде, уточню, 70р\nфото 8 - Solar Flare, есть 3 растения, 50, 70,100р\nфото 9 - illumination, 70р\nфото 10 - Trailing Strawberry, 70р\n",
+  "post_date": "  5 октября в 02:02  ",
+  "seller_link": "/user/62bc91974506d9e129ef2dcd6fa0a418/profile?id=1276716330&src=item"
+}

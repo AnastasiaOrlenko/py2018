@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/3bd038078d9dc209dd241cd882910bf0/profile?id=1132406678&src=item",
+  "seller-contact": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_v_korobke_futlyare_v_moskve_1132406678",
+  "post_date": "  08 October в 10:15  ",
+  "address": "Москва, м. Театральная",
+  "seller": "ДОСТАВКА ЦВЕТОВ",
+  "text": "Удивлять? Конечно удивлять!) \nВыбирайте цвет коробочки, роз и время доставки и этот чудесный сюрприз окажется в руках у вашей любимой)\nКоробочки премиум класса от 2.990\n",
+  "index": 1132406678,
+  "seller_status": "Компания",
+  "price": 4990,
+  "title": "Розы в коробке футляре в москве"
+}

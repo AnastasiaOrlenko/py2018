@@ -1,0 +1,12 @@
+{
+  "text": "Продаю усы клубники разных сортов\nЦена 25руб/шт\n",
+  "title": "Усы клубники",
+  "price": 25,
+  "index": 1196107574,
+  "address": "Москва, м. Домодедовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/usy_klubniki_1196107574",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:47  ",
+  "seller": "Наталия",
+  "seller_link": "/user/8f23e8b08bbdcb3daf4dc4d8b2cb1170/profile?id=1196107574&src=item"
+}

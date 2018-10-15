@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1365015036,
+  "title": "Хойя Белла",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_bella_1365015036",
+  "seller": "Кира",
+  "seller-contact": "Кира",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Во время цветения источает приятный аромат\n1 отросток 100₽\nНа фото в горшке 4-5 кустов\n",
+  "post_date": "  5 октября в 18:14  ",
+  "seller_link": "/user/aec7a5d7299dcbbcb4ba90f9a9334404/profile?id=1365015036&src=item"
+}

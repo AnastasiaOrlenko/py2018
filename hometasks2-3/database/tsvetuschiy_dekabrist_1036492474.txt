@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1036492474,
+  "title": "Цветущий декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetuschiy_dekabrist_1036492474",
+  "seller": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Цветущий декабрист в бутонах, нежно розового цвета, белый в прожилках цвета фуксии.\n",
+  "post_date": "  07 October в 08:55  ",
+  "seller_link": "/user/71ee11e110f605b05a1a2c229251efcc/profile?id=1036492474&src=item"
+}

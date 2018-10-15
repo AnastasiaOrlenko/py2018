@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1186380027,
+  "title": "Орхидея Dendr. harveyanum орхидея пушистый шикарне",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_dendr._harveyanum_orhideya_pushistyy_shikarne_1186380027",
+  "seller": "Valerya",
+  "seller-contact": "не компания",
+  "address": "Москва, м. Беляево",
+  "text": "Орхидея Dendr. harveyanum орхидея пушистый шикарнейший взрослый дендробиум, цветший пару месяцев назад, его фото\n",
+  "post_date": "  6 октября в 11:28  ",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=1186380027&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1034008078,
+  "title": "Кипарис пирамидальный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kiparis_piramidalnyy_1034008078",
+  "seller": "Я - частное лицо",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Сокол",
+  "text": "Саженцы кипариса пирамидального крымского, 3-х летки.\n",
+  "post_date": "  5 октября в 09:21  ",
+  "seller_link": "/user/cd860cd4b99f58ecc37a510d37850612/profile?id=1034008078&src=item"
+}

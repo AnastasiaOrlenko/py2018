@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 1517524910,
+  "seller": "ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1517524910",
+  "address": "Москва, м. Выхино",
+  "title": "Декабрист",
+  "seller_link": "/user/ca14553d1fc53b05ab295ead40f30418/profile?id=1517524910&src=item",
+  "text": "Декабрист_зимний цветок ,поднимающий настроение.Цветет почти круглый год не прихотливый.отличный подарок . есть много отростков разных сортов по 50 руб\n",
+  "seller-contact": "ольга",
+  "post_date": "  07 October в 23:43  "
+}

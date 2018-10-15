@@ -1,0 +1,13 @@
+{
+  "price": 3500,
+  "seller_status": "Компания",
+  "index": 1635114640,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1635114640",
+  "seller": "собственник",
+  "seller-contact": "Mrs Juliya",
+  "address": "Москва, м. Кузьминки",
+  "text": "Дереву более 20 лет\n",
+  "post_date": "  6 октября в 09:49  ",
+  "seller_link": "/user/e27bf67f04f34b31c20dea43796e8536/profile?id=1635114640&src=item"
+}

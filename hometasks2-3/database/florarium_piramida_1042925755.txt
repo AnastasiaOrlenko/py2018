@@ -1,0 +1,12 @@
+{
+  "text": "Флорариумы ручной работы в стиле Тиффани \nКачество гарантируем, опыт работы 3 года.\nПродаём как в Опт, так и розницу.\nСтоимость указана за форму без цветка. Размер формы 16 см*10 см\n",
+  "title": "Флорариум Пирамида",
+  "price": 700,
+  "index": 1042925755,
+  "address": "Москва, м. Аэропорт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_piramida_1042925755",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Анастасия",
+  "seller_link": "/user/e8a54c3575b773cefeca58f2c3edfc8e/profile?id=1042925755&src=item"
+}

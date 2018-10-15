@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Планерная",
+  "seller": "Тамара",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/piony_tsvetuschie_1273337420",
+  "seller_status": "Частное лицо",
+  "title": "Пионы цветущие",
+  "post_date": "  08 October в 12:46  ",
+  "price": 100,
+  "index": 1273337420,
+  "seller_link": "/user/40ca54f0cb718ae8315960010aada69e/profile?id=1273337420&src=item",
+  "text": "Принимаю заказы на начало лета 2019 года. Цветы со своего огорода из Дмитрова. Доставка.\n"
+}

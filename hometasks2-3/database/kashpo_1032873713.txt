@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1032873713,
+  "title": "Кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_1032873713",
+  "seller": "Ирма",
+  "address": "Москва, м. Савеловская",
+  "text": "Кашпо Fleur Ami Luxury table top planter ancient-chrome\nДиаметр 32см / Высота 26см - 3 тыс\nКашпо Fleur Ami Luxury bowl ancient-chrome\nДиаметр 41см / Высота 11см - 3 тыс\nНОВЫЕ, остались после оформления интерьера\n",
+  "post_date": "  6 октября в 13:15  ",
+  "seller_link": "/user/3f188f805923e2610176d7dd038a5273/profile?id=1032873713&src=item"
+}

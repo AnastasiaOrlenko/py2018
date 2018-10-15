@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1662640582,
+  "title": "Алоэ в большом горшке лечебный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_v_bolshom_gorshke_lechebnyy_1662640582",
+  "seller": "Светлана Иванова",
+  "address": "Москва, м. Царицыно",
+  "text": "Алой цветок в большом горшке для лечения\n",
+  "post_date": "  5 октября в 09:02  ",
+  "seller_link": "/user/d6561ded58bb466d62c46b6d008d14e5/profile?id=1662640582&src=item"
+}

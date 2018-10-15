@@ -1,0 +1,12 @@
+{
+  "text": "Цвет роз и коробочек, а так же количество роз может меняться в зависимости от наличия и вашей фантазии). Доставка по Москве и области.\n",
+  "title": "Роза в коробке",
+  "price": 3250,
+  "index": 1327188284,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_korobke_1327188284",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:33  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

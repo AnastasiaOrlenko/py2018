@@ -1,0 +1,12 @@
+{
+  "text": "Удобные элегантные горшки , высота 18 см, диаметр 18 см, без трещин и сколов, с поддонами, использовались, на фото немытые(. Всего 3 штуки. Цена за 1 горшок с поддоном.\n",
+  "title": "Горшки для цветов",
+  "price": 150,
+  "index": 1349174686,
+  "address": "Москва, м. Фили",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_1349174686",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 01:23  ",
+  "seller": "Наташа",
+  "seller_link": "/user/c666dcc6a67d396fb39b3606aacec585/profile?id=1349174686&src=item"
+}

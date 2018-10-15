@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1600348122,
+  "title": "Драцена деремская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_deremskaya_1600348122",
+  "seller": "анастасия",
+  "address": "Москва, м. Белорусская",
+  "text": "большое взрослое растение\n",
+  "post_date": "  4 октября в 20:12  ",
+  "seller_link": "/user/98121e152b71bdb5290a1648fe9fa332/profile?id=1600348122&src=item"
+}

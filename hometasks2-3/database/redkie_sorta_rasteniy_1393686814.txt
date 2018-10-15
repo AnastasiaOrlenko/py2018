@@ -1,0 +1,12 @@
+{
+  "text": "Детки орхидей из Вьетнама.\n",
+  "title": "Редкие сорта растений",
+  "price": 1800,
+  "index": 1393686814,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/redkie_sorta_rasteniy_1393686814",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 03:00  ",
+  "seller": "Ольга",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=1393686814&src=item"
+}

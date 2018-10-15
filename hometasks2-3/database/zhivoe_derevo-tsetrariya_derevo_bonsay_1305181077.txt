@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1305181077,
+  "title": "Живое дерево-цетрария, дерево бонсай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zhivoe_derevo-tsetrariya_derevo_bonsay_1305181077",
+  "seller": "Алиса",
+  "address": "Москва, м. Щелковская",
+  "text": "Маленькое 800р\nСреднее 2000р\nБольшое 2500р\nНеприхотливые живые деревья бонсай\nПри покупке всех-скидка\nПродажа только в москве, самовывоз\n",
+  "post_date": "  07 October в 11:32  ",
+  "seller_link": "/user/c938d125d48e916ca075a69e3a2e145d/profile?id=1305181077&src=item"
+}

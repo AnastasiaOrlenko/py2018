@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новогиреево",
+  "seller": "наталья григорьев стеценко",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nolina_995199033",
+  "seller_status": "Частное лицо",
+  "title": "Нолина",
+  "post_date": "  08 October в 14:10  ",
+  "price": 150,
+  "index": 995199033,
+  "seller_link": "/user/6eff7f4aa6ba70fde91e2d02f1a790f9/profile?id=995199033&src=item",
+  "text": "Встреча в будние дни после 20-21ч, или в выходные. Подойду к метро Новогиреево\n"
+}

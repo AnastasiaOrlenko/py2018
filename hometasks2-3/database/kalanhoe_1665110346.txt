@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1665110346,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1665110346",
+  "address": "Москва, м. Авиамоторная",
+  "title": "Каланхоэ",
+  "seller_link": "/user/c00bad8de51754c3b9858109eb8999a5/profile?id=1665110346&src=item",
+  "text": "Каланхоэ лечебное. Крепкий ствол, крупные листья. Продается то что на фото.\n",
+  "post_date": "  07 October в 19:07  "
+}

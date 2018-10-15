@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1501273097,
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_teschin_yazyk_1501273097",
+  "address": "Москва, м. Филевский парк",
+  "title": "Сансевиерия (тёщин язык)",
+  "seller_link": "/user/c7885256a9cabefcf4bae72b262e2f17/profile?id=1501273097&src=item",
+  "text": "1и2 по 500₽ ❗️❗️3и4 по700₽ не прехотливые в уходе , очень красивые\n",
+  "post_date": "  07 October в 13:20  "
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ахименесы сортовые",
+  "price": 30,
+  "seller": "Евгений",
+  "seller_link": "/user/a74041a8b3fcf59a23e93d2d3336b881/profile?id=1667476714&src=item",
+  "address": "Москва, м. Рижская",
+  "index": 1667476714,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ahimenesy_sortovye_1667476714",
+  "text": "Продаю ризомы ахименесов следующих сортов -\n1 Peach Blossom цена 60, 50 р в зависимости от размера фото 1\n2 Sunburst цена 60, 40 р фото 2\n3 Antirrhina львинозевовый - 60 р. Фото 3\n4 Charm - 30 р за ризому, фото 4\n5 Amazing Grace - 30 р , фото 5\n6 Purple King -самый неприхотливый обильно цветущий-30р,фото 6\n6 Santiano - 60 р, фото 7\n7 Electra - 50 р, фото 8\n8тStrawberri Lemon - 60 р фото 9\n9тSun Wind - 60 р фото 10\n10 Sauline- нежно желтый с розово-фуксиевой каймой 60 р\n11 Glory- кораллово-красный, обильное цветение 50 р\nЕсть в наличии другие сорта,смотрите в моем профиле\n",
+  "post_date": "  4 октября в 16:56  ",
+  "seller-contact": "Евгений"
+}

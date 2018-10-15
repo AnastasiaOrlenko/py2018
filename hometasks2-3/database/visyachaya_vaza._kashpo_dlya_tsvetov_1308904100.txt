@@ -1,0 +1,12 @@
+{
+  "price": 950,
+  "seller_status": "Частное лицо",
+  "index": 1308904100,
+  "title": "Висячая ваза. Кашпо для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/visyachaya_vaza._kashpo_dlya_tsvetov_1308904100",
+  "seller": "Степанида",
+  "address": "Москва, м. Ясенево",
+  "text": "Цвет чёрный и белый \nРазмер: круг диаметр 10 см. \nВысота 24 см\n",
+  "post_date": "  4 октября в 22:13  ",
+  "seller_link": "/user/b820009084f5422b99cab59609d329de/profile?id=1308904100&src=item"
+}

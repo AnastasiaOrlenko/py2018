@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1673197151,
+  "title": "Пахифитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pahifitum_1673197151",
+  "seller": "Надежда",
+  "address": "Москва, м. Царицыно",
+  "text": "Самовывоз\n",
+  "post_date": "  5 октября в 14:07  ",
+  "seller_link": "/user/5cad73fdccd60308f3af3597fc3a3446/profile?id=1673197151&src=item"
+}

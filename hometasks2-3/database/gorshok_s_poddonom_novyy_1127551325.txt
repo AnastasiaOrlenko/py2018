@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1127551325,
+  "title": "Горшок с поддоном новый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_s_poddonom_novyy_1127551325",
+  "seller": "Лида",
+  "address": "Москва, м. Кунцевская",
+  "text": "Горшок с поддоном новый.Высота 21 см,диаметр 27 см.\n",
+  "post_date": "  5 октября в 21:57  ",
+  "seller_link": "/user/e2dc742844c117ada24026ee2d572126/profile?id=1127551325&src=item"
+}

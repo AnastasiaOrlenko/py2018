@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Компания",
+  "index": 1510644862,
+  "title": "Фикус 7 лет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_7_let_1510644862",
+  "seller": "Матвей",
+  "address": "Москва, м. Семеновская",
+  "text": "фикус бенджамина 7 лет высота 1.80. в отличном состоянии. самовывоз открытое шоссе. доставки нет. ибо нет машины.\n",
+  "post_date": "  5 октября в 00:18  ",
+  "seller_link": "/user/b300432da241f28d8dba15a237f3355b/profile?id=1510644862&src=item"
+}

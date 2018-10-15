@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1494044308,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_uhozhennoe_rastenie_5_let_1494044308",
+  "address": "Москва, м. Ботанический сад",
+  "title": "Декабрист ухоженное растение 5 лет",
+  "seller_link": "/user/cd79ec3f88a2f879f78f597ae76adda2/profile?id=1494044308&src=item",
+  "text": "В новом керамическом кашпо, цветёт с декабря по февраль яркими насыщенно - розовыми Цветами. Связь через сообщения на сайте Авито\n",
+  "post_date": "  07 October в 22:57  "
+}

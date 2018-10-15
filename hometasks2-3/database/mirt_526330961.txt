@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 526330961,
+  "title": "Мирт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mirt_526330961",
+  "seller": "Ольга",
+  "address": "Москва, м. Марьино",
+  "text": "мирт крупнолистный -400р.Фото по запросу.Ватсап,вибер.Самовывоз.\n",
+  "post_date": "  07 October в 09:12  ",
+  "seller_link": "/user/3d0bc109fc10fc1cd9357f48ca47ccb6/profile?id=526330961&src=item"
+}

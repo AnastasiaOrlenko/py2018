@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1240013661,
+  "title": "Кустовая традесканция и Аглая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kustovaya_tradeskantsiya_i_aglaya_1240013661",
+  "seller": "Татьяна",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Братиславская",
+  "text": "Медленно растущая,кустовая традесканция,розовая,Аглая мелколистная,цветы ароматные,черенок..Любой цветочек-250руб.\n",
+  "post_date": "  07 October в 09:23  ",
+  "seller_link": "/user/80f751ecaba0d7d33469b6a3f10736f1/profile?id=1240013661&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1180209219,
+  "title": "Бегония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_1180209219",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Сильное цветущее растение. Готов для пересадки. Обильное цветение.\n",
+  "post_date": "  6 октября в 18:56  ",
+  "seller_link": "/user/f25bb87c55f92a8e533e942ccab4a09a/profile?id=1180209219&src=item"
+}

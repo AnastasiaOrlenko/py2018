@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 948308768,
+  "title": "Мерные ложечки для сыпучих и жидких удобрений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mernye_lozhechki_dlya_sypuchih_i_zhidkih_udobreniy_948308768",
+  "seller": "Юлия",
+  "address": "Москва, м. Семеновская",
+  "text": "МЕРНЫЕ ЛОЖЕЧКИ - очень удобные для жидких и сыпучих удобрений. В комплекте 5 ложечек разного размера. 1 мл, 2.5 мл, 5 мл, 7.5 мл и 15 мл.\n",
+  "post_date": "  6 октября в 12:20  ",
+  "seller_link": "/user/3455ef4994f70d67b874a2c4ee74377f/profile?id=948308768&src=item"
+}

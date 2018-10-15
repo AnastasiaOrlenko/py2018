@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1145269416,
+  "title": "Стебли стабилизированные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stebli_stabilizirovannye_1145269416",
+  "seller": "игорь",
+  "address": "Москва, м. Автозаводская",
+  "text": "Стебли стабилизированные все размеры писать на воцап\n",
+  "post_date": "  5 октября в 20:53  ",
+  "seller_link": "/user/62b2a251929a01add75a9e4a412778e4/profile?id=1145269416&src=item"
+}

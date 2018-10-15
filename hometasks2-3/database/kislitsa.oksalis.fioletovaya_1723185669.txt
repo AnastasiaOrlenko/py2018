@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1723185669,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kislitsa.oksalis.fioletovaya_1723185669",
+  "address": "Москва, м. Новокосино",
+  "title": "Кислица.Оксалис.Фиолетовая",
+  "seller_link": "/user/8b0fb8147a2d87a107a303b08b93f166/profile?id=1723185669&src=item",
+  "text": "Кислица.Оксалис.Фиолетовая.\nЦена 100 рублей.\n",
+  "post_date": "  07 October в 13:59  "
+}

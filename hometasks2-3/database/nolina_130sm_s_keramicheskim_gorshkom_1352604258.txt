@@ -1,0 +1,12 @@
+{
+  "text": "Разветвленная,высота от основания горшка.\n.Находится на даче под Чеховом.Желателен самовывоз,но иногда могу привезти в Москву\n",
+  "title": "Нолина 130см с керамическим горшком",
+  "price": 8000,
+  "index": 1352604258,
+  "address": "Москва, м. Университет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nolina_130sm_s_keramicheskim_gorshkom_1352604258",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 01:22  ",
+  "seller": "Полина",
+  "seller_link": "/user/7a53aeccb3e6ff5de5eb780409cafeb5/profile?id=1352604258&src=item"
+}

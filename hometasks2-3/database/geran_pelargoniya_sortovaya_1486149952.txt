@@ -1,0 +1,13 @@
+{
+  "price": 450,
+  "seller_status": "Компания",
+  "index": 1486149952,
+  "title": "Герань пеларгония сортовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_sortovaya_1486149952",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Хорошевская",
+  "text": "Продаются укорененные черенки сотовых пеларгоний. \nФото1- Bold Cherub - растение в горшке-700р.\nФото-2- Swainham Spring - молодое цветущее растение в горшке -700р.\nФото-3- Unicorn Zonartic Rose -зонартик с крупными цветами -ук.черенок -500р.\nФото-4- Rose of Amsterdam - ук черенок -450р.\nФото-5- Norrland - ук.черенок -450р.\n Пример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте.\n",
+  "post_date": "  5 октября в 23:59  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1486149952&src=item"
+}

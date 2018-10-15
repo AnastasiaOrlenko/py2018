@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1262855967,
+  "seller": "Хозяйка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_d_42_sm_35_sm_1262855967",
+  "address": "Москва, м. Митино",
+  "title": "Кашпо д 42 см (35 см)",
+  "seller_link": "/user/16d73a992fee186416cd65a24c1b661b/profile?id=1262855967&src=item",
+  "text": "Предлагаю кашпо д 42см, h 32см , внутренний д 35 см.\nбез недостатков.\nзабирать в Митино или ул Беловежская\n",
+  "post_date": "  08 October в 00:26  "
+}

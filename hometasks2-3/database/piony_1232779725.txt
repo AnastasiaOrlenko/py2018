@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1232779725,
+  "title": "Пионы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/piony_1232779725",
+  "seller": "S",
+  "seller-contact": "Лидия",
+  "address": "Москва, м. Митино",
+  "text": "пионы красные и розоаые есть несколько розовых пионов по 150 р\n",
+  "post_date": "  5 октября в 18:34  ",
+  "seller_link": "/user/bed7d440f72b37e34c634011e4cf0094/profile?id=1232779725&src=item"
+}

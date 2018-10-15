@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 3000,
+  "index": 1386529668,
+  "seller": ".",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1386529668",
+  "address": "Москва, м. Выхино",
+  "title": "Гибискус",
+  "seller_link": "/user/b86bdbc18512502e48bd44fa2889ba32/profile?id=1386529668&src=item",
+  "text": "Гибискус или китайская роза , цветёт красиво . Высота 75 см , ширина 100см\n",
+  "seller-contact": "Александра",
+  "post_date": "  07 October в 20:41  "
+}

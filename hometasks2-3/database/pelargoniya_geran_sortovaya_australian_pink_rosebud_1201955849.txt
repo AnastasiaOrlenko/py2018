@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1201955849,
+  "seller": "Серджиу",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_sortovaya_australian_pink_rosebud_1201955849",
+  "address": "Москва, м. Печатники",
+  "title": "Пеларгония герань сортовая Australian pink rosebud",
+  "seller_link": "/user/ac1fc5158c9c7f6b71e6e362e4e71383/profile?id=1201955849&src=item",
+  "text": "Продаются укорененые черенки сортовой пеларгонии\nТо что на фото 6-7-8-9-10\n",
+  "post_date": "  07 October в 16:04  "
+}

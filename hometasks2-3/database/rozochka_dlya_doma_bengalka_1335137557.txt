@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/80c8e3fb4baeb2edf742a3f6c320d067/profile?id=1335137557&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozochka_dlya_doma_bengalka_1335137557",
+  "post_date": "  08 October в 09:40  ",
+  "address": "Москва, м. Новослободская",
+  "seller": "Аня",
+  "text": "розочка для дома бенгалка, белорозовая, розовая, малиновая, лимонная.Цены разные. Укорененные малыши.\n",
+  "index": 1335137557,
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "title": "Розочка для дома бенгалка"
+}

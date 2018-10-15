@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Петровско-Разумовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otdam_otrostki_koleusov_raznyh_rastsvetok_337213482",
+  "seller-contact": "Анна",
+  "seller_link": "/user/67541c61ee17a3fd0a0ad077a71bcc3e/profile?id=337213482&src=item",
+  "seller": "Анна",
+  "post_date": "  08 October в 16:24  ",
+  "title": "Отдам отростки колеусов разных расцветок",
+  "text": "Растения очень разрослись, выбросить жалко, заберите. есть другие виды\n",
+  "index": 337213482,
+  "seller_status": "Компания"
+}

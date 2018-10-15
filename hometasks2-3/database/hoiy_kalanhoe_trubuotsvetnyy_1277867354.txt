@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/01ad02071d79bad5d337f01ef1f1f4b9/profile?id=1277867354&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoiy_kalanhoe_trubuotsvetnyy_1277867354",
+  "post_date": "  08 October в 09:22  ",
+  "address": "Москва, м. Сходненская",
+  "seller": "Ольга",
+  "text": "Хойя мультифлора по 2 саженца в каждом горшке - 400 руб. \nХойя с круглыми листиками и каланхое - 50 руб. \nВсе растения укорененные, в хорошем грунте.\n",
+  "index": 1277867354,
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "title": "Хоий, каланхое трубуоцветный"
+}

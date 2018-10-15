@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1231792362,
+  "title": "Хойя sigillatis",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_sigillatis_1231792362",
+  "seller": "Мария",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Марьино",
+  "text": "Продам черенок хойи сигиллатис с корнями из воды. С новым ростом. Все вопросы только через форму Написать сообщение.\n",
+  "post_date": "  5 октября в 03:06  ",
+  "seller_link": "/user/2850e6a01f4c94f2bd5e806f7c0a376c/profile?id=1231792362&src=item"
+}

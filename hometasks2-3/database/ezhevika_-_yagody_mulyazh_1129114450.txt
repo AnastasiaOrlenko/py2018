@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1129114450,
+  "title": "Ежевика - ягоды, муляж",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ezhevika_-_yagody_mulyazh_1129114450",
+  "seller": "Ирина",
+  "address": "Москва, м. Выхино",
+  "text": "Ягоды ежевики черные и красные.\nДва пакетика по 9 шт. Всего 18шт.\nОтдам за 100руб.\n",
+  "post_date": "  6 октября в 21:01  ",
+  "seller_link": "/user/6390e6a6bf8946709091d154b505ee52/profile?id=1129114450&src=item"
+}

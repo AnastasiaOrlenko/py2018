@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1628411561,
+  "title": "Цикламен",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiklamen_1628411561",
+  "seller": "Н",
+  "address": "Москва, м. Митино",
+  "text": "Продам цветы , цена за один. Оба продам за 300. Все вопросы через сообщение на сайте тк к телефону не подхожу.\n",
+  "post_date": "  5 октября в 17:35  ",
+  "seller_link": "/user/19c14f1d0c79f2d3d925db5489629f7d/profile?id=1628411561&src=item"
+}

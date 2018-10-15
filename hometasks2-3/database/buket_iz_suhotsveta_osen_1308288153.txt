@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Шаболовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_suhotsveta_osen_1308288153",
+  "price": 400,
+  "seller": "Маргарита",
+  "post_date": "  08 October в 22:36  ",
+  "title": "Букет из сухоцвета \"Осень\"",
+  "text": "Букет в стеклянном стакане,ветки и украшения вставлены в оазис\n",
+  "index": 1308288153,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/934ccb5c9493ac14ad755b5ad4d3fe15/profile?id=1308288153&src=item"
+}

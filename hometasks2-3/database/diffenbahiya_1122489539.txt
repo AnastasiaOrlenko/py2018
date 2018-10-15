@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1122489539,
+  "seller": "Инна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1122489539",
+  "address": "Москва, м. Новокосино",
+  "title": "Диффенбахия",
+  "seller_link": "/user/afdccbe70bc4b84f4d7345c16bbfe72a/profile?id=1122489539&src=item",
+  "text": "Диффенбахия в горшке в питательном грунте, 50-70 см. 250 руб. одно растение.\n",
+  "post_date": "  08 October в 02:14  "
+}

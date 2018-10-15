@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Елена",
+  "index": 794007815,
+  "title": "Бонсай Куривао Голд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bonsay_kurivao_gold_794007815",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Домодедовская",
+  "text": "Бонсай из можжевельника. Крона с золотистысми кончиками. Морозостойкий.\nВысота - 190 см.\n",
+  "post_date": "  6 октября в 21:16  ",
+  "seller_link": "/user/b7e7e1476bb8e8bf0f4c4d0397a45544/profile?id=794007815&src=item"
+}

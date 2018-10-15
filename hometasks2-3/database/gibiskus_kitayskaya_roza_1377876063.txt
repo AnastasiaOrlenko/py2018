@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1377876063,
+  "title": "Гибискус Китайская Роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kitayskaya_roza_1377876063",
+  "seller": "************",
+  "address": "Москва, м. Новогиреево",
+  "text": "Гибискус махровый\nСортовой.цветет огромными яркими шапками.\n",
+  "post_date": "  4 октября в 23:36  ",
+  "seller_link": "/user/e6151ad3dd55ef8d4b8becd9b8d342b6/profile?id=1377876063&src=item"
+}

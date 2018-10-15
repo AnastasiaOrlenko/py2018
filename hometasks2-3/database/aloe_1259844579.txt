@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1259844579",
+  "seller_status": "Частное лицо",
+  "title": "Алоэ",
+  "post_date": "  08 October в 12:48  ",
+  "price": 200,
+  "index": 1259844579,
+  "seller_link": "/user/8dbca9f473fd861a82386b345e082bb3/profile?id=1259844579&src=item",
+  "text": "Продаю Алоэ. Цветок в горшке. Возраст приблизительно 3 года. Высота 32 см.\n"
+}

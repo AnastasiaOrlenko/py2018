@@ -1,0 +1,12 @@
+{
+  "text": "Продаю Денежное дерево (Толстянку).\nМного отростков,в прекрасном состоянии.Листья толстые,темно зеленые. Здоровое дерево.\nВысота 40 см.\n",
+  "title": "Продаю Толстянку",
+  "price": 500,
+  "index": 1433993469,
+  "address": "Зеленоград",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/prodayu_tolstyanku_1433993469",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:57  ",
+  "seller": "Светлана",
+  "seller_link": "/user/8ba307f932bab72a0b8a97be62fb356d/profile?id=1433993469&src=item"
+}

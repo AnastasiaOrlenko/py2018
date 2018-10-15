@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1517641260,
+  "title": "BAC Pro Active 120 ml",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bac_pro_active_120_ml_1517641260",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "BAC Pro Active 120 ml\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1517641260&src=item"
+}

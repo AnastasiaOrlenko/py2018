@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1163725114,
+  "title": "Гибискус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1163725114",
+  "seller": "Елена",
+  "address": "Москва, м. Алма-Атинская",
+  "text": "Гибискус или китайская роза, цветет красными цветами\n",
+  "post_date": "  5 октября в 23:29  ",
+  "seller_link": "/user/ac745bbb76221b1cee157d9f93976fc2/profile?id=1163725114&src=item"
+}

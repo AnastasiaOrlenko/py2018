@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 925809210,
+  "title": "Драцены разные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratseny_raznye_925809210",
+  "seller": "Ирина",
+  "address": "Москва, м. Щукинская",
+  "text": "Драцены разные,высота от 42до 92см с учетом горшка.Цена 300-600 ( с керамическим горшком) рублей.Самые маленькие 200 руб.\n",
+  "post_date": "  5 октября в 17:54  ",
+  "seller_link": "/user/1be3ff540fc022a1613c612a1fe8dc1d/profile?id=925809210&src=item"
+}

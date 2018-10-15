@@ -1,0 +1,12 @@
+{
+  "price": 75,
+  "seller_status": "Частное лицо",
+  "index": 1540542270,
+  "title": "Спирея японская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spireya_yaponskaya_1540542270",
+  "seller": "иван",
+  "address": "Москва, м. Царицыно",
+  "text": "Спирея японская ,30-50 см.\n",
+  "post_date": "  07 October в 05:59  ",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=1540542270&src=item"
+}

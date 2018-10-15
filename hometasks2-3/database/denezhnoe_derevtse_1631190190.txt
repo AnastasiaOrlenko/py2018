@@ -1,0 +1,12 @@
+{
+  "text": "Денежное дерево, высота 27 см, в новом горшке с поддоном. Есть возможность привезти по восточному округу.\n",
+  "title": "Денежное деревце",
+  "price": 550,
+  "index": 1631190190,
+  "address": "Москва, м. Курская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevtse_1631190190",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:51  ",
+  "seller": "Андрей",
+  "seller_link": "/user/20a8c5163d0606ffb0a578035910edd2/profile?id=1631190190&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/el_5-6_m_1414799891",
+  "seller-contact": "Андрей",
+  "price": 10000,
+  "seller": "ЯР-КРУПНОМЕР",
+  "post_date": "  08 October в 23:43  ",
+  "title": "Ель 5-6 м",
+  "text": "Продаём ель обыкновенную 5-6 метров высотой с комом земли, упаковка сетка Мешковина. \nВ наличии 1000 шт\n",
+  "index": 1414799891,
+  "seller_status": "Магазин",
+  "seller_link": "/i68949607?gdlkerfdnwq=101&shopId=119204"
+}

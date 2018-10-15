@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 744541773,
+  "title": "Финиковая пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/finikovaya_palma_744541773",
+  "seller": "Елена",
+  "address": "Москва, м. Сходненская",
+  "text": "Настоящая финиковая пальма, возраст 2-3 года, требует пересадки в горшок большего обьема. А также есть другие растения.\n",
+  "post_date": "  6 октября в 00:36  ",
+  "seller_link": "/user/d9a9cf22b8559c872406246f882a0581/profile?id=744541773&src=item"
+}

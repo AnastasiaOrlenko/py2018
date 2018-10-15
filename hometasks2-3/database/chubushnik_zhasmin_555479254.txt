@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 500,
+  "index": 555479254,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chubushnik_zhasmin_555479254",
+  "address": "Москва, м. Медведково",
+  "title": "Чубушник, жасмин",
+  "seller_link": "/user/b6db6a203a09bcaf3366887ffb1b2cf4/profile?id=555479254&src=item",
+  "text": "Продам кустик сорт шнииструм , возраст 2 года\n",
+  "seller-contact": "Екатерина",
+  "post_date": "  07 October в 23:06  "
+}

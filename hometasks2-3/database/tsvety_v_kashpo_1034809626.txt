@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1034809626,
+  "title": "Цветы в кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_v_kashpo_1034809626",
+  "seller": "FloretSun",
+  "address": "Москва, м. Бауманская",
+  "text": "Прекрасные леечки с фиттонией станут прекрасным украшением любой кухни. Занимают мало места. Не требуют тщательного ухода.\n",
+  "post_date": "  5 октября в 15:21  ",
+  "seller_link": "/user/a86f086bf9e252a51913b68a9fa55029/profile?id=1034809626&src=item"
+}

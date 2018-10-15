@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1586813763,
+  "seller": "А.",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1586813763",
+  "address": "Москва, м. Раменки",
+  "title": "Кактус",
+  "seller_link": "/user/3dfa6c7baa0f1e2f3e927729aa927422/profile?id=1586813763&src=item",
+  "text": "Кактус- 50руб(1шт.)\n",
+  "post_date": "  07 October в 22:02  "
+}

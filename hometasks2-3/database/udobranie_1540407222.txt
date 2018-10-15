@@ -1,0 +1,12 @@
+{
+  "price": 40,
+  "seller_status": "Частное лицо",
+  "index": 1540407222,
+  "title": "Удобрание",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobranie_1540407222",
+  "seller": "никита ян",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Купил много теперь продаю.удобрение joy капуста - комплексное удобрение для подкормки\n",
+  "post_date": "  6 октября в 21:28  ",
+  "seller_link": "/user/f08234093313cb8bc5d054f9f1b1dd88/profile?id=1540407222&src=item"
+}

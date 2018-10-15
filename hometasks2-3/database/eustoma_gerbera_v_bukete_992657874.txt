@@ -1,0 +1,12 @@
+{
+  "text": "Эустома-8, розы-6, герберы-3, зелень, упаковка\n",
+  "title": "Эустома, гербера в букете",
+  "price": 1450,
+  "index": 992657874,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eustoma_gerbera_v_bukete_992657874",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

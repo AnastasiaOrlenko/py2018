@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 744330588,
+  "title": "Рео",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_744330588",
+  "seller": "Polina",
+  "address": "Москва, м. Домодедовская",
+  "text": "Очень красивый цветок РЕО.\n Листья сочные, ярко-зеленого цвета. \nРастет очень быстро.\nПишите,звоните,WhatsApp.\n",
+  "post_date": "  5 октября в 17:53  ",
+  "seller_link": "/user/b1f1a2f9eb8cbfa08468cec9da6652ed/profile?id=744330588&src=item"
+}

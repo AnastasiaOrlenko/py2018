@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1395129388,
+  "title": "Растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rasteniya_1395129388",
+  "seller": "комарова татьяна",
+  "address": "Москва, м. Тропарево",
+  "text": "Суккуленты. Розетка с пятью отростками от 100 руб.\n",
+  "post_date": "  5 октября в 13:47  ",
+  "seller_link": "/user/4cf7fd4ca90da1014b1ba8f29108265e/profile?id=1395129388&src=item"
+}

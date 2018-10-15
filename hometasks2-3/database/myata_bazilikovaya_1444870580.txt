@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица Скобелевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/myata_bazilikovaya_1444870580",
+  "price": 250,
+  "seller": "Оксана",
+  "post_date": "  08 October в 19:27  ",
+  "title": "Мята базиликовая",
+  "text": "Базиликовая мята (Mentha species «Basilmint»): имеет пряный аромат и часто добавляется в овощные салаты, особенно с помидорами. Цветки – яркие пурпурные, листья – зеленые с красным отливом. Стебель также красного цвета.\n",
+  "index": 1444870580,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/202a08d6828ba3bffaa0de59df943faf/profile?id=1444870580&src=item"
+}

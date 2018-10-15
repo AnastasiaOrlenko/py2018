@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Нагорная",
+  "seller": "Roman",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pahira_1691531013",
+  "seller_status": "Частное лицо",
+  "title": "Пахира",
+  "post_date": "  08 October в 12:53  ",
+  "price": 1590,
+  "index": 1691531013,
+  "seller_link": "/user/97881cd2c31df4724fd34e4563dd75e6/profile?id=1691531013&src=item",
+  "text": "Высота растения с горшком ~125см, размер горшка 23см.\n"
+}

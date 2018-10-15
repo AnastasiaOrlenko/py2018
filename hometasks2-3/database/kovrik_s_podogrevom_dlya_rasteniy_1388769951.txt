@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1388769951,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kovrik_s_podogrevom_dlya_rasteniy_1388769951",
+  "address": "Москва, м. Семеновская",
+  "title": "Коврик с подогревом для растений",
+  "seller_link": "/user/93849cd6c727dea8f5b92f02687d44a3/profile?id=1388769951&src=item",
+  "text": "Новый, не использовался.\n",
+  "post_date": "  07 October в 14:26  "
+}

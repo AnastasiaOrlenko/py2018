@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Строгино",
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_130_sm_1561124692",
+  "seller_status": "Компания",
+  "title": "Монстера 130 см",
+  "post_date": "  08 October в 11:56  ",
+  "price": 2100,
+  "index": 1561124692,
+  "seller_link": "/user/25d38fa4d7946631d4b024596f878d85/profile?id=1561124692&src=item",
+  "text": "Хорошая здоровая монстера с горшком. Продажа в связи с переездом. Возможна доставка в пределах МКАД. Есть детки по 300 р.\n"
+}

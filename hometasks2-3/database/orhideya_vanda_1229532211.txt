@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кунцевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_vanda_1229532211",
+  "price": 3000,
+  "seller": "Светлана",
+  "post_date": "  08 October в 21:45  ",
+  "title": "Орхидея Ванда",
+  "text": "5 лет. Цветет 2 раза в год. Огромные малиновые цветы. Высота с кашпо 93см. \"Размах\" листьев 60 см.\n",
+  "index": 1229532211,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/aebba0aba66dd482b260d08aa06745b9/profile?id=1229532211&src=item"
+}

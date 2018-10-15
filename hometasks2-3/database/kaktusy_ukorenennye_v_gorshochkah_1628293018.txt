@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1628293018,
+  "title": "Кактусы укорененные, в горшочках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_ukorenennye_v_gorshochkah_1628293018",
+  "seller": "Частное лицо",
+  "seller-contact": "Вероника",
+  "address": "Москва, м. Тульская",
+  "text": "Отдам практически даром кактусы укорененные, в горшочках. \nБудут цвести!!! (см на фото - материнское растение).\nВ наличии несколько штук, \"ростом\" от 3 до 6 см.\nЦЕНА от 150 до 250 РУБЛЕЙ.\n",
+  "post_date": "  4 октября в 23:36  ",
+  "seller_link": "/user/87e439d69bd08fccac1609ff5062ef8d/profile?id=1628293018&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1719684509,
+  "title": "Суккуленты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sukkulenty_1719684509",
+  "seller": "Елизавета",
+  "address": "Москва, м. Охотный ряд",
+  "text": "2,3 фото-эхеверия Хармса 150, 100\n3,4 фото- пахиверия сизая(Глаука) 200,150\n",
+  "post_date": "  6 октября в 13:26  ",
+  "seller_link": "/user/d15308e958fb217edff96f9a518ebcf2/profile?id=1719684509&src=item"
+}

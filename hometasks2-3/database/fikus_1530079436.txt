@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1530079436,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1530079436",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Выше 40 см. В горшке. Растение на фото.\n",
+  "post_date": "  6 октября в 15:21  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=1530079436&src=item"
+}

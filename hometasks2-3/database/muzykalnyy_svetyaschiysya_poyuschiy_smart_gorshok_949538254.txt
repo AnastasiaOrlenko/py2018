@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 949538254,
+  "title": "Музыкальный Светящийся Поющий Smart Горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/muzykalnyy_svetyaschiysya_poyuschiy_smart_gorshok_949538254",
+  "seller": "Петр",
+  "address": "Москва, м. Пражская",
+  "text": "Поющий цветок\n",
+  "post_date": "  5 октября в 16:06  ",
+  "seller_link": "/user/6a683a9653448ffba6f9a02ae419cb64/profile?id=949538254&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Паперомия отросток",
+  "price": 50,
+  "seller": "Светлана",
+  "seller_link": "/user/720ddd8fff31e2bd9fd8993748e984df/profile?id=769187322&src=item",
+  "address": "Москва, м. Орехово",
+  "index": 769187322,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paperomiya_otrostok_769187322",
+  "text": "Паперомия.\n",
+  "post_date": "  4 октября в 17:27  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 1100,
+  "seller_status": "Компания",
+  "index": 862367999,
+  "title": "Цветок примерно 1.95 м -высота",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_primerno_1.95_m_-vysota_862367999",
+  "seller": "алёна",
+  "seller-contact": "АЛЁНА",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Изящный, сильный цветок!!!!\n",
+  "post_date": "  4 октября в 23:32  ",
+  "seller_link": "/user/5edf7c000e87b62158dbb7cf4613d9cf/profile?id=862367999&src=item"
+}

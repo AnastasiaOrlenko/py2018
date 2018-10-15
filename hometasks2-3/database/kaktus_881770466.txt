@@ -1,0 +1,12 @@
+{
+  "price": 5,
+  "seller_status": "Частное лицо",
+  "index": 881770466,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_881770466",
+  "seller": "Ася",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "Поделюсь детками кактуса\n",
+  "post_date": "  6 октября в 11:06  ",
+  "seller_link": "/user/63c5bf94acaac78f7cc45c3f94d9fbf1/profile?id=881770466&src=item"
+}

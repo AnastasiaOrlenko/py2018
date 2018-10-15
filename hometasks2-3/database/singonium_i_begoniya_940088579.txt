@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Университет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_i_begoniya_940088579",
+  "seller-contact": "Марина",
+  "price": 30,
+  "seller": "Марина",
+  "post_date": "  08 October в 16:05  ",
+  "title": "Сингониум и бегония",
+  "text": "На 3-ем фото материнское растение. Очень красиво смотрится! Стаканчик 30р,и два по 80. Бегония 100\n",
+  "index": 940088579,
+  "seller_status": "Компания",
+  "seller_link": "/user/2b176b9b79e8953c5330e89fb750a3ae/profile?id=940088579&src=item"
+}

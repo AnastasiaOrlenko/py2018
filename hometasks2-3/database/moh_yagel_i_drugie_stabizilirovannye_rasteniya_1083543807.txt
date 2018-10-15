@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Комсомольская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/moh_yagel_i_drugie_stabizilirovannye_rasteniya_1083543807",
+  "price": 798,
+  "seller": "Артем",
+  "post_date": "  08 October в 14:53  ",
+  "title": "Мох ягель и другие стабизилированные растения",
+  "text": "Мох высшего качества, собственного производства\nНе имеет запаха\nНе красит руки при работе\nНе высыхает\nГарантия 3 года!\nИзготовим панно из стабилизированных растений под заказ\nОпыт работы более 5 лет!\nЗвоните!\n",
+  "index": 1083543807,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/b613be04135deab2b911bc18af61e1ba/profile?id=1083543807&src=item"
+}

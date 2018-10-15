@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/agava_shaka_zulu_20-25_sm_824398299",
+  "seller_status": "Компания",
+  "title": "Агава Шака Зулу 20-25 см",
+  "post_date": "  08 October в 12:18  ",
+  "price": 2204,
+  "index": 824398299,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=824398299&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Агава Шака Зул, диаметр 15 см, в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

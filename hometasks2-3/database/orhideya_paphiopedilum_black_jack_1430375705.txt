@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 2300,
+  "index": 1430375705,
+  "seller": "Blumen-Port",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_paphiopedilum_black_jack_1430375705",
+  "address": "Москва, м. Преображенская площадь",
+  "title": "Орхидея Paphiopedilum Black Jack",
+  "seller_link": "/user/129b4595092b957d611db1dce61d02c0/profile?id=1430375705&src=item",
+  "text": "Орхидея Paphiopedilum Black Jack, цветок чёрно-бордовый, размах боковых лепестков 12 см, красивые пятнистые тёмно-зелёные листочки, горшочек 8 см, субстрат - кора, кокосовые чипсы, процвёл из одной розетки, две розетки нецветшие.\nСамовывоз м. Преображенская площадь, м. Павелецкая\nВозможна доставка по Москве, отправка в регионы\n",
+  "post_date": "  08 October в 03:48  "
+}

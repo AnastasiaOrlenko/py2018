@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 906872349,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gipperastrum_906872349",
+  "address": "Москва, м. Сходненская",
+  "title": "Гиппераструм",
+  "seller_link": "/user/5520e7506c5be032253819ce60cf9d02/profile?id=906872349&src=item",
+  "text": "Продаю гиппеаструм, 3 шт. в одном горшке и 5 деток. Красные и один белый.\n",
+  "post_date": "  07 October в 16:29  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1660092073,
+  "title": "Продам горшки для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_gorshki_dlya_tsvetov_1660092073",
+  "seller": "Оксана",
+  "address": "Москва, м. Царицыно",
+  "text": "Продам всё за 100руб: стаканчики 100мл-100шт, 3горшка диаметр 10см- б/у , 9 горшков диаметр 12см-новые.\n",
+  "post_date": "  6 октября в 12:50  ",
+  "seller_link": "/user/c122b1369840c173839ffee960907a09/profile?id=1660092073&src=item"
+}

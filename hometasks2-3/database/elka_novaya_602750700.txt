@@ -1,0 +1,13 @@
+{
+  "price": 2300,
+  "seller_status": "Компания",
+  "index": 602750700,
+  "title": "Ёлка новая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/elka_novaya_602750700",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Ёлка новая высотой 180\n",
+  "post_date": "  6 октября в 17:03  ",
+  "seller_link": "/user/b0f88553d6d7f49b22055cdbbf15103d/profile?id=602750700&src=item"
+}

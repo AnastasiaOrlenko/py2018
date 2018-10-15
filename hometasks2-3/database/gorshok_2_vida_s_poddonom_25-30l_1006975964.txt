@@ -1,0 +1,13 @@
+{
+  "text": "повреждений нет. высота 31 см х35 см диаметр (на 25-30 л). Каждый 590. 1000 р за оба\nцвет в нефрит, не в малахит\n",
+  "title": "Горшок 2 вида с поддоном 25-30л",
+  "price": 550,
+  "index": 1006975964,
+  "address": "Москва, м. Калужская",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_2_vida_s_poddonom_25-30l_1006975964",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 09:17  ",
+  "seller": "частное лицо",
+  "seller_link": "/user/db439ca691b442df39ce2daa70025fdb/profile?id=1006975964&src=item"
+}

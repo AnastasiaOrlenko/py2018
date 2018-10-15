@@ -1,0 +1,13 @@
+{
+  "price": 599,
+  "seller_status": "Компания",
+  "index": 1644826673,
+  "title": "Цветок драцена с горшком",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_dratsena_s_gorshkom_1644826673",
+  "seller": "Светлана",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Медведково",
+  "text": "Красивый цветок со здоровыми листьями, кончики не сухие, высота цветка 50 см, с горшком 70 см. Цена окончательная и низкая, с учетом срочной продажи! Цветок и горшок супер!\n",
+  "post_date": "  5 октября в 23:01  ",
+  "seller_link": "/user/ffd089095092dcbd74eb50e5793f8d25/profile?id=1644826673&src=item"
+}

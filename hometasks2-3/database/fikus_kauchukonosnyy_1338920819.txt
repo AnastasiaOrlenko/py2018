@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1338920819,
+  "title": "Фикус каучуконосный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukonosnyy_1338920819",
+  "seller": "Комнатные цветы",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Самовывоз.\n",
+  "post_date": "  6 октября в 11:38  ",
+  "seller_link": "/user/bfc2f5109b84ca034d110bc90a086513/profile?id=1338920819&src=item"
+}

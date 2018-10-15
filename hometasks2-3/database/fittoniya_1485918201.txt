@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1485918201,
+  "title": "Фиттония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fittoniya_1485918201",
+  "seller": "Алёна",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Укорененные черенки фиттонии. \nСамовывоз район Солнцево.\nЕсть еще лавр, мирт, фикусы.\n",
+  "post_date": "  6 октября в 07:11  ",
+  "seller_link": "/user/c9d64e2ed27a3083f6dec045f0cd4003/profile?id=1485918201&src=item"
+}

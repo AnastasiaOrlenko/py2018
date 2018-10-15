@@ -1,0 +1,12 @@
+{
+  "price": 1400,
+  "seller_status": "Частное лицо",
+  "index": 1094182902,
+  "title": "Фикус бенжамин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_benzhamin_1094182902",
+  "seller": "Ольга",
+  "address": "Москва, м. Молодежная",
+  "text": "Продам фикус\n",
+  "post_date": "  5 октября в 16:46  ",
+  "seller_link": "/user/58d346eb90ab0b7c6ccccf00cc1001e3/profile?id=1094182902&src=item"
+}

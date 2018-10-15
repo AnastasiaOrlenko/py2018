@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 950,
+  "index": 1366279395,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_black_face_1366279395",
+  "address": "Москва, м. Пражская",
+  "title": "Орхидея фаленопсис Black face",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1366279395&src=item",
+  "text": "Орхидея фаленопсис Black face. Размер 2,5, посадка мох . Здоровое , бодрое растение. Производство Азия( Mikki orchid)\n",
+  "post_date": "  07 October в 16:28  "
+}

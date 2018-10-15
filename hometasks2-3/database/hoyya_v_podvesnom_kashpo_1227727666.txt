@@ -1,0 +1,12 @@
+{
+  "text": "Молодая Хойя карноза. Очень неприхотливое растение, растет быстро, не подвержено болезням и вредителям. Продам вместе с новым пластиковым кашпо.\n",
+  "title": "Хойя в подвесном кашпо",
+  "price": 300,
+  "index": 1227727666,
+  "address": "Москва, м. Улица 1905 года",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_v_podvesnom_kashpo_1227727666",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:36  ",
+  "seller": "Анна",
+  "seller_link": "/user/e9fc70be9f55e2e10a2c1548057d2d6c/profile?id=1227727666&src=item"
+}

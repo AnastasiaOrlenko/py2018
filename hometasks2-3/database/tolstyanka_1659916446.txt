@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1659916446,
+  "title": "Толстянка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1659916446",
+  "seller": "елена",
+  "address": "Москва, м. Академическая",
+  "text": "денежное дерево возраст полгода!\n",
+  "post_date": "  5 октября в 14:50  ",
+  "seller_link": "/user/d0d084d1c4d1f5ded5f915cfe1612b95/profile?id=1659916446&src=item"
+}

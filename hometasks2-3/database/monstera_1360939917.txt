@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 1360939917,
+  "title": "Монстера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1360939917",
+  "seller": "Кристина",
+  "address": "Москва, м. Кантемировская",
+  "text": "Неприхотливое растение украсит ваш дом или офис\n",
+  "post_date": "  5 октября в 15:23  ",
+  "seller_link": "/user/ccb8c93fac89dc28dbcf15557a32aa47/profile?id=1360939917&src=item"
+}

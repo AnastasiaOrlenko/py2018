@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1250212258,
+  "title": "Морской волк",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/morskoy_volk_1250212258",
+  "seller": "Виктор",
+  "address": "Москва, м. Пражская",
+  "text": "Взрослая фиалка в полном расцвете\n",
+  "post_date": "  07 October в 09:44  ",
+  "seller_link": "/user/7fddcc3cd507098561334ba9d26a14c5/profile?id=1250212258&src=item"
+}

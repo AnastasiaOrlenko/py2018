@@ -1,0 +1,13 @@
+{
+  "text": "Крыжовник ирга калина туи девичий виноград и др. Цены умеренные.\nПривезу со своего участка на вднх\n",
+  "title": "Ирисы сирень жасмин смородина и др",
+  "price": 200,
+  "index": 1674723565,
+  "address": "Москва, м. Алексеевская",
+  "seller-contact": "Зинаида не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/irisy_siren_zhasmin_smorodina_i_dr_1674723565",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:33  ",
+  "seller": "Зинаида",
+  "seller_link": "/user/8e8794edfadc1b40671130a784997ede/profile?id=1674723565&src=item"
+}

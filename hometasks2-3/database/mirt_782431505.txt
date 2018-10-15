@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 782431505,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mirt_782431505",
+  "address": "Москва, м. Сходненская",
+  "title": "Мирт",
+  "seller_link": "/user/5520e7506c5be032253819ce60cf9d02/profile?id=782431505&src=item",
+  "text": "Продам деревце мирта. 90 см от уровня почвы.\n",
+  "post_date": "  07 October в 16:32  "
+}

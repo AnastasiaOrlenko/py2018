@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/ef3db660262b7f332715ea2a4551cb32/profile?id=1006782220&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_purpurnaya_1006782220",
+  "post_date": "  08 October в 09:59  ",
+  "address": "Москва, м. Фили",
+  "seller": "Анна",
+  "text": "Традесканция сеткреазия пурпурная фиолетовая. В продаже три горшка с растениями. Молодые пушистые кустики.\nБольшой горшок 300 руб. Остальные по 200.\nВстречаюсь у м.Фили. В метро не бываю.\n",
+  "index": 1006782220,
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "title": "Традесканция пурпурная"
+}

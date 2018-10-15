@@ -1,0 +1,12 @@
+{
+  "text": "Mini rose + (подарочная коробка)\nРазмер колбы: \nВысота 22см\nДиаметр 12 см\nРазмер розы:\nВысота 20см\nДиаметр бутона 5-6 см\nRed rose - 1900\nWhite rose -1900\nLight pink rose-1900\nPink rose-1900\nLila rose-1900\nDark violet rose-1900\nDark blue rose-1900\nTiffany rose-1900\nYellow rose -1900\nBlack rose -1900\nGreen rose -1900\nPremium rose+(подарочная коробка)\nРазмер колбы: \nВысота 27 см\nДиаметр 15 см\nРазмер розы:\nВысота 25 см\nДиаметр бутона 8-9 см \nRed rose - 3000\nWhite rose -3000\nLight pink rose-3000\nPink rose-3000\nLila rose-3000\nOrange rose-3000\nDark blue rose-3000\nTiffany rose-3000\nYellow rose -3000\nBlack rose -3000\nGreen rose -3000\nKing size rose+(подарочная коробка)\nРазмер колбы: \nВысота 33 см\nДиаметр 20 см\nРазмер розы:\nВысота 30 см\nДиаметр бутона 10-12 см \nRed rose-3500\nPink rose-3500\nLight pink rose-3500\nTiffany rose-3500\nDark blue rose-3500\nDark violet-3500\nGreen rose-3500\nOrange rose-3500\n",
+  "title": "Роза в колбе",
+  "price": 1900,
+  "index": 1115278635,
+  "address": "Москва, м. Новогиреево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_1115278635",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:15  ",
+  "seller": "Maksim",
+  "seller_link": "/user/3d2823d7641aab86a37e9a25e0582df7/profile?id=1115278635&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1706105457,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_i_sukkulenty_1706105457",
+  "address": "Москва, м. Медведково",
+  "title": "Кактусы и суккуленты",
+  "seller_link": "/user/8009eada3be0a2b32dbf558796b86992/profile?id=1706105457&src=item",
+  "text": "1 фото - маточные растения, не продаются\n2 фото Haworthia cooperii CV.'Brayn Makin' неукорененный черенок, 250 р, укорененный 350р.\n3 фото Haworthia cooperi var.truncata 250 р\n4 фото Haworthia truncata 150 р\n5 фото Faucaria sp. 1,5 годовалые сеянцы из немецких семян - 100 р\n6 фото Senecio rowleyanus 15 см черенок 100 р\n7 фото Senecio rowleyanus X radicans 15 см черенок 100 р\n8 фото Echeveria cv 'Black Prince', зацветает 300 p\n9 фото crassula erosula cv.campfire черенок укорененный 50 р, СЕЙЧАС ЗЕЛЕНЫЕ, розовый цвет приобретает в весенне-летний период при хорошем освещении. \nотправка только по Москве и Подмосковью через СДЭК (140 р)\n",
+  "post_date": "  07 October в 14:48  "
+}

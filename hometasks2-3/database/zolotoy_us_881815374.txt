@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 881815374,
+  "title": "Золотой ус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_881815374",
+  "seller": "Оксана",
+  "address": "Москва, м. Текстильщики",
+  "text": "Цена от 100.\n",
+  "post_date": "  6 октября в 10:53  ",
+  "seller_link": "/user/27bfbf4938db78da37022aab3be7dafb/profile?id=881815374&src=item"
+}

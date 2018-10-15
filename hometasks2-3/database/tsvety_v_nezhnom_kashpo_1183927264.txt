@@ -1,0 +1,12 @@
+{
+  "text": "Матиола, писта, эвкалипт, астер, бруния, статица, альстрамерия, ревиваль, в кашпо\n",
+  "title": "Цветы в нежном кашпо",
+  "price": 2200,
+  "index": 1183927264,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_v_nezhnom_kashpo_1183927264",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

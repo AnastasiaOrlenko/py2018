@@ -1,0 +1,12 @@
+{
+  "title": "Взрослая драцена",
+  "price": 1000,
+  "seller": "Elena",
+  "seller_link": "/user/e046b9560b9bf323212d59acbb2a03f6/profile?id=637505221&src=item",
+  "address": "Москва, м. Петровско-Разумовская",
+  "index": 637505221,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vzroslaya_dratsena_637505221",
+  "text": "Продам взрослую здоровую драцену , чуть больше метра высотой Самовывоз ул.Б.Академическая - 600 руб/шт. Было две, одна продана, см. Фото\n",
+  "post_date": "  4 октября в 17:17  "
+}

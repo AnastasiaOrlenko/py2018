@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 2000,
+  "index": 1588196113,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1588196113",
+  "address": "Москва, м. Площадь Ильича",
+  "title": "Кактус",
+  "seller_link": "/user/293d75d57d134b9ccd949346b1ae6de0/profile?id=1588196113&src=item",
+  "text": "Кактус приблизительно 40 см в высоту. Растение здоровое, ухоженное. Возможна доставка до подъезда за отдельную плату.\n",
+  "seller-contact": "наталья",
+  "post_date": "  07 October в 22:23  "
+}

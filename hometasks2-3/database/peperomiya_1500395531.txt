@@ -1,0 +1,12 @@
+{
+  "text": "Пеперомия голд, неприхотливое, быстро разрастающееся растение, можно стричь.\n",
+  "title": "Пеперомия",
+  "price": 150,
+  "index": 1500395531,
+  "address": "Москва, м. Печатники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/peperomiya_1500395531",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:11  ",
+  "seller": "Наталья",
+  "seller_link": "/user/c587484d28fc71e2f0cd4fb9bdd08775/profile?id=1500395531&src=item"
+}

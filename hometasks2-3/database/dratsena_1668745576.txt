@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1668745576,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1668745576",
+  "seller": "Мария",
+  "address": "Москва, м. Кузьминки",
+  "text": "Продам пальму Драцена !\nС горшком и в подарок в горшке хлорофитум кудрявый )\n",
+  "post_date": "  5 октября в 16:25  ",
+  "seller_link": "/user/c23af60f4a600e083e7fa2d03fbce831/profile?id=1668745576&src=item"
+}

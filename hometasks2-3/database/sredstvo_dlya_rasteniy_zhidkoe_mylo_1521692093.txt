@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 1521692093,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sredstvo_dlya_rasteniy_zhidkoe_mylo_1521692093",
+  "address": "Москва, м. Сходненская",
+  "title": "Средство для растений жидкое мыло",
+  "seller_link": "/user/f2fce9428936a9160817e9258124e5c4/profile?id=1521692093&src=item",
+  "text": "Новое отдам за шоколадку\n",
+  "post_date": "  07 October в 22:59  "
+}

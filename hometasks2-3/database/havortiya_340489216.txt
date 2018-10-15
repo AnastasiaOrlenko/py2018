@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 340489216,
+  "seller": "Ирина (частное лицо)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_340489216",
+  "address": "Москва, м. Охотный ряд",
+  "title": "Хавортия",
+  "seller_link": "/user/07d6a638843ea8f789d511f18625c52f/profile?id=340489216&src=item",
+  "text": "маленькое растение Хавортия\n",
+  "post_date": "  08 October в 01:45  "
+}

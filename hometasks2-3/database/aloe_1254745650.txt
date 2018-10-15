@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1254745650,
+  "title": "Алое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1254745650",
+  "seller": "Татьяна",
+  "address": "Москва, м. Медведково",
+  "text": "По 50 рублей.\n",
+  "post_date": "  5 октября в 18:09  ",
+  "seller_link": "/user/e4babd64c909c6d72a1e1202f5a4717a/profile?id=1254745650&src=item"
+}

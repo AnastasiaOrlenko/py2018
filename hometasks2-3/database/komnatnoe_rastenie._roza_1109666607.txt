@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Коломенская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnoe_rastenie._roza_1109666607",
+  "price": 7000,
+  "seller": "ЯНА",
+  "post_date": "  08 October в 18:07  ",
+  "title": "Комнатное растение. Роза",
+  "text": "Продаём красивую многолетнюю бархатную розу. Цветёт шикарно. 2,5 метра. Продаём в связи с переездом\n",
+  "index": 1109666607,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2a0caaa8ea9b38797b3fed78d0e52227/profile?id=1109666607&src=item"
+}

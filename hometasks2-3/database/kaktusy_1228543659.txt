@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1228543659,
+  "title": "Кактусы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_1228543659",
+  "seller": "Александр",
+  "seller-contact": "Александр",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Продам кактусы. Без горшочков\n",
+  "post_date": "  6 октября в 11:34  ",
+  "seller_link": "/user/de6fcdaa236227c199f1c724ded2b904/profile?id=1228543659&src=item"
+}

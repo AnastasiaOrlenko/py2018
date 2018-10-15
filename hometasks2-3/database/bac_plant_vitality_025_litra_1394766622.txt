@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1394766622,
+  "title": "BAC Plant Vitality 0,25 литра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bac_plant_vitality_025_litra_1394766622",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "BAC Plant Vitality 0,25 литра\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1394766622&src=item"
+}

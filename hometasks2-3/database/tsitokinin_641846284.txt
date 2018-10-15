@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsitokinin_641846284",
+  "seller-contact": "Роки",
+  "price": 850,
+  "seller": "Alchetech",
+  "post_date": "  08 October в 18:31  ",
+  "title": "Цитокинин",
+  "text": "Продам цитокинин ( 6 БАП) для стимулирование и развитие побегов, бутонов, соцветий, увеличение размеров плодов. \nФасуем от 5 грамм.\n",
+  "index": 641846284,
+  "seller_status": "Компания",
+  "seller_link": "/user/dec62890414a4045ae3a17bd89aabbe1/profile?id=641846284&src=item"
+}

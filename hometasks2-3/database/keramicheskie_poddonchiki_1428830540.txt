@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1428830540,
+  "title": "Керамические поддончики",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskie_poddonchiki_1428830540",
+  "seller": "Продавец",
+  "address": "Москва, м. Жулебино",
+  "text": "Продаются керамические поддончики для горшков и кашпо.\nЦена за 1 шт.\n",
+  "post_date": "  6 октября в 13:58  ",
+  "seller_link": "/user/1b96e32d7cbe4681c431506fc8f6a6a0/profile?id=1428830540&src=item"
+}

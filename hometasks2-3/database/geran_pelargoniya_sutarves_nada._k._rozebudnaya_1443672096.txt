@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1443672096,
+  "title": "Герань пеларгония Sutarves Nada. K. Розебудная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_sutarves_nada._k._rozebudnaya_1443672096",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Хорошевская",
+  "text": "Продаются укорененные черенки сортовой, розебудной пеларгонии. Цены 400 и 500.р Всего две шт. Пример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте. Есть доставка.\n",
+  "post_date": "  6 октября в 01:10  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1443672096&src=item"
+}

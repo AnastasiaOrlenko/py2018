@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 370,
+  "index": 1301702433,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1301702433",
+  "address": "Москва, м. Пражская",
+  "title": "Орхидея фаленопсис",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1301702433&src=item",
+  "text": "Орхидея фаленопсис Franzi. Крепкий подросток, размер 1,7, посадка торф. Производство Нидерланды\n",
+  "post_date": "  07 October в 15:44  "
+}

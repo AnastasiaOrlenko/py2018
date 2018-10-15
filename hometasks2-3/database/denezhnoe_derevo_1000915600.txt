@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1000915600,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1000915600",
+  "seller": "Виктория",
+  "address": "Москва, м. Профсоюзная",
+  "text": "Взрослое растение в горшке\n",
+  "post_date": "  5 октября в 20:13  ",
+  "seller_link": "/user/1ededc129d210418b208f9bf850eb7fb/profile?id=1000915600&src=item"
+}

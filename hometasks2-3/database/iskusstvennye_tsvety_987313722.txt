@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 987313722,
+  "seller": "Лилиан",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/iskusstvennye_tsvety_987313722",
+  "address": "Москва, м. Водный стадион",
+  "title": "Искусственные цветы",
+  "seller_link": "/user/54bf8f1095ed21b024da630b5acade95/profile?id=987313722&src=item",
+  "text": "Большой выбор цветов\n",
+  "post_date": "  07 October в 19:34  "
+}

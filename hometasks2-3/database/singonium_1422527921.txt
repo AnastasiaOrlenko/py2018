@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1422527921,
+  "title": "Сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_1422527921",
+  "seller": "Елизавета",
+  "seller-contact": "Елизавета",
+  "address": "Москва, м. Щелковская",
+  "text": "Сингониум лиана\nСамовывоз м. Щелковская\n",
+  "post_date": "  5 октября в 17:01  ",
+  "seller_link": "/user/b53aade197853ad6ec64c10a4bf9dc4a/profile?id=1422527921&src=item"
+}

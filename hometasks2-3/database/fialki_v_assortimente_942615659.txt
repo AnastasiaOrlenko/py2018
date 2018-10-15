@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 942615659,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_v_assortimente_942615659",
+  "address": "Москва, м. Марьина Роща",
+  "title": "Фиалки в ассортименте",
+  "seller_link": "/user/248b03594ce88dc65b7c998a5bf35e04/profile?id=942615659&src=item",
+  "text": "фиалки 200 руб\nдетки 70 руб \nлист 30 руб \nбольшой выбор представлены не все\n",
+  "post_date": "  07 October в 23:25  "
+}

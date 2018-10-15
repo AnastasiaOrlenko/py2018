@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 712295928,
+  "title": "Горшки под цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_pod_tsvety_712295928",
+  "seller": "Лариса",
+  "address": "Москва, м. Молодежная",
+  "text": "Продаются 3 горшка-высота13.5см.- керамика по 300руб.\n",
+  "post_date": "  5 октября в 23:05  ",
+  "seller_link": "/user/93834f7e734faec66100db17b8ba2d78/profile?id=712295928&src=item"
+}

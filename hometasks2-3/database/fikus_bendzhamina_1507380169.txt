@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Печатники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1507380169",
+  "price": 2000,
+  "seller": "Елена",
+  "post_date": "  08 October в 15:57  ",
+  "title": "Фикус бенджамина",
+  "text": "Продается с горошком\n",
+  "index": 1507380169,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/d0da4fbe13378ce76045d20afde719e2/profile?id=1507380169&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Солнцево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_1579916983",
+  "price": 300,
+  "seller": "инна",
+  "post_date": "  08 October в 15:37  ",
+  "title": "Папоротник",
+  "text": "Взрослое растение. В большом горшке\n",
+  "index": 1579916983,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/f50b6170e0b7d14d400af908d12d9911/profile?id=1579916983&src=item"
+}

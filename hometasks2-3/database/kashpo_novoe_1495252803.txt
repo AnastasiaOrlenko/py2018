@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1495252803,
+  "title": "Кашпо Новое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_novoe_1495252803",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Водный стадион",
+  "text": "Высота 8,5см, качественная керамика, производство Франция. Состояние идеальное.\n",
+  "post_date": "  07 October в 12:48  ",
+  "seller_link": "/user/8eb9171e77a100ab25f0af82d40ce0ed/profile?id=1495252803&src=item"
+}

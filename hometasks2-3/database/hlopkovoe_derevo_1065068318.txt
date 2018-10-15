@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1065068318,
+  "title": "Хлопковое дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlopkovoe_derevo_1065068318",
+  "seller": "николай",
+  "address": "Москва, м. Кантемировская",
+  "text": "Хлопковое дерево.\nПродается то что на фото.\nДекоративное растение деревце для домашнего и уличного выращивания.\nСамовывоз или доставка по москве 350₽\n",
+  "post_date": "  07 October в 12:47  ",
+  "seller_link": "/user/7d4b4c243f244fa18c4a42b21c20924c/profile?id=1065068318&src=item"
+}

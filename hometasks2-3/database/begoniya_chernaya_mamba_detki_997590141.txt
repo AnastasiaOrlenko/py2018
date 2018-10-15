@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 997590141,
+  "title": "Бегония Черная Мамба (детки)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_chernaya_mamba_detki_997590141",
+  "seller": "Надежда",
+  "address": "Москва, м. Солнцево",
+  "text": "Редкий, очень красивый сорт бегонии. \nУкорененный листик с фото 3 стоит 150 рублей, \nСамовывоз из Солнцево. \nЗвоните или пишите сюда. На смс не отвечаю.\n",
+  "post_date": "  6 октября в 19:29  ",
+  "seller_link": "/user/61531933ab8c6864bf6d6deb40fa6e92/profile?id=997590141&src=item"
+}

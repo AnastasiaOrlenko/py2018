@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Алена",
+  "seller": "Алена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetka_1217485934",
+  "seller_status": "Компания",
+  "title": "Горшок для цветка",
+  "post_date": "  08 October в 14:48  ",
+  "price": 250,
+  "index": 1217485934,
+  "seller_link": "/user/fdd0ecadfb5e59a5d2d9714db1741293/profile?id=1217485934&src=item",
+  "address": "Москва, м. Свиблово",
+  "text": "Горшок для цветка. Без сколов и царапин.\n"
+}

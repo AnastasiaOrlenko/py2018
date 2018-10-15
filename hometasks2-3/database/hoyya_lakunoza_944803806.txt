@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Пролетарская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_lakunoza_944803806",
+  "price": 200,
+  "seller": "Ольга",
+  "post_date": "  08 October в 15:54  ",
+  "title": "Хойя Лакуноза",
+  "text": "Продам укорененный черенок хойи Лакуноза, 200 руб.\n",
+  "index": 944803806,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2f5233f0e187b5738cd5ec55727c3bd0/profile?id=944803806&src=item"
+}

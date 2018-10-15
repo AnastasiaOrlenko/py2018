@@ -1,0 +1,12 @@
+{
+  "price": 5500,
+  "seller_status": "Частное лицо",
+  "index": 1298503954,
+  "title": "Лампы светодиодные для растений (и",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampy_svetodiodnye_dlya_rasteniy_i_1298503954",
+  "seller": "Владимир",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Led grow light 90w UFO+ 2 фито лампы с особым спектром , каждая по 35 w!Идеально для гроубокса!\nПокупал в том году.За все отдал 11000 тысяч !В бонус отдам таймеры !Лампы совершенно новые , не использовались !\n",
+  "post_date": "  6 октября в 18:05  ",
+  "seller_link": "/user/fee8db7a742166be026c4da63499132d/profile?id=1298503954&src=item"
+}

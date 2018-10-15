@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1338079579,
+  "title": "Боярышник кроваво-красный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/boyaryshnik_krovavo-krasnyy_1338079579",
+  "seller": "иван",
+  "address": "Москва, м. Царицыно",
+  "text": "Боярышник ,1600 штук.Быстрая доставка.\n",
+  "post_date": "  07 October в 06:11  ",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=1338079579&src=item"
+}

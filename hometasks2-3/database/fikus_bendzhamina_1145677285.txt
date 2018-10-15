@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1145677285",
+  "seller_status": "Частное лицо",
+  "title": "Фикус Бенджамина",
+  "post_date": "  08 October в 11:45  ",
+  "price": 1200,
+  "index": 1145677285,
+  "seller_link": "/user/a4776ca43f5f6157e9a6d1e13324506f/profile?id=1145677285&src=item",
+  "text": "От пола до верхушки (с горшком) - 85 см. В два ствола. Прекрасное здоровое растение.\n"
+}

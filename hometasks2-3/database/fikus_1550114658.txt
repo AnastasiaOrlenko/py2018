@@ -1,0 +1,13 @@
+{
+  "text": "Продаю свой любимый фикус в связи с переездом.большой и очень красивый,много молодых росточков.\n",
+  "title": "Фикус",
+  "post_date": "  08 October в 18:52  ",
+  "seller-contact": "Иван",
+  "price": 2000,
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1550114658",
+  "seller_link": "/user/833c2245c8d169010c236ee0c5bd8318/profile?id=1550114658&src=item",
+  "seller": "Иван",
+  "seller_status": "Компания",
+  "address": "Москва, м. Алтуфьево",
+  "index": 1550114658
+}

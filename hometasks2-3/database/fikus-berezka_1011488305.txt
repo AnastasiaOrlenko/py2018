@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1011488305,
+  "title": "Фикус-берёзка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus-berezka_1011488305",
+  "seller": "Борис",
+  "address": "Москва, м. Аэропорт",
+  "text": "Фикус размер около 70 см.\nГоршок будет пластмассовыми. \nЖелательно самовывоз. Торг не уместен.\n",
+  "post_date": "  5 октября в 11:53  ",
+  "seller_link": "/user/ede6295666fec117d3ec6077bf70dd30/profile?id=1011488305&src=item"
+}

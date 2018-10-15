@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1531091191,
+  "title": "Алоэ молодые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_molodye_1531091191",
+  "seller": "частное лицо",
+  "seller-contact": "Руслана",
+  "address": "Москва, м. Марьино",
+  "text": "Продам молодые алоэ,цена указана за 1 шт.,забрать можно в удобное для вас время.,\n",
+  "post_date": "  5 октября в 19:51  ",
+  "seller_link": "/user/0d802ce8bac264e204ce175be586f8ce/profile?id=1531091191&src=item"
+}

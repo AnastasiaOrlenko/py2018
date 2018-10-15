@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1000903835,
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/agloanema_1000903835",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Аглоанема",
+  "seller_link": "/user/adf7435f98a26bf00d6d55bbd6156c1e/profile?id=1000903835&src=item",
+  "text": "два отростка.выс.30 см.уже подросли\n",
+  "post_date": "  08 October в 08:40  "
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 783089620,
+  "seller": "владимир",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnee_rastenie_kalanhoe_783089620",
+  "address": "Москва, м. Марьино",
+  "title": "Домашнее растение Каланхое",
+  "seller_link": "/user/9cc6f15f29d6735de771d960228b9847/profile?id=783089620&src=item",
+  "text": "Подобие комнатного растения Алое Столетник, лекарственное.\nВ горшке пять отросток.\nОтдам оптом за горшок.\n",
+  "post_date": "  07 October в 14:00  "
+}

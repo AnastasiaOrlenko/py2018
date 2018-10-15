@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1015994977,
+  "title": "Цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_1015994977",
+  "seller": "Мария",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Митино",
+  "text": "Продаётся растение пуассентия, китайская роза, цветёт, большие, очень красивые, с горшком, самовывоз. Если возьмёте два растения, цена-1500 рублей.\n",
+  "post_date": "  5 октября в 22:09  ",
+  "seller_link": "/user/1faf9399c7f2fa45a60f5ebc3217d9bf/profile?id=1015994977&src=item"
+}

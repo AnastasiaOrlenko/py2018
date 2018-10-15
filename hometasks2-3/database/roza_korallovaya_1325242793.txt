@@ -1,0 +1,12 @@
+{
+  "price": 60,
+  "seller_status": "Магазин",
+  "index": 1325242793,
+  "title": "Роза коралловая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_korallovaya_1325242793",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Розы 50см коралловые. Россия\n",
+  "post_date": "  4 октября в 21:36  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

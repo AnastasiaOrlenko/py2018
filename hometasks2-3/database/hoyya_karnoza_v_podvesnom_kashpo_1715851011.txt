@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1715851011,
+  "title": "Хойя Карноза в подвесном кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_karnoza_v_podvesnom_kashpo_1715851011",
+  "seller": "Вероника",
+  "address": "Москва, м. Третьяковская",
+  "text": "Хойя Карноза в подвесном кашпо - 80 см длиной. Взрослое растение, обильно цветущее с мая по сентябрь очень красивыми, душистыми кистями соцветий.\n",
+  "post_date": "  4 октября в 21:54  ",
+  "seller_link": "/user/18d59ee88ad3fa5bc7b9498dcd68a04b/profile?id=1715851011&src=item"
+}

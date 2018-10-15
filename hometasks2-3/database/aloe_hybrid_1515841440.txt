@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Войковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_hybrid_1515841440",
+  "price": 300,
+  "seller": "Юрий",
+  "post_date": "  08 October в 18:38  ",
+  "title": "Aloe hybrid",
+  "text": "1. Aloe cv. Pink Blunsh(взрослое с деткой)-750 р.\n2. Aloe hybrid(на фото кажется больше), сизо-голубая, с налетом- 450 р. \n3. Aloe cv. Pink Blunsh - 300р.\n4. Aloe Dick Wright hybrid(с детками)-350 р.\n5. Aloe Dick Wright hybrid(детка)-300 р.\n",
+  "index": 1515841440,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/4b4953653b569886d784ac713097b888/profile?id=1515841440&src=item"
+}

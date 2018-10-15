@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 120,
+  "index": 1323294327,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/trava_dekorativnaya_dlya_dachi_1323294327",
+  "address": "Москва, м. Преображенская площадь",
+  "title": "Трава декоративная для дачи",
+  "seller_link": "/user/c455777bba2d3b9d1560d802f298f9b5/profile?id=1323294327&src=item",
+  "text": "по 120 руб\nв наличии 10 горшков\nголубая\nстоит в квартире, цвет не тот, срочно продаю\n",
+  "post_date": "  07 October в 14:44  "
+}

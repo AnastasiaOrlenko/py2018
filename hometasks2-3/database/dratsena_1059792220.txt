@@ -1,0 +1,13 @@
+{
+  "text": "Драцена. 12 лет. Отдам в керамическом горшке. Цена одного горшка 3.200. Высота 1.70\n",
+  "title": "Драцена",
+  "price": 6800,
+  "index": 1059792220,
+  "address": "Москва, м. Улица Горчакова",
+  "seller-contact": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1059792220",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:59  ",
+  "seller": "не компания",
+  "seller_link": "/user/3e8e41676d94e90090b5aa187cdfddaa/profile?id=1059792220&src=item"
+}

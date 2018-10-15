@@ -1,0 +1,12 @@
+{
+  "price": 18500,
+  "seller_status": "Частное лицо",
+  "index": 1635569915,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1635569915",
+  "seller": "Елена Ткаченко",
+  "address": "Москва, м. Молодежная",
+  "text": "Пальма: юкка или драцена. Высота от пола до потолка - больше 2 метров. Неприхотливая.\n",
+  "post_date": "  4 октября в 21:55  ",
+  "seller_link": "/user/cc499ae8a8df78c34fe5f8a02e0f7fbb/profile?id=1635569915&src=item"
+}

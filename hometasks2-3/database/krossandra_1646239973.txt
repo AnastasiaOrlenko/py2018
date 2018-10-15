@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1646239973,
+  "title": "Кроссандра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krossandra_1646239973",
+  "seller": "Наталия",
+  "seller-contact": "Галина",
+  "address": "Москва, м. Выхино",
+  "text": "Продаю кроссандру желтую\n",
+  "post_date": "  4 октября в 22:07  ",
+  "seller_link": "/user/5cdae5962a36b39ba3eaad21c033bfc0/profile?id=1646239973&src=item"
+}

@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам за пачку сигарет...обрезки фикуса\n",
+  "index": 1670789491,
+  "seller": "Александр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_obrezka_1670789491",
+  "address": "Москва, м. Чертановская",
+  "title": "Фикус обрезка",
+  "seller_link": "/user/511f5a31a6807be36918bc79b41d1b82/profile?id=1670789491&src=item",
+  "post_date": "  07 October в 14:11  "
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Метеостанция 500р. Также есть таймер, Ph метр, вентилятор, 2 тройника (на 5 и на 6 вилок), защитные от лампы очки, Ph down 0,5л. Весь набор 3000р.\n",
+  "title": "Метеостанция",
+  "price": 500,
+  "index": 1543377565,
+  "address": "Москва, м. Нахимовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/meteostantsiya_1543377565",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 01:24  ",
+  "seller": "Георгий",
+  "seller_link": "/user/3ab98ff105886e50ef9e015048386020/profile?id=1543377565&src=item"
+}

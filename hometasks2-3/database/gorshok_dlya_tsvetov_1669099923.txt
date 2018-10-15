@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1669099923,
+  "title": "Горшок для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_1669099923",
+  "seller": "Алексей",
+  "address": "Москва, м. Саларьево",
+  "text": "почти новый 14,5 на 18 см диаметр\n",
+  "post_date": "  6 октября в 17:17  ",
+  "seller_link": "/user/380929c7f9b4346a80a06b6391486eb4/profile?id=1669099923&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polistsias_1300004792",
+  "price": 300,
+  "seller": "Елена",
+  "post_date": "  08 October в 22:28  ",
+  "title": "Полисциас",
+  "text": "черенок активно растёт\n",
+  "index": 1300004792,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c724110caaf48b8c3d4359da367b47fc/profile?id=1300004792&src=item"
+}

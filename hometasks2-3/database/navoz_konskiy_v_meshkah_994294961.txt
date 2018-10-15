@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Домодедовская",
+  "seller": "Алексей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/navoz_konskiy_v_meshkah_994294961",
+  "seller_status": "Частное лицо",
+  "title": "Навоз конский в мешках",
+  "seller_link": "/user/030c8433eb37f23882e66cb7703d7638/profile?id=994294961&src=item",
+  "index": 994294961,
+  "post_date": "  08 October в 13:20  ",
+  "text": "Каширское шоссе 3 км от мкад.\nЦена договорная.\n"
+}

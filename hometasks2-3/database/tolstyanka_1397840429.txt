@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1397840429,
+  "title": "Толстянка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1397840429",
+  "seller": "Татьяна",
+  "address": "Москва, м. Новокосино",
+  "text": "Денежное дерево (крассула) большое и красивое.\n",
+  "post_date": "  07 October в 12:48  ",
+  "seller_link": "/user/f67a19c8366c9b3d69d83e3c96af16f1/profile?id=1397840429&src=item"
+}

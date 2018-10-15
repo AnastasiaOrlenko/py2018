@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица академика Янгеля",
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/120sm_brabant_1244989990",
+  "seller_status": "Частное лицо",
+  "title": "120см Брабант",
+  "post_date": "  08 October в 10:50  ",
+  "price": 1100,
+  "index": 1244989990,
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=1244989990&src=item",
+  "text": "Туя Брабант 120см, пушистые.заказ от 10шт\n"
+}

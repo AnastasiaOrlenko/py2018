@@ -1,0 +1,12 @@
+{
+  "text": "В хорошем дорогом горшке , свежий грунт, много молодых ростков, бесплатная доставка . В магазинах от 2000 руб.\n",
+  "title": "Тещин язык",
+  "price": 1000,
+  "index": 770393130,
+  "address": "Москва, м. Щелковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/teschin_yazyk_770393130",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:38  ",
+  "seller": "Александр",
+  "seller_link": "/user/225ae5efc657bf46148ab9dc33a0cf98/profile?id=770393130&src=item"
+}

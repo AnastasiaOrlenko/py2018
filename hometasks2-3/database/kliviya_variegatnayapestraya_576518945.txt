@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 576518945,
+  "title": "Кливия вариегатная(пестрая)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_variegatnayapestraya_576518945",
+  "seller": "Екатерина",
+  "address": "Москва, м. Марьино",
+  "text": "Продаются давно адаптированные,варигатные кливии.Растение не требующего каждодневного ухода и легко в выращивание.Звоните.\n",
+  "post_date": "  6 октября в 22:36  ",
+  "seller_link": "/user/953b7f446b8557441aa3c911638f6a24/profile?id=576518945&src=item"
+}

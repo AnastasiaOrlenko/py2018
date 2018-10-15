@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1442307747,
+  "title": "Золотой ус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_1442307747",
+  "seller": "Римма",
+  "address": "Москва, м. Бунинская аллея",
+  "text": "Продам золотой ус (возраст больше года).\n",
+  "post_date": "  4 октября в 19:16  ",
+  "seller_link": "/user/1168edae0a0ab45308e950c6af91ebfd/profile?id=1442307747&src=item"
+}

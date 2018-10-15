@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1529607756,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_belozhilistyy_1529607756",
+  "address": "Москва, м. Университет",
+  "title": "Молочай беложилистый",
+  "seller_link": "/user/0c58a7972ef49ed83765b9071c299dc3/profile?id=1529607756&src=item",
+  "text": "Комнатное растение в красивом горшке.\n",
+  "post_date": "  07 October в 20:00  "
+}

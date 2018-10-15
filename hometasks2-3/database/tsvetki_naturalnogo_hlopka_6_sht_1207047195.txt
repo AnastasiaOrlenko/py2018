@@ -1,0 +1,12 @@
+{
+  "text": "Цветки натурального хлопка, 6 шт, отдам сразу все\n",
+  "title": "Цветки натурального хлопка, 6 шт",
+  "price": 200,
+  "index": 1207047195,
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetki_naturalnogo_hlopka_6_sht_1207047195",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:30  ",
+  "seller": "Екатерина",
+  "seller_link": "/user/4a75f03ec6078def667aeeda13559afa/profile?id=1207047195&src=item"
+}

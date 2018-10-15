@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ховрино",
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derevo_kashtan_1267923499",
+  "seller_status": "Частное лицо",
+  "title": "Дерево каштан",
+  "post_date": "  08 October в 11:32  ",
+  "price": 4500,
+  "index": 1267923499,
+  "seller_link": "/user/e256117cadd00af00e9d3248d0941140/profile?id=1267923499&src=item",
+  "text": "Продам взрослый каштан, высота 1,8 м \nСамовывоз - Московская область, деревня Протасово. Возможен торг\n"
+}

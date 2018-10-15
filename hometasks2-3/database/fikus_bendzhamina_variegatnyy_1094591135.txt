@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/b8dc35e35e882e644b169b6bc0fa55dd/profile?id=1094591135&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_variegatnyy_1094591135",
+  "post_date": "  08 October в 09:46  ",
+  "address": "Москва, м. Молодежная",
+  "seller": "Светлана",
+  "text": "Детки фикуса в стаканчиках по 100мл.\nПапа на втором фото.\n=====\n1минута от метро Молодежная.\nСмотрите и другие мои объявления - цветы и не только, спасибо!. Есть и другие растения, спрашивайте.\n",
+  "index": 1094591135,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Фикус Бенджамина вариегатный"
+}

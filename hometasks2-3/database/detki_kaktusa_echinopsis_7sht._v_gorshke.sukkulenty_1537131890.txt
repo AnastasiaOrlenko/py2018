@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Семеновская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/detki_kaktusa_echinopsis_7sht._v_gorshke.sukkulenty_1537131890",
+  "price": 70,
+  "seller": "София",
+  "post_date": "  08 October в 19:39  ",
+  "title": "Детки кактуса Echinopsis 7шт. в горшке.суккуленты",
+  "text": "детки кактуса Эхинопсис. 7 штук в горшке, укорененные, диаметр от 5 мм до 1.5 см, ( на фото пример цветения взрослого растения )\n",
+  "index": 1537131890,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/1f94e30e8937cb4a3cae61a0eb344bc8/profile?id=1537131890&src=item"
+}

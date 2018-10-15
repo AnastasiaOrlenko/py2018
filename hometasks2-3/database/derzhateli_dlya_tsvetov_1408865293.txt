@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1408865293,
+  "title": "Держатели для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derzhateli_dlya_tsvetov_1408865293",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Ховрино",
+  "text": "Королёв/Ховрино/ Медведково/Алтуфьево\n",
+  "post_date": "  4 октября в 23:39  ",
+  "seller_link": "/user/8d2390ddd848a2b22fcd3a3f8de905e5/profile?id=1408865293&src=item"
+}

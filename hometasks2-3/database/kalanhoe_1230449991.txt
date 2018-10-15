@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Перово",
+  "seller": "Svetlana Prokushenkova",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1230449991",
+  "seller_status": "Частное лицо",
+  "title": "Каланхоэ",
+  "post_date": "  08 October в 11:46  ",
+  "price": 50,
+  "index": 1230449991,
+  "seller_link": "/user/9315a11779324f9b5a4d054136113a70/profile?id=1230449991&src=item",
+  "text": "много маленьких деток каланхоэ.Цена за весь стаканчик.\n"
+}

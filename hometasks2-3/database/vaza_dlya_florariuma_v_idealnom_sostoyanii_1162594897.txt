@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Сокольники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vaza_dlya_florariuma_v_idealnom_sostoyanii_1162594897",
+  "seller-contact": "Алла",
+  "price": 290,
+  "seller": "Алла",
+  "post_date": "  08 October в 18:19  ",
+  "title": "Ваза для флорариума в идеальном состоянии",
+  "text": "Продаю вазу для флорариума, прозрачная,на ножке, можно использовать как вазу для цветов или как декор для комнаты. \nМ. Сокольники\n",
+  "index": 1162594897,
+  "seller_status": "Компания",
+  "seller_link": "/user/35be3aaee4e57747d8dd7cd9bd442b87/profile?id=1162594897&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1312218751,
+  "title": "Лилейник крупный сортовой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lileynik_krupnyy_sortovoy_1312218751",
+  "seller": "Наталья",
+  "address": "Москва, м. Домодедовская",
+  "text": "Очень эффектные крупные лилейники, в том числе и ароматные, украшение сада, высотой 50-60 см.\n",
+  "post_date": "  5 октября в 16:55  ",
+  "seller_link": "/user/0e12b3ce2d2d88e0ed9f6f044cf9d876/profile?id=1312218751&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 979055209,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas.spatifillum.kitayskaya_roza_979055209",
+  "address": "Москва, м. Люблино",
+  "title": "Замиокулькас.Спатифиллум.китайская роза",
+  "seller_link": "/user/896ae29a7affaea88425aaf9fa292909/profile?id=979055209&src=item",
+  "text": "ВСЕ В МЕСТЕ СО СКИДКОЙ\n. Спатифиллум (Женское счастье) -2500\nЗамиокулькас -3000\nПальма молочайная-1500\n(2 МЕТР)\n",
+  "post_date": "  07 October в 16:11  "
+}

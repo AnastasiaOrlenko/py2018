@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1695106872,
+  "title": "Герань душистая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_dushistaya_1695106872",
+  "seller": "Алёна",
+  "address": "Москва, м. Динамо",
+  "text": "Отросток, самовывоз!\n",
+  "post_date": "  5 октября в 15:31  ",
+  "seller_link": "/user/75056c1ef553c5d47155411aab9f94d6/profile?id=1695106872&src=item"
+}

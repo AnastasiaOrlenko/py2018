@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1398649414,
+  "title": "Бегония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_1398649414",
+  "seller": "Оксана",
+  "address": "Москва, м. Текстильщики",
+  "text": "Продается бегония.\n",
+  "post_date": "  6 октября в 10:53  ",
+  "seller_link": "/user/27bfbf4938db78da37022aab3be7dafb/profile?id=1398649414&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Беговая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/senetsio_stapelievidnoe_1362099965",
+  "price": 750,
+  "seller": "Олег",
+  "post_date": "  08 October в 19:37  ",
+  "title": "Сенецио стапелиевидное",
+  "text": "Сенецио стапелиевидное высота 20 см, диаметр горшка 11 см.\n",
+  "index": 1362099965,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/52a907a3ae21a7ca309f997301d74d65/profile?id=1362099965&src=item"
+}

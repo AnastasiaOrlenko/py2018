@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 987241716,
+  "title": "Папоротники взрослые (тм )",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotniki_vzroslye_tm_987241716",
+  "seller": "татьяна",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Фото 1 - микросорум - 1200,- бронь,\nфото 2 - платицериум - 400,\nфото 3 - нефролепис - 800, бронь,\nфото 4, 5 - микросорум - 600.\n",
+  "post_date": "  6 октября в 09:18  ",
+  "seller_link": "/user/7df9433820228e6b030065f05fb2e16f/profile?id=987241716&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 7000,
+  "seller_status": "Частное лицо",
+  "index": 794608305,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_794608305",
+  "seller": "Павел",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Продаётся фикус длинна около 2 метров. . Само вывоз.\nДоставка по Москве 600р\nЛучше з 8 во 977 ни 369 т 69 е 31 или  8 п 925 ши 548 те 68 ват 00 сап\n",
+  "post_date": "  6 октября в 17:30  ",
+  "seller_link": "/user/7cbead87b1ec2105f5dc89d280ec3501/profile?id=794608305&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1685521273,
+  "seller": "Александра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amarillis_periodicheski_tsvetut_ryzhimi_tsvetkami_1685521273",
+  "address": "Москва, м. Кунцевская",
+  "title": "Амариллис (периодически цветут рыжими цветками)",
+  "seller_link": "/user/d2a8803ffc9c4ae0de11b5140405f90a/profile?id=1685521273&src=item",
+  "text": "Рассадили, цена за 1 луковицу, можно выбрать любую.\n",
+  "post_date": "  07 October в 17:32  "
+}

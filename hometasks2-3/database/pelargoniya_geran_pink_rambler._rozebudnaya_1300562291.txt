@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1300562291,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_pink_rambler._rozebudnaya_1300562291",
+  "address": "Москва, м. Полежаевская",
+  "title": "Пеларгония герань Pink Rambler. Розебудная",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1300562291&src=item",
+  "text": "Продаются укорененные черенки и молодые растения сортовой розебудной пеларгонии. Пример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте. Черенок -300р, молодое растение в горшке -500 -600р.\n",
+  "seller-contact": "Анна.",
+  "post_date": "  07 October в 13:53  "
+}

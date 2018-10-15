@@ -1,0 +1,12 @@
+{
+  "text": "Сансевиерия высота 1300. \nВместе с горшком. Полностью Здоровое растение. Самовывоз Метро Планерная\n",
+  "title": "Сансевиерия взрослая",
+  "price": 2500,
+  "index": 1527350840,
+  "address": "Москва, м. Планерная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_vzroslaya_1527350840",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:16  ",
+  "seller": "Частное лицо",
+  "seller_link": "/user/5c11e1726f0efc1786b7fe29ddf61f62/profile?id=1527350840&src=item"
+}

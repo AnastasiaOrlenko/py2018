@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/apelsin_rastenie_treh_let_1291372717",
+  "seller-contact": "Галина Анатольевна",
+  "price": 320,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:47  ",
+  "title": "Апельсин растение трёх лет",
+  "text": "Апельсин растение трех лет. 3штуки. Цена за все. Выращенное из косточек марокканских сортов апельсинов. Адаптирован для внутренних помещений.\n",
+  "index": 1291372717,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1291372717&src=item"
+}

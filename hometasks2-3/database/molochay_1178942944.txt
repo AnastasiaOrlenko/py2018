@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1178942944,
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1178942944",
+  "address": "Москва, м. Ясенево",
+  "title": "Молочай",
+  "seller_link": "/user/da34af5ee38c9f77238570a3580a917b/profile?id=1178942944&src=item",
+  "text": "Продам высокий молочай. Самовывоз.\n",
+  "post_date": "  07 October в 16:18  "
+}

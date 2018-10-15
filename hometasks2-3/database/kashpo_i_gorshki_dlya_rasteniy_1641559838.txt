@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1641559838,
+  "title": "Кашпо и горшки для растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_i_gorshki_dlya_rasteniy_1641559838",
+  "seller": "Марина",
+  "address": "Москва, м. Водный стадион",
+  "text": "Разные декоративные кашпо для цветом. Новые.\nцены\n1 фото )) хрюша - цена 350 руб\n2+3+4 фото )) цена 200 рублей за 1 шт\nи пр.\n",
+  "post_date": "  5 октября в 08:18  ",
+  "seller_link": "/user/10f94360dbe58393fdbafde0afff9c44/profile?id=1641559838&src=item"
+}

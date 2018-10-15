@@ -1,0 +1,13 @@
+{
+  "price": 149,
+  "seller_status": "Компания",
+  "index": 1666481671,
+  "title": "Цветы 4 шт.в длинном горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_4_sht.v_dlinnom_gorshke_1666481671",
+  "seller": "НИК-Спорт",
+  "seller-contact": "Николай Степанович",
+  "address": "Москва, м. Профсоюзная",
+  "text": "цветы (колеусы султана 2 шт.+алоэ+декабрист) в длинном горшке с подставкой. Вторая остановка от м.Профсоюзная---\"Улица Цюрупы\"\n",
+  "post_date": "  4 октября в 22:21  ",
+  "seller_link": "/user/81e424fc0eceb6813d964764542a9b06/profile?id=1666481671&src=item"
+}

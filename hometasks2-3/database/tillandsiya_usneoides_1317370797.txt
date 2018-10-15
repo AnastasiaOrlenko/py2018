@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1317370797,
+  "title": "Тилландсия уснеоидес",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tillandsiya_usneoides_1317370797",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Тилландсия Атмосферная поглощает влагу и питательные вещества прямо из воздуха при помощи волосяных чешуек. Это растение лишено корней и не нуждается в почве. Длина 50-60см.\n",
+  "post_date": "  07 October в 00:56  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1317370797&src=item"
+}

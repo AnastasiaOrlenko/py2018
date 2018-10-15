@@ -1,0 +1,13 @@
+{
+  "text": "Ему 15 лет\nЕсть подсохшие листья - не проблема, кроме этих еще много\nКрасивый\nМогу доставить рано утром, поздно вечером\n",
+  "title": "Фикус огромный 2 метра 40 см",
+  "price": 7000,
+  "index": 1588028660,
+  "address": "Москва, м. Алексеевская",
+  "seller-contact": "Зинаида не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_ogromnyy_2_metra_40_sm_1588028660",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:16  ",
+  "seller": "Зинаида",
+  "seller_link": "/user/8e8794edfadc1b40671130a784997ede/profile?id=1588028660&src=item"
+}

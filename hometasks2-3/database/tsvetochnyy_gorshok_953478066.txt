@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 953478066,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_953478066",
+  "address": "Москва, м. Ховрино",
+  "title": "Цветочный горшок",
+  "seller_link": "/user/e00302af5f8b4bdf7dbcdd545230594b/profile?id=953478066&src=item",
+  "text": "Новый керамический горшок. \nВысота - 15 см\nДиаметр - 22 см\nВстреча с покупателем у м. Ховрино по предварительной договорённости.\n",
+  "post_date": "  07 October в 13:12  "
+}

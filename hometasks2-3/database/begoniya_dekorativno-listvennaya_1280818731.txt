@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1280818731,
+  "title": "Бегония декоративно-лиственная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_dekorativno-listvennaya_1280818731",
+  "seller": "Марина",
+  "address": "Москва, м. Ясенево",
+  "text": "Бегония декоративно-лиственная \nФото 1,2,3 Бегония с красивом горшком - зоо р \nФото Бегония 4,5,6 без горшка – 300 р\nСамовывоз\n",
+  "post_date": "  5 октября в 19:23  ",
+  "seller_link": "/user/419a58ab1bcaf8d3977b52845bba5349/profile?id=1280818731&src=item"
+}

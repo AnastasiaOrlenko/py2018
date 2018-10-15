@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 931004744,
+  "seller": "Владелец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_mammillyariya_931004744",
+  "address": "Москва, м. Преображенская площадь",
+  "title": "Кактусы маммиллярия",
+  "seller_link": "/user/a4ec8521155099f0e008479847d1f357/profile?id=931004744&src=item",
+  "text": "Кактусы маммиллярия. В белом горшке - 100 рублей, в коричневом - 300.\n",
+  "seller-contact": "Дмитрий",
+  "post_date": "  07 October в 17:32  "
+}

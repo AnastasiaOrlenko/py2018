@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1506788884,
+  "seller": "Василий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium._2_vida_1506788884",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Сингониум. 2 вида",
+  "seller_link": "/user/f26abad6ff3c0f8435ab27843f8856f7/profile?id=1506788884&src=item",
+  "text": "Сингониум. 2 вида в одном хорошем новом горшочке. Пересажены. См. фото.\n",
+  "post_date": "  07 October в 13:35  "
+}

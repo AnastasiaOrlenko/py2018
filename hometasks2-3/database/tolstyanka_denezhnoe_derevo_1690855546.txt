@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1690855546,
+  "title": "Толстянка (денежное дерево )",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1690855546",
+  "seller": "Эльвира",
+  "address": "Москва, м. Алтуфьево",
+  "text": "2-ва высота 25 см. ; 1-н 35см. Цена за каждый .\n",
+  "post_date": "  5 октября в 10:31  ",
+  "seller_link": "/user/3993a78e352998e2c56734ff63acf37f/profile?id=1690855546&src=item"
+}

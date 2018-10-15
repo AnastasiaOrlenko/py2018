@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 846761443,
+  "title": "Цветок Тёщин язык Высота 1 метр 30 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_teschin_yazyk_vysota_1_metr_30_sm_846761443",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Каширская",
+  "text": "Взрослый цветок Тёщин язык Высота 1 метр 30 см.\n",
+  "post_date": "  6 октября в 00:29  ",
+  "seller_link": "/user/07b9a338510b9152e2d3c8628554516c/profile?id=846761443&src=item"
+}

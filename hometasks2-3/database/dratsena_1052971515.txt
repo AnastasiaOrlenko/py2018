@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1052971515,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1052971515",
+  "seller": "Елена",
+  "address": "Москва, м. Таганская",
+  "text": "Драцена с горшком высота 130 см\n",
+  "post_date": "  5 октября в 23:15  ",
+  "seller_link": "/user/dda82456cca1cbcc5674e1c53c850d7d/profile?id=1052971515&src=item"
+}

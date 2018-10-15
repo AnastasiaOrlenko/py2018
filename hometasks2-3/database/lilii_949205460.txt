@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 949205460,
+  "title": "Лилии",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lilii_949205460",
+  "seller": "Наталья",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Лилии сортовые от 50 рублей до 350. Если берете сразу много сделаю скидку.\n",
+  "post_date": "  5 октября в 12:04  ",
+  "seller_link": "/user/4ac45f775940462da0850b419697806b/profile?id=949205460&src=item"
+}

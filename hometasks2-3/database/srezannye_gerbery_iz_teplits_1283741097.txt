@@ -1,0 +1,12 @@
+{
+  "price": 25,
+  "seller_status": "Частное лицо",
+  "index": 1283741097,
+  "title": "Срезанные герберы из теплиц",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/srezannye_gerbery_iz_teplits_1283741097",
+  "seller": "АРМ-РОЗ",
+  "address": "Москва",
+  "text": "Продаётся свежие Герберы от производителя . теплицы находятся г. Волоколамск, Московская обл.\n",
+  "post_date": "  07 October в 09:49  ",
+  "seller_link": "/user/016d29e8ceb0ca4ed41109345b5dcbd0/profile?id=1283741097&src=item"
+}

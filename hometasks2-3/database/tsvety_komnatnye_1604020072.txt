@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сокольники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_komnatnye_1604020072",
+  "price": 10,
+  "seller": "галина",
+  "post_date": "  08 October в 23:07  ",
+  "title": "Цветы комнатные",
+  "text": "отдаю комнатные цветы.\n",
+  "index": 1604020072,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/365896778f080f89344697b504d52640/profile?id=1604020072&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 941916800,
+  "title": "Комнатный лечебный цветок \"Золотой ус\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_lechebnyy_tsvetok_zolotoy_us_941916800",
+  "seller": "Елена",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Лечебное растение комнатный лечебный цветок \"Золотой ус\"\n",
+  "post_date": "  6 октября в 23:24  ",
+  "seller_link": "/user/98c6a188e5c1a5987eb200bd8713db8e/profile?id=941916800&src=item"
+}

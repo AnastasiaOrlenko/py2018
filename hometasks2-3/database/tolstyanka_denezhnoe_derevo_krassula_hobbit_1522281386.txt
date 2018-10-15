@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_krassula_hobbit_1522281386",
+  "seller_status": "Частное лицо",
+  "title": "Толстянка, денежное дерево, Крассула Хоббит",
+  "post_date": "  08 October в 12:10  ",
+  "price": 300,
+  "index": 1522281386,
+  "seller_link": "/user/76f6e0e028a41440ffb0cdd37345416b/profile?id=1522281386&src=item",
+  "text": "Денежное дерево, Крассула Хоббит с крупными листьями. Три отростка в горшке, 300 руб весь горшок.\n"
+}

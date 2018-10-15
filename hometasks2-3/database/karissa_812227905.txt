@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 812227905,
+  "title": "Карисса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/karissa_812227905",
+  "seller": "Ольга",
+  "address": "Москва, м. Тульская",
+  "text": "Продам отросток кариссы.ольга\n",
+  "post_date": "  6 октября в 22:58  ",
+  "seller_link": "/user/5ac5a9b787086cccf227997c3bdfc597/profile?id=812227905&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Без горшка.\n",
+  "title": "Налина",
+  "price": 100,
+  "index": 1215109419,
+  "address": "Москва, м. Бауманская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nalina_1215109419",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:49  ",
+  "seller": "Ирина",
+  "seller_link": "/user/d1802092d0752a5bd17f7f97c695e76c/profile?id=1215109419&src=item"
+}

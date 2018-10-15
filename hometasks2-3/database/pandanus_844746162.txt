@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Текстильщики",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pandanus_844746162",
+  "seller_link": "/user/2d511e851a178a8cf98a03ba4a936ac1/profile?id=844746162&src=item",
+  "seller": "Сергей",
+  "post_date": "  09 October в 00:08  ",
+  "title": "Панданус",
+  "text": "Продам цветок, цена договорная\n",
+  "index": 844746162,
+  "seller_status": "Частное лицо"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1125771322,
+  "seller": "Наталья Балк",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1125771322",
+  "address": "Москва, м. Кунцевская",
+  "title": "Денежное дерево",
+  "seller_link": "/user/06e913c1488f3f3f2e1fed4af11f6ef8/profile?id=1125771322&src=item",
+  "text": "Ухожие два горшка в каждом по3-5шт.можно одно за50руб\n",
+  "post_date": "  08 October в 01:40  "
+}

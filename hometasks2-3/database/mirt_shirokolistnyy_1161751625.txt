@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1161751625,
+  "title": "Мирт широколистный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mirt_shirokolistnyy_1161751625",
+  "seller": "К",
+  "seller-contact": "Константин",
+  "address": "Москва, м. Тимирязевская",
+  "text": "молодое растение высота \n 50 см.) цена - 150 руб\n",
+  "post_date": "  6 октября в 08:11  ",
+  "seller_link": "/user/50f8434439472f377fb51e209a9ae35d/profile?id=1161751625&src=item"
+}

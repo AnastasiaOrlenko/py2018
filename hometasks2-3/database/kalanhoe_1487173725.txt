@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1487173725,
+  "title": "Каланхое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1487173725",
+  "seller": "ТАТЬЯНА",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Планерная",
+  "text": "Лечебное каланхое.\nСамовывоз : м.Планерная.\n",
+  "post_date": "  5 октября в 12:49  ",
+  "seller_link": "/user/fb99c841478b6999a473aca5762ab043/profile?id=1487173725&src=item"
+}

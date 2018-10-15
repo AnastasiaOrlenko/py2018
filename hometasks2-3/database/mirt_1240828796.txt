@@ -1,0 +1,13 @@
+{
+  "price": 450,
+  "seller_status": "Компания",
+  "index": 1240828796,
+  "title": "Мирт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mirt_1240828796",
+  "seller": "не компания",
+  "seller-contact": "Инна",
+  "address": "Москва, м. Первомайская",
+  "text": "Мирт Целебная Аура, выращены из семян, есть пару горшочков, неприхотлив, можно на лето ,высаживать в открытый грунт\n",
+  "post_date": "  4 октября в 21:05  ",
+  "seller_link": "/user/5033e4e654e392733e7ae3b21d5980bb/profile?id=1240828796&src=item"
+}

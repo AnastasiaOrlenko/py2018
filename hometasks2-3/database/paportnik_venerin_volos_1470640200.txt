@@ -1,0 +1,13 @@
+{
+  "text": "Папортник Венерин волос. \nНедавно пересажен . В керамическом кашпо.\n",
+  "title": "Папортник Венерин волос",
+  "price": 350,
+  "index": 1470640200,
+  "address": "Москва, м. Жулебино",
+  "seller-contact": "Ирина ( частное лицо)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paportnik_venerin_volos_1470640200",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:47  ",
+  "seller": "Ирина",
+  "seller_link": "/user/bb84798bd39869ff6b28d97d9f91bdd1/profile?id=1470640200&src=item"
+}

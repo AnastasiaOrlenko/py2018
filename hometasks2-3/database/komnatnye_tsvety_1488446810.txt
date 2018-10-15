@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1488446810,
+  "title": "Комнатные цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_1488446810",
+  "seller": "Дмитрий",
+  "seller-contact": "Дмитрий",
+  "address": "Москва, м. Пражская",
+  "text": "Цветет почти все время, название забыл. Отдам с горшком.\n",
+  "post_date": "  5 октября в 00:38  ",
+  "seller_link": "/user/2ac73d2133d96487e6f5ab3860b3ac69/profile?id=1488446810&src=item"
+}

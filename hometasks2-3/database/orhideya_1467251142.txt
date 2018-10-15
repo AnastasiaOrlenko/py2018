@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1467251142,
+  "title": "Орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_1467251142",
+  "seller": "Наталья",
+  "address": "Москва, м. Алма-Атинская",
+  "text": "Phal. KS Happy Eagle × Phal. tetraspis'C1' \nРазмер 1,7\nГибрид фаленопсиса\n",
+  "post_date": "  5 октября в 20:11  ",
+  "seller_link": "/user/655c37a3973ce975d382fba2a2bcb139/profile?id=1467251142&src=item"
+}

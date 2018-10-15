@@ -1,0 +1,12 @@
+{
+  "price": 2800,
+  "seller_status": "Частное лицо",
+  "index": 1202855597,
+  "title": "Драцена цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_tsvetok_1202855597",
+  "seller": "Каролина",
+  "address": "Москва, м. Пражская",
+  "text": "драцена 3 ствола, вместе с горшком 2 м, с отростками\n",
+  "post_date": "  07 October в 11:15  ",
+  "seller_link": "/user/c31d0d5e28d9b83f88afbad5d69d9f7d/profile?id=1202855597&src=item"
+}

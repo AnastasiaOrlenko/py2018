@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1243199252,
+  "title": "Адениум Арабикум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/adenium_arabikum_1243199252",
+  "seller": "Светлана",
+  "address": "Москва, м. Коломенская",
+  "text": "gold diamond crown\n",
+  "post_date": "  6 октября в 17:08  ",
+  "seller_link": "/user/1646058439161ba32223e3cdf087dbaa/profile?id=1243199252&src=item"
+}

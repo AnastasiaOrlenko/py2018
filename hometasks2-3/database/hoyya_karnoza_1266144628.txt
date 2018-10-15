@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1266144628,
+  "title": "Хойя карноза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_karnoza_1266144628",
+  "seller": "Наталья",
+  "address": "Москва, м. Ховрино",
+  "text": "Хойя карноза , растение большое горшок диаметром 35см, высота около 60-70см. Цветет обильно с марта по октябрь. Только самовывоз.\n",
+  "post_date": "  6 октября в 19:00  ",
+  "seller_link": "/user/afb221aaf35f373e151bfd6537cd2b69/profile?id=1266144628&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 149,
+  "seller_status": "Компания",
+  "index": 963141194,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_963141194",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Сходненская",
+  "text": "готово переехать, (в горшке по три побега),забирать.м.сокол,м.Сходненская.Выращены в любви и заботе!!!! -на работе( Сокол),\n",
+  "post_date": "  5 октября в 13:36  ",
+  "seller_link": "/user/9c227eba42bdfe824bdbab927a9d4db2/profile?id=963141194&src=item"
+}

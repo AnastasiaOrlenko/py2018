@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Белорусская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_prodam_1476901428",
+  "price": 1000,
+  "seller": "татьяна",
+  "post_date": "  08 October в 20:36  ",
+  "title": "Гибискус продам",
+  "text": "Гибискус комнатный. Очень красиво цветёт. Высота с горшком примерно 160 см.\n",
+  "index": 1476901428,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e900d46c0d90cd4ea16a069079381424/profile?id=1476901428&src=item"
+}

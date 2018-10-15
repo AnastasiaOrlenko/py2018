@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 840790151,
+  "title": "Каланхоэ серрата",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_serrata_840790151",
+  "seller": "Татьяна (частное лицо)",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Сходненская",
+  "text": "Одно подросшее, необычной окраски, каланхоэ в горшочке. Разрастается на солнышке быстро, выглядит очень декоративно.\n Подвезу в метро.\n",
+  "post_date": "  6 октября в 08:58  ",
+  "seller_link": "/user/69c4480017b1f6a6c0ec3c80a42db72c/profile?id=840790151&src=item"
+}

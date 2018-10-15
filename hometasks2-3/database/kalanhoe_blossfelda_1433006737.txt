@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_blossfelda_1433006737",
+  "price": 100,
+  "seller": "Gulya",
+  "post_date": "  08 October в 20:36  ",
+  "title": "Каланхоэ Блоссфельда)",
+  "text": "Укорененные, пышные каланхоэ. В наличии 3, каждая по 100. Отдам 3 за 200. Возможен обмен на другие комнатные растения.\n",
+  "index": 1433006737,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/6cb5ec516f87a65132b305d9243fd83e/profile?id=1433006737&src=item"
+}

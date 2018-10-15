@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 400,
+  "index": 1438943304,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sukkulent_kamennaya_roza_1438943304",
+  "address": "Москва, м. Теплый стан",
+  "title": "Суккулент каменная роза",
+  "seller_link": "/user/3c83bd8b625c6cac789c41fa59da6c1d/profile?id=1438943304&src=item",
+  "text": "Суккулент каменная роза, продаю вместе с горшком.Связь через авито. Самовывоз.\n",
+  "post_date": "  07 October в 20:24  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Строгино",
+  "seller": "дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chaynyy_grib_157826",
+  "seller_status": "Частное лицо",
+  "title": "Чайный гриб",
+  "post_date": "  08 October в 13:10  ",
+  "price": 1,
+  "index": 157826,
+  "seller_link": "/user/18a4070b9f8a9c6a7cf871a99a7fd8cc/profile?id=157826&src=item",
+  "text": "Чайный гриб\n"
+}

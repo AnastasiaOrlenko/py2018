@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1564507328,
+  "title": "Сортовая фиалочка",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/sortovaya_fialochka_1564507328",
+  "seller": "Наталья",
+  "address": "Зеленоград",
+  "text": "1 шт 100₽\n",
+  "post_date": "  5 октября в 16:33  ",
+  "seller_link": "/user/650f0e2e34c8c8692e6b1e736c30d9c7/profile?id=1564507328&src=item"
+}

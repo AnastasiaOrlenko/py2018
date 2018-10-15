@@ -1,0 +1,13 @@
+{
+  "price": 499,
+  "seller_status": "Компания",
+  "index": 1622651638,
+  "title": "Лепестки Роз (Разные цвета)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lepestki_roz_raznye_tsveta_1622651638",
+  "seller": "Цветы Доставка по Москве и МО",
+  "seller-contact": "Егор",
+  "address": "Москва, м. Лесопарковая",
+  "text": "Лепестки Роз от небольшого пакетика до огромного мешка \nМожно приобрести уже сегодня \nПо всем вопросам пишите в Вотс Ап\n",
+  "post_date": "  4 октября в 20:13  ",
+  "seller_link": "/user/5f281e68042a16a056ceb155832cc77d/profile?id=1622651638&src=item"
+}

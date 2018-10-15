@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1456296028,
+  "seller": "Моника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nezhnyy_buket_s_irisami_1456296028",
+  "address": "Москва, м. Новогиреево",
+  "title": "Нежный букет с ирисами",
+  "seller_link": "/user/4713717ceecfaaa06272e1db2a22dfea/profile?id=1456296028&src=item",
+  "text": "Очень женственный и нежный букет\n",
+  "post_date": "  07 October в 15:46  "
+}

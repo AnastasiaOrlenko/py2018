@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 963591132,
+  "title": "Фикус Бенджамин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamin_963591132",
+  "seller": "Татьяна",
+  "address": "Москва, м. Савеловская",
+  "text": "Высота растения,вместе с горшком-130см.Пушистый.Ухожен.\n",
+  "post_date": "  07 October в 12:33  ",
+  "seller_link": "/user/4517b844cb0ce125c848fae53eedb173/profile?id=963591132&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "text": "Продам шишки лесные.\nМогу отправить почтой.\nЦена: 500 ( за все).\n",
+  "title": "Шишки",
+  "price": 499,
+  "index": 918768336,
+  "address": "Москва, м. Царицыно",
+  "seller-contact": "Артем",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishki_918768336",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:14  ",
+  "seller": "Артем",
+  "seller_link": "/user/43477d331c5ce5c82e410ce720417875/profile?id=918768336&src=item"
+}

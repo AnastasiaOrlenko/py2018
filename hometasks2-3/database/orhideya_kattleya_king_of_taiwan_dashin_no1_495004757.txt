@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Юго-Западная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_kattleya_king_of_taiwan_dashin_no1_495004757",
+  "price": 1550,
+  "seller": "Елена",
+  "post_date": "  08 October в 18:30  ",
+  "title": "Орхидея каттлея King of Taiwan Dashin No1",
+  "text": "Крупноцветковая, ароматная каттлея. Цветок яркий, контрастный. \nКуртины взрослые, крупные, все с новыми ростами. Корни все живые, растущие\n",
+  "index": 495004757,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e1e363e3ab40a036ebca7c62d179cf3c/profile?id=495004757&src=item"
+}

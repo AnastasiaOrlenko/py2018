@@ -1,0 +1,12 @@
+{
+  "price": 30000,
+  "seller_status": "Компания",
+  "index": 1439324214,
+  "title": "Светодиодный led светильник для освещения растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/svetodiodnyy_led_svetilnik_dlya_osvescheniya_rasteniy_1439324214",
+  "seller": "Алексей",
+  "address": "Москва, м. Хорошево",
+  "text": "Светодиодный led светильник для освещения растений, теплиц, гроубокса, EasyGrow 360W Smart Edition\nИспользовалась 2 месяца и год лежала в коробке. Продаю за ненадобностью. Приобреталась в ledcentre\n",
+  "post_date": "  5 октября в 03:01  ",
+  "seller_link": "/user/445a061b329165f5df682b8817875d63/profile?id=1439324214&src=item"
+}

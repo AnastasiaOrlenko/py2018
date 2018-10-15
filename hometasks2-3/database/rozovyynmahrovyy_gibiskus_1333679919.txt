@@ -1,0 +1,13 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 1333679919,
+  "title": "Розовый,н/махровый гибискус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozovyynmahrovyy_gibiskus_1333679919",
+  "seller": "Татьяна",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Селигерская",
+  "text": "Продам красивый пышный куст .\n",
+  "post_date": "  5 октября в 18:24  ",
+  "seller_link": "/user/de4a120d61996461a2ad37cb0b3efa55/profile?id=1333679919&src=item"
+}

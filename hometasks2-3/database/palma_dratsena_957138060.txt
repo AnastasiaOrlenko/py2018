@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 957138060,
+  "title": "Пальма драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_dratsena_957138060",
+  "seller": "Ирина",
+  "address": "Москва, м. Багратионовская",
+  "text": "Продается пальма возраст около 20 лет рост порядка 1,6 м уже не помещается на подоконнике а поставить некуда. Самовывоз\n",
+  "post_date": "  6 октября в 22:35  ",
+  "seller_link": "/user/6f4431cafee2f9af60934cbe0af04289/profile?id=957138060&src=item"
+}

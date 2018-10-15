@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Трубная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vaza_stilnaya_1159689872",
+  "seller-contact": "Marina",
+  "price": 100,
+  "seller": "Марина",
+  "post_date": "  08 October в 20:46  ",
+  "title": "Ваза стильная",
+  "text": "Стекло. Состояние идеальное.\n",
+  "index": 1159689872,
+  "seller_status": "Компания",
+  "seller_link": "/user/145c5300801c204030c649df8b687f27/profile?id=1159689872&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1700033294,
+  "title": "Толстянка / денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1700033294",
+  "seller": "Валентина Киселева",
+  "address": "Москва, м. Бунинская аллея",
+  "text": "Продаю денежное дерево в пластиковом горшке. Высота (с горшком) 59 см. 2 ствола. Место встречи по договоренности.\n",
+  "post_date": "  6 октября в 20:40  ",
+  "seller_link": "/user/cfa38afabcceace1f70a78267bfef823/profile?id=1700033294&src=item"
+}

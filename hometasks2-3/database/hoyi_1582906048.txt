@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_1582906048",
+  "price": 250,
+  "seller": "Ирина",
+  "post_date": "  08 October в 20:51  ",
+  "title": "Хойи",
+  "text": "Укорененные черенки сортовых хой:\nCv. Jennifer 250\nГлабра 300\nPubicalix black dragon 300\nMeliflya 300\nParviflora 150\nMindelansit 250\nCv. Sunrise 150\nByakensis 250\nCv. Matilda 150\nLacunosa Eskimo 150\nLacunosa trail 150\nCurtisi 150 \nВсе черенки в активном росте.\nНахожусь в Астрахани, отправляю почтой\n",
+  "index": 1582906048,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/7e7ee485b08d1ef28516221600a5b41c/profile?id=1582906048&src=item"
+}

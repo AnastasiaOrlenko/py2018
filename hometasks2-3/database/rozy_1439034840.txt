@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1439034840,
+  "title": "Розы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_1439034840",
+  "seller": "Руслан",
+  "address": "Москва, м. Площадь революции",
+  "text": "Розы от 100 см до 200 см цена одной розы 350 р\n",
+  "post_date": "  4 октября в 23:37  ",
+  "seller_link": "/user/447792236d7d221d7687ae33ecbedede/profile?id=1439034840&src=item"
+}

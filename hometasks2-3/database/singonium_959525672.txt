@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 959525672,
+  "title": "Сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_959525672",
+  "seller": "Elena Kumankova",
+  "address": "Москва, м. Кузьминки",
+  "text": "Все растения стоят 100руб.\n",
+  "post_date": "  5 октября в 19:35  ",
+  "seller_link": "/user/41dbea06f55eaa54aff74e34a99e6563/profile?id=959525672&src=item"
+}

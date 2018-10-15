@@ -1,0 +1,12 @@
+{
+  "price": 3500,
+  "seller_status": "Частное лицо",
+  "index": 1469469648,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1469469648",
+  "seller": "Евгений",
+  "address": "Москва, м. Варшавская",
+  "text": "Фикус Бенджамина 120см.\n",
+  "post_date": "  4 октября в 21:49  ",
+  "seller_link": "/user/8cde75ac5589100bfb213e79ea7b8b7d/profile?id=1469469648&src=item"
+}

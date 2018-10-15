@@ -1,0 +1,13 @@
+{
+  "price": 10,
+  "seller_status": "Компания",
+  "index": 857762583,
+  "title": "Лапник ели пихты и сосны к Новому году",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lapnik_eli_pihty_i_sosny_k_novomu_godu_857762583",
+  "seller": "Сергей",
+  "seller-contact": "Продавец",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Принимаем заказы на ветки сосновые, пихтовые и еловые (лапник).\nРазмеры по Вашим параметрам от 10 см до 1 м.\nОптом от 300 шт. Возможна вязка в букеты и украшение шишками.\nот 10000 веток - 10 р.\n",
+  "post_date": "  5 октября в 10:36  ",
+  "seller_link": "/user/186b51b43123ee551deadc11c8965dad/profile?id=857762583&src=item"
+}

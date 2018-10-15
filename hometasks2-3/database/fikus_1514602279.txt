@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1514602279,
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1514602279",
+  "address": "Москва, м. Боровское шоссе",
+  "title": "Фикус",
+  "seller_link": "/user/bfeabe15a4e3bae6a1a48da522be3e4e/profile?id=1514602279&src=item",
+  "text": "80см длина\nСрочная продажа\nНе хватает места!\nЕсть ещё фикус сорт Наташа(120 см примерно)2200\n",
+  "post_date": "  07 October в 19:05  "
+}

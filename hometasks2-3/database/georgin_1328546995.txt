@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1328546995,
+  "title": "Георгин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/georgin_1328546995",
+  "seller": "Галина",
+  "address": "Москва, м. Новогиреево",
+  "text": "Комнатный цветок георгина\n",
+  "post_date": "  07 October в 09:33  ",
+  "seller_link": "/user/2644abf1c4cc6615a3ff2e0c7df76d2a/profile?id=1328546995&src=item"
+}

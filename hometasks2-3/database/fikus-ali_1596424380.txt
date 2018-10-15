@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Чертановская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus-ali_1596424380",
+  "price": 400,
+  "seller": "Анжела",
+  "post_date": "  08 October в 21:21  ",
+  "title": "Фикус-Али",
+  "text": "Самый неприхотливый и красивый фикус. Не требует особого ухода. Листья не опадают. Украшение для комнаты.\n",
+  "index": 1596424380,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/bfc39de4274169fd1264b7ef73a8d999/profile?id=1596424380&src=item"
+}

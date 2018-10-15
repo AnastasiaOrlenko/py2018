@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 5000,
+  "index": 1538269535,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_lirovidnyy_vozrast_okolo_14_let_v_keramiche_1538269535",
+  "address": "Москва, м. Коломенская",
+  "title": "Фикус лировидный, возраст около 14 лет, в керамиче",
+  "seller_link": "/user/22a8aeab9f344989e2bf02dc9f6feb36/profile?id=1538269535&src=item",
+  "text": "Растение подходит для просторного помещения, не прихотливо в уходе\n",
+  "post_date": "  07 October в 16:07  "
+}

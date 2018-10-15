@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1109790710,
+  "title": "Мурайя цветущая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/murayya_tsvetuschaya_1109790710",
+  "seller": "Татьяна",
+  "address": "Москва, м. Крылатское",
+  "text": "Мурайя не голландская. Цветет\n",
+  "post_date": "  6 октября в 09:51  ",
+  "seller_link": "/user/078219c8dd15fa3a08a4e48bfb7bdc39/profile?id=1109790710&src=item"
+}

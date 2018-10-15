@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1096893182,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1096893182",
+  "seller": "Наталья",
+  "address": "Москва, м. Отрадное",
+  "text": "Фикус Бенджамина высота 35 см, ширина 35 см. Растение выращено в домашних условиях.\n",
+  "post_date": "  6 октября в 10:59  ",
+  "seller_link": "/user/69aca5eb672105f97747f05b4a11ec8c/profile?id=1096893182&src=item"
+}

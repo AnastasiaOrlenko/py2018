@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1333169360,
+  "title": "Солейролия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/soleyroliya_1333169360",
+  "seller": "Алёна",
+  "address": "Москва, м. Перово",
+  "text": "Молодые кустики солейролии.\n",
+  "post_date": "  5 октября в 00:43  ",
+  "seller_link": "/user/312d5db4b5a90240eae6dac8e63d8bfe/profile?id=1333169360&src=item"
+}

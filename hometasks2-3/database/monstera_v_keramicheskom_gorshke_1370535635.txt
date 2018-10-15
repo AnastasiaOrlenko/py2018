@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1370535635,
+  "title": "Монстера в керамическом горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_v_keramicheskom_gorshke_1370535635",
+  "seller": "Анна",
+  "address": "Москва, м. Новокузнецкая",
+  "text": "Монстера\n",
+  "post_date": "  5 октября в 18:06  ",
+  "seller_link": "/user/bfa9ee94f938cec0972b0627bdbe721a/profile?id=1370535635&src=item"
+}

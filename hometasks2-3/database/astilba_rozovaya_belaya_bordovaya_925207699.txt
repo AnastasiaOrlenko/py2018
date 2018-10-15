@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 925207699,
+  "title": "Астильба розовая, белая, бордовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/astilba_rozovaya_belaya_bordovaya_925207699",
+  "seller": "Наталья",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Астильба розовая, белая, бордовая продаю кустами...одна ветка 100 р, куст большой от 500 р\n",
+  "post_date": "  5 октября в 12:03  ",
+  "seller_link": "/user/4ac45f775940462da0850b419697806b/profile?id=925207699&src=item"
+}

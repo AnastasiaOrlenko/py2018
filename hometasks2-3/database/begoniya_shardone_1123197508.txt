@@ -1,0 +1,12 @@
+{
+  "text": "Укорененные черенки бегонии,фуксии,вербены,а так же фиалки селекции фиалковод АВ. Все растения вырощены мной в домашних условиях. Прайс лист на сайте silarosta точка com\n",
+  "title": "Бегония шардоне",
+  "price": 70,
+  "index": 1123197508,
+  "address": "Москва, м. Аннино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_shardone_1123197508",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 06:41  ",
+  "seller": "андрей",
+  "seller_link": "/user/db0f779f374a64244cebd34f68ed9071/profile?id=1123197508&src=item"
+}

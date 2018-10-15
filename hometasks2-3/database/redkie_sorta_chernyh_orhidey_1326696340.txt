@@ -1,0 +1,12 @@
+{
+  "text": "Детки орхидей чёрного цвета из Вьетнама.\nНабор из 3 деток + четвёртая в подарок = 2900 руб. Доставка по России.\n",
+  "title": "Редкие сорта чёрных орхидей",
+  "price": 1400,
+  "index": 1326696340,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/redkie_sorta_chernyh_orhidey_1326696340",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 07:06  ",
+  "seller": "Ольга",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=1326696340&src=item"
+}

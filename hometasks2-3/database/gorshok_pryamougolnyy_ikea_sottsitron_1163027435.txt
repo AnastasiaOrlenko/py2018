@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 950,
+  "index": 1163027435,
+  "seller": "Ani",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_pryamougolnyy_ikea_sottsitron_1163027435",
+  "address": "Москва, м. Академическая",
+  "title": "Горшок прямоугольный Икеа Сотцитрон",
+  "seller_link": "/user/194db70bf92c432c3cfded806a9396ed/profile?id=1163027435&src=item",
+  "text": "Продам б/у горшок икеа Сотцитрон с самополивом\nМатериал керамика\nРазмер 28х14см\n",
+  "post_date": "  07 October в 20:01  "
+}

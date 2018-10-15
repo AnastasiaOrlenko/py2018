@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1388203660,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/baki_tsvetochnye_1388203660",
+  "address": "Москва, м. Улица Горчакова",
+  "title": "Баки цветочные",
+  "seller_link": "/user/9643f9469a65ad902cb7114fad86a652/profile?id=1388203660&src=item",
+  "text": "Бу в количестве 30-40шт. Цена за штуку. Чёрные ведра в подарок.\nАндрей\n",
+  "post_date": "  07 October в 16:44  "
+}

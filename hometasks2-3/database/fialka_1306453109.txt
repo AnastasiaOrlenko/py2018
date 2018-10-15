@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1306453109,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1306453109",
+  "seller": "Наталья",
+  "address": "Москва, м. Отрадное",
+  "text": "Продам цветущую фиалку.\n",
+  "post_date": "  6 октября в 10:59  ",
+  "seller_link": "/user/69aca5eb672105f97747f05b4a11ec8c/profile?id=1306453109&src=item"
+}

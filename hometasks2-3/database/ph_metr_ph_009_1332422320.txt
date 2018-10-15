@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1332422320,
+  "title": "PH метр PH 009",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ph_metr_ph_009_1332422320",
+  "seller": "Екатерина",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продаю новый PH метр PH 009 китайского производства\n",
+  "post_date": "  6 октября в 23:43  ",
+  "seller_link": "/user/de4d96179dd3c04bae9a59b59a82482b/profile?id=1332422320&src=item"
+}

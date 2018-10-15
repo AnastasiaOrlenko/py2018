@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1623078625,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1623078625",
+  "seller": "Лариса",
+  "address": "Москва, м. Улица Старокачаловская",
+  "text": "Цветущие орхидеи. Есть в наличии много других орхидей\n",
+  "post_date": "  6 октября в 01:35  ",
+  "seller_link": "/user/9c852e38dc89c9cc4e39111c329d0727/profile?id=1623078625&src=item"
+}

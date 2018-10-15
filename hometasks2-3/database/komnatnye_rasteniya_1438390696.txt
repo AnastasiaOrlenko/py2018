@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1438390696,
+  "title": "Комнатные растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_1438390696",
+  "seller": "Любовь. Звоните до 24:00",
+  "seller-contact": "Любовь",
+  "address": "Москва, м. Новогиреево",
+  "text": "Комнатные растения\nПишите в любое время.\n",
+  "post_date": "  5 октября в 09:01  ",
+  "seller_link": "/user/ccaa8e9844a4fd23667acdd9f9cd0d57/profile?id=1438390696&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1714109765,
+  "title": "Пеларгония PAC Lilac укорененные черенки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_pac_lilac_ukorenennye_cherenki_1714109765",
+  "seller": "Natalia",
+  "address": "Москва, м. Полежаевская",
+  "text": "Укорененные черенки пеларгонии ампельной сорта РАС Lilac. Сорт компактный, обильно цветущий. Цветочная стрелка образуется в каждой листовой пазухе.\nНа первых фото мои материнские растения.\n",
+  "post_date": "  6 октября в 19:25  ",
+  "seller_link": "/user/d47b943e468fa1126c06ae623e25bbf7/profile?id=1714109765&src=item"
+}

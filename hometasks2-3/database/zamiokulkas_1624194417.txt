@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1624194417,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1624194417",
+  "seller": "не компания",
+  "seller-contact": "***",
+  "address": "Москва, м. Печатники",
+  "text": "Продам хорошее растение,послушное))) с горшком))) очень большой для моей комнаты(((\n",
+  "post_date": "  5 октября в 22:00  ",
+  "seller_link": "/user/4799e1817459529df82f2a70f839aabe/profile?id=1624194417&src=item"
+}

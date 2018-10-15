@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1371015386,
+  "title": "Авокадо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avokado_1371015386",
+  "seller": "Елена",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Проросшие растения авокадо из косточек. 5 штук от 20см и до 35см. Все по 100рублей, самый маленький можно за 80 рублей. Растения крепкие, готовые к посадке.\n",
+  "post_date": "  07 October в 11:42  ",
+  "seller_link": "/user/09b78daf41b757d74c21d2bd58fffca5/profile?id=1371015386&src=item"
+}

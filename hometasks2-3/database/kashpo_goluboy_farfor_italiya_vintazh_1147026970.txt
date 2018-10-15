@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 4500,
+  "index": 1147026970,
+  "seller": "частное лицо Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_goluboy_farfor_italiya_vintazh_1147026970",
+  "address": "Москва, м. Белорусская",
+  "title": "Кашпо голубой фарфор Италия винтаж",
+  "seller_link": "/user/22617ccbd2c740e52871db8a0c6db116/profile?id=1147026970&src=item",
+  "text": "Высота 12 см.\nИрисы, бабочки.\nВ идеале.\nБыло украшением интерьера.\n",
+  "seller-contact": "Оксана",
+  "post_date": "  07 October в 18:31  "
+}

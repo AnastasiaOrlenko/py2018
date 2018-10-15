@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 938164367,
+  "title": "Толстянка (крассула, денежное дерево)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_krassula_denezhnoe_derevo_938164367",
+  "seller": "Ирина",
+  "address": "Москва, м. Бибирево",
+  "text": "Укорененный черенок крассулы 100 руб.\nСамовывоз от метро Бибирево или по договоренности.\n",
+  "post_date": "  07 October в 11:30  ",
+  "seller_link": "/user/7c261ebc5aafd05c94c5ea3afa2fc281/profile?id=938164367&src=item"
+}

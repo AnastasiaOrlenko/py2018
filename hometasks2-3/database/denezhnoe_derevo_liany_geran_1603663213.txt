@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1603663213,
+  "title": "Денежное дерево, лианы, герань",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_liany_geran_1603663213",
+  "seller": "НАТАЛИЯ",
+  "address": "Москва, м. Комсомольская",
+  "text": "Продаю денежное дерево, лианы для офиса или для дома. Ден. дерево 1000, лиана 1500,герань 300рублей\n",
+  "post_date": "  5 октября в 21:25  ",
+  "seller_link": "/user/f6669243edd491b56f83ea3455ad092e/profile?id=1603663213&src=item"
+}

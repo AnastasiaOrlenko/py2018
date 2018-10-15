@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Беговая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnye_kolbochki_dlinnye_i_korotkie_1210761828",
+  "price": 6,
+  "seller": "Олег",
+  "post_date": "  08 October в 19:35  ",
+  "title": "Цветочные колбочки длинные и короткие",
+  "text": "Цветочные колбочки длинные и короткие. 33 штук. Продаю все вместе 200 рублей Или каждую по 7 рублей. Не звоните. Пишите на сайт. Отвечу оперативно.\n",
+  "index": 1210761828,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/fe813cdbe48e36fdf90bc65a0a70df3c/profile?id=1210761828&src=item"
+}

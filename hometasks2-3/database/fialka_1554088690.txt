@@ -1,0 +1,13 @@
+{
+  "price": 270,
+  "seller_status": "Компания",
+  "index": 1554088690,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1554088690",
+  "seller": "Юлия",
+  "seller-contact": "Не агенство",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Продам,мини Фиалки ,Есть,цветущие.Могу подвезти к метро.\n",
+  "post_date": "  5 октября в 22:13  ",
+  "seller_link": "/user/b817d2dde0c5f9e259fb0280693cf72b/profile?id=1554088690&src=item"
+}

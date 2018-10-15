@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 954172602,
+  "seller": "наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_954172602",
+  "address": "Москва, м. Коньково",
+  "title": "Фиалка",
+  "seller_link": "/user/60603fe87466f011b9f29b11601eb006/profile?id=954172602&src=item",
+  "text": "Молодая розовая махровая фиалка.Не капризная,долго цветет.\n",
+  "post_date": "  07 October в 17:55  "
+}

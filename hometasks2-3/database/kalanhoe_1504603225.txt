@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1504603225,
+  "seller": "Маргарита",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1504603225",
+  "address": "Москва, м. Пражская",
+  "title": "Каланхоэ",
+  "seller_link": "/user/c7786772b7c669d5b1bccd938ab3db69/profile?id=1504603225&src=item",
+  "text": "Отдам 6 укоренённых отростков каланхоэ с фото. Цвести будут бордовыми цветками. Встречаюсь м.Пражская, Парк Культуры, Сокольники.\n",
+  "post_date": "  07 October в 15:12  "
+}

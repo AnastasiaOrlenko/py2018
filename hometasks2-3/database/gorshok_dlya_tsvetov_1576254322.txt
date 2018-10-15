@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1576254322,
+  "seller": ".",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_1576254322",
+  "address": "Москва, м. Пятницкое шоссе",
+  "title": "Горшок для цветов",
+  "seller_link": "/user/7e50413f912d21232ed20cf7fc9ce5b0/profile?id=1576254322&src=item",
+  "text": "горшок для цветов глиняный размет высота 23 см диаметр 23 см б/у без сколов и трещин\n",
+  "post_date": "  07 October в 21:08  "
+}

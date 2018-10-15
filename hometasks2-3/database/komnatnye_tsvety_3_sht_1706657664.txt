@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1706657664,
+  "title": "Комнатные цветы 3 шт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_3_sht_1706657664",
+  "seller": "Много деткам",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Новогиреево",
+  "text": "Цена за 3цветка вместе с горшками. Причина продажи нехватка времени на уход\n",
+  "post_date": "  6 октября в 10:19  ",
+  "seller_link": "/user/37305ee35c919d29c9a99fc4af99e465/profile?id=1706657664&src=item"
+}

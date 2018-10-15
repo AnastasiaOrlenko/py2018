@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1067981315,
+  "title": "Лимон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/limon_1067981315",
+  "seller": "Юлия",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "Лимон - гибрид. Растение молодое, чуть подрастёт и порадует вас таким большим плодом (как на фото).\n",
+  "post_date": "  5 октября в 12:14  ",
+  "seller_link": "/user/677e144f59bd1e155281e787e9277120/profile?id=1067981315&src=item"
+}

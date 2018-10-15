@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1430768476,
+  "title": "Питательный грунт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pitatelnyy_grunt_1430768476",
+  "seller": "priap",
+  "seller-contact": "Сергей",
+  "address": "Москва, м. Румянцево",
+  "text": "грунт для сада и теплиц в мешке мкр 1м3, при оптовой покупке цена обсуждается. весь грунт с сертификатами\n",
+  "post_date": "  6 октября в 16:55  ",
+  "seller_link": "/user/3eb065aba9844752b05307c9c3089f64/profile?id=1430768476&src=item"
+}

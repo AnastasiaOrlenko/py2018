@@ -1,0 +1,13 @@
+{
+  "price": 4000,
+  "seller_status": "Компания",
+  "index": 1226752614,
+  "title": "Астрофитум мириостигма(Кактус)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/astrofitum_miriostigmakaktus_1226752614",
+  "seller": "Юлия",
+  "seller-contact": "Юлия",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Растению 14 лет, высота 12 см, диаметр 14 см\n",
+  "post_date": "  07 October в 08:02  ",
+  "seller_link": "/user/99d79d744d05f824cb213a03983a0501/profile?id=1226752614&src=item"
+}

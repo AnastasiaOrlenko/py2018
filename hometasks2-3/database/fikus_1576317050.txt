@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Балтийская",
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1576317050",
+  "seller_status": "Частное лицо",
+  "title": "Фикус",
+  "post_date": "  08 October в 11:02  ",
+  "price": 10000,
+  "index": 1576317050,
+  "seller_link": "/user/107860a40905d06f2087f5fd983c403c/profile?id=1576317050&src=item",
+  "text": "Продам двухметровые фикус из ресторана. Растения живые, не болеют. Очень красивые. Есть 2 фикуса.\n"
+}

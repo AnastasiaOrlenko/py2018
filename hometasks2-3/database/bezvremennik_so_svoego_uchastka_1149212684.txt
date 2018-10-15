@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1149212684,
+  "title": "Безвременник со своего участка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bezvremennik_so_svoego_uchastka_1149212684",
+  "seller": "Мария",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "Поделюсь безвременником, 50р штучка\n",
+  "post_date": "  6 октября в 12:04  ",
+  "seller_link": "/user/f2943584d3857d43470445125b1b9d40/profile?id=1149212684&src=item"
+}

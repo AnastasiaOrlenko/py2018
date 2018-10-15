@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Новокосино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_sortovye_detki_i_tsvetuschie_mini_i_treylery_1703848519",
+  "seller-contact": "Ирина",
+  "price": 60,
+  "seller": "Ирина",
+  "post_date": "  08 October в 16:10  ",
+  "title": "Фиалки сортовые (детки и цветущие) мини и трейлеры",
+  "text": "Предлагаю детки фиалок (60руб/шт), излишки домашней коллекции, они на фото 1-3. Фото от 8 октября.\n1 Morgan's Chutney Popcorn (C.Eros) \n2 Rob's Vanilla Trail (R. Robinson) - трейлер\n3 Н-Снежный Георгин (Н. Бердникова)\n4 ЛЕ-Серебряный Ручей - трейлер\n5 Rondita - трейлер.\nВсе 5 шт пакетом в одни руки отдам за 250 руб\n--------\nЦветущие фиалки - 200 руб/шт\nФото 4 - ЛЕ-Серебряный Ручей\nФото 5 - Morgan's Chutney Popcorn (C.Eros) \nСамовывоз (от метро 15 мин пешком по прямой или 3 мин на автобусе). Есть детки стандартных фиалок. Обмен не интересует, каталог не высылаю.\n",
+  "index": 1703848519,
+  "seller_status": "Компания",
+  "seller_link": "/user/fe17c3066607398576f39f2857a28527/profile?id=1703848519&src=item"
+}

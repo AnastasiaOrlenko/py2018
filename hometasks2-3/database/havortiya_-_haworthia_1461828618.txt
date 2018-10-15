@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1461828618,
+  "title": "Хавортия - Haworthia",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_-_haworthia_1461828618",
+  "seller": "Камбрия",
+  "address": "Москва, м. Академическая",
+  "text": "Хавортии – красивые, лиственно-декоративные суккуленты.\n1. Японский культивар Haworthia cv. Korizato горшок 4х4см. - 2000р. \n2. Haworthia cymbiformis f. variegata, продается не все растение на фото, а только 1 молодая розетка, с преобладанием вариегатности на листьях - 300 руб. С небольшой вариегатностью – 250руб. \n3. Haworthia cooperi var. truncata, отделю одну розетку - 300 руб. \n4. Haworthia cooperi cv Bryan Makin, вариегатная, взрослая, горшок 5.5х5.5см. – 1200 руб. \n5. Haworthia magnifica v. magnifica, взрослая, - 500 руб. \n6. Haworthia mauganii, интересный культивар, взрослая, крупная, горшок 6х6см, - 1500руб.\n7. Haworthia mutica cv. 'Byakuya', японский декоративный культивар, отделю детку – 500руб. \n8. Haworthia springbokvlakensis, подросток, - 1600руб. \n9. Haworthia tesselata, красиво загорает на солнце, отделю 1 розетку, - 250руб. \nНа все ваши вопросы и уточнения по этим растениям, отвечу только через сообщения на Авито. Звонить не обязательно.\n",
+  "post_date": "  07 October в 10:24  ",
+  "seller_link": "/user/2677011b8cb750f04e60228990c7d24f/profile?id=1461828618&src=item"
+}

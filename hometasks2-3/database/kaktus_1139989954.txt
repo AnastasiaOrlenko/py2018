@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1139989954,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1139989954",
+  "address": "Москва, м. Текстильщики",
+  "title": "Кактус",
+  "seller_link": "/user/47980787aabecc7fed7654fe9e4eb5a3/profile?id=1139989954&src=item",
+  "text": "Кактус с новыми побегами. Отцвел. \nСверху был красный колючий цветок в виде маковки. С горшком.\n",
+  "post_date": "  07 October в 20:04  "
+}

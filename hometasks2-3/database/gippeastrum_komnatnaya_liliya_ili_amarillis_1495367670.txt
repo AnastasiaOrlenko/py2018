@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1495367670,
+  "seller": "НЕ компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_komnatnaya_liliya_ili_amarillis_1495367670",
+  "address": "Москва, м. Улица Горчакова",
+  "title": "Гиппеаструм (комнатная лилия или амариллис)",
+  "seller_link": "/user/9e4081e47f4a6fe0ddcc2d221b3546fa/profile?id=1495367670&src=item",
+  "text": "Продам Гиппеаструм вместе с горшками. Взрослое растение за 600 рублей. Детки (последнее фото, сейчас выросли еще больше) За 300. Все фото мои!!! Причина продажи: кошка не дает им жить.\nТерриториально цветы в Бутово.\n",
+  "seller-contact": "Частное лицо",
+  "post_date": "  07 October в 16:45  "
+}

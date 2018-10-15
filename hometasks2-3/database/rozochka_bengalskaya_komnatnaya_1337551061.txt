@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1337551061,
+  "title": "Розочка бенгальская комнатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozochka_bengalskaya_komnatnaya_1337551061",
+  "seller": "Елена",
+  "address": "Москва, м. Хорошевская",
+  "text": "Укорененные черенки комнатной розочки 3 шт. Запах слабый. Крепкая, ничем не болеет. Постоянно выпускает побеги с новыми бутонами.\n",
+  "post_date": "  5 октября в 11:13  ",
+  "seller_link": "/user/079cec9676baf5da757da99878be1263/profile?id=1337551061&src=item"
+}

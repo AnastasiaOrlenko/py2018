@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1150304896,
+  "seller": "Мария,не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hamedoreya_izyaschnaya_1150304896",
+  "address": "Москва, м. ВДНХ",
+  "title": "Хамедорея изящная",
+  "seller_link": "/user/151af53631b0b47372b4bfb273c79baa/profile?id=1150304896&src=item",
+  "text": "Хамедорея изящная,высота вместе с горшком от 70 см\nУкрасит ваш интерьер, разрастется пышным кустом!\nВыращиваю без удобрений)\nм ВДНХ\nцена 300 руб\n",
+  "seller-contact": "Мария",
+  "post_date": "  07 October в 14:01  "
+}

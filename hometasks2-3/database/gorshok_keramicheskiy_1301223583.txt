@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "seller": "Частное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramicheskiy_1301223583",
+  "seller_status": "Компания",
+  "title": "Горшок керамический",
+  "post_date": "  08 October в 13:31  ",
+  "price": 300,
+  "index": 1301223583,
+  "seller_link": "/user/759386d2e6ac074f1e0893afc8269abc/profile?id=1301223583&src=item",
+  "text": "Горшок под растения керамический ! Очень красивый ! Диаметр 30 см , Высота с поддоном 23 см Отдаю даром почти , за 300 р Был в использовании Состояние отличное\n"
+}

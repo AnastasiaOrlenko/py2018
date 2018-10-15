@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Фонвизинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_vzrosloe_komnatnoe_rastenie_1252302203",
+  "price": 200,
+  "seller": "Юлия Прибылова",
+  "post_date": "  08 October в 17:01  ",
+  "title": "Сингониум взрослое комнатное растение",
+  "text": "Продаётся взрослое здоровое растение с горшком. Причина продажи-не хватает места.\n",
+  "index": 1252302203,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c2dfac432ca5dea3e3b8d9270f06a60f/profile?id=1252302203&src=item"
+}

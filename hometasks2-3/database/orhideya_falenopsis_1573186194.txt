@@ -1,0 +1,12 @@
+{
+  "price": 1600,
+  "seller_status": "Частное лицо",
+  "index": 1573186194,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1573186194",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис халиско, 2 ствола\n",
+  "post_date": "  07 October в 00:39  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1573186194&src=item"
+}

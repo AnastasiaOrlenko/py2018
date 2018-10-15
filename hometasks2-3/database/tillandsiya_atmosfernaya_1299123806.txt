@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1299123806,
+  "title": "Тилландсия атмосферная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tillandsiya_atmosfernaya_1299123806",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Тилландсия Атмосферная поглощает влагу и питательные вещества прямо из воздуха при помощи волосяных чешуек. Это растение лишено корней и не нуждается в почве.\n",
+  "post_date": "  07 October в 00:54  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1299123806&src=item"
+}

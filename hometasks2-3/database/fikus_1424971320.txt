@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/132c9ae1a518280605fd5451ae76a877/profile?id=1424971320&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1424971320",
+  "post_date": "  08 October в 10:03  ",
+  "address": "Москва, м. Выхино",
+  "seller": "Марина",
+  "text": "Фикус 130 см.\n",
+  "index": 1424971320,
+  "seller_status": "Компания",
+  "price": 2000,
+  "title": "Фикус"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1358635548,
+  "seller": "Валентина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnee_rastenie_derevo_limon_1358635548",
+  "address": "Москва, м. Красногвардейская",
+  "title": "Домашнее растение дерево лимон",
+  "seller_link": "/user/68bcb0cde295f89ea18624939aa4241b/profile?id=1358635548&src=item",
+  "text": "Длина 270 см, его конечно можно и обрезать. \nЗабирать красногвардейская-забликово\n",
+  "post_date": "  07 October в 13:58  "
+}

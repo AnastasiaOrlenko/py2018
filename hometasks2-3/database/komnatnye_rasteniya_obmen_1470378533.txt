@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1470378533,
+  "title": "Комнатные растения, обмен",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_obmen_1470378533",
+  "seller": "**@**",
+  "address": "Москва, м. Площадь революции",
+  "text": "Поменяю на морские раковины, ракушки, предметы из сервиза \"Сирень\"- чашки, блюдца, молочник и пр.\n",
+  "post_date": "  6 октября в 23:17  ",
+  "seller_link": "/user/6e58fe2764fe10e9f393d44d184c1d34/profile?id=1470378533&src=item"
+}

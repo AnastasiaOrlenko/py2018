@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Селигерская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otrostki_denezhnogo_dereva_1641607778",
+  "price": 100,
+  "seller": "Александра",
+  "post_date": "  08 October в 21:57  ",
+  "title": "Отростки Денежного дерева",
+  "text": "Отростки Денежного дерева. 1шт 100р\n",
+  "index": 1641607778,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2fa4fe2fa5780a4ec8f04e19688d59ba/profile?id=1641607778&src=item"
+}

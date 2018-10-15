@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/ca4143a2416435b15f0a400b543b4cef/profile?id=1497424067&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_domashnyaya_limonnaya_krupnaya_1497424067",
+  "post_date": "  08 October в 09:28  ",
+  "address": "Москва, м. Новослободская",
+  "seller": "Ирина",
+  "text": "роза домашняя лимонная крупноцветковая, запах мускусно-цитрусовый. махровая\nесть и другие цвета-дешевле\n",
+  "index": 1497424067,
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "title": "Роза домашняя лимонная крупная"
+}

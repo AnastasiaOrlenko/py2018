@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 960567191,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_960567191",
+  "seller": "Наталья",
+  "address": "Москва, м. Новокосино",
+  "text": "Продаю излишки фокуса Бенжамина. Все черенки укорененные. Высота приблизительно 20 см\n",
+  "post_date": "  5 октября в 16:27  ",
+  "seller_link": "/user/fc95f83283e8747d6ed7029b88914b65/profile?id=960567191&src=item"
+}

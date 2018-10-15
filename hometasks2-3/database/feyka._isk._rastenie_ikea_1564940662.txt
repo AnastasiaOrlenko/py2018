@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1564940662,
+  "seller": "Сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/feyka._isk._rastenie_ikea_1564940662",
+  "address": "Москва, м. Молодежная",
+  "title": "Фейка. Иск. Растение икеа",
+  "seller_link": "/user/5e0a2794eeea60b241f532c203b353f1/profile?id=1564940662&src=item",
+  "text": "Самовывоз и самовынос. Арт 101.866.58\n",
+  "post_date": "  07 October в 20:28  "
+}

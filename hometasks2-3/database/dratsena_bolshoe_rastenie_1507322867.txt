@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1507322867,
+  "title": "Драцена большое растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_bolshoe_rastenie_1507322867",
+  "seller": "Валентина",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Продаю драцену. Растение большое примерно 150 см высотой\n",
+  "post_date": "  6 октября в 17:00  ",
+  "seller_link": "/user/56eaeac4aa1359dd9c59413c73efcfc8/profile?id=1507322867&src=item"
+}

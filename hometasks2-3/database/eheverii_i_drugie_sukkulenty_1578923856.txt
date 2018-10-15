@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1578923856,
+  "title": "Эхеверии и другие суккуленты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eheverii_i_drugie_sukkulenty_1578923856",
+  "seller": "Ольга",
+  "address": "Москва, м. Курская",
+  "text": "Эчеверии, пахифитум, граптопеталум:\nФото1 - Echeveria chihuahuensis - 200p\nФото2 - Echeveria Lucita, розетка 9-10см - 400р, 8см - 350р\nФото3 - Echeveria cante - 300p,\nФото4 - Echeveria Afterglow - 300p,\nФото5 - Echeveria Blue Elf - 150p\nФото6 - Echeveria subcorymbosa Lau 030 - 200p\nФото7 - Echeveria pulvinata stricta (крупная розетка) - 200р\nФото8 - Pachyphytum oviferum Moonstone, черенок 10см - 300р, 5см - 150р\nФото9 - Graptopetalum pachyphyllum, 5. черенков за 100р\nЕсть другие суккуленты. Вышлю ссылку на альбом по запросу.\nСамовывоз м Курская. Отправка почтой\n",
+  "post_date": "  07 October в 12:36  ",
+  "seller_link": "/user/d05eec28d58bbac04de7c6c9cb1508c2/profile?id=1578923856&src=item"
+}

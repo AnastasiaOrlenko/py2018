@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 1000,
+  "index": 1336211314,
+  "seller": "Надежная кровля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mozhzhevelnik_kazatskiy_1336211314",
+  "address": "Москва, м. Тушинская",
+  "title": "Можжевельник казацкий",
+  "seller_link": "/user/127cb6067a73f8ae2fbbeb8ab25b5073/profile?id=1336211314&src=item",
+  "text": "очень красивое растение для ландшафта раскидистое ,выращено в Подмосковье приживаемость очень высокая\n",
+  "seller-contact": "Валерий",
+  "post_date": "  07 October в 15:43  "
+}

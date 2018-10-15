@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1394761781,
+  "title": "Фиалка сортовая Emerald Pink, детки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sortovaya_emerald_pink_detki_1394761781",
+  "seller": "Ирина Кирсанова",
+  "address": "Москва, м. Коломенская",
+  "text": "Фиалка сортовая Emerald Pink, детки\n",
+  "post_date": "  5 октября в 11:52  ",
+  "seller_link": "/user/01e4f59d9e20b046384964189305328c/profile?id=1394761781&src=item"
+}

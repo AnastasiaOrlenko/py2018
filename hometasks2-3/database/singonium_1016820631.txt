@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1016820631,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_1016820631",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Сингониум",
+  "seller_link": "/user/b98c1a12f71fbcdef9d21dd957665d3c/profile?id=1016820631&src=item",
+  "text": "поднесу к м Бабушкинская\n",
+  "post_date": "  07 October в 21:15  "
+}

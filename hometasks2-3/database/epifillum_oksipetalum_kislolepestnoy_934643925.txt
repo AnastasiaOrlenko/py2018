@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 934643925,
+  "seller": "Лиля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epifillum_oksipetalum_kislolepestnoy_934643925",
+  "address": "Москва, м. Варшавская",
+  "title": "Эпифиллум Оксипеталум /Кислолепестной",
+  "seller_link": "/user/3849f1030e94e053a351ddcb2b3fd761/profile?id=934643925&src=item",
+  "text": "(Epiphyllum Oxypetalum)/ Царица ночи : фото &gt;4, укоренившийся черенок в пластиковом горшке, начал обрастать, за 350 ₽. ; фото &gt;5, укоренившийся черенок в пластиковом горшке за 100 руб.\nмогу принести к метро Варшавская. \nНа фото родительское растение.\n",
+  "post_date": "  07 October в 21:15  "
+}

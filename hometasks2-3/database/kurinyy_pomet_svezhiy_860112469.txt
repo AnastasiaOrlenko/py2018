@@ -1,0 +1,11 @@
+{
+  "text": "Продам свежий куриный помет с личного подсобного хозяйства, в 50 кг. мешках, необходимый вам объём, само вывоз в районе дер. Красная Пахра (Новая Москва).\n",
+  "title": "Куриный помет свежий",
+  "seller_link": "/user/a165b869d0a25f953638eb5b7b64151a/profile?id=860112469&src=item",
+  "address": "Москва, м. Теплый стан",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kurinyy_pomet_svezhiy_860112469",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:29  ",
+  "seller": "сергей",
+  "index": 860112469
+}

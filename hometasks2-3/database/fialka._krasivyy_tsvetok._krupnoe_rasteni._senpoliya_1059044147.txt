@@ -1,0 +1,13 @@
+{
+  "price": 700,
+  "seller_status": "Компания",
+  "index": 1059044147,
+  "title": "Фиалка. Красивый цветок. Крупное растени. Сенполия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka._krasivyy_tsvetok._krupnoe_rasteni._senpoliya_1059044147",
+  "seller": "Управляющая компания",
+  "seller-contact": "Ольга собственник",
+  "address": "Москва, м. Киевская",
+  "text": "Привезу на любую станцию метро. Фиалка.Цветов более 50 штук, Огромное... очень большое, здоровое растение. Фото реальное, продаю цветок то что на фото.\n",
+  "post_date": "  6 октября в 21:40  ",
+  "seller_link": "/user/fd6c849243c91d5c32134d6fedf64854/profile?id=1059044147&src=item"
+}

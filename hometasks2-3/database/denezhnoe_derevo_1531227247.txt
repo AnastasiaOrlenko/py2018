@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Ростки денежного дерева, высаженные по адресу маршала Тухачевского 41-1 в клумбу около детского сада. Зимой погибнут, приходите, забирайте.\n",
+  "index": 1531227247,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1531227247",
+  "seller": "елена",
+  "address": "Москва, м. Октябрьское поле",
+  "post_date": "  5 октября в 09:48  ",
+  "seller_link": "/user/1ccba71122bfc544580bb1a33f6feaad/profile?id=1531227247&src=item"
+}

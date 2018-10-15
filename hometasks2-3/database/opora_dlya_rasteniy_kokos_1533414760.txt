@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/edeeca4dc4954d3ad948af24326c2a13/profile?id=1533414760&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/opora_dlya_rasteniy_kokos_1533414760",
+  "post_date": "  08 October в 09:59  ",
+  "address": "Москва, м. Отрадное",
+  "seller": "Макс",
+  "text": "Опора для растений. Верхнее оформление кокос, новая. 80 рублей.\nПоддон для цветочного горшка, 2 штуки, цвет бежевый, 250 мм, новые. Цена 1 штуки 30 рублей.\n",
+  "index": 1533414760,
+  "seller_status": "Компания",
+  "price": 30,
+  "title": "Опора для растений кокос"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/9a45fde51b6d6fa0c747098686649901/profile?id=900484113&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_orhidei_900484113",
+  "post_date": "  08 October в 09:58  ",
+  "address": "Москва, м. Отрадное",
+  "seller": "Галина Майорова",
+  "text": "Горошок бу.В хорошем состоянии.ПИШИТЕ.Телефон на беззвучке.Часто его не слышу\n",
+  "index": 900484113,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Горшок для орхидеи"
+}

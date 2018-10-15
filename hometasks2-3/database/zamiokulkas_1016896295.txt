@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1016896295,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1016896295",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Отросток больше 40 см с корнями. Растение на фото. Отдаю вместе с горшком.\n",
+  "post_date": "  5 октября в 15:49  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=1016896295&src=item"
+}

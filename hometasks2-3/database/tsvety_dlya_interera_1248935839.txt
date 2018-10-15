@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1248935839,
+  "title": "Цветы для интерьера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_dlya_interera_1248935839",
+  "seller": "частное лицо",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Перово",
+  "text": "Продам или обменяю на новую пряжу, любую (можно в остатках).\n",
+  "post_date": "  6 октября в 11:02  ",
+  "seller_link": "/user/77e5061b8e5d6c2d0f217de8d1fa4ce4/profile?id=1248935839&src=item"
+}

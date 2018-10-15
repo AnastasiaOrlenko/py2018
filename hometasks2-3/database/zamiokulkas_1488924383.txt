@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1488924383,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1488924383",
+  "seller": "Ольга",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Молодой куст высотой примерно 70 см.\n",
+  "post_date": "  6 октября в 18:56  ",
+  "seller_link": "/user/00713723e3d8b02815c9724dabf765d2/profile?id=1488924383&src=item"
+}

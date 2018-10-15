@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1169001152,
+  "title": "Сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1169001152",
+  "seller": "Евгения",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "Отростки Сансевиерии 3 шт. Высокая.\nм. Славянский бульвар.\n",
+  "post_date": "  07 October в 12:47  ",
+  "seller_link": "/user/292a0d30349906b54803fbef4968a1ba/profile?id=1169001152&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Крупная высокая хризантема разных цветов\n",
+  "title": "Хризантема Дека",
+  "price": 110,
+  "index": 1392262786,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_deka_1392262786",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:27  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 994735202,
+  "title": "Толстянка (денежное дерево)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_994735202",
+  "seller": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Молодое дерево, формируютя боковые побеги, хороший толстый стволик.\n",
+  "post_date": "  07 October в 08:55  ",
+  "seller_link": "/user/71ee11e110f605b05a1a2c229251efcc/profile?id=994735202&src=item"
+}

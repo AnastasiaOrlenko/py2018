@@ -1,0 +1,11 @@
+{
+  "seller_status": "Компания",
+  "text": "пять веточек роз на длинных ножках. смотрятся как живые.\n",
+  "index": 1093014210,
+  "title": "Розы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_1093014210",
+  "seller": "Елена",
+  "address": "Москва, м. Академическая",
+  "post_date": "  6 октября в 20:55  ",
+  "seller_link": "/user/b6e597e37694c575a28f8ac5ef09ea64/profile?id=1093014210&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 6500,
+  "seller_status": "Частное лицо",
+  "index": 144172686,
+  "title": "Крупномеры ели голубой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krupnomery_eli_goluboy_144172686",
+  "seller": "евгений",
+  "address": "Москва",
+  "text": "Ель колючая форма голубая от2-10м.Стоимость зависит от высоты и опушенности деревьев.Акция ель 1.2-1.8м всего 6500 руб\n",
+  "post_date": "  07 October в 08:01  ",
+  "seller_link": "/user/33be6318a51ba67fe331cb2d5f9ea0b3/profile?id=144172686&src=item"
+}

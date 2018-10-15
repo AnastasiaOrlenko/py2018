@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1652694460,
+  "title": "Фитосветильник Navigator",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitosvetilnik_navigator_1652694460",
+  "seller": "Николай",
+  "address": "Москва, м. Ховрино",
+  "text": "Светодиодный Фитосветильник Navigator серии DSP-FITO\nНовый.С документами.\nБрал 2 штуки за 1000 рублей.\n",
+  "post_date": "  5 октября в 14:43  ",
+  "seller_link": "/user/e0693df9359c800f8980e3dc345ca0a9/profile?id=1652694460&src=item"
+}

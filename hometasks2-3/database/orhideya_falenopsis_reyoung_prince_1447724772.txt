@@ -1,0 +1,13 @@
+{
+  "price": 2249,
+  "seller_status": "Компания",
+  "index": 1447724772,
+  "title": "Орхидея Фаленопсис Reyoung prince",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_reyoung_prince_1447724772",
+  "seller": "Корзина Цветов",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Нагорная",
+  "text": "Фаленопсис Reyoung prince в интернет-магазине Корзина Цветов. Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России.\n",
+  "post_date": "  4 октября в 21:39  ",
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1447724772&src=item"
+}

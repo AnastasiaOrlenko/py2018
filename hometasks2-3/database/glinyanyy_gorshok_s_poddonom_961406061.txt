@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 961406061,
+  "seller": "Юля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/glinyanyy_gorshok_s_poddonom_961406061",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Глиняный горшок с поддоном",
+  "seller_link": "/user/34007ab7e0cd4b7335a2b29e254f93bf/profile?id=961406061&src=item",
+  "text": "Продам глиняный горшок с поддоном 150 р\n",
+  "post_date": "  07 October в 15:35  "
+}

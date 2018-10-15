@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1311463159,
+  "title": "800 шт. LED лампа Red/Blue",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/800_sht._led_lampa_redblue_1311463159",
+  "seller": "Собственник",
+  "address": "Москва, м. Коломенская",
+  "text": "патрон стандартный, не использовалась\nE27 800 шт. SMD 640 Red : 160 Blue\n",
+  "post_date": "  6 октября в 22:49  ",
+  "seller_link": "/user/d4ea6e94efe6eb1628be051556091f60/profile?id=1311463159&src=item"
+}

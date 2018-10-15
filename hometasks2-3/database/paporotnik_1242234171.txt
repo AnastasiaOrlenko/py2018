@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1242234171,
+  "title": "Папоротник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_1242234171",
+  "seller": "Сергей",
+  "address": "Москва, м. Римская",
+  "text": "Продаётся папоротник в стильном, итальянском кашпо. В наличие имеется более 20 шт\n",
+  "post_date": "  6 октября в 22:32  ",
+  "seller_link": "/user/c9815d97c19431072f4a6c84410f7b07/profile?id=1242234171&src=item"
+}

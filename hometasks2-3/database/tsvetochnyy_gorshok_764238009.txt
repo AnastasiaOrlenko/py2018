@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 700,
+  "index": 764238009,
+  "seller": "N",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_764238009",
+  "address": "Москва, м. Юго-Западная",
+  "title": "Цветочный горшок",
+  "seller_link": "/user/9beadc00f4ded35aba7d0f3febc85a50/profile?id=764238009&src=item",
+  "text": "Продаётся большой красивый цветочный горшок. Зеленая керамика , эмаль.В отличном состоянии.С растением/декабрист?/.\nСамовывоз из Новопеределкино.\n",
+  "post_date": "  07 October в 17:49  "
+}

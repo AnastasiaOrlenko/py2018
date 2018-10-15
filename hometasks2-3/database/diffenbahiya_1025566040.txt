@@ -1,0 +1,12 @@
+{
+  "text": "Продаю вместе с горшком. Высота растения вместе с горошком 50 см.\n",
+  "title": "Диффенбахия",
+  "price": 400,
+  "index": 1025566040,
+  "address": "Москва, м. Аэропорт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1025566040",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:18  ",
+  "seller": "Людмила",
+  "seller_link": "/user/7d6280dd1bc2574c950f7ebdc3dfaf00/profile?id=1025566040&src=item"
+}

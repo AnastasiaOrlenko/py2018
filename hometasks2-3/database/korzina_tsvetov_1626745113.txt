@@ -1,0 +1,12 @@
+{
+  "text": "Корзина эустомы с зеленью и других состовляющих\n",
+  "title": "Корзина цветов",
+  "price": 3600,
+  "index": 1626745113,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzina_tsvetov_1626745113",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

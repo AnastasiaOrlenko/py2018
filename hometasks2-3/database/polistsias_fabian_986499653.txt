@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 4000,
+  "index": 986499653,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polistsias_fabian_986499653",
+  "address": "Москва, м. Коломенская",
+  "title": "Полисциас Фабиан",
+  "seller_link": "/user/22a8aeab9f344989e2bf02dc9f6feb36/profile?id=986499653&src=item",
+  "text": "Высота растения около 1 метра, в керамическом горшке, не требует специального освещения\n",
+  "post_date": "  08 October в 01:17  "
+}

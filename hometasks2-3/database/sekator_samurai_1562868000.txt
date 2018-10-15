@@ -1,0 +1,13 @@
+{
+  "seller-contact": "по объявлению",
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sekator_samurai_1562868000",
+  "seller_status": "Компания",
+  "title": "Секатор samurai",
+  "post_date": "  08 October в 12:15  ",
+  "price": 1000,
+  "index": 1562868000,
+  "seller_link": "/user/d499fc30cff57c325bf60007f03c08ea/profile?id=1562868000&src=item",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Секатор SAMURAI настоящее японское качество\n"
+}

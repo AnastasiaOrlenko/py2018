@@ -1,0 +1,12 @@
+{
+  "price": 6000,
+  "seller_status": "Частное лицо",
+  "index": 1505109631,
+  "title": "Можжевельник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mozhzhevelnik_1505109631",
+  "seller": "Анна",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Вертикальный можжевельник Мейера. 100*150 см. Корневая 12л горшок, в наличии 2 шт.\n",
+  "post_date": "  6 октября в 11:08  ",
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=1505109631&src=item"
+}

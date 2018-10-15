@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 1273909550,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1273909550",
+  "seller": "Рая",
+  "address": "Москва, м. Аннино",
+  "text": "Продаю цветущие орхидеи разных цветов. Очень красивые, крупные, листья и корни здоровые! Звоните, пишите, доп.фото вышлю\n",
+  "post_date": "  5 октября в 18:05  ",
+  "seller_link": "/user/d5a764d8d053b93589186f0ac7237015/profile?id=1273909550&src=item"
+}

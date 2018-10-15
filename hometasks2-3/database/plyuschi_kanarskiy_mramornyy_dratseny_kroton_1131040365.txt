@@ -1,0 +1,13 @@
+{
+  "price": 70,
+  "seller_status": "Компания",
+  "index": 1131040365,
+  "title": "Плющи канарский мраморный драцены кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plyuschi_kanarskiy_mramornyy_dratseny_kroton_1131040365",
+  "seller": "оля",
+  "seller-contact": "ольга",
+  "address": "Москва, м. Алексеевская",
+  "text": "выращены дома\nф1,2-канарский-200\nф3-мраморный-70р\nф4, 5-драцены по-150р\nФ6-кротон,пошел в рост-150р\n",
+  "post_date": "  5 октября в 08:56  ",
+  "seller_link": "/user/42bfd3d65759f2d2520876e2affb2189/profile?id=1131040365&src=item"
+}

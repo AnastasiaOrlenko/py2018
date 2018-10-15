@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1087097515,
+  "title": "Спатифиллум-женское счастье",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum-zhenskoe_schaste_1087097515",
+  "seller": "Светлана",
+  "address": "Москва, м. Сходненская",
+  "text": "Спатифиллиум: обсалютно не прихотлив, цветение с марта по октябрь с нежным ароматом. Молодые детки готовые к цветению\n",
+  "post_date": "  5 октября в 12:37  ",
+  "seller_link": "/user/77b00050d60ddb63bd612b005c13eebd/profile?id=1087097515&src=item"
+}

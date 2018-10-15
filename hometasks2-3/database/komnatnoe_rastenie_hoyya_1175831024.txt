@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1175831024,
+  "title": "Комнатное растение Хойя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnoe_rastenie_hoyya_1175831024",
+  "seller": "Сергий Филиппович",
+  "address": "Москва, м. Царицыно",
+  "text": "Хойя Карноза, взрослое растение, цветёт соцветиями, сильный аромат в ночное время.\n",
+  "post_date": "  4 октября в 22:59  ",
+  "seller_link": "/user/d7d97d80e9f4ab8c472949c861bfa864/profile?id=1175831024&src=item"
+}

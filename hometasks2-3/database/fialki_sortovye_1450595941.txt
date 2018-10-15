@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1450595941,
+  "title": "Фиалки сортовые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_sortovye_1450595941",
+  "seller": "Нина",
+  "address": "Москва, м. Селигерская",
+  "text": "1 фото - листочки -30 руб.\n2 фото-Новинка \"Belita (БЕЛЛИТА)\" \n3 фото - \"VELVET FROST\"\n4 фото-\"ШАЛОСТЬ ФЕИ\"\n5 фото- \"ЗИМНЯЯ РОЗА\"\n",
+  "post_date": "  6 октября в 10:32  ",
+  "seller_link": "/user/f6fe8a4a5dcc5089f35c921c3d6d0a23/profile?id=1450595941&src=item"
+}

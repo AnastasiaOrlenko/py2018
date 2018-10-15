@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 490,
+  "index": 1021715670,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vazochka_keramika_salatovaya_1021715670",
+  "address": "Москва, м. Сходненская",
+  "title": "Вазочка керамика салатовая",
+  "seller_link": "/user/84a4edb2bb780536e7cdb82781665c80/profile?id=1021715670&src=item",
+  "text": "Небольшая керамическая вазочка в пастельных тонах - салатовая\n",
+  "post_date": "  07 October в 23:29  "
+}

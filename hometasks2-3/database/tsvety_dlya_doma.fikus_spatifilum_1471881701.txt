@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_dlya_doma.fikus_spatifilum_1471881701",
+  "price": 800,
+  "seller": "Prod",
+  "post_date": "  08 October в 18:04  ",
+  "title": "Цветы для дома.Фикус Спатифилум",
+  "text": "Фикус с широкими листьями высота-75 см. Красивый пушистый цветок. Спатифиллум высота-55 см .Цветет.Цена за 2 растения.\n",
+  "index": 1471881701,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/7d3eb4aa522547ce99fe32625b3fb0ea/profile?id=1471881701&src=item"
+}

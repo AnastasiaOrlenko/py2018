@@ -1,0 +1,12 @@
+{
+  "text": "Домашние \nОтдам почти даром\n",
+  "title": "Домашние цветы",
+  "price": 200,
+  "index": 1198883667,
+  "address": "Москва, м. Лихоборы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnie_tsvety_1198883667",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:52  ",
+  "seller": "Султан Аббасов",
+  "seller_link": "/user/b0d44f7d93802d2dfd860c7c3f335e5b/profile?id=1198883667&src=item"
+}

@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Продаю денежное дерево в горшках . На фото 3 разных дерева. Высота растений 40 см. Цена 1500 руб. каждое.\n",
+  "index": 1301661098,
+  "title": "Толстянка (денежное дерево)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1301661098",
+  "seller": "Ольга",
+  "address": "Москва, м. Кантемировская",
+  "post_date": "  6 октября в 17:47  ",
+  "seller_link": "/user/07ca5c3050816aa0a3b696818994b215/profile?id=1301661098&src=item"
+}

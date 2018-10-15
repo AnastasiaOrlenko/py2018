@@ -1,0 +1,13 @@
+{
+  "price": 3500,
+  "seller_status": "Компания",
+  "index": 1335252126,
+  "title": "Кашпо(ящик,горшки) деревянные кадки для растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpoyaschikgorshki_derevyannye_kadki_dlya_rasteniy_1335252126",
+  "seller": "Игорь",
+  "seller-contact": "Игорь",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Продам кадки для растений(туй, елок,цветов). В отличном состоянии. Разные размеры. 50/50/50, 40/40/40, 70/70/70.\n",
+  "post_date": "  07 October в 11:47  ",
+  "seller_link": "/user/b49d3b38f6b47392a8c2f4b4a53e5f35/profile?id=1335252126&src=item"
+}

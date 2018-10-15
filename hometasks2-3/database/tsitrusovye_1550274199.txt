@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1550274199,
+  "title": "Цитрусовые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsitrusovye_1550274199",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Теплый стан",
+  "text": "Продам молодые растения лимона и апельсина.\nТакже есть экзотические маракуйя, лонган (\"глаза дракона\").\n",
+  "post_date": "  07 October в 10:37  ",
+  "seller_link": "/user/218dd5eb5c21ca160d894edb34ea9d4c/profile?id=1550274199&src=item"
+}

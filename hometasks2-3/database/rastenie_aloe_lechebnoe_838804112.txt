@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Речной вокзал",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_aloe_lechebnoe_838804112",
+  "price": 500,
+  "seller": "Елена",
+  "post_date": "  08 October в 17:47  ",
+  "title": "Растение Алоэ Лечебное",
+  "text": "Доставка до вашего метро 300₽\n",
+  "index": 838804112,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/03eb05c89d9fa996224a05eadf7bc11f/profile?id=838804112&src=item"
+}

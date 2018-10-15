@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_jc_starts_shining_1229747268",
+  "price": 900,
+  "seller": "Маргарита",
+  "post_date": "  08 October в 20:42  ",
+  "title": "Орхидея JC Starts Shining",
+  "text": "Продаю орхидею Фаленопсис JC Starts Shining. Здоровая орхидея наращивает корни. Продаю в связи с сокращением своей коллекции.\n",
+  "index": 1229747268,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/9e0e95d2bb7c5880e06365072c73484a/profile?id=1229747268&src=item"
+}

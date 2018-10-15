@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1645279890,
+  "title": "Керамический горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskiy_gorshok_1645279890",
+  "seller": "Нелли",
+  "seller-contact": "Нелли Ивановна",
+  "address": "Москва, м. Варшавская",
+  "text": "Горшок : диаметр - 22 см\n высота - 19 см\n глубина - 18 см\n",
+  "post_date": "  6 октября в 21:46  ",
+  "seller_link": "/user/7c2001b3a0162da7d4182a00c54103fe/profile?id=1645279890&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1585759583,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1585759583",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "Растение с фото -250р. В горшке - 1 большая и 3 маленьких. Для понимания высоты на заднем фоне стоит линейка 50см.\n",
+  "post_date": "  6 октября в 14:53  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1585759583&src=item"
+}

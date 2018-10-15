@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1718703656,
+  "seller": "Андрей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/strausnik_paporotnik_1718703656",
+  "address": "Москва, м. Преображенская площадь",
+  "title": "Страусник (папоротник)",
+  "seller_link": "/user/818fa9dcd5698e33dfae94c0791bb101/profile?id=1718703656&src=item",
+  "text": "Страусник - самый изящный папоротник! Украсит Ваш сад с весны до заморозков. Взрослые растения и молодые.\n",
+  "post_date": "  08 October в 06:58  "
+}

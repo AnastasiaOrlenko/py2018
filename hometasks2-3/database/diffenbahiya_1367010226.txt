@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1367010226,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1367010226",
+  "seller": "Татьяна",
+  "address": "Москва, м. Братиславская",
+  "text": "Ростки с корнями, 30 руб шт\n",
+  "post_date": "  6 октября в 11:27  ",
+  "seller_link": "/user/6b5e46920f17480d08250c89c746d261/profile?id=1367010226&src=item"
+}

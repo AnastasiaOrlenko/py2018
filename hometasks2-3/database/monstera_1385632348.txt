@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Алтуфьево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1385632348",
+  "price": 15000,
+  "seller": "АЛЕКСАНДР ЯСАК",
+  "post_date": "  08 October в 18:45  ",
+  "title": "Монстера",
+  "text": "большое растение выросло боюсь что малолетний сын сломает его\n",
+  "index": 1385632348,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c875577e2d435f47a9e2d1cbb97e3e69/profile?id=1385632348&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 370,
+  "index": 1626476091,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_analog_parfyumernoy_fabriki_198_1626476091",
+  "address": "Москва, м. Пражская",
+  "title": "Орхидея фаленопсис \"аналог парфюмерной фабрики 198",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1626476091&src=item",
+  "text": "Орхидея фаленопсис \"аналог парфюмерной фабрики 1989\" здоровый, крепкий подросток, размер 1,7, производство Нидерланды.\n",
+  "post_date": "  07 October в 15:48  "
+}

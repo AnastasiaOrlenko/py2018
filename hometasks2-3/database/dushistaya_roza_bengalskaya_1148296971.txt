@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1148296971,
+  "title": "Душистая роза бенгальская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dushistaya_roza_bengalskaya_1148296971",
+  "seller": "Ирина",
+  "address": "Москва, м. Алексеевская",
+  "text": "Роза бенгальская, аромат сильный парфюмерный. Старый сорт со времен совка. От этого растения укорененный черенок.\n",
+  "post_date": "  5 октября в 15:11  ",
+  "seller_link": "/user/b2e969fff6c2fd196a896d3c6ba0cf23/profile?id=1148296971&src=item"
+}

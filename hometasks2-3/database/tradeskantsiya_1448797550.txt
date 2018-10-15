@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1448797550,
+  "title": "Традесканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_1448797550",
+  "seller": "Частное лицо",
+  "seller-contact": "Любовь",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Традесканция в керамическом горшке-350руб\nПересаживать не надо.\n",
+  "post_date": "  5 октября в 06:37  ",
+  "seller_link": "/user/9197a66595498fec186f235e6b58970f/profile?id=1448797550&src=item"
+}

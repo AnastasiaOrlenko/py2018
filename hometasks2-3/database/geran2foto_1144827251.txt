@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1144827251,
+  "title": "Герань/2фото",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran2foto_1144827251",
+  "seller": "Галина",
+  "seller-contact": "Галина",
+  "address": "Москва, м. Красногвардейская",
+  "text": "Розовая цветет.\n",
+  "post_date": "  5 октября в 15:44  ",
+  "seller_link": "/user/44fc0e6f45f57611c2974ecb15d3dfad/profile?id=1144827251&src=item"
+}

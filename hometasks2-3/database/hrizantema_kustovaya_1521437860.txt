@@ -1,0 +1,12 @@
+{
+  "text": "Огромная хризантема\nГотовится зацвести-будет цвести шапкой\nПродаю за ненадобностью-осталась с праздника\n",
+  "title": "Хризантема кустовая",
+  "price": 350,
+  "index": 1521437860,
+  "address": "Москва, м. Орехово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_kustovaya_1521437860",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:00  ",
+  "seller": "Виктория",
+  "seller_link": "/user/9dd7b881ca9e23e1eec30494b63eb16d/profile?id=1521437860&src=item"
+}

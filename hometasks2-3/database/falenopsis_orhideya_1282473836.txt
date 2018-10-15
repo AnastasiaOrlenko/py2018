@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1282473836,
+  "title": "Фаленопсис орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_orhideya_1282473836",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис черри, 2 ствола\n",
+  "post_date": "  07 October в 00:46  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1282473836&src=item"
+}

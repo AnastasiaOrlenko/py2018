@@ -1,0 +1,12 @@
+{
+  "text": "Sky Planter\nГоршок для цветка вверх дном.\nразмер: 19/13.5/13.5\nЦвет: белый\nВ наличии.\n",
+  "title": "Горшок для цветка Sky Planter",
+  "price": 1500,
+  "index": 776553420,
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetka_sky_planter_776553420",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:51  ",
+  "seller": "Dmitry",
+  "seller_link": "/user/649308f11bed6bd1108e5080a688be88/profile?id=776553420&src=item"
+}

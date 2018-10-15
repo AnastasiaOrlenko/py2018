@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 5,
+  "index": 1107100460,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zheludi_1107100460",
+  "address": "Москва, м. Новокузнецкая",
+  "title": "Желуди",
+  "seller_link": "/user/63185b13a24b841eb99fa5055c4c6e62/profile?id=1107100460&src=item",
+  "text": "Желуди для творчества, создания интерьерных композиций, рождественских венков.\nПродам желуди 5 р/1 шт\nСамовывоз м Новокузнецкая\n",
+  "post_date": "  07 October в 15:55  "
+}

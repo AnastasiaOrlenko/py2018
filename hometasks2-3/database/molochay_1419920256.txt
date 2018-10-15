@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 400,
+  "index": 1419920256,
+  "seller": "ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1419920256",
+  "address": "Москва, м. Новокосино",
+  "title": "Молочай",
+  "seller_link": "/user/f292fd189e15b6adfb5f8d6202a6d85e/profile?id=1419920256&src=item",
+  "text": "В каждом горшке по несколько растений,что бы росли густым кустиком.на фото 3 горшочка 500 400 и 300 руб за горшочек в зависимости от размера\n",
+  "post_date": "  08 October в 01:04  "
+}

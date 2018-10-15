@@ -1,0 +1,13 @@
+{
+  "price": 5000,
+  "seller_status": "Компания",
+  "index": 761585245,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_761585245",
+  "seller": "Геннадий",
+  "seller-contact": "Геннадий",
+  "address": "Москва, м. Строгино",
+  "text": "высота 190 см.\n",
+  "post_date": "  07 October в 12:39  ",
+  "seller_link": "/user/cbd2ae9b704b204851eb44abc1e09777/profile?id=761585245&src=item"
+}

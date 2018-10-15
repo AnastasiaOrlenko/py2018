@@ -1,0 +1,12 @@
+{
+  "price": 5550,
+  "seller_status": "Магазин",
+  "index": 1465301211,
+  "title": "Роза двух цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_dvuh_tsvetov_1465301211",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "101 роза двух цветов\n",
+  "post_date": "  4 октября в 21:34  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

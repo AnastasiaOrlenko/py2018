@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1513725008,
+  "title": "Подставка для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_dlya_tsvetov_1513725008",
+  "seller": "Елена",
+  "address": "Москва, м. Ясенево",
+  "text": "Подставка для цветов в отличном состоянии по1500.высота 58см.можно с цветком в горшке 1000р.цветет красным колокольчиком.\n",
+  "post_date": "  5 октября в 10:28  ",
+  "seller_link": "/user/e8d481e980bbf6c3e73e2d60ea6f1a15/profile?id=1513725008&src=item"
+}

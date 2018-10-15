@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1271681196,
+  "title": "Эсхенантус ампельный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eshenantus_ampelnyy_1271681196",
+  "seller": "Светлана",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "эсхенантус ампельный очень длинный. недавно отцвел.. сейчас набирает бутоны..\n",
+  "post_date": "  6 октября в 14:02  ",
+  "seller_link": "/user/91b83d78167dda53af6ccaf1eebe82c0/profile?id=1271681196&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 185,
+  "seller_status": "Компания",
+  "index": 930206946,
+  "title": "Натрий гидроксид",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/natriy_gidroksid_930206946",
+  "seller": "Вадим",
+  "address": "Москва, м. Бауманская",
+  "text": "Предлагаю Натрий гидроксид, хч,чда.\nФасовка 1 кг.\nЦена указана за 1 кг Гидроксида Натрия , чда\nПродаю Частным лицам и юридическим.\nБаум-Люкс.\n",
+  "post_date": "  5 октября в 15:54  ",
+  "seller_link": "/user/fe22477e6d24d624dc9358f793b1a89a/profile?id=930206946&src=item"
+}

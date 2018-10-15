@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1694991563,
+  "title": "Сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1694991563",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "Есть и другие цветы. Смотрите профиль.\n",
+  "post_date": "  6 октября в 17:08  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1694991563&src=item"
+}

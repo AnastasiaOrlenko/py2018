@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/128e58ca0a1d260af14256eda7ea1331/profile?id=1482050735&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ochitok_morgana_sedum-_sukkulenty_1482050735",
+  "post_date": "  08 October в 09:41  ",
+  "address": "Москва, м. Красногвардейская",
+  "seller": "Кристина",
+  "text": "Продаются молодые неукорененные отростки Очитка Моргана ,длина 10 см.\nСрежу и Упакую перед встречей.\nВстреча рядом с метро Зябликово- Первый вагон из центра.\n",
+  "index": 1482050735,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Очиток Моргана Седум- суккуленты"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 706525314,
+  "title": "Кашпо для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetov_706525314",
+  "seller": "Юлия (частное лицо)",
+  "address": "Москва, м. Сходненская",
+  "text": "Пластик.\n",
+  "post_date": "  6 октября в 13:53  ",
+  "seller_link": "/user/14c6bc066a38ce6b6c9381f268494aee/profile?id=706525314&src=item"
+}

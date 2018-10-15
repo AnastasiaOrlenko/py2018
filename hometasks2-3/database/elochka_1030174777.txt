@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 1030174777,
+  "seller": "Надежда",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/elochka_1030174777",
+  "address": "Москва, м. Дубровка",
+  "title": "Елочка",
+  "seller_link": "/user/e5da77a3d37172dc537956f6088aa712/profile?id=1030174777&src=item",
+  "text": "Продам ель на штамбе.\n",
+  "seller-contact": "надежда",
+  "post_date": "  07 October в 16:10  "
+}

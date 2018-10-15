@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1272193314,
+  "title": "Кливия киноварная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_kinovarnaya_1272193314",
+  "seller": "Ольга",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "На 1 фото пример цветения, осталась одна детка. Отсажена от материнского растения в июле. Цветет 1-2 раза в год. В уходе неприхотлива.\n",
+  "post_date": "  6 октября в 09:52  ",
+  "seller_link": "/user/25feddc7c3a7f62dfc7e50a17acbf65c/profile?id=1272193314&src=item"
+}

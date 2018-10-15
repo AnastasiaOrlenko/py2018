@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Обменяю или отдам комнатные растения: бамбук, личи, толстянка (денежное дерево), каланхоэ (доктор), алоэ (столетник )\n",
+  "index": 1195081906,
+  "seller": "Галина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnie_rasteniya_na_obmen_1195081906",
+  "address": "Москва, м. Нахимовский проспект",
+  "title": "Домашние растения на обмен",
+  "seller_link": "/user/352906cb4afe09f0ee226d37e24f0b9f/profile?id=1195081906&src=item",
+  "post_date": "  07 October в 15:35  "
+}

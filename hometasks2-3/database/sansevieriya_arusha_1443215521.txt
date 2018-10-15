@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1443215521,
+  "title": "Сансевиерия Arusha",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_arusha_1443215521",
+  "seller": "Анна",
+  "address": "Москва, м. Чертановская",
+  "text": "Sansevieria sp Arusha, Tanzania (Blue)\nПродаётся взрослая розетка и детка, 2500 и 1800, растение адаптировано, детка выросла уже в Москве)\n",
+  "post_date": "  6 октября в 12:59  ",
+  "seller_link": "/user/99aa88700776eec2fca1b70641c0f91a/profile?id=1443215521&src=item"
+}

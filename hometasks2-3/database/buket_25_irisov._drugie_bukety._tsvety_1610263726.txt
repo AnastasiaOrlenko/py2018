@@ -1,0 +1,13 @@
+{
+  "price": 1300,
+  "seller_status": "Компания",
+  "index": 1610263726,
+  "title": "Букет 25 Ирисов. Другие букеты. Цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_25_irisov._drugie_bukety._tsvety_1610263726",
+  "seller": "Юлия",
+  "seller-contact": "Юлия",
+  "address": "Москва, м. Лубянка",
+  "text": "Букет из 25 ирисов. Также другие букеты из свежих цветов по вашему заказу.\n",
+  "post_date": "  5 октября в 08:15  ",
+  "seller_link": "/user/42a6986a99f2a69df77cae87b3ed7fef/profile?id=1610263726&src=item"
+}

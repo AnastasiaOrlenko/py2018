@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1508564190,
+  "title": "Кактус эхинопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_ehinopsis_1508564190",
+  "seller": "-",
+  "address": "Москва, м. Ленинский проспект",
+  "text": "взрослое растение \nкактусу 16 лет, постоянно цветет\nвысота 25 см\nдиаметр 12 - 14 см\nцветок до 25 см длиной\nцветы белые, с запахом лилии\n",
+  "post_date": "  07 October в 12:38  ",
+  "seller_link": "/user/8f075f69ccdb61122349db47c63f63a4/profile?id=1508564190&src=item"
+}

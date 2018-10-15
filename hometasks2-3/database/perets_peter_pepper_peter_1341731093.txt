@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1341731093,
+  "title": "Перец петер pepper peter",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/perets_peter_pepper_peter_1341731093",
+  "seller": "Сергей",
+  "address": "Москва",
+  "text": "Семена перца, прославившегося формой своих плодов. Можно выращивать дома в горшках как декоративные растения или на участке. Перец средней остроты, можно добавлять в разные блюда или консервировать. Цена за 10 семян.\n",
+  "post_date": "  5 октября в 16:33  ",
+  "seller_link": "/user/bfc467c2d059deca4cd620ea140c60a9/profile?id=1341731093&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1503888806&src=item",
+  "seller-contact": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/didimohlena_paporotnik_1503888806",
+  "post_date": "  08 October в 10:35  ",
+  "address": "Москва, м. Нагорная",
+  "seller": "Корзина Цветов",
+  "text": "Дидимохлена папоротник 15-20 см в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n",
+  "index": 1503888806,
+  "seller_status": "Компания",
+  "price": 980,
+  "title": "Дидимохлена папоротник"
+}

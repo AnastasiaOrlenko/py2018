@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1361915158,
+  "seller": "Любовь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1361915158",
+  "address": "Москва, м. Павелецкая",
+  "title": "Сансевиерия",
+  "seller_link": "/user/0257354263ac28ff6f12bff9cef53395/profile?id=1361915158&src=item",
+  "text": "Комнатное растение \"щучий хвост\"\n",
+  "post_date": "  07 October в 22:50  "
+}

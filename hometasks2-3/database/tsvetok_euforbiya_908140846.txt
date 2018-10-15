@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 908140846,
+  "title": "Цветок Эуфорбия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_euforbiya_908140846",
+  "seller": "Не компания",
+  "address": "Москва, м. Аннино",
+  "text": "Смотрите другие мои объявления.\n",
+  "post_date": "  07 October в 12:03  ",
+  "seller_link": "/user/829fa2cf6131dfc149d70d8ba9a970ba/profile?id=908140846&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1239590299,
+  "title": "Алоэ лечебное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_lechebnoe_1239590299",
+  "seller": "Наталья (ч.лицо)",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Тропарево",
+  "text": "Алоэ-столетник. Возможна встреча в метро на красной и оранжевой ветке\n",
+  "post_date": "  07 October в 10:31  ",
+  "seller_link": "/user/1c78813ca9dd9f75c357dd3be35e6e7b/profile?id=1239590299&src=item"
+}

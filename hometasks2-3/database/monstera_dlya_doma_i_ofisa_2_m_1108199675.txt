@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1200,
+  "index": 1108199675,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_dlya_doma_i_ofisa_2_m_1108199675",
+  "address": "Москва, м. Ботанический сад",
+  "title": "Монстера для дома и офиса 2 м",
+  "seller_link": "/user/cd79ec3f88a2f879f78f597ae76adda2/profile?id=1108199675&src=item",
+  "text": "2 м взрослая ухоженная монстера. Возраст 5 лет. В новом керамическом кашпо. Связь через Сообщения на Авито. Упакуем в новую большую картонную коробку, готовимся к переезду\n",
+  "post_date": "  07 October в 22:57  "
+}

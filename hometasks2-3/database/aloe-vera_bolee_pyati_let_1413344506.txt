@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1413344506,
+  "title": "Алоэ-вера более пяти лет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe-vera_bolee_pyati_let_1413344506",
+  "seller": "asda777",
+  "address": "Москва, м. Щелковская",
+  "text": "Алоэ-вера более пяти лет. \nВыше 50 см. длина.\n",
+  "post_date": "  5 октября в 14:11  ",
+  "seller_link": "/user/36ad6951adaf7598cee685542ab482cd/profile?id=1413344506&src=item"
+}

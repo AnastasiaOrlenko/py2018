@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1277671407,
+  "title": "Декабрист белые цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_belye_tsvety_1277671407",
+  "seller": "Галина",
+  "address": "Москва, м. Зябликово",
+  "text": "Крупные цветы\n",
+  "post_date": "  5 октября в 15:44  ",
+  "seller_link": "/user/44fc0e6f45f57611c2974ecb15d3dfad/profile?id=1277671407&src=item"
+}

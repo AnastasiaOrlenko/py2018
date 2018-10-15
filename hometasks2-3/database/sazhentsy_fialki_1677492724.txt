@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1677492724,
+  "title": "Саженцы Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_fialki_1677492724",
+  "seller": "продаю",
+  "address": "Москва, м. Щелковская",
+  "text": "Пророщенные листики фиалки\n",
+  "post_date": "  6 октября в 06:50  ",
+  "seller_link": "/user/6d7a7bfd0bd978cb13a7eb9b629d113b/profile?id=1677492724&src=item"
+}

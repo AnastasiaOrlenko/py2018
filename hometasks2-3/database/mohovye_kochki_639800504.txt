@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 550,
+  "index": 639800504,
+  "seller": "Слава",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mohovye_kochki_639800504",
+  "address": "Москва, м. Полежаевская",
+  "title": "Моховые кочки",
+  "seller_link": "/user/ee3c4170e43b6c53bcdb242fcd9eb467/profile?id=639800504&src=item",
+  "text": "Продаю моховые кочки свежие красивые, при должном уходе могут расти. Цена и размер разные.\n",
+  "post_date": "  07 October в 23:06  "
+}

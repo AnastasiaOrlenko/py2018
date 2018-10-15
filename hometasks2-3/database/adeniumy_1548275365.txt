@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/40f14a5ec32b2d87ea7dd42c52634340/profile?id=1548275365&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/adeniumy_1548275365",
+  "post_date": "  08 October в 10:30  ",
+  "address": "Москва, м. Лермонтовский проспект",
+  "seller": "Елена",
+  "text": "взрослые адешки, привитые:\nPurple Namplet фото 1,2 - 2400\nAmata фото 3,4, цветёт до 3-4 раз в год - 1800\nGolden Dragon фото 5,6- 2500\nCandy - 1500 продан\n",
+  "index": 1548275365,
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "title": "Адениумы"
+}

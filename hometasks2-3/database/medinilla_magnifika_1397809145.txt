@@ -1,0 +1,12 @@
+{
+  "price": 1850,
+  "seller_status": "Частное лицо",
+  "index": 1397809145,
+  "title": "Мединилла магнифика",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/medinilla_magnifika_1397809145",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Экзотика. Размер горшка 17д. Высота 60см.\n",
+  "post_date": "  6 октября в 22:38  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1397809145&src=item"
+}

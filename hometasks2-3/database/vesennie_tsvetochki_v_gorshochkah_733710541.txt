@@ -1,0 +1,13 @@
+{
+  "price": 1700,
+  "seller_status": "Компания",
+  "index": 733710541,
+  "title": "Весенние цветочки в горшочках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vesennie_tsvetochki_v_gorshochkah_733710541",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Молодежная",
+  "text": "Весенние цветочки выполнены из полимерной глины. В наличии тюльпан, гиацинт, нарциссы 2 шт. Выполню под заказ в любом цветовом решении.\nH 21-23 см\nЦена 1700р, при покупке от 2-х шт. 1500 р\n",
+  "post_date": "  6 октября в 23:39  ",
+  "seller_link": "/user/0621cf2858cdf2a9bf602b144542faba/profile?id=733710541&src=item"
+}

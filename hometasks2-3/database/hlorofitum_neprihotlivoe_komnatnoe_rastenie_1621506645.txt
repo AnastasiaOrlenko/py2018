@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1621506645,
+  "title": "Хлорофитум неприхотливое комнатное растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_neprihotlivoe_komnatnoe_rastenie_1621506645",
+  "seller": "Е",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Пражская",
+  "text": "Неприхотливое комнатное растение выделяет много кислорода. Растёт достаточно быстро. Цветёт маленькими цветочками на стрелке, после которых появляются детки.\n",
+  "post_date": "  6 октября в 07:34  ",
+  "seller_link": "/user/cd25626b6c6fd9571101f4396819a550/profile?id=1621506645&src=item"
+}

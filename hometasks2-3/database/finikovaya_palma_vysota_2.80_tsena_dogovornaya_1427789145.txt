@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Финиковая пальма, 28 лет, 2,8 высота\n",
+  "index": 1427789145,
+  "seller": "Раиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/finikovaya_palma_vysota_2.80_tsena_dogovornaya_1427789145",
+  "address": "Москва, м. Строгино",
+  "title": "Финиковая пальма, высота 2.80, цена договорная",
+  "seller_link": "/user/1fa4fd345fb10f3b1b45f2e8a196f59f/profile?id=1427789145&src=item",
+  "post_date": "  07 October в 19:19  "
+}

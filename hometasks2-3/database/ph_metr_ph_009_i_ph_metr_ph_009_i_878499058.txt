@@ -1,0 +1,12 @@
+{
+  "text": "Продаю PH метр PH 009 i,PH метр PH 009 i, PH up и down\n",
+  "title": "PH метр PH 009 i, PH метр PH 009 i",
+  "price": 400,
+  "index": 878499058,
+  "address": "Москва, м. Волгоградский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ph_metr_ph_009_i_ph_metr_ph_009_i_878499058",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:38  ",
+  "seller": "Жанна Журавлева",
+  "seller_link": "/user/8d458b2e9d661e52ee45fd17e31c1205/profile?id=878499058&src=item"
+}

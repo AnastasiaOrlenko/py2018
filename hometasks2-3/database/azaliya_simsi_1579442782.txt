@@ -1,0 +1,12 @@
+{
+  "price": 720,
+  "seller_status": "Частное лицо",
+  "index": 1579442782,
+  "title": "Азалия Симси",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/azaliya_simsi_1579442782",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Диаметр 14 см, Высота 30 см.\n",
+  "post_date": "  6 октября в 20:56  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1579442782&src=item"
+}

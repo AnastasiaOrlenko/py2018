@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1122856979,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_1122856979",
+  "address": "Москва, м. Щелковская",
+  "title": "Рео",
+  "seller_link": "/user/ad614cbb575b4854b4cf91fdcb1a5ebd/profile?id=1122856979&src=item",
+  "text": "С горшком\n",
+  "post_date": "  07 October в 18:23  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Марьино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_v_gorshke_1406399858",
+  "price": 500,
+  "seller": "юлия",
+  "post_date": "  08 October в 19:52  ",
+  "title": "Фикус в горшке",
+  "text": "цветок в горшке, здоров, хорошо растет. летом жил на балконе . от стола 60см.\n",
+  "index": 1406399858,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/b17226e85ea498ac8ad07e0b76ac3b74/profile?id=1406399858&src=item"
+}

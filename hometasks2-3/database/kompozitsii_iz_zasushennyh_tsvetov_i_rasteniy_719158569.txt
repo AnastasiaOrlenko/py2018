@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 719158569,
+  "title": "Композиции из засушенных цветов и растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kompozitsii_iz_zasushennyh_tsvetov_i_rasteniy_719158569",
+  "seller": "Ирина",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Новокосино",
+  "text": "Композиции из сухоцветов прекрасно впишутся в интерьер в стиле Прованс. Размер кашпо 10х10 см.\n",
+  "post_date": "  07 October в 12:10  ",
+  "seller_link": "/user/0d95396fdfb387d9ee8f3a0d1cc21011/profile?id=719158569&src=item"
+}

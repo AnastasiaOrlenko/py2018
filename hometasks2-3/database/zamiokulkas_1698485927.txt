@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1698485927,
+  "seller": "Евгения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1698485927",
+  "address": "Москва, м. Войковская",
+  "title": "Замиокулькас",
+  "seller_link": "/user/1dee8f3152208074170951191a1ae7bd/profile?id=1698485927&src=item",
+  "text": "Цветок в горшке.\n",
+  "post_date": "  07 October в 13:32  "
+}

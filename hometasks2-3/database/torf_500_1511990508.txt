@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/6df67aa64d59161bde0d70f32f9c84a9/profile?id=1511990508&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/torf_500_1511990508",
+  "post_date": "  08 October в 08:53  ",
+  "address": "Москва",
+  "seller": "Василий",
+  "text": "ООО\"сфагнум\" реализует торф.Цена указана за 1тонну с учетом самовывоза.Подробная информация о нашей продукции на сайте торф62ру\n",
+  "index": 1511990508,
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "title": "Торф 500"
+}

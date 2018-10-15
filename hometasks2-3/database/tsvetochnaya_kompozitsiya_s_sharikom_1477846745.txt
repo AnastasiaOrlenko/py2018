@@ -1,0 +1,12 @@
+{
+  "price": 3200,
+  "seller_status": "Магазин",
+  "index": 1477846745,
+  "title": "Цветочная композиция с шариком",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnaya_kompozitsiya_s_sharikom_1477846745",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Корзина цветов с воздушным шариком\n",
+  "post_date": "  6 октября в 22:36  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

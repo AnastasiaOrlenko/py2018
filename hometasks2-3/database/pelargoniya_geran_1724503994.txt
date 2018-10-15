@@ -1,0 +1,13 @@
+{
+  "text": "Пеларгония rosebud взрослое растение\nВ наличии 4 шт\n",
+  "title": "Пеларгония герань",
+  "price": 200,
+  "index": 1724503994,
+  "address": "Москва, м. Домодедовская",
+  "seller-contact": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_1724503994",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 09:56  ",
+  "seller": "Частное лицо",
+  "seller_link": "/user/2bacabf1d9b24a41da93894067c9b523/profile?id=1724503994&src=item"
+}

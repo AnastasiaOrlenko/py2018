@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Спортивная",
+  "seller": ".",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishki_dlya_podelok_1466391891",
+  "seller_status": "Частное лицо",
+  "title": "Шишки для поделок",
+  "post_date": "  08 October в 14:36  ",
+  "price": 10,
+  "index": 1466391891,
+  "seller_link": "/user/818018165ca1acba962f39c39f0ad7a1/profile?id=1466391891&src=item",
+  "text": "Шишки сосны веймутовой - 20 р./шишка\nШишки лжетсуги (псевдотсуги) - 10 р/шишка\n"
+}

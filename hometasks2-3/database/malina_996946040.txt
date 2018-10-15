@@ -1,0 +1,13 @@
+{
+  "text": "Кустик малины с корнем.\n",
+  "title": "Малина",
+  "price": 160,
+  "index": 996946040,
+  "address": "Москва, м. Новогиреево",
+  "seller-contact": "Любовь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/malina_996946040",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:27  ",
+  "seller": "Любовь. Звоните до 24:00",
+  "seller_link": "/user/ccaa8e9844a4fd23667acdd9f9cd0d57/profile?id=996946040&src=item"
+}

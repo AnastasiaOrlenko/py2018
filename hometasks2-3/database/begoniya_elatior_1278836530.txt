@@ -1,0 +1,12 @@
+{
+  "price": 650,
+  "seller_status": "Частное лицо",
+  "index": 1278836530,
+  "title": "Бегония элатиор",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_elatior_1278836530",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д. Высота 35-40см\n",
+  "post_date": "  6 октября в 21:35  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1278836530&src=item"
+}

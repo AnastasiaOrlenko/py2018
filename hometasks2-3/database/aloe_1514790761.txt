@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/91809d58faa390a27ce24b75a81dcd5b/profile?id=1514790761&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1514790761",
+  "post_date": "  08 October в 08:57  ",
+  "address": "Москва, м. Водный стадион",
+  "seller": "Sveta",
+  "text": "Алое, растениям 3 года. В горшке. Есть одно растение 5 лет за 300 руб. Возможна встреча у метро.\n",
+  "index": 1514790761,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Алоэ"
+}

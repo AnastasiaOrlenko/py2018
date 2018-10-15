@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1641501895,
+  "title": "Цветок Традисканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_tradiskantsiya_1641501895",
+  "seller": "Елена",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "продается цветок с фото.\n",
+  "post_date": "  5 октября в 22:14  ",
+  "seller_link": "/user/9a417639b83e0904f0259413bda8b121/profile?id=1641501895&src=item"
+}

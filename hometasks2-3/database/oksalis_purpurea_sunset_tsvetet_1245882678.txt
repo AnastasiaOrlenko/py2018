@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 800,
+  "index": 1245882678,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oksalis_purpurea_sunset_tsvetet_1245882678",
+  "address": "Москва, м. Войковская",
+  "title": "Оксалис purpurea Sunset цветет",
+  "seller_link": "/user/721e79791559aebc4ae46bf5248adef9/profile?id=1245882678&src=item",
+  "text": "Кислица ( oxalis ) Пурпурея Сансет. \nv Войковская недалеко от метро\nм Маяковская 5 мин пешком в будни.\nБываю в Химках, Зеленограде, Мытищах, Королеве, Красногорске\n",
+  "post_date": "  07 October в 19:20  "
+}

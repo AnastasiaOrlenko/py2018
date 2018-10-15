@@ -1,0 +1,12 @@
+{
+  "text": "Кашпо.В подарок пластиковое кашпо и 2 блюдца.Коричневое кашпо, ширина -14.5см, высота - 14. Голубое ,ширина -15.5см, высота - 13 см.\n",
+  "title": "Кашпо",
+  "price": 200,
+  "index": 1036717126,
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_1036717126",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:11  ",
+  "seller": "Елена Бурчак",
+  "seller_link": "/user/a60ef495812e9a75b7528c252c0e2c38/profile?id=1036717126&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 995255256,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_995255256",
+  "address": "Москва, м. Домодедовская",
+  "title": "Спатифиллум",
+  "seller_link": "/user/d1de943d592f15a0038750a3631682f2/profile?id=995255256&src=item",
+  "text": "Комнатный цветок в горшке\n",
+  "post_date": "  07 October в 18:21  "
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 1496961989,
+  "seller": "не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/myata_komnatnaya_lotok_1496961989",
+  "address": "Москва, м. Пражская",
+  "title": "Мята комнатная (лоток)",
+  "seller_link": "/user/e120982f99383f250614b71aa7f57e09/profile?id=1496961989&src=item",
+  "text": "Продам лоток рассады комнатной мяты с запахом лимона.\n",
+  "seller-contact": "Елена",
+  "post_date": "  08 October в 05:41  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 4600,
+  "seller_status": "Частное лицо",
+  "index": 1226280898,
+  "title": "Комплект днат 1000",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komplekt_dnat_1000_1226280898",
+  "seller": "Римма",
+  "address": "Москва, м. Белокаменная",
+  "text": "Продаю комплект ДНаТ 1000 Вт с дросселем Vossloh Schwabe\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/a15325d0520d25bf51eb32ef14347f8d/profile?id=1226280898&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 407418791,
+  "seller": "Сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/predlagayu_bio_elki_el_elka_derevya_407418791",
+  "address": "Москва, м. Мякинино",
+  "title": "Предлагаю био ёлки, ель, елка, деревья",
+  "seller_link": "/user/1e13a8cb34aa335e6ddaf92c0088279d/profile?id=407418791&src=item",
+  "text": "Молодые ЕЛИ, ёлка разной высоты, пушистые и оч зеленые!!! Много...\nСкидки!!!\nPs: без ГМО. Экологически чистые, собственная рассада, бережный уход!\nБЕСПЛАТНО - Замена погибших стволов на новые!!!\nДоставка в день обращения!\n",
+  "seller-contact": "Олег",
+  "post_date": "  07 October в 16:23  "
+}

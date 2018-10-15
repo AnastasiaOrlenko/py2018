@@ -1,0 +1,12 @@
+{
+  "text": "Клубника ремонтантная. Ягоды крупные и вкусные.\n",
+  "title": "Клубника ремонтантная",
+  "price": 200,
+  "index": 1332845251,
+  "address": "Москва, м. Зябликово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klubnika_remontantnaya_1332845251",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:35  ",
+  "seller": "Марина",
+  "seller_link": "/user/a98ebf518600985d2e548a39e4395b87/profile?id=1332845251&src=item"
+}

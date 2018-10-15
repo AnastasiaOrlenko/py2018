@@ -1,0 +1,13 @@
+{
+  "text": "Продаётся фиалка сорт Kris (листик - 30 руб., детки, стартеры).\nОгромные полумахровые и махровые ярко-розовые звёзды с широкой пурпурной каймой. Тёмно-зелёный плоский лист с красной изнанкой.\nСелекционер: D. Ferguson \nЕсть другие сорта.\n",
+  "title": "Фиалки - сорт \"Kris\"",
+  "price": 30,
+  "index": 142629352,
+  "address": "Москва, м. Кантемировская",
+  "seller-contact": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_-_sort_kris_142629352",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 06:20  ",
+  "seller": "ОБУВЬ МЕЧТЫ - OASIS SHOES",
+  "seller_link": "/user/c2900c4f264d126e41d9e617d2129963/profile?id=142629352&src=item"
+}

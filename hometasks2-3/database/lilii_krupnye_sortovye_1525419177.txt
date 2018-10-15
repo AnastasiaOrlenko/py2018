@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1525419177,
+  "title": "Лилии крупные сортовые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lilii_krupnye_sortovye_1525419177",
+  "seller": "Наталья",
+  "address": "Москва, м. Домодедовская",
+  "text": "Ароматные, крупные, очень впечатляющие трубчатые, ОТ, ЛА и ЛО-гибриды лилий. Украшение сада, аромат, особенно вечером, неповторимый.\n",
+  "post_date": "  5 октября в 16:56  ",
+  "seller_link": "/user/0e12b3ce2d2d88e0ed9f6f044cf9d876/profile?id=1525419177&src=item"
+}

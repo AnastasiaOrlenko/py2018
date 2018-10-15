@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_belye_101_sht_1026951881",
+  "price": 4545,
+  "seller": "Rurose Цветочный супермаркет",
+  "post_date": "  08 October в 23:52  ",
+  "title": "Розы белые 101 шт",
+  "text": "Розы 60 см\n",
+  "index": 1026951881,
+  "seller_status": "Магазин",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

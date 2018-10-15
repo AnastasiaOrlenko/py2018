@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1109896029,
+  "title": "Розовый пахифитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozovyy_pahifitum_1109896029",
+  "seller": "Юлия",
+  "address": "Москва, м. Домодедовская",
+  "text": "Pachyphytum oviferum cv Pink\nСуккулентное светолюбивое растение, полив редкий.\nПродаю растение с фото\n",
+  "post_date": "  6 октября в 23:41  ",
+  "seller_link": "/user/0ee0887698b144aafe41fc9996d55c68/profile?id=1109896029&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Renat",
+  "seller": "Доставка Цветов LONGROSE24",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/piony_pionovidnye_rozy_dostavka_0_r_910653080",
+  "seller_status": "Компания",
+  "title": "Пионы, Пионовидные розы Доставка 0 р",
+  "post_date": "  08 October в 11:46  ",
+  "price": 199,
+  "index": 910653080,
+  "seller_link": "/user/1a2f5de9f2e030ca14cfe65ca013ae63/profile?id=910653080&src=item",
+  "address": "Москва, м. Проспект Мира",
+  "text": "Быстрая Бесплатная доставка цветов\nПионы: Белые ,Розовы , Нежно розовые.\nАкция на бордовые пионы Всего от 230 руб Звоните!!!\nВысота стебля 60 см \n15 пионов - 2 999₽\n19 пионов - 3 799₽\n25 пионов - 4 999₽\n35 пионов - 6 990₽\n51 пионов - 9 999₽\n101 пион - 17 900₽\n"
+}

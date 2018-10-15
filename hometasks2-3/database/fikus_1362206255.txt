@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1362206255,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1362206255",
+  "seller": "Елена",
+  "address": "Москва, м. ВДНХ",
+  "text": "Продаю цветок фикус 7 лет, с горшком 1м 30 см. С обратной стороны листьев меньше ( на фото видно).\n",
+  "post_date": "  6 октября в 19:07  ",
+  "seller_link": "/user/cb987389e7d431748ea99310af525a93/profile?id=1362206255&src=item"
+}

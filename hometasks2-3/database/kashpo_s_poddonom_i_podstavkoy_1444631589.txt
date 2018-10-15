@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_s_poddonom_i_podstavkoy_1444631589",
+  "price": 1900,
+  "seller": "Алевтина",
+  "post_date": "  08 October в 18:26  ",
+  "title": "Кашпо С поддоном И подставкой",
+  "text": "КАШПО КЕРАМИЧЕСКОЕ, С ПОДДОНОМ И ПОДСТАВКОЙ НА КОЛЕСИКАХ ( высота 25см, диаметр 32см без поддона)\n",
+  "index": 1444631589,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/662c5041140beef289dfdbcbec29d1c1/profile?id=1444631589&src=item"
+}

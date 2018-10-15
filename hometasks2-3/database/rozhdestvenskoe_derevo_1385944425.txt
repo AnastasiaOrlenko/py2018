@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1385944425,
+  "title": "Рождественское дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozhdestvenskoe_derevo_1385944425",
+  "seller": "Елена",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Рождественское дерево, цветку около одного года.\n",
+  "post_date": "  6 октября в 15:26  ",
+  "seller_link": "/user/af2eb8a330fdf58f9385047759b0b7d4/profile?id=1385944425&src=item"
+}

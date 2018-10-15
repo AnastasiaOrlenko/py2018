@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_rassady_982910887",
+  "price": 5,
+  "seller": "Рустам",
+  "post_date": "  08 October в 20:39  ",
+  "title": "Горшок для рассады",
+  "text": "Продам горшки для рассады 210 мл. Размеры 7x7x6,5 . 100шт\n",
+  "index": 982910887,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/5c04597c88c4f85320bc9697e2d4a510/profile?id=982910887&src=item"
+}

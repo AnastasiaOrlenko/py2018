@@ -1,0 +1,13 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 724763201,
+  "title": "Букет на рождения малыша",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_na_rozhdeniya_malysha_724763201",
+  "seller": "Физ. Лицо",
+  "seller-contact": "Валерия",
+  "address": "Москва, м. Сходненская",
+  "text": "Очень красивый нежный букет с мишутка ми и зайками. Остался последний\n",
+  "post_date": "  5 октября в 17:19  ",
+  "seller_link": "/user/e0f3e0981b412954109f8887b99480d6/profile?id=724763201&src=item"
+}

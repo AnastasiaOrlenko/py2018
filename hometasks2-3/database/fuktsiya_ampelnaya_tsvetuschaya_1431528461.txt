@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1431528461,
+  "title": "Фукция ампельная цветущая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuktsiya_ampelnaya_tsvetuschaya_1431528461",
+  "seller": "Екатерина",
+  "address": "Москва, м. Озёрная",
+  "text": "Фуксия ампельная с бутонами, будет цвести до нового года.\n",
+  "post_date": "  6 октября в 15:32  ",
+  "seller_link": "/user/9796e2ae9f5e8ef8151ee1207740b8a1/profile?id=1431528461&src=item"
+}

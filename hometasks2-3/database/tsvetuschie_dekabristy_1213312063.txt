@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1213312063,
+  "title": "Цветущие декабристы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetuschie_dekabristy_1213312063",
+  "seller": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Подросшие декабристы, уже в этом году цветут. Светло розовый и яркой фуксии. Два за 400. В профиле еще цветы есть.\n",
+  "post_date": "  07 October в 08:55  ",
+  "seller_link": "/user/71ee11e110f605b05a1a2c229251efcc/profile?id=1213312063&src=item"
+}

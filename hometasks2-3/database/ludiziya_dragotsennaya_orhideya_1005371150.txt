@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1005371150,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ludiziya_dragotsennaya_orhideya_1005371150",
+  "address": "Москва, м. Хорошево",
+  "title": "Лудизия (драгоценная орхидея)",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1005371150&src=item",
+  "text": "Самая неприхотливая орхидея /лудизия . Славится своими бархатными листьями с яркими белыми , красными , розовыми прожилками .\n",
+  "post_date": "  07 October в 22:22  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сухаревская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_dostavka_1619016592",
+  "price": 1800,
+  "seller": "Бастам Ибрагимов",
+  "post_date": "  08 October в 19:59  ",
+  "title": "Розы + доставка",
+  "text": "Букеты роз (70см): эквадор\n21 шт. = 1800руб.\n31шт. = 2500руб.\n51шт. = 3800руб.\n101шт. = 6500руб.\nДоставка до станции метро!\n",
+  "index": 1619016592,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/30326ead831e8d2555b7279da69be7e7/profile?id=1619016592&src=item"
+}

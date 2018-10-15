@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1586734983,
+  "title": "Цветок денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_denezhnoe_derevo_1586734983",
+  "seller": "Ольга Cухарева",
+  "address": "Москва, м. Студенческая",
+  "text": "толстянка,денежное дерево,очищает воздух,создает уют и хороший денежный талисман.\n",
+  "post_date": "  5 октября в 13:29  ",
+  "seller_link": "/user/dc20df5827a6a63e1897a704fb2f70a5/profile?id=1586734983&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 500,
+  "index": 678978726,
+  "seller": "необходимые вещи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/napolnoe_kashpo_678978726",
+  "address": "Москва, м. Киевская",
+  "title": "Напольное кашпо",
+  "seller_link": "/user/042505e2f9e0b438e8afb0f590ac3ce0/profile?id=678978726&src=item",
+  "text": "Керамика. Размеры 27x27x15 см\nПожалуйста, всегда сначала пишите SMS. Возможна доставка почтой или деловыми линиями при 100% предоплате.\n",
+  "post_date": "  07 October в 21:15  "
+}

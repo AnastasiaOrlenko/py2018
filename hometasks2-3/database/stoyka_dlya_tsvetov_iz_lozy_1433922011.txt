@@ -1,0 +1,13 @@
+{
+  "text": "Стойка для цветов из лозы\n",
+  "title": "Стойка для цветов из лозы",
+  "price": 5000,
+  "index": 1433922011,
+  "address": "Москва, м. Митино",
+  "seller-contact": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoyka_dlya_tsvetov_iz_lozy_1433922011",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:53  ",
+  "seller": "Наталья",
+  "seller_link": "/user/320820dc6d84ba98045f34b34c5c3e59/profile?id=1433922011&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1900,
+  "seller_status": "Компания",
+  "index": 952358866,
+  "title": "Глициния вистерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/glitsiniya_visteriya_952358866",
+  "seller": "Сергей",
+  "address": "Москва, м. Таганская",
+  "text": "Сейчас цветёт!!! \nПотрясающие цветы, редкие цвета -морозостойкие адаптированные \nWistкeria floribunda Глициния \nмагазинах это стоит куда дороже! Доставлю к метро или по Москве! Так же отправлю почтой в любой город!!!\n",
+  "post_date": "  5 октября в 06:50  ",
+  "seller_link": "/user/69f51cf2e55db9b9616372b8a88c7e22/profile?id=952358866&src=item"
+}

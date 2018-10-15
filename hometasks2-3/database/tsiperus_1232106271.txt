@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1232106271,
+  "title": "Циперус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiperus_1232106271",
+  "seller": "Анна",
+  "address": "Москва, м. Жулебино",
+  "text": "Сильные молодые экземпляры растения, выращенные из ростков, привезенных с Кипра. Адаптированы к нашим условиям.\n",
+  "post_date": "  6 октября в 09:33  ",
+  "seller_link": "/user/3d7bb40a16a7c155ffb6716404794e29/profile?id=1232106271&src=item"
+}

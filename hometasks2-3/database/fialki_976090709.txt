@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 976090709,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_976090709",
+  "seller": "Фея",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "В наличии детки стандартов и мини, цены от 70 до 100 р. Сорта уточняйте в переписке.\n",
+  "post_date": "  6 октября в 22:33  ",
+  "seller_link": "/user/1b3bf14de0da94945c9b7fea4564dc62/profile?id=976090709&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1224960825,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1224960825",
+  "seller": "Liubov",
+  "address": "Москва, м. Коломенская",
+  "text": "Декабрист. Отведу по предзаказу.На фото материнское дерево. \nЦена 200 руб.за отводок.\nТак же есть укороченные и высаженные в грунт растения-цена 250 руб\n",
+  "post_date": "  6 октября в 20:08  ",
+  "seller_link": "/user/0bb0cfa9b3ebd70581a47516fcf27dbb/profile?id=1224960825&src=item"
+}

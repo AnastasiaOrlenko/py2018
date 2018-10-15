@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1035624150,
+  "title": "Красный декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krasnyy_dekabrist_1035624150",
+  "seller": "Ирина",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Отросток красного декабриста, прижившийся в горшке\nбольшой\n",
+  "post_date": "  5 октября в 20:49  ",
+  "seller_link": "/user/545935e565600d5ad78269891858d68b/profile?id=1035624150&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1561255204,
+  "title": "Филодендрон Брезил",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/filodendron_brezil_1561255204",
+  "seller": "Елена",
+  "address": "Москва, м. Рижская",
+  "text": "Предлагаю фил медиопикта\n",
+  "post_date": "  5 октября в 13:14  ",
+  "seller_link": "/user/e5443adcdd92f37f7443cd828b027a3c/profile?id=1561255204&src=item"
+}

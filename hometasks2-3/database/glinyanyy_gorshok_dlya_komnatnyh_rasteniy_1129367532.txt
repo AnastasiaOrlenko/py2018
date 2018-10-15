@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/glinyanyy_gorshok_dlya_komnatnyh_rasteniy_1129367532",
+  "price": 350,
+  "seller": "Полина",
+  "post_date": "  08 October в 19:06  ",
+  "title": "Глиняный горшок для комнатных растений",
+  "text": "Глиняный горшок. \nДля комнатных растений. \nВысота горшка 12см .\nДиаметр горшка 15см. \nНовый. Самовывоз до 23 часов.\nПересылка почтой за Ваш счет.\n",
+  "index": 1129367532,
+  "seller_status": "Компания",
+  "seller_link": "/user/11f850b89faad855c3b6fd67b64e9597/profile?id=1129367532&src=item"
+}

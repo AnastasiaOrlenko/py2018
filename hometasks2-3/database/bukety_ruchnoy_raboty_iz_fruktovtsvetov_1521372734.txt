@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1521372734,
+  "seller": "Моника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bukety_ruchnoy_raboty_iz_fruktovtsvetov_1521372734",
+  "address": "Москва, м. Новогиреево",
+  "title": "Букеты ручной работы из фруктов,цветов",
+  "seller_link": "/user/4713717ceecfaaa06272e1db2a22dfea/profile?id=1521372734&src=item",
+  "text": "Красивый и полезный букет\n",
+  "post_date": "  07 October в 15:47  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1447350666,
+  "title": "Гиппеаструм белый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_belyy_1447350666",
+  "seller": "Людмила",
+  "address": "Москва, м. Водный стадион",
+  "text": "3 луковицы с горшком - 100 руб.\n",
+  "post_date": "  5 октября в 19:31  ",
+  "seller_link": "/user/6557cc148eda62ed3dbd7b13af00d198/profile?id=1447350666&src=item"
+}

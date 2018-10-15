@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 450,
+  "index": 1297089981,
+  "seller": "Олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/peperomiya_rana_verde_1297089981",
+  "address": "Москва, м. Беговая",
+  "title": "Пеперомия рана верде",
+  "seller_link": "/user/52a907a3ae21a7ca309f997301d74d65/profile?id=1297089981&src=item",
+  "text": "Пеперомия рана верде, высота примерно 20 см, диаметр горшка 11 см\n",
+  "post_date": "  07 October в 13:38  "
+}

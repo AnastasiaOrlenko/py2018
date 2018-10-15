@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 931374409,
+  "seller": "Алина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ekzoticheskoe_derevo_lichi_931374409",
+  "address": "Москва, м. Медведково",
+  "title": "Экзотическое дерево Личи",
+  "seller_link": "/user/e2888c3be51803ecd3592669c014c52b/profile?id=931374409&src=item",
+  "text": "м. Медведково, Бибирево или Алтуфьево\nул. Корнейчука, Белозёрская\n87км МКАД ТЦ \"Час Пик\"\n",
+  "post_date": "  07 October в 13:13  "
+}

@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Олеся",
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_francis_parrett._zelenograd_ili_vdnh_1349301218",
+  "seller_status": "Компания",
+  "title": "Пеларгония Francis Parrett. Зеленоград или ВДНХ",
+  "post_date": "  08 October в 12:53  ",
+  "price": 300,
+  "index": 1349301218,
+  "seller_link": "/user/e287da66a36d03407bdda6961188d9d8/profile?id=1349301218&src=item",
+  "address": "Москва, м. ВДНХ",
+  "text": "Продается молодой кустик пеларгонии Francis Parrett (на фото первое цветение).\nСамовывоз из г. Зеленоград, 14 м-н.\nТак же возможна доставка до метро ВДНХ по договоренности\n"
+}

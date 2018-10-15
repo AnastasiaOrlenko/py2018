@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1291180475,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_zelenaya_i_polosataya_v_odnom_gorshke_1291180475",
+  "address": "Москва, м. Кунцевская",
+  "title": "Традесканция зелёная и полосатая в одном горшке",
+  "seller_link": "/user/a1c02db25dc3f7a117b55e729be56a0d/profile?id=1291180475&src=item",
+  "text": "Укоренённая традесканция двух видов в одном горшке.\nСамовывоз 15 мин. пешком от метро Кунцевская.\n",
+  "post_date": "  07 October в 18:51  "
+}

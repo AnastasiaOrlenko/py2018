@@ -1,0 +1,12 @@
+{
+  "price": 5500,
+  "seller_status": "Частное лицо",
+  "index": 882272583,
+  "title": "101 роза в крафтовой бумаге",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/101_roza_v_kraftovoy_bumage_882272583",
+  "seller": "Иван",
+  "address": "Москва, м. Семеновская",
+  "text": "Лучшая цена в Москве.\n",
+  "post_date": "  5 октября в 21:57  ",
+  "seller_link": "/user/951eed54298e13162b456ad3d9a0456a/profile?id=882272583&src=item"
+}

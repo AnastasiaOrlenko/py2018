@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1293714101,
+  "title": "Сортовые рипсалидопсисы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_ripsalidopsisy_1293714101",
+  "seller": "Диана",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Продам молодые растения рипсалидопсиса. Есть много других красивоцветущих комнатных растений. Смотрите профиль!\n",
+  "post_date": "  6 октября в 19:11  ",
+  "seller_link": "/user/629ef7c231422ad4275f4a16a3ccc6c2/profile?id=1293714101&src=item"
+}

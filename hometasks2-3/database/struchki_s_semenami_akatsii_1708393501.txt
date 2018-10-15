@@ -1,0 +1,12 @@
+{
+  "price": 5,
+  "seller_status": "Частное лицо",
+  "index": 1708393501,
+  "title": "Стручки с семенами акации",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/struchki_s_semenami_akatsii_1708393501",
+  "seller": "Оксана",
+  "address": "Москва, м. Тульская",
+  "text": "Стручки с семенами белой акации от 20 см. Собраны на чистых горных склонах Крыма. Используются в медицине, ароматерапии, декоре, настойках, отварах.\n5р-шт.\n",
+  "post_date": "  5 октября в 14:56  ",
+  "seller_link": "/user/afeab6f183d4cedff059cc5a183aad0a/profile?id=1708393501&src=item"
+}

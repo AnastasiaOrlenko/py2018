@@ -1,0 +1,12 @@
+{
+  "title": "Фикус \" Наташа\" мелкий лист",
+  "price": 800,
+  "seller": "Надежда",
+  "seller_link": "/user/a0e9215d179950bf0068cdd19fedaadc/profile?id=1190334301&src=item",
+  "address": "Москва, м. Сходненская",
+  "index": 1190334301,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_natasha_melkiy_list_1190334301",
+  "text": "Продаю красивый фикус, высота вместе с горшком 90 см. \nНа небольшом участке ствола с одной стороны нет веточек.\nСамовывоз.\n",
+  "post_date": "  4 октября в 17:09  "
+}

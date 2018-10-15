@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 800,
+  "index": 1261405709,
+  "seller": "Елена Нечушкина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1261405709",
+  "address": "Москва, м. Новогиреево",
+  "title": "Орхидея фаленопсис",
+  "seller_link": "/user/70509cf13192f34c06bea01a05f603c8/profile?id=1261405709&src=item",
+  "text": "Орхидея Фаленопсис. Цвет светло сиреневый, размер цветка около 9 см. Отличные корни, активно наращивает новые корни и листья. Посажена в кору. Домашняя.\n",
+  "post_date": "  07 October в 19:22  "
+}

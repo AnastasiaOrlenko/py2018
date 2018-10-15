@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1320863532,
+  "title": "Декабрист -шлюмберга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_-shlyumberga_1320863532",
+  "seller": "Екатерина",
+  "seller-contact": "Екатерина",
+  "address": "Москва, м. Строгино",
+  "text": "Взрослый в горшке ручной работы... Пишите в авито\n",
+  "post_date": "  5 октября в 09:53  ",
+  "seller_link": "/user/ea6745526ffd55a1a696e5ce98482216/profile?id=1320863532&src=item"
+}

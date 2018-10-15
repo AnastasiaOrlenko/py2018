@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1412103602,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1412103602",
+  "seller": "Екатерина",
+  "address": "Москва, м. Теплый стан",
+  "text": "Пока не цветет), будет цвести, как на фото 4,5.\n",
+  "post_date": "  5 октября в 10:27  ",
+  "seller_link": "/user/14cb6b67abad3a492f598891b624b043/profile?id=1412103602&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1800,
+  "index": 1390869810,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1390869810",
+  "address": "Москва, м. Солнцево",
+  "title": "Монстера",
+  "seller_link": "/user/0101b60e0915d96bb9151c5922b68dd4/profile?id=1390869810&src=item",
+  "text": "Высота с горшком 100см, ширина 110см\n",
+  "post_date": "  07 October в 23:54  "
+}

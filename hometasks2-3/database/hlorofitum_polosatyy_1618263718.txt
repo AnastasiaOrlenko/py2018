@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1618263718,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_polosatyy_1618263718",
+  "address": "Москва, м. Хорошево",
+  "title": "Хлорофитум полосатый",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1618263718&src=item",
+  "text": ". Хлорофитум 50,100,150 руб.\n",
+  "post_date": "  07 October в 22:22  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1581798010,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1581798010",
+  "seller": "Борис",
+  "address": "Москва, м. Академическая",
+  "text": "Декабрист цветок большой зацветёт так зацветёт горшок отличный!!!!\n",
+  "post_date": "  4 октября в 19:21  ",
+  "seller_link": "/user/0bf40c5192eb319dd68c0d5efca9b086/profile?id=1581798010&src=item"
+}

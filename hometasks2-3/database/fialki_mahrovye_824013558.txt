@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 824013558,
+  "title": "Фиалки махровые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_mahrovye_824013558",
+  "seller": "Людмила",
+  "address": "Москва, м. Строгино",
+  "text": "Фиалки белая и фиолетово-розовая (махровые)\nПродаю фиалки с фото 3-4 (бутоны появились, скоро раскроются)\nЦена указана за 1 штуку\n",
+  "post_date": "  07 October в 12:22  ",
+  "seller_link": "/user/317d5deb24eb322e2881ceccbc0e292f/profile?id=824013558&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1359620255,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_1359620255",
+  "address": "Москва, м. Ясенево",
+  "title": "Герань",
+  "seller_link": "/user/ffde0355d210828df6bfcef206057069/profile?id=1359620255&src=item",
+  "text": "Продам герань розовую и красную. Каждый цветок стоит по 200 руб. вместе с горшочком.\n",
+  "post_date": "  07 October в 19:26  "
+}

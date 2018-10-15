@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1312387246,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pileya_1312387246",
+  "address": "Москва, м. Печатники",
+  "title": "Пилея",
+  "seller_link": "/user/57f88aa501789e1f250bba33fbefe75f/profile?id=1312387246&src=item",
+  "text": "Возросло растение 300₽. \nСтанакчик 100₽.\nЕсть хойя карноза, фуксия ампельная, кактусы. \nПишите сюда. Этот телефон не работает\n",
+  "post_date": "  07 October в 16:47  "
+}

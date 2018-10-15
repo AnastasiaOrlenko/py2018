@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1395047141,
+  "title": "Анубиас прирощенный к лаве",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anubias_priroschennyy_k_lave_1395047141",
+  "seller": "Владимир",
+  "address": "Москва, м. Шипиловская",
+  "text": "Куст прирощенный к лаве - 500руб.\nЦена окончательная\n",
+  "post_date": "  5 октября в 09:39  ",
+  "seller_link": "/user/f5458f0a4ee071a67f3d615ce5728440/profile?id=1395047141&src=item"
+}

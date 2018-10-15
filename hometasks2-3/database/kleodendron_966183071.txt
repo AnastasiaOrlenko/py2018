@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 966183071,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kleodendron_966183071",
+  "address": "Москва, м. Домодедовская",
+  "title": "Клеодендрон",
+  "seller_link": "/user/d1de943d592f15a0038750a3631682f2/profile?id=966183071&src=item",
+  "text": "Комнатный цветок в горшке\n",
+  "post_date": "  07 October в 18:19  "
+}

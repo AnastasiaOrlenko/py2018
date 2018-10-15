@@ -1,0 +1,12 @@
+{
+  "text": "Укорененные черенки фуксии,вербены,а так же фиалки селекции фиалковод АВ. Все растения вырощены мной в домашних условиях. Прайс лист на silarosta\n",
+  "title": "Фуксия lena dalton",
+  "price": 120,
+  "index": 1062114186,
+  "address": "Москва, м. Аннино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiya_lena_dalton_1062114186",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 06:41  ",
+  "seller": "андрей",
+  "seller_link": "/user/db0f779f374a64244cebd34f68ed9071/profile?id=1062114186&src=item"
+}

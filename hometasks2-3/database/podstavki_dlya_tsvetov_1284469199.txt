@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица Скобелевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavki_dlya_tsvetov_1284469199",
+  "price": 5000,
+  "seller": "Svetlana",
+  "post_date": "  08 October в 21:25  ",
+  "title": "Подставки для цветов",
+  "text": "Подставки для цветов(2 штуки) из ротанга. Цена обсуждается.\n",
+  "index": 1284469199,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c0c6b162d266907eedbe7a6a62c17417/profile?id=1284469199&src=item"
+}

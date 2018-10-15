@@ -1,0 +1,13 @@
+{
+  "price": 65,
+  "seller_status": "Компания",
+  "index": 1136818567,
+  "title": "Орхидея искусственная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_iskusstvennaya_1136818567",
+  "seller": "Жукова  Наталья Викторовна",
+  "seller-contact": "Андрей",
+  "address": "Москва, м. Охотный ряд",
+  "text": "орхидея искусственная цена Аренды 65 р за шт в наличии 200 шт.\nДлина 80 см.\nДля декора помещения.\n",
+  "post_date": "  07 October в 12:46  ",
+  "seller_link": "/user/8a592e1dd4ed5721a95348f2e6077aa5/profile?id=1136818567&src=item"
+}

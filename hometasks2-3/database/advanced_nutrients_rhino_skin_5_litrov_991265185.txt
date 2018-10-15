@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 991265185,
+  "title": "Advanced Nutrients Rhino Skin 5 литров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/advanced_nutrients_rhino_skin_5_litrov_991265185",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "Advanced Nutrients Rhino Skin 5 литров.\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=991265185&src=item"
+}

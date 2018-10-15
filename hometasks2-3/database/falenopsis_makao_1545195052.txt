@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1545195052,
+  "title": "Фаленопсис Макао",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_makao_1545195052",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис Макао 2 ствола, высота 60-70см.\n",
+  "post_date": "  6 октября в 23:06  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1545195052&src=item"
+}

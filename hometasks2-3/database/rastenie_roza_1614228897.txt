@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_roza_1614228897",
+  "seller-contact": "Галина Анатольевна",
+  "price": 320,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:47  ",
+  "title": "Растение роза",
+  "text": "Роза египетская из сортов каркадэ. Цветет красно- розовыми цветами. Двух лет.\n",
+  "index": 1614228897,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1614228897&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_aromatnogo_rozovogo_levkoya_mattiola_1339324309",
+  "seller_status": "Компания",
+  "title": "Букет ароматного розового левкоя (маттиола)",
+  "post_date": "  08 October в 13:48  ",
+  "price": 1610,
+  "index": 1339324309,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1339324309&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Букет ароматного розового левкоя (маттиола) из 9 шт \n в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

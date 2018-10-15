@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1460382946,
+  "title": "Сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1460382946",
+  "seller": "Катя",
+  "address": "Москва, м. Братиславская",
+  "text": "Умеренный полив ( летом 1 раз в неделю, зимой реже), пересадка по мере разрастания, требует невысокой влажности и хорошего освещения.\n",
+  "post_date": "  6 октября в 12:05  ",
+  "seller_link": "/user/c5889290f4305a3fffc7a1c1ad469bdd/profile?id=1460382946&src=item"
+}

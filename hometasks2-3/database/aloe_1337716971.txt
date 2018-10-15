@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1337716971,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1337716971",
+  "seller": "Надежда",
+  "address": "Москва, м. Марьино",
+  "text": "Алоэ очень полезное и нужное в доме растение.И в носик закапать и кожу лица очень хорошо увлажняет.\n",
+  "post_date": "  5 октября в 23:09  ",
+  "seller_link": "/user/e294e67d3103c34cd905e9d56f072df2/profile?id=1337716971&src=item"
+}

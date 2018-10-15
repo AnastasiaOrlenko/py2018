@@ -1,0 +1,12 @@
+{
+  "price": 80,
+  "seller_status": "Частное лицо",
+  "index": 1300924977,
+  "title": "Cортовые фиалки (нежно розовая с белой каймой)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/cortovye_fialki_nezhno_rozovaya_s_beloy_kaymoy_1300924977",
+  "seller": "в Москве",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Молодые сортовые фиалки листик с корешками 80 р.\nВзрослые цветущие сортовые фиалки 500 р.\nМожете писать сообщение здесь или WhatsApp.\n",
+  "post_date": "  4 октября в 22:54  ",
+  "seller_link": "/user/d29faf2270d0e7b64aa3caab443c4f54/profile?id=1300924977&src=item"
+}

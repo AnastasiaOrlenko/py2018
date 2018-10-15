@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1282313983,
+  "title": "Ползучка Каменеломка.Каменная роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polzuchka_kamenelomka.kamennaya_roza_1282313983",
+  "seller": "часное лицо",
+  "seller-contact": "Владимир Владимирович.",
+  "address": "Москва, м. Бибирево",
+  "text": "Забрать можно м Бибирево пять минут от метро . 100 руб за один горшок .любой .\n",
+  "post_date": "  5 октября в 21:47  ",
+  "seller_link": "/user/3cc776cd72cf4fa2b960c5690d115874/profile?id=1282313983&src=item"
+}

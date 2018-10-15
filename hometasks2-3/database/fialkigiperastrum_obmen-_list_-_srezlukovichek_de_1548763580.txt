@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1548763580,
+  "title": "Фиалки,гипераструм обмен- лист - срез,луковичек де",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialkigiperastrum_obmen-_list_-_srezlukovichek_de_1548763580",
+  "seller": "Елена Александровна",
+  "address": "Москва, м. Сходненская",
+  "text": "Фиалки селективные махровые,гипераструм ярко красный обмен на растения.Пишите,предлагайте.Есть лист срез,подрощенные детки,луковички гипераструма\n",
+  "post_date": "  5 октября в 17:52  ",
+  "seller_link": "/user/ba638623f348c8de5c2159c7aee6c7f3/profile?id=1548763580&src=item"
+}

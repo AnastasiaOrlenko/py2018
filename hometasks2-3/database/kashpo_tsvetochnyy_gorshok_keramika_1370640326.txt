@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1370640326,
+  "title": "Кашпо, цветочный горшок, керамика",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_tsvetochnyy_gorshok_keramika_1370640326",
+  "seller": "Любовь",
+  "address": "Москва, м. Сухаревская",
+  "text": "Продается оригинальное кашпо из качественной керамики. Внутренняя сторона также покрыта слоем керамики. Диаметр 22 см, высота 12 см. Цена 800 рублей.\n",
+  "post_date": "  5 октября в 21:52  ",
+  "seller_link": "/user/7d0b15872a678ff9e712989e8b63d60f/profile?id=1370640326&src=item"
+}

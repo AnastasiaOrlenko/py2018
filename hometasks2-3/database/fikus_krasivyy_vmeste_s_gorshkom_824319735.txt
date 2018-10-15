@@ -1,0 +1,12 @@
+{
+  "price": 699,
+  "seller_status": "Частное лицо",
+  "index": 824319735,
+  "title": "Фикус красивый вместе с горшком",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_krasivyy_vmeste_s_gorshkom_824319735",
+  "seller": "Олеся",
+  "address": "Москва, м. Перово",
+  "text": "Фикус красивый вместе с горшком\nВысота от пола с горшком 75см\n",
+  "post_date": "  5 октября в 15:28  ",
+  "seller_link": "/user/96bd86c0c0fbefdd857afec4cc058c0f/profile?id=824319735&src=item"
+}

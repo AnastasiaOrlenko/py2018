@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1408882656,
+  "title": "Горшки цветочные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_tsvetochnye_1408882656",
+  "seller": "Михаил",
+  "address": "Москва, м. Калужская",
+  "text": "Горшок обливной с поддоном,диаметр 12 см. - 2 шт. \nЦена 300 руб. за штуку.\nГоршок обливной с поддоном,диаметр 18 см. - 1 шт.\nЦена 500 руб. за штуку.\n",
+  "post_date": "  4 октября в 20:49  ",
+  "seller_link": "/user/8f4f144c0180f8f849b7ca1b914770a0/profile?id=1408882656&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1133118402,
+  "title": "Цветок. Хатиора",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok._hatiora_1133118402",
+  "seller": "Elena",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "Хатиора, высота 35 см. Цвела маленькими жёлтенькими цветочками.\n",
+  "post_date": "  6 октября в 21:26  ",
+  "seller_link": "/user/b6828d5bb92c3cee297868e4e48cbb68/profile?id=1133118402&src=item"
+}

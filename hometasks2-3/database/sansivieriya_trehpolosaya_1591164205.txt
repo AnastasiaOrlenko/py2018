@@ -1,0 +1,13 @@
+{
+  "text": "Сансевиерия варигиентная с тремя полосами - цена за один любой, продаются вместе с кружками. Осталось 8шт.\n",
+  "title": "Сансивиерия трехполосая",
+  "price": 89,
+  "index": 1591164205,
+  "address": "Москва, м. Площадь революции",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansivieriya_trehpolosaya_1591164205",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 09:27  ",
+  "seller": "Татьяна",
+  "seller_link": "/user/5751fb24e42deb273d5d47c684c76990/profile?id=1591164205&src=item"
+}

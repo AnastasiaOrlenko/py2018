@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_belaya_v_beloy_keramike_33h45-55_sm_1699105043",
+  "seller_status": "Компания",
+  "title": "Орхидея белая в белой керамике 33х45-55 см",
+  "post_date": "  08 October в 14:36  ",
+  "price": 18998,
+  "index": 1699105043,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1699105043&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Орхидея белая в белой керамике 33х45-55 см в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

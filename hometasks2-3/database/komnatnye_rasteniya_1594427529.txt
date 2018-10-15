@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Тимирязевская",
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_1594427529",
+  "seller_status": "Частное лицо",
+  "title": "Комнатные растения",
+  "seller_link": "/user/5d6c420fd74cead2a9903928546e8234/profile?id=1594427529&src=item",
+  "index": 1594427529,
+  "post_date": "  08 October в 12:51  ",
+  "text": "морниэра хризакардиум 150\nмята(плектрантус) 100\nтолстянка(денежное дерево) 80\nсансивьера 200\nсуккулент(молочай)40 см 150\nалоэ вера 100\n"
+}

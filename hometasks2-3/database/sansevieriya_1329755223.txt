@@ -1,0 +1,12 @@
+{
+  "title": "Сансевиерия",
+  "price": 500,
+  "seller": "частное лицо",
+  "seller_link": "/user/7fbced90aa226b9659d2e6651b013d79/profile?id=1329755223&src=item",
+  "address": "Москва, м. Ботанический сад",
+  "index": 1329755223,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1329755223",
+  "text": "сансевиерия щучий хвост высота около 1 метра\n",
+  "post_date": "  4 октября в 16:53  "
+}

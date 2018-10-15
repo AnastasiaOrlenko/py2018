@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 30,
+  "index": 1678766510,
+  "seller": "Диана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1678766510",
+  "address": "Москва, м. Братиславская",
+  "title": "Хлорофитум",
+  "seller_link": "/user/5166f849438fad63a43c73db3150556e/profile?id=1678766510&src=item",
+  "text": "Ростки хлорофитума\n",
+  "post_date": "  07 October в 16:56  "
+}

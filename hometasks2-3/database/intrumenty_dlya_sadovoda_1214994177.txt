@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1214994177,
+  "title": "Интрументы для садовода",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/intrumenty_dlya_sadovoda_1214994177",
+  "seller": "Яна",
+  "address": "Москва, м. Шипиловская",
+  "text": "Новые грабли, совок, лопата. Из металла и дерева.\nСвязь по вотцапу, вайберу и телефону.\nВ метро встречаюсь, с почтой дружу.\n",
+  "post_date": "  6 октября в 09:19  ",
+  "seller_link": "/user/04bec2162682e9332eb71488cef59da6/profile?id=1214994177&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1097308685,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1097308685",
+  "seller": "Любовь",
+  "address": "Москва, м. Выхино",
+  "text": "Продам фиалки \"Африканская ночь\" растения с фото.Китайская роза и много других , пишите на авито отвечу на любые вопросы.\n",
+  "post_date": "  5 октября в 22:12  ",
+  "seller_link": "/user/3668fd081ca7fc9d9401b3fb5699bcca/profile?id=1097308685&src=item"
+}

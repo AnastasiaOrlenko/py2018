@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 974310824,
+  "title": "Хлорофитум, сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_singonium_974310824",
+  "seller": "Наталья",
+  "address": "Москва, м. Водный стадион",
+  "text": "Большой хлорофитум (пестрый, просто зеленый) - 250р. , на фото неск. кустов\nСингониум (высота 62см от земли)- 400р.\n",
+  "post_date": "  5 октября в 20:27  ",
+  "seller_link": "/user/dede96cac06bb2034a3d95c96f44ade5/profile?id=974310824&src=item"
+}

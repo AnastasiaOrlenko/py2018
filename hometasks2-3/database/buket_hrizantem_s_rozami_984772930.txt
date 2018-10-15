@@ -1,0 +1,12 @@
+{
+  "text": "Пионы, хризантемы, розы в букете с упаковкой.\n",
+  "title": "Букет хризантем с розами",
+  "price": 2000,
+  "index": 984772930,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_hrizantem_s_rozami_984772930",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

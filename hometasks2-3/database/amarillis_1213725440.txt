@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1213725440,
+  "title": "Амариллис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amarillis_1213725440",
+  "seller": "Марина",
+  "address": "Москва, м. Новокосино",
+  "text": "Цветет очень красиво как на фото 2. Цена за 1 шт.\nВ наличии 2 шт.\n",
+  "post_date": "  6 октября в 14:48  ",
+  "seller_link": "/user/fbea11715a056e66768fc1a58da73156/profile?id=1213725440&src=item"
+}

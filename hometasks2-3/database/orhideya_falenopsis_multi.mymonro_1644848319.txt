@@ -1,0 +1,13 @@
+{
+  "price": 2060,
+  "seller_status": "Компания",
+  "index": 1644848319,
+  "title": "Орхидея Фаленопсис Multi.Mymonro",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_multi.mymonro_1644848319",
+  "seller": "Корзина Цветов",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Нагорная",
+  "text": "Орхидея Фаленопсис Multi.Mymonro в интернет-магазине Корзина Цветов. Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России.\n",
+  "post_date": "  4 октября в 18:56  ",
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1644848319&src=item"
+}

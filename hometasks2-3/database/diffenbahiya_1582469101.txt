@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Селигерская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1582469101",
+  "price": 550,
+  "seller": "Анастасия",
+  "post_date": "  08 October в 18:36  ",
+  "title": "Диффенбахия",
+  "text": "Красивый цветок \nС большими яркими листьями\nРавномерный, к солнцу горшок поворачивается постоянно, чтобы рос ровным\nУже больше, чем на фото\n",
+  "index": 1582469101,
+  "seller_status": "Компания",
+  "seller_link": "/user/977b219a628f9580f17e433603e0b8ee/profile?id=1582469101&src=item"
+}

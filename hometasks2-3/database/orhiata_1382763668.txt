@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 140,
+  "index": 1382763668,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhiata_1382763668",
+  "address": "Москва, м. Улица Скобелевская",
+  "title": "Орхиата",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1382763668&src=item",
+  "text": "Орхиата для орхидей, диаметр 9-12мм. И. 12-18мм. Производство Новая Зеландия.\n",
+  "post_date": "  07 October в 16:31  "
+}

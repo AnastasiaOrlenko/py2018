@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1606923663,
+  "title": "Аглаонема New",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/aglaonema_new_1606923663",
+  "seller": "Aнна",
+  "address": "Зеленоград",
+  "text": "1) New 1 1500\n2) Emerale 900\n3) Rub ngen rub thong 600\n4) Rattanagosin 600\n5) Thongtembam 700\n6) Ying ruay 900\n7) Bunlung tubtim 900\n8) Ngen tem ban 900\n9) Green bowl Small 800\n10) New Hybrid 1200\nТОЛЬКО сообщения, на звонки не отвечаю! Все растения можно посмотреть в моем профиле на АВИТО. Доставка почтой России 400 руб.(упаковка входит в стоимость). Бронирование только после оплаты.\n",
+  "post_date": "  6 октября в 19:09  ",
+  "seller_link": "/user/c5419e28cfe8dc08a437c1b9be183623/profile?id=1606923663&src=item"
+}

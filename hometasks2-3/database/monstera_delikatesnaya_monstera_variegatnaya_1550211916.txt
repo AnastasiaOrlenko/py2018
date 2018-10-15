@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1550211916,
+  "title": "Монстера деликатесная, монстера вариегатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_delikatesnaya_monstera_variegatnaya_1550211916",
+  "seller": "Ольга",
+  "address": "Москва, м. Измайловская",
+  "text": "Фото 1-2 -монстера деликатесная 100 руб.\nФото 3-6- монстера вариегатная 450 руб.\nФото 7-8- монстера вариегатная 300 руб.\n",
+  "post_date": "  5 октября в 09:04  ",
+  "seller_link": "/user/c3756d5d88446925eaa50016f7715f7d/profile?id=1550211916&src=item"
+}

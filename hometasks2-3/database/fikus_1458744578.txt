@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1458744578,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1458744578",
+  "seller": "Любовь. Звоните до 24:00",
+  "seller-contact": "Любовь",
+  "address": "Москва, м. Новогиреево",
+  "text": "Высота 79 см\nПишите в любое время\n",
+  "post_date": "  6 октября в 08:25  ",
+  "seller_link": "/user/ccaa8e9844a4fd23667acdd9f9cd0d57/profile?id=1458744578&src=item"
+}

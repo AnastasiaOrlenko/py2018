@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1622534210,
+  "title": "Луковицы тюльпанов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lukovitsy_tyulpanov_1622534210",
+  "seller": "Татьяна",
+  "address": "Москва, м. Ростокино",
+  "text": "Луковицы тюльпана гибрид Дарвина Эрик Хофсью ( eric hofsjo) продам, а в идеале рассмотрю обмен на сорт дарвин Кенди Эппл Дилайт ( candy apple delight), можно с моей 100% доплатой ;)))\nТакже буду благодарна за информацию, где можно этот сорт достать)\n",
+  "post_date": "  6 октября в 23:57  ",
+  "seller_link": "/user/e7a5738b5bc32cb7274cd49a7a242c90/profile?id=1622534210&src=item"
+}

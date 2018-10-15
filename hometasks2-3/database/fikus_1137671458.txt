@@ -1,0 +1,12 @@
+{
+  "price": 1,
+  "seller_status": "Частное лицо",
+  "index": 1137671458,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1137671458",
+  "seller": "GK",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "Растение домашнее живое\n",
+  "post_date": "  5 октября в 14:35  ",
+  "seller_link": "/user/8e7f41b56fc8941b8d9a974ee22baa5b/profile?id=1137671458&src=item"
+}

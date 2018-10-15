@@ -1,0 +1,13 @@
+{
+  "address": "Москва",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pihta_frazera_iz_ameriki_optom_828453265",
+  "seller-contact": "Александр Викторович",
+  "price": 1500,
+  "seller": "Александр",
+  "post_date": "  08 October в 20:55  ",
+  "title": "Пихта Фразера из Америки оптом",
+  "text": "Наша компания готова вам предложить Пихту Фразера. Произрастающую в Северной Америке оптом. Отличные Елки к новому году!!!\n",
+  "index": 828453265,
+  "seller_status": "Компания",
+  "seller_link": "/user/e0d208f93fae41428ee4fea521335de1/profile?id=828453265&src=item"
+}

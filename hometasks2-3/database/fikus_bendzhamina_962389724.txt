@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 962389724,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_962389724",
+  "seller": "ира",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "высота около 40 см\n",
+  "post_date": "  5 октября в 23:54  ",
+  "seller_link": "/user/57927ed0cfe4b10726c728e9a6e4ed80/profile?id=962389724&src=item"
+}

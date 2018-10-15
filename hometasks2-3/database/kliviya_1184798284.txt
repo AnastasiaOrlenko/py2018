@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/6a8913d25502e133e672177d434a326c/profile?id=1184798284&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_1184798284",
+  "post_date": "  08 October в 10:23  ",
+  "address": "Москва, м. Сходненская",
+  "seller": "Галина",
+  "text": "Комнатное растение. Семейство амараллисовых.Цветет очень красиво Выбрасывает на одной ножке целый букет розовых колокольчиков.\n",
+  "index": 1184798284,
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "title": "Кливия"
+}

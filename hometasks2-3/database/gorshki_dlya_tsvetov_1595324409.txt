@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1595324409,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_1595324409",
+  "address": "Москва, м. Профсоюзная",
+  "title": "Горшки для цветов",
+  "seller_link": "/user/fc7372b1f7e1c197996c7bb6b054a4f5/profile?id=1595324409&src=item",
+  "text": "Горшки для цветов с самополивом - 4 штуки. Пластик, цвет - кремовый.\n",
+  "post_date": "  07 October в 13:04  "
+}

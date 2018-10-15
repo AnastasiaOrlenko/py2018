@@ -1,0 +1,12 @@
+{
+  "price": 299,
+  "seller_status": "Частное лицо",
+  "index": 1553040238,
+  "title": "Горшок с блюдцем",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_s_blyudtsem_1553040238",
+  "seller": "Олеся",
+  "address": "Москва",
+  "text": "состояние отличное\nдиаметр 13; высота 13\n",
+  "post_date": "  5 октября в 15:27  ",
+  "seller_link": "/user/96bd86c0c0fbefdd857afec4cc058c0f/profile?id=1553040238&src=item"
+}

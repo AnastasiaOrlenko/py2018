@@ -1,0 +1,12 @@
+{
+  "title": "Фуксия blue eyes",
+  "price": 150,
+  "seller": "Ольга",
+  "seller_link": "/user/bfb3b35c9a52218c759b305a6d70bebe/profile?id=1257949397&src=item",
+  "address": "Москва, м. Щелковская",
+  "index": 1257949397,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiya_blue_eyes_1257949397",
+  "text": "Хорошо подрощенный кустик фуксии.\nСорт покупала как blue eyes — полуампельный сорт. Цветок от материнского растения. Сам кустик на втором фото, уже с бутонами.\nВыращен дома, адаптирован к квартирным условиям.\n",
+  "post_date": "  4 октября в 17:41  "
+}

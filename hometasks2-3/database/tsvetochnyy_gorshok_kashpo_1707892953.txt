@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Октябрьское поле",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_kashpo_1707892953",
+  "price": 700,
+  "seller": "по объявлению",
+  "post_date": "  08 October в 22:46  ",
+  "title": "Цветочный Горшок, Кашпо",
+  "text": "Уже помыт и ждёт нового хозяина) примерно 35 литров\n",
+  "index": 1707892953,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/cae377bd5d7f22f67c3e6fc660d970f3/profile?id=1707892953&src=item"
+}

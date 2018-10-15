@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1100,
+  "index": 966773169,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_966773169",
+  "address": "Москва, м. Зорге",
+  "title": "Фикус Бенджамина",
+  "seller_link": "/user/969a2d597fc226c44d3e0446c00a17ba/profile?id=966773169&src=item",
+  "text": "Продам фикус Бенджамина. пышное деревце высотой 85 см.+горшок 30см. Вырастили в офисе из черенка,5лет\n",
+  "post_date": "  07 October в 16:14  "
+}

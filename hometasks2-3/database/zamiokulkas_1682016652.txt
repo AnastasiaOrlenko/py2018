@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1682016652,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1682016652",
+  "address": "Москва, м. Кунцевская",
+  "title": "Замиокулькас",
+  "seller_link": "/user/e9204fafeffc9e8ec6cfa3752358357a/profile?id=1682016652&src=item",
+  "text": "Вместе с горшком\n",
+  "post_date": "  07 October в 16:02  "
+}

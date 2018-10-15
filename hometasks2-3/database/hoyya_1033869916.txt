@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1033869916,
+  "seller": "не компания. бу",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_1033869916",
+  "address": "Москва, м. Таганская",
+  "title": "Хойя",
+  "seller_link": "/user/7b1b7ec73c10220acda6a6aaeed5fb61/profile?id=1033869916&src=item",
+  "text": "Красивый вьющийся цветок\n",
+  "seller-contact": "Валентина",
+  "post_date": "  08 October в 00:35  "
+}

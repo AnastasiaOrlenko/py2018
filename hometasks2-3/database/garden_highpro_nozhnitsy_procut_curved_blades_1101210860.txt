@@ -1,0 +1,13 @@
+{
+  "price": 750,
+  "seller_status": "Компания",
+  "index": 1101210860,
+  "title": "Garden Highpro Ножницы ProCut Curved Blades",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/garden_highpro_nozhnitsy_procut_curved_blades_1101210860",
+  "seller": "HomeHarvest",
+  "seller-contact": "Максим или Ринат",
+  "address": "Москва, м. Тульская",
+  "text": "Ножницы садовые. \nПредназначены для подрезки растений, снятия клонов. \nИзогнутые лезвия из нержавеющей стали экстра острой заточки.\nУшка для фиксации пальца нет.\nКитай.\nСамовывоз: м. Тульская, м. Юго-Западная. Оправление в регионы Почтой России и другими ТК.\nЦены постоянно меняются, пожалуйста, уточняйте наличие и цену.\n",
+  "post_date": "  5 октября в 11:26  ",
+  "seller_link": "/user/69bbf71bb4658e5c1bcb40341065e47d/profile?id=1101210860&src=item"
+}

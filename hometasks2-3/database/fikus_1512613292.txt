@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1512613292",
+  "price": 1000,
+  "seller": "Анна",
+  "post_date": "  08 October в 22:32  ",
+  "title": "Фикус",
+  "text": "фикус , размер 100см. ветвится снизу, будет красивым кустом))\n",
+  "index": 1512613292,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a84a998407d0a79367993ad20a818c76/profile?id=1512613292&src=item"
+}

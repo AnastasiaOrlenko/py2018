@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Братиславская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_1647829506",
+  "seller-contact": "братиславская",
+  "price": 300,
+  "seller": "москва",
+  "post_date": "  08 October в 15:10  ",
+  "title": "Цветок",
+  "text": "молочай\n",
+  "index": 1647829506,
+  "seller_status": "Компания",
+  "seller_link": "/user/771ad5a12d90f8eb1fe5dd6a3019002f/profile?id=1647829506&src=item"
+}

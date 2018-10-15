@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1346887315,
+  "title": "Продам фикус пышный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_fikus_pyshnyy_1346887315",
+  "seller": "сергей",
+  "address": "Москва, м. Серпуховская",
+  "text": "Несколько стволов в1кашпо пр65cm.смотр.все мои об.\n",
+  "post_date": "  6 октября в 15:09  ",
+  "seller_link": "/user/41b91bded2994a1e09e56d148419bc2f/profile?id=1346887315&src=item"
+}

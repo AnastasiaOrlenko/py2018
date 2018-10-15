@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1342711778,
+  "title": "Большие Брабанты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshie_brabanty_1342711778",
+  "seller": "Анна",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Большие Брабанты 170-180см . Минимально 10шт. Доставка.\n",
+  "post_date": "  6 октября в 11:02  ",
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=1342711778&src=item"
+}

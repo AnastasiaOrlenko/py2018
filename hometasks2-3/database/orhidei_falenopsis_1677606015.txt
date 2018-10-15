@@ -1,0 +1,12 @@
+{
+  "text": "Орхидеи, более 20 сортов, детки и взрослые растения. Набор деток з 3 орхидей + 4 в подарок = 2900.\nДоставка по России.\n",
+  "title": "Орхидеи Фаленопсис",
+  "price": 900,
+  "index": 1677606015,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhidei_falenopsis_1677606015",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 07:20  ",
+  "seller": "Ольга",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=1677606015&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/44d9bf763e6b9a6d312f31b76c29917f/profile?id=1723551391&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ph_poniziteli_i_povysiteli_1723551391",
+  "post_date": "  08 October в 10:39  ",
+  "address": "Москва, м. Бабушкинская",
+  "seller": "Евдокия Романова",
+  "text": "Растворы для корректировки PH уровня: PH down и PH up 150 мл\n",
+  "index": 1723551391,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "PH понизители и повысители"
+}

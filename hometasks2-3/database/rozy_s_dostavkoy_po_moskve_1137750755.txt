@@ -1,0 +1,13 @@
+{
+  "price": 99,
+  "seller_status": "Компания",
+  "index": 1137750755,
+  "title": "Розы с доставкой по Москве",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_s_dostavkoy_po_moskve_1137750755",
+  "seller": "stock",
+  "seller-contact": "Александр",
+  "address": "Москва, м. Коломенская",
+  "text": "Доставка цветов Москва! Приятные курьеры! Свежие, доставка за 2 часа! От 1500 рублей!\n",
+  "post_date": "  5 октября в 10:59  ",
+  "seller_link": "/user/65141a0ccb56f8c2f8bf1b6b9278337c/profile?id=1137750755&src=item"
+}

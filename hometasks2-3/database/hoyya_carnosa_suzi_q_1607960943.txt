@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 1607960943,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_carnosa_suzi_q_1607960943",
+  "address": "Москва, м. Марьино",
+  "title": "Хойя carnosa Suzi Q",
+  "seller_link": "/user/2850e6a01f4c94f2bd5e806f7c0a376c/profile?id=1607960943&src=item",
+  "text": "Хойя carnosa Suzi Q. Активно растущий черенок в несколько узлов. Все вопросы только в сообщениях.\n",
+  "seller-contact": "Мария",
+  "post_date": "  08 October в 05:42  "
+}

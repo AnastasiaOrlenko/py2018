@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Выхино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyankadenezhnoe_derevo_.40sm_928692672",
+  "price": 1500,
+  "seller": "Наталья",
+  "post_date": "  08 October в 18:27  ",
+  "title": "Толстянка(денежное дерево ).40см",
+  "text": "Высота с горшком 40см.\nЦена - 1500₽\n",
+  "index": 928692672,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/36c169de5a2c0b72637ef15c5d59d9a4/profile?id=928692672&src=item"
+}

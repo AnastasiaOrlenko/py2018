@@ -1,0 +1,12 @@
+{
+  "price": 1950,
+  "seller_status": "Частное лицо",
+  "index": 1399339873,
+  "title": "Орхидея фаленопсис дикая форма 4-6 стволов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_dikaya_forma_4-6_stvolov_1399339873",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис дикая форма, белая, 4-6 стволов.\n",
+  "post_date": "  6 октября в 23:02  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1399339873&src=item"
+}

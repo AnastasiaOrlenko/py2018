@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Коломенская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus._komnatnoe_rastenie_569698183",
+  "price": 3000,
+  "seller": "ЯНА",
+  "post_date": "  08 October в 18:07  ",
+  "title": "Фикус. Комнатное растение",
+  "text": "Продаю фикус. Цена 3000\n",
+  "index": 569698183,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2a0caaa8ea9b38797b3fed78d0e52227/profile?id=569698183&src=item"
+}

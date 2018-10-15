@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1078494524,
+  "title": "Кактус высокий продаем",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_vysokiy_prodaem_1078494524",
+  "seller": "Алексей,Анна",
+  "address": "Москва, м. Университет",
+  "text": "Продаем дёшево кактус.\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/2780d03aa7d55dda3cc5c416403235b3/profile?id=1078494524&src=item"
+}

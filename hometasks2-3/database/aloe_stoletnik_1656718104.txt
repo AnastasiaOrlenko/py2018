@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1656718104,
+  "title": "Алоэ (столетник)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_stoletnik_1656718104",
+  "seller": "Римма",
+  "address": "Москва, м. Бунинская аллея",
+  "text": "Продам столетник 3 года.\n",
+  "post_date": "  4 октября в 19:14  ",
+  "seller_link": "/user/1168edae0a0ab45308e950c6af91ebfd/profile?id=1656718104&src=item"
+}

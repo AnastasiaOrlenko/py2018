@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1062489355,
+  "title": "Калла комнатная в пластиковом горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalla_komnatnaya_v_plastikovom_gorshke_1062489355",
+  "seller": "Наталья",
+  "address": "Москва, м. Проспект Мира",
+  "text": "Продам молодое растение Калла , цветет белым цветком\n",
+  "post_date": "  5 октября в 08:27  ",
+  "seller_link": "/user/f850b331745bd4985070b40d8c984974/profile?id=1062489355&src=item"
+}

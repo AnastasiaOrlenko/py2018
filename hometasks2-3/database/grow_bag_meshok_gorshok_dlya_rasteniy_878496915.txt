@@ -1,0 +1,12 @@
+{
+  "text": "Продаю Grow Bag Мешки/горшки \nразные виды\n",
+  "title": "Grow Bag Мешок горшок для растений",
+  "price": 49,
+  "index": 878496915,
+  "address": "Москва, м. ВДНХ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grow_bag_meshok_gorshok_dlya_rasteniy_878496915",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:38  ",
+  "seller": "Жанна Журавлева",
+  "seller_link": "/user/8d458b2e9d661e52ee45fd17e31c1205/profile?id=878496915&src=item"
+}

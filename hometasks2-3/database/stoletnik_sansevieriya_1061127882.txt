@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1061127882,
+  "title": "Столетник, Сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoletnik_sansevieriya_1061127882",
+  "seller": "Татьяна",
+  "address": "Москва, м. Нахимовский проспект",
+  "text": "Продам молодые отростки сансевиерии и столетника\n",
+  "post_date": "  6 октября в 11:39  ",
+  "seller_link": "/user/ee61db102cc21d155c7992d513314c6f/profile?id=1061127882&src=item"
+}

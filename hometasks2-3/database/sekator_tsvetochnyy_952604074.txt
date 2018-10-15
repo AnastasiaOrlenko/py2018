@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 350,
+  "index": 952604074,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sekator_tsvetochnyy_952604074",
+  "address": "Москва, м. Домодедовская",
+  "title": "Секатор цветочный",
+  "seller_link": "/user/f284a0e3522a15c500506c4110437216/profile?id=952604074&src=item",
+  "text": "Новый, лезвия из японской стали с тефлоновым покрытием.\nСезонная распродажа остатков.\n",
+  "post_date": "  07 October в 14:16  "
+}

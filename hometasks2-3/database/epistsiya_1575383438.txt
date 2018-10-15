@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1575383438,
+  "title": "Эписция",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/epistsiya_1575383438",
+  "seller": "Анастасия",
+  "address": "Зеленоград",
+  "text": "Очень красивые переливающиеся листья.\nБыстро растёт, хорошо даёт черенки.\nОстались молодые растения - на последнем фото - по 100р.\n",
+  "post_date": "  6 октября в 16:27  ",
+  "seller_link": "/user/9ce08c1eae2a782f4733988fe9759248/profile?id=1575383438&src=item"
+}

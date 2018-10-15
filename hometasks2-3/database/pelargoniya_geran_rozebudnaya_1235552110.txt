@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1235552110,
+  "title": "Пеларгония герань розебудная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_rozebudnaya_1235552110",
+  "seller": "Анастасия",
+  "address": "Москва, м. Автозаводская",
+  "text": "Пеларгония розебудная\nKronprinsesse Mary , укоренённые черенки 300р\nScarlet Rambler rosebud , укоренённые черенки 300р\nRed Rosebud, укоренённые черенки 300р\n",
+  "post_date": "  5 октября в 18:37  ",
+  "seller_link": "/user/d727be8061c955106fb833d2fa4d8c6f/profile?id=1235552110&src=item"
+}

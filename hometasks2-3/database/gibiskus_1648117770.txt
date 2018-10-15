@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1648117770",
+  "price": 1800,
+  "seller": "Собственник",
+  "post_date": "  08 October в 22:19  ",
+  "title": "Гибискус",
+  "text": "Крупное, взрослое растение 140см\n",
+  "index": 1648117770,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/bbf7bf194792d8775dd3dbbddfd4afc9/profile?id=1648117770&src=item"
+}

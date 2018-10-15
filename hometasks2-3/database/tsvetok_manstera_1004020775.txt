@@ -1,0 +1,12 @@
+{
+  "price": 7500,
+  "seller_status": "Частное лицо",
+  "index": 1004020775,
+  "title": "Цветок Манстера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_manstera_1004020775",
+  "seller": "Мария",
+  "address": "Москва, м. Мякинино",
+  "text": "Высота около 220 см.\n",
+  "post_date": "  07 October в 09:00  ",
+  "seller_link": "/user/c6d8fa7b43e351ff4839dc18386f102e/profile?id=1004020775&src=item"
+}

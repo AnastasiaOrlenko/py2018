@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 70572733,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_70572733",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Селигерская",
+  "text": "Продаю Хлорофитум ,природный очиститель воздуха.\nЦена 50 руб.\nТерриториально: Бескудниково - Коровинское ш.\n",
+  "post_date": "  5 октября в 12:09  ",
+  "seller_link": "/user/ad4a3d4a2931b53d88f6868471f36d0d/profile?id=70572733&src=item"
+}

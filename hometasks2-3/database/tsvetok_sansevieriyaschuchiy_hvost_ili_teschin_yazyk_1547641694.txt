@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1547641694,
+  "title": "Цветок Сансевиерия(щучий хвост или тещин язык) :)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_sansevieriyaschuchiy_hvost_ili_teschin_yazyk_1547641694",
+  "seller": "Елена",
+  "address": "Москва",
+  "text": "Поделюсь молодыми взрослыми растениями высотой 80-100см. Так как очень хорошо разрастаются и надо рассадить свои горшки.За 1 корнь 100р . Остались свободных 4 корня, остальные забрали.\n",
+  "post_date": "  5 октября в 22:10  ",
+  "seller_link": "/user/9a417639b83e0904f0259413bda8b121/profile?id=1547641694&src=item"
+}

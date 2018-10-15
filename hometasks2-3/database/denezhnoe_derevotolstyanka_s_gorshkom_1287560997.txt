@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1287560997,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevotolstyanka_s_gorshkom_1287560997",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Денежное дерево(Толстянка) с горшком",
+  "seller_link": "/user/e889c3292ac029f520ced6f080c80aad/profile?id=1287560997&src=item",
+  "text": "Денежное дерево - на выбор :) есть 3 цветка. В комплект к цветку прилагается горшок. В магазине такое от 5 тыс.\n",
+  "post_date": "  07 October в 19:05  "
+}

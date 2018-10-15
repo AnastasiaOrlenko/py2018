@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 1541606108,
+  "title": "Домашний Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashniy_fikus_1541606108",
+  "seller": "Марина",
+  "address": "Москва, м. Водный стадион",
+  "text": "Фикус, домашнее дерево.\nВзрослое, высокое растение.\nПрост в уходе.\n",
+  "post_date": "  5 октября в 08:18  ",
+  "seller_link": "/user/10f94360dbe58393fdbafde0afff9c44/profile?id=1541606108&src=item"
+}

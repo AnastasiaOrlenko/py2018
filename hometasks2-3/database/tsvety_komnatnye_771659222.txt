@@ -1,0 +1,13 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 771659222,
+  "title": "Цветы комнатные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_komnatnye_771659222",
+  "seller": "павел",
+  "seller-contact": "/Павел",
+  "address": "Москва, м. Речной вокзал",
+  "text": "фикус каучуконосный. Рост 170см( без горшка),стройный, выращен без применения химических удобрений.\n",
+  "post_date": "  6 октября в 09:39  ",
+  "seller_link": "/user/2ec52602d0c66446fa0653d832216b51/profile?id=771659222&src=item"
+}

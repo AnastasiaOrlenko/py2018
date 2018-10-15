@@ -1,0 +1,12 @@
+{
+  "price": 1700,
+  "seller_status": "Частное лицо",
+  "index": 1105875348,
+  "title": "Саженцы туи с закрытой корневой системой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_tui_s_zakrytoy_kornevoy_sistemoy_1105875348",
+  "seller": "Александр",
+  "address": "Москва, м. Юго-Западная",
+  "text": "1 700\n",
+  "post_date": "  5 октября в 20:20  ",
+  "seller_link": "/user/770d3c537e449e67647b30a23a5270cf/profile?id=1105875348&src=item"
+}

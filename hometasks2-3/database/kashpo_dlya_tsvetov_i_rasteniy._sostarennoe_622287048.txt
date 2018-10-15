@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 622287048,
+  "title": "Кашпо для цветов и растений. Состаренное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetov_i_rasteniy._sostarennoe_622287048",
+  "seller": "Ирина",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Новокосино",
+  "text": "Кашпо для цветов и растений декорированное при помощи декупажа и акриловых красок.\nДиаметр 11см, высота 10см.\n",
+  "post_date": "  07 October в 12:09  ",
+  "seller_link": "/user/0d95396fdfb387d9ee8f3a0d1cc21011/profile?id=622287048&src=item"
+}

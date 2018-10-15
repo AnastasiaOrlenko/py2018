@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1540838124,
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_rasteniya_1540838124",
+  "address": "Москва, м. Щелковская",
+  "title": "Каланхоэ растения",
+  "seller_link": "/user/035e4ca34649530fd5e2505bbfa18708/profile?id=1540838124&src=item",
+  "text": "Каланхое. Растения разной высоты. От 10 см до 20 см. Продаются все о отдельном горшке также + по 3 детки к каждому. Фото 9. Возможна встреча м. Щелковская.\n",
+  "post_date": "  07 October в 16:17  "
+}

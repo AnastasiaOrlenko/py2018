@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1276490074,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kliviya_1276490074",
+  "address": "Зеленоград",
+  "title": "Кливия",
+  "seller_link": "/user/0490427742f55f4349ee47353653008d/profile?id=1276490074&src=item",
+  "text": "Кливия. Возраст 1.5 года. \nЗабирать в мкр. Фирсановка. По договорённости за доп.плату могу подвезти в Крюково.\n",
+  "post_date": "  07 October в 19:21  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1124875975,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1124875975",
+  "seller": "Инга",
+  "address": "Москва, м. Беляево",
+  "text": "Крупные, сиреневые цветочки\n",
+  "post_date": "  5 октября в 11:34  ",
+  "seller_link": "/user/f5dd1e15b3f4d21dc1279b5b9a2b8ef3/profile?id=1124875975&src=item"
+}

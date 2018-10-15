@@ -1,0 +1,12 @@
+{
+  "text": "Дом крупномеров лиственных и хвойных деревьев реализует саженцы любой размер в любом количестве!\nВ наличии всегда есть:\n1) Ель обыкновенная (Pícea ábies)\n2) Сосна обыкновенная (Pínus sylvéstris)\n3) Туя смарагд (Thuja occidentalis 'Smaragd')\n4) Пихта сибирская (Ábies sibírica)\n5) Липа мелколистная (Tília cordáta)\n6) Клен остролистый (Ácer platanoídes)\n7) Береза (Bétula)\n8) Дуб черешчатый (Quércus róbur)\n9) Осина обыкновенная (Pópulus trémula)\n10) Рябина\n11) Орешник\nЗВОНИТЕ В ЛЮБОЕ ВРЕМЯ!\n",
+  "title": "Саженцы лиственных и хвойных деревьев",
+  "price": 500,
+  "index": 1087974479,
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_listvennyh_i_hvoynyh_derevev_1087974479",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 01:06  ",
+  "seller": "Валерий",
+  "seller_link": "/user/f7112c1598dc89886e192ad8d3eebc97/profile?id=1087974479&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1059478534,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1059478534",
+  "seller": "не компания",
+  "address": "Москва, м. Первомайская",
+  "text": "продаю растения фиалки (цветущий, розетки, детки) 16 видов от 50 до 250 руб\n",
+  "post_date": "  4 октября в 21:03  ",
+  "seller_link": "/user/5033e4e654e392733e7ae3b21d5980bb/profile?id=1059478534&src=item"
+}

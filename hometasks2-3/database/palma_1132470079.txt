@@ -1,0 +1,13 @@
+{
+  "text": "20см.- 400руб.\n57см.- 800руб.\n140см.- 1200руб.\nПишите в любое время\n",
+  "title": "Пальма",
+  "price": 400,
+  "index": 1132470079,
+  "address": "Москва, м. Новогиреево",
+  "seller-contact": "Любовь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_1132470079",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:05  ",
+  "seller": "Любовь. Звоните до 24:00",
+  "seller_link": "/user/ccaa8e9844a4fd23667acdd9f9cd0d57/profile?id=1132470079&src=item"
+}

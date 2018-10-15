@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 934595927,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_raznye_934595927",
+  "address": "Москва, м. Речной вокзал",
+  "title": "Комнатные растения разные",
+  "seller_link": "/user/bab434e3de2ece2f820fc01b0d79fe27/profile?id=934595927&src=item",
+  "text": "Комнатные растения в том числе мелколистный фикус-1500, апельсиновое дерево-1000 р.герань -600 хлорофитум-200 руб. Высокий бамбук 300 р.\n",
+  "seller-contact": "Наталья",
+  "post_date": "  08 October в 07:19  "
+}

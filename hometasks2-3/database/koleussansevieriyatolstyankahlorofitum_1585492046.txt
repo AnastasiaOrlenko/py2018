@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1585492046,
+  "title": "Колеус,сансевиерия,толстянка,хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleussansevieriyatolstyankahlorofitum_1585492046",
+  "seller": "Инесса",
+  "seller-contact": "Инесса",
+  "address": "Москва, м. Войковская",
+  "text": "Колеус куст - 400 р\nсансевиерия - 350-500р\nТолстянка 550-650 р\nхлорофитумы обыкновенные и хохлатые - 150 р отросток укорен,большие в горшках - 450 р\n",
+  "post_date": "  6 октября в 16:09  ",
+  "seller_link": "/user/ab685f4df747530a6cfac1d6f4bba6d1/profile?id=1585492046&src=item"
+}

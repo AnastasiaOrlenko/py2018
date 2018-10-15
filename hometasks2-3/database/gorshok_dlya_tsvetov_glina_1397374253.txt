@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1397374253,
+  "title": "Горшок для цветов (глина)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_glina_1397374253",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Горшок (кашпо) из глины. Сколов и царапин нет. Состояние нового. Цвет фиолетовый. Высота 19 см.\n",
+  "post_date": "  6 октября в 13:41  ",
+  "seller_link": "/user/932e2c68b790f456d8bef8b3ece733ef/profile?id=1397374253&src=item"
+}

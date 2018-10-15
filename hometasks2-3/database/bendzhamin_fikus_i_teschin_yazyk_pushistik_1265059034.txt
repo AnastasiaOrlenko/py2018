@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 99,
+  "index": 1265059034,
+  "seller": "Margarita Sharova",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bendzhamin_fikus_i_teschin_yazyk_pushistik_1265059034",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Бенджамин фикус и тещин язык пушистик",
+  "seller_link": "/user/b179f08ebbc9c949e88667b98a7e0f07/profile?id=1265059034&src=item",
+  "text": "Цена за штуку\nБенджамин есть 5 штук на выбор\nПушистика 2шт\nСамовывоз веерная улица\n",
+  "post_date": "  07 October в 21:56  "
+}

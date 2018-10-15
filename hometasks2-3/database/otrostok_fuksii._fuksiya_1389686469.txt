@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 1389686469,
+  "seller": "margaret thather",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otrostok_fuksii._fuksiya_1389686469",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Отросток фуксии. Фуксия",
+  "seller_link": "/user/32c98d2029f10fb4690215a121b6b18e/profile?id=1389686469&src=item",
+  "text": "С удовольствием отрежу вам отросток и при необходимости расскажу о правилах выращивания\nСамовывоз от Академической\n",
+  "seller-contact": "222222",
+  "post_date": "  07 October в 19:38  "
+}

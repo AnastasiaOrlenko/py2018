@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1059322196,
+  "title": "Флорариум. Мини-Пустыня \"Аруба\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium._mini-pustynya_aruba_1059322196",
+  "seller": "Дарина Карамышева",
+  "address": "Москва, м. Курская",
+  "text": "Живой мини-сад\"Аруба\"\n",
+  "post_date": "  07 October в 00:37  ",
+  "seller_link": "/user/f6971972588d90634dbcb639b9c89302/profile?id=1059322196&src=item"
+}

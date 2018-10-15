@@ -1,0 +1,13 @@
+{
+  "price": 450,
+  "seller_status": "Компания",
+  "index": 680713285,
+  "title": "Рэо (комнатное растение)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_komnatnoe_rastenie_680713285",
+  "seller": "Наталья",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Рэо ( комнатное растение).\nНеприхотливо в уходе. Светолюбиво.\n",
+  "post_date": "  5 октября в 11:52  ",
+  "seller_link": "/user/de52bc914bed4a4223d8a369d1f720d1/profile?id=680713285&src=item"
+}

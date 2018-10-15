@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1212776338,
+  "title": "Фуксия продаю или меняю на другой сорт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiya_prodayu_ili_menyayu_na_drugoy_sort_1212776338",
+  "seller": "наталья григорьев стеценко",
+  "address": "Москва, м. Новогиреево",
+  "text": "Продам фуксию сорт полуампельная А.F.A.F. или меняю на другой сорт. Встреча в будние дни после 20-21ч, или в выходные. Подойду к метро Новогиреево.\n",
+  "post_date": "  6 октября в 20:44  ",
+  "seller_link": "/user/6eff7f4aa6ba70fde91e2d02f1a790f9/profile?id=1212776338&src=item"
+}

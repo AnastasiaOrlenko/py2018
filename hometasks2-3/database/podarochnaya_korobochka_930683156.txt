@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 930683156,
+  "title": "Подарочная коробочка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podarochnaya_korobochka_930683156",
+  "seller": "Анастасия",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Создаем подарочные коробки на заказ!\n",
+  "post_date": "  4 октября в 19:28  ",
+  "seller_link": "/user/4172b75dfecc64be187884df84015e43/profile?id=930683156&src=item"
+}

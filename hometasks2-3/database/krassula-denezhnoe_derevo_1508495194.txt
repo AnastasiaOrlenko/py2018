@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1508495194,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krassula-denezhnoe_derevo_1508495194",
+  "address": "Москва, м. Сходненская",
+  "title": "Крассула-денежное дерево",
+  "seller_link": "/user/a42caa0b17cb6ec3b6166bbc07f5bea0/profile?id=1508495194&src=item",
+  "text": "Продаю денежные деревья вместе с горшками(качество отличное). Выращиваю сама, есть большие деревья до 60-70 см.\n",
+  "post_date": "  07 October в 15:33  "
+}

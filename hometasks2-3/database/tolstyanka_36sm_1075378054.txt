@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Рязанский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_36sm_1075378054",
+  "price": 1000,
+  "seller": "Дима",
+  "post_date": "  08 October в 16:33  ",
+  "title": "Толстянка 36см",
+  "text": "Продам. Высота с горшком 36см.\n",
+  "index": 1075378054,
+  "seller_status": "Компания",
+  "seller_link": "/user/53db1f9cfc1f7c3c186cb32a529dd57a/profile?id=1075378054&src=item"
+}

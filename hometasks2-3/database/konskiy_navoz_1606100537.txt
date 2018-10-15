@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1606100537,
+  "title": "Конский навоз",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/konskiy_navoz_1606100537",
+  "seller": "Екатерина",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продаем конский навоз, гумус. В мешках по 40-50 кг. Возможна доставка.\n",
+  "post_date": "  07 October в 11:30  ",
+  "seller_link": "/user/70fe4d0a815ca0baa2a53476e9266a30/profile?id=1606100537&src=item"
+}

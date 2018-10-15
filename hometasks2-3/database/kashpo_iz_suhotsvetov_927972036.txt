@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Краснопресненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_iz_suhotsvetov_927972036",
+  "seller-contact": "Вероника",
+  "price": 400,
+  "seller": "КУКЛОМАНИЯ",
+  "post_date": "  08 October в 21:46  ",
+  "title": "Кашпо из сухоцветов",
+  "text": "Кашпо в виде большой чаши из сухоцветов, для композиции или посадки комнатного растения (внутри полиэтилен). Диаметр - 20 см.\n",
+  "index": 927972036,
+  "seller_status": "Компания",
+  "seller_link": "/user/78c33af68efc3bd5b9624a1fdf5a15cb/profile?id=927972036&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 930348508,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_930348508",
+  "seller": "Росита",
+  "address": "Москва, м. Кунцевская",
+  "text": "Два цветка в наличии, цена за штуку. Самовывоз.\n",
+  "post_date": "  07 October в 09:21  ",
+  "seller_link": "/user/ab4c8dd2d4adb41c6caea1b831d8bad2/profile?id=930348508&src=item"
+}

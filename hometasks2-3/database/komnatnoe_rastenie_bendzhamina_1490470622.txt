@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1490470622,
+  "title": "Комнатное растение Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnoe_rastenie_bendzhamina_1490470622",
+  "seller": "Эльза",
+  "address": "Москва, м. Румянцево",
+  "text": "Продаётся комнатное растение Бенджамина \nВ хорошем состоянии\n",
+  "post_date": "  5 октября в 18:27  ",
+  "seller_link": "/user/7baeab04e72e4e4da7cb94beee2bb96d/profile?id=1490470622&src=item"
+}

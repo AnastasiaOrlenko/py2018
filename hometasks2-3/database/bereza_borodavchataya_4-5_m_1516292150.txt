@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bereza_borodavchataya_4-5_m_1516292150",
+  "seller-contact": "Андрей",
+  "price": 2300,
+  "seller": "ЯР-КРУПНОМЕР",
+  "post_date": "  08 October в 23:40  ",
+  "title": "Береза бородавчатая 4-5 м",
+  "text": "Реализуем березу бородавчатую 4-5м высотой с комом земли, упаковка сетка Мешковина.\nВ наличии 5000 Шт\n",
+  "index": 1516292150,
+  "seller_status": "Магазин",
+  "seller_link": "/i68949607?gdlkerfdnwq=101&shopId=119204"
+}

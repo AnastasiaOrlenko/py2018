@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1377109970,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleus_1377109970",
+  "address": "Москва, м. Щелковская",
+  "title": "Колеус",
+  "seller_link": "/user/ad614cbb575b4854b4cf91fdcb1a5ebd/profile?id=1377109970&src=item",
+  "text": "Цветок с горшком\n",
+  "post_date": "  07 October в 18:24  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щукинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1235104720",
+  "price": 200,
+  "seller": "Светлана",
+  "post_date": "  08 October в 17:04  ",
+  "title": "Фиалка",
+  "text": "Продам фиалки. 1) Морозная вишня. Первое цветение. 2) Gracial grape полу-мини, первое цветение.\n",
+  "index": 1235104720,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/f4017c604ec53e063353310ff525e0e2/profile?id=1235104720&src=item"
+}

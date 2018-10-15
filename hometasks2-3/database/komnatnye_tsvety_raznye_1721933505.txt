@@ -1,0 +1,12 @@
+{
+  "text": "Комнатнве растения разных сортов.\nДетки и взрослые.\nДоставка по России.\n",
+  "title": "Комнатные цветы, разные",
+  "price": 800,
+  "index": 1721933505,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_raznye_1721933505",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 04:49  ",
+  "seller": "Ольга",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=1721933505&src=item"
+}

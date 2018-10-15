@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1607385601,
+  "title": "Небольшое дерево манго",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nebolshoe_derevo_mango_1607385601",
+  "seller": "Евгения",
+  "seller-contact": "Евгения",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Продам небольшое дерево манго. Цена 500руб.\n",
+  "post_date": "  6 октября в 07:16  ",
+  "seller_link": "/user/a1869d2ab8a5ab5cba97c80f08915496/profile?id=1607385601&src=item"
+}

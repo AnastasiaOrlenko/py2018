@@ -1,0 +1,13 @@
+{
+  "text": "Очень красивая, здоровая санса... Осталось три кашпо.\n",
+  "title": "Сансевиерия Silver",
+  "price": 100,
+  "index": 1699957329,
+  "address": "Москва, м. Варшавская",
+  "seller-contact": "Оля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_silver_1699957329",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:39  ",
+  "seller": "Оля",
+  "seller_link": "/user/c5797770b26958a32ea5ccc5358f9fa1/profile?id=1699957329&src=item"
+}

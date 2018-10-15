@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1042147193,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1042147193",
+  "seller": "Анжелика Видавская",
+  "address": "Москва, м. Орехово",
+  "text": "Росточки по 50 р\nБольшие по 250р\n",
+  "post_date": "  6 октября в 14:19  ",
+  "seller_link": "/user/6c5ae9260e68ac01e39f10c57bc2842b/profile?id=1042147193&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotniki_1147101641",
+  "price": 200,
+  "seller": "Елена",
+  "post_date": "  08 October в 22:29  ",
+  "title": "Папоротники",
+  "text": "Нефролепис- 200, ажурный, детка от моего\nещё ажурный другой-150\n",
+  "index": 1147101641,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c724110caaf48b8c3d4359da367b47fc/profile?id=1147101641&src=item"
+}

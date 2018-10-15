@@ -1,0 +1,12 @@
+{
+  "price": 1600,
+  "seller_status": "Частное лицо",
+  "index": 1429168842,
+  "title": "Фаленопсис орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_orhideya_1429168842",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис хеппи минхо, 2 ствола\n",
+  "post_date": "  07 October в 00:45  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1429168842&src=item"
+}

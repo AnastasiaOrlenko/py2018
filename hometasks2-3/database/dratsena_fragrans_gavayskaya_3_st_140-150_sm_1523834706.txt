@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Нагорная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_fragrans_gavayskaya_3_st_140-150_sm_1523834706",
+  "seller-contact": "Светлана",
+  "price": 5507,
+  "seller": "Корзина Цветов",
+  "post_date": "  08 October в 18:37  ",
+  "title": "Драцена Фрагранс Гавайская 3 ст 140-150 см",
+  "text": "Драцена Фрагранс Гавайская 3 ст 140-150 см в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n",
+  "index": 1523834706,
+  "seller_status": "Компания",
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1523834706&src=item"
+}

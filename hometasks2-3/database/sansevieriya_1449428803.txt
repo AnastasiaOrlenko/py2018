@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "seller": "Александра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1449428803",
+  "seller_status": "Частное лицо",
+  "title": "Сансевиерия",
+  "post_date": "  08 October в 10:42  ",
+  "price": 100,
+  "index": 1449428803,
+  "seller_link": "/user/852cd628233f5d1b0730a069b22a0caf/profile?id=1449428803&src=item",
+  "text": "Два разных варианта. Каждый цветок по 100р.\n"
+}

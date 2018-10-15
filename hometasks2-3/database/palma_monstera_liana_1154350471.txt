@@ -1,0 +1,12 @@
+{
+  "price": 12000,
+  "seller_status": "Частное лицо",
+  "index": 1154350471,
+  "title": "Пальма монстера лиана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_monstera_liana_1154350471",
+  "seller": "андрей",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Продам огромную монстеру . Высота 3 метра. С каждым днём становится все мощнее и краше))). Самовывоз. Есть другие огромные растения.\n",
+  "post_date": "  6 октября в 14:32  ",
+  "seller_link": "/user/91e62ca273ebd2d16c70ced8b2681bf1/profile?id=1154350471&src=item"
+}

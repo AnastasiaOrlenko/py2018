@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1621498715,
+  "title": "Пеларгония,пеперомия,сингониум,бегония вечноцвет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniyapeperomiyasingoniumbegoniya_vechnotsvet_1621498715",
+  "seller": "Ольга",
+  "address": "Москва, м. Измайловская",
+  "text": "Фото 1-2- пеларгония. Высота без горшка 25 см. 150 руб.\nФото 3-4- пеперомия. Взрослый куст 150 руб.\nФото 5-6- сингониум (Imperial White) 150 руб.\nФото 7-8- бегония вечноцветущая, высота без горшка 20 см. 50 руб.\n",
+  "post_date": "  5 октября в 09:14  ",
+  "seller_link": "/user/c3756d5d88446925eaa50016f7715f7d/profile?id=1621498715&src=item"
+}

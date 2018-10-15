@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "сортовые пионы, лилейники, хосты, папоротник страусник, ирисы, гортензии от 300 р\n",
+  "index": 800819727,
+  "title": "Пион с японской формой цветка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pion_s_yaponskoy_formoy_tsvetka_800819727",
+  "seller": "Денис",
+  "address": "Москва, м. Теплый стан",
+  "post_date": "  6 октября в 07:35  ",
+  "seller_link": "/user/347a45128977531573bfb170c5a278a9/profile?id=800819727&src=item"
+}

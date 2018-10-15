@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1716693150,
+  "seller": "Геворг",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bringaradzh_eclipta_alba_1716693150",
+  "address": "Москва, м. Планерная",
+  "title": "Брингарадж Eclipta alba",
+  "seller_link": "/user/c1e887a2fc2cc3eba688e33f93a2b222/profile?id=1716693150&src=item",
+  "text": "Лекарственное, из золотого ряда аюрведы.\nДоставка до вашего метро 100р, по адресу в Москве 200\n",
+  "post_date": "  08 October в 01:04  "
+}

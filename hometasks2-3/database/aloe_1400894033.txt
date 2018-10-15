@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1400894033,
+  "title": "Алое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1400894033",
+  "seller": "Наталья",
+  "address": "Москва, м. Новокосино",
+  "text": "Продаю алое в горшке\n",
+  "post_date": "  6 октября в 10:47  ",
+  "seller_link": "/user/a69a3b69003bd169030bb0dc8863c83a/profile?id=1400894033&src=item"
+}

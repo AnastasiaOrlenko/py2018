@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Марксистская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_korallovaya._krupnoe_rastenie_1046277819",
+  "seller-contact": "Ольга собственник",
+  "price": 1000,
+  "seller": "Управляющая компания",
+  "post_date": "  08 October в 22:45  ",
+  "title": "Бегония коралловая. Крупное растение",
+  "text": "Высота вместе с горшком 173см. Очень красивое растение. Цветёт крупными соцветиями в виде корзинки. Цветы розового цвета.\n",
+  "index": 1046277819,
+  "seller_status": "Компания",
+  "seller_link": "/user/fd6c849243c91d5c32134d6fedf64854/profile?id=1046277819&src=item"
+}

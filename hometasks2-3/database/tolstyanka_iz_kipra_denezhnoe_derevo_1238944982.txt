@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1238944982,
+  "title": "Толстянка из Кипра Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_iz_kipra_denezhnoe_derevo_1238944982",
+  "seller": "Ирина",
+  "seller-contact": "Лана",
+  "address": "Москва, м. Новокосино",
+  "text": "Полноценное, здоровое дерево, ствол толстый и основательный. Очень активно растёт, привезли из Кипра. Высота растения вместе с горшком - 64 см, горшок - 17 см(высота), 58(объём)\n",
+  "post_date": "  6 октября в 16:20  ",
+  "seller_link": "/user/08a9d270233bb271788590c3dfda9556/profile?id=1238944982&src=item"
+}

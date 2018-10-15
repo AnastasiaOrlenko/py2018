@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1433550338&src=item",
+  "seller-contact": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_leganza_anthurium_leganza_1433550338",
+  "post_date": "  08 October в 10:09  ",
+  "address": "Москва, м. Нагорная",
+  "seller": "Корзина Цветов",
+  "text": "Антуриум Леганза Anthurium Leganza в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России.\n",
+  "index": 1433550338,
+  "seller_status": "Компания",
+  "price": 2240,
+  "title": "Антуриум Леганза Anthurium Leganza"
+}

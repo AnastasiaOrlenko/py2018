@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 981357030,
+  "title": "Толстянка \"денежное дерево\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_981357030",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Отростки с корешками. От 5 см в любом количестве. Растение на фото, отдам в пластиковой таре как на фото.\n",
+  "post_date": "  5 октября в 14:56  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=981357030&src=item"
+}

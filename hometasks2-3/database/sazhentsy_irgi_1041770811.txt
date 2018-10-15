@@ -1,0 +1,13 @@
+{
+  "text": "Саженцы ирги Высокоурожайный сорт\n",
+  "title": "Саженцы ирги",
+  "price": 300,
+  "index": 1041770811,
+  "address": "Москва, м. Речной вокзал",
+  "seller-contact": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_irgi_1041770811",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:53  ",
+  "seller": "Наталья",
+  "seller_link": "/user/bab434e3de2ece2f820fc01b0d79fe27/profile?id=1041770811&src=item"
+}

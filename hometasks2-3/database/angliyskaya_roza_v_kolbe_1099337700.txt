@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/143d3c3b6c73af97bff5b921402ed566/profile?id=1099337700&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/angliyskaya_roza_v_kolbe_1099337700",
+  "post_date": "  08 October в 08:59  ",
+  "address": "Москва, м. ЦСКА",
+  "seller": "Оксана",
+  "text": "Нежная распустившая английская роза в колбе из холодного фарфора. Ручная работа. На заказ, срок изготовления неделя.\n",
+  "index": 1099337700,
+  "seller_status": "Частное лицо",
+  "price": 1800,
+  "title": "Английская роза в колбе"
+}

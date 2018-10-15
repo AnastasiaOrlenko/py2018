@@ -1,0 +1,12 @@
+{
+  "price": 11000,
+  "seller_status": "Частное лицо",
+  "index": 1287292282,
+  "title": "Клёны Кримсон Кинг и Друммонди",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kleny_krimson_king_i_drummondi_1287292282",
+  "seller": "Анна",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Высота 4м. В наличии 3 Кримсонг Кинг и 2 Леопольди.\n",
+  "post_date": "  6 октября в 11:09  ",
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=1287292282&src=item"
+}

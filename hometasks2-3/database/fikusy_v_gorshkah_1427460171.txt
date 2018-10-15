@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1427460171,
+  "title": "Фикусы в горшках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikusy_v_gorshkah_1427460171",
+  "seller": "Андрей",
+  "address": "Москва, м. Сходненская",
+  "text": "Продам фикусы. Высота растений от 30см(300р.). до 60см.(600р.) Торг.\n",
+  "post_date": "  5 октября в 09:54  ",
+  "seller_link": "/user/da1db2ca8eff2ad455687ab67c4b56bf/profile?id=1427460171&src=item"
+}

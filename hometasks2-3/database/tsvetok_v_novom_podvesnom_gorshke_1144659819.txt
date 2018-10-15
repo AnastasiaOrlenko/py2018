@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Цветок в новом подвесном горшке с поддономПроджа срочнаяПереда в метро Продаю ввиду ремонтацена 350руб\n",
+  "index": 1144659819,
+  "title": "Цветок в новом подвесном горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_v_novom_podvesnom_gorshke_1144659819",
+  "seller": "lina",
+  "address": "Москва, м. Площадь революции",
+  "post_date": "  6 октября в 13:42  ",
+  "seller_link": "/user/65e02c7953348eeed61a3919cb054687/profile?id=1144659819&src=item"
+}

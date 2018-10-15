@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Добрынинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_hobbit_1359118850",
+  "price": 3500,
+  "seller": "Юлия",
+  "post_date": "  08 October в 19:11  ",
+  "title": "Толстянка хоббит",
+  "text": "Деревце, сильное и неприхотливое, растет не очень быстро. \nРазмеры. Блюдце 13см, горшок сверху 15 см, растение: высота43 см, размах кроны 45*40см\n",
+  "index": 1359118850,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/9db4bae82dbdc5ed7df1b1a43a19f647/profile?id=1359118850&src=item"
+}

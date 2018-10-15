@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1257547117,
+  "title": "Цветочные горшки, ящики для рассады",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnye_gorshki_yaschiki_dlya_rassady_1257547117",
+  "seller": "Анастасия",
+  "address": "Москва, м. Тушинская",
+  "text": "Цветочные горшки\nЯщики для рассады\n",
+  "post_date": "  4 октября в 21:04  ",
+  "seller_link": "/user/3a058c6ed67dfbe6343aaa19101eb662/profile?id=1257547117&src=item"
+}

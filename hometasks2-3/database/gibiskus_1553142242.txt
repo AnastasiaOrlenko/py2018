@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Галина",
+  "index": 1553142242,
+  "title": "Гибискус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1553142242",
+  "seller": "частное лицо",
+  "address": "Москва, м. Раменки",
+  "text": "Взрослые цветущие растения от 500 руб\nОтростки от 100 руб\n",
+  "post_date": "  6 октября в 07:55  ",
+  "seller_link": "/user/ae7312472afc8b08322c4d4ee166613b/profile?id=1553142242&src=item"
+}

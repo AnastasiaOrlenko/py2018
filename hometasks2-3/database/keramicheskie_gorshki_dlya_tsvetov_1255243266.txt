@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1255243266,
+  "title": "Керамические горшки для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskie_gorshki_dlya_tsvetov_1255243266",
+  "seller": "Людмила",
+  "address": "Москва, м. Дмитровская",
+  "text": "красивые обливные керамические горшки для комнатных растений, б/у, в хорошем состоянии, диаметр 13.5 см, высота 10 см. Цена за один, за все 500 руб.\n",
+  "post_date": "  5 октября в 16:03  ",
+  "seller_link": "/user/84ef93d38e87bc6577ec340e4db31e75/profile?id=1255243266&src=item"
+}

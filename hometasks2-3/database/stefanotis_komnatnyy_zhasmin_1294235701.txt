@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1294235701,
+  "title": "Стефанотис комнатный жасмин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stefanotis_komnatnyy_zhasmin_1294235701",
+  "seller": "Елена",
+  "address": "Москва, м. Люблино",
+  "text": "Растение молодое и перспективное. Сейчас весь в цветах и новых соцветиях. Продается вместе с горшком\n",
+  "post_date": "  6 октября в 17:05  ",
+  "seller_link": "/user/0ffb62305ff7554b7e1b18cdceb40532/profile?id=1294235701&src=item"
+}

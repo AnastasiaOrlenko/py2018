@@ -1,0 +1,12 @@
+{
+  "price": 110,
+  "seller_status": "Частное лицо",
+  "index": 1543522679,
+  "title": "PH повысители и понизители",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ph_povysiteli_i_poniziteli_1543522679",
+  "seller": "Римма",
+  "address": "Москва, м. Белокаменная",
+  "text": "растворы для повышения и понижения уровня PH (150 мл.)\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/a15325d0520d25bf51eb32ef14347f8d/profile?id=1543522679&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1704742343,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zasushennye_tsvety._chertolopoloh._suhotsvety_1704742343",
+  "address": "Москва, м. Новокузнецкая",
+  "title": "Засушенные цветы. Чертолополох. Сухоцветы",
+  "seller_link": "/user/63185b13a24b841eb99fa5055c4c6e62/profile?id=1704742343&src=item",
+  "text": "Продам засушенные цветы чертополоха.\n3шт 150р\nМ.Новокузнецкая\n",
+  "post_date": "  07 October в 15:56  "
+}

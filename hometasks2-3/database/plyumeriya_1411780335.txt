@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1411780335,
+  "title": "Плюмерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plyumeriya_1411780335",
+  "seller": "Татьяна",
+  "address": "Москва, м. Ботанический сад",
+  "text": "Продаю плюмерию 35 см, возраст 2 года. Пока еще не цвела. Сорт не известен. Продаю так как нету места, слишком высокая и все растет.\n",
+  "post_date": "  07 October в 10:56  ",
+  "seller_link": "/user/e746dc8c66cd79dcd5036567155186e8/profile?id=1411780335&src=item"
+}

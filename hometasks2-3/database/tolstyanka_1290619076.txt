@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Бибирево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1290619076",
+  "seller-contact": "Алишер",
+  "price": 1500,
+  "seller": "частное лицо",
+  "post_date": "  08 October в 19:47  ",
+  "title": "Толстянка",
+  "text": "Продается денежное дерево\n",
+  "index": 1290619076,
+  "seller_status": "Компания",
+  "seller_link": "/user/85a091bb5035ab3fe112dbb11b374f1f/profile?id=1290619076&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1587731139,
+  "title": "Перцы декоративные цветущие, с плодами",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pertsy_dekorativnye_tsvetuschie_s_plodami_1587731139",
+  "seller": "Елена",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Весьма неприхотливая культура, украшение балкона и подоконника. Размер на выбор, возможна доставка.\n",
+  "post_date": "  5 октября в 20:40  ",
+  "seller_link": "/user/3ae80afe548f9276f4d3250ebfcf1b33/profile?id=1587731139&src=item"
+}

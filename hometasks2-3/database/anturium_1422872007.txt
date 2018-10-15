@@ -1,0 +1,12 @@
+{
+  "price": 1450,
+  "seller_status": "Частное лицо",
+  "index": 1422872007,
+  "title": "Антуриум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1422872007",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Диаметр 14 см, Высота 50 см\n",
+  "post_date": "  6 октября в 21:01  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1422872007&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1363433925,
+  "title": "Молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1363433925",
+  "seller": "Таня",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Отличный ровный цветочек для выращивания)))\n",
+  "post_date": "  6 октября в 23:08  ",
+  "seller_link": "/user/199b2afd134c2e087c77a10196c23978/profile?id=1363433925&src=item"
+}

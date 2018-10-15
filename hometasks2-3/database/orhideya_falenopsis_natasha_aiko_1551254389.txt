@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Юго-Западная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_natasha_aiko_1551254389",
+  "price": 2200,
+  "seller": "Елена",
+  "post_date": "  08 October в 18:26  ",
+  "title": "Орхидея фаленопсис Natasha Aiko",
+  "text": "Крепкие хорошие растения, посажены в горшки 2,5, но до размера 2,5 чуток не дотягивают\n",
+  "index": 1551254389,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e1e363e3ab40a036ebca7c62d179cf3c/profile?id=1551254389&src=item"
+}

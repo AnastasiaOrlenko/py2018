@@ -1,0 +1,12 @@
+{
+  "text": "Все цветы забрали, но фото остались для примера, могу отсадить по запросу сколько надо.\nИли поменяю на сухой корм для дачных кошек выброшенных нелюдьми.\n",
+  "title": "Санса(щучий хвост)",
+  "price": 500,
+  "index": 1050843816,
+  "address": "Москва, м. Профсоюзная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansaschuchiy_hvost_1050843816",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:12  ",
+  "seller": "Лариса Александровна",
+  "seller_link": "/user/bd33efc852a6ad859a3aa95edeaaabb3/profile?id=1050843816&src=item"
+}

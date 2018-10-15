@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Хорошево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1144580982",
+  "price": 1000,
+  "seller": "Виталий",
+  "post_date": "  08 October в 23:31  ",
+  "title": "Фикус",
+  "text": "Фикус\n",
+  "index": 1144580982,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/f63f9db4e5de54cb7c07df1cd4bd2afe/profile?id=1144580982&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Орхидея",
+  "price": 500,
+  "seller": "частное лицо",
+  "seller_link": "/user/7fbced90aa226b9659d2e6651b013d79/profile?id=1256343144&src=item",
+  "address": "Москва, м. ВДНХ",
+  "index": 1256343144,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_1256343144",
+  "text": "орхидея\n",
+  "post_date": "  4 октября в 16:54  "
+}

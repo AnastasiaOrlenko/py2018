@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1336996641,
+  "title": "Денежное дерево растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_rastenie_1336996641",
+  "seller": "ELena",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Здоровое растение, но При перевозке (оторвали) потеряли листья, растёт хорошо\nСамовывоз, рядом с метро\n",
+  "post_date": "  6 октября в 21:09  ",
+  "seller_link": "/user/c8f73aa92fea922e5bf14d41928f7409/profile?id=1336996641&src=item"
+}

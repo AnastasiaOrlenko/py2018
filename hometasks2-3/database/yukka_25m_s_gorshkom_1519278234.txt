@@ -1,0 +1,12 @@
+{
+  "price": 4500,
+  "seller_status": "Частное лицо",
+  "index": 1519278234,
+  "title": "Юкка (2,5м с горшком)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_25m_s_gorshkom_1519278234",
+  "seller": "Светлана",
+  "address": "Москва, м. Калужская",
+  "text": "Продам!\nЮкка, возраст около 10 лет, высота 2,5 метра с горшком.Горшок большой, новый\nСамовывоз из города Железнодорожного\n",
+  "post_date": "  5 октября в 12:36  ",
+  "seller_link": "/user/e9bce46089601403373b177ee10a6ac3/profile?id=1519278234&src=item"
+}

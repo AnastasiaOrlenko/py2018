@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1389757705,
+  "title": "Хлорофитум Кудрявый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_kudryavyy_1389757705",
+  "seller": "виталий",
+  "address": "Москва, м. Новокосино",
+  "text": "Хлорофитум Кудрявый.\nЦветы взрослые с хорошей корневой системой.\nНеприхотливые.\nЦена 100 рублей.\n",
+  "post_date": "  6 октября в 16:00  ",
+  "seller_link": "/user/e461289074ab2a3ae19571f107b2da46/profile?id=1389757705&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Котельники",
+  "seller": "Денис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chernozem_v_meshkah_50l_s_dostavkoy_580958572",
+  "seller_status": "Частное лицо",
+  "title": "Чернозем в мешках 50л с доставкой",
+  "post_date": "  08 October в 12:40  ",
+  "price": 300,
+  "index": 580958572,
+  "seller_link": "/user/336bbfe5a6bc3ee18dc69316b5276fd7/profile?id=580958572&src=item",
+  "text": "Чернозем, который мы предлагаем, расфасован в мешки по 50 литров. В таких мешках его удобно перевозить и хранить.\nЧернозем в мешках по 50 литров.\n"
+}

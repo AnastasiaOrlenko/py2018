@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1800,
+  "index": 985614792,
+  "seller": "Моника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bukety_iz_klubniki_i_roz_985614792",
+  "address": "Москва, м. Новогиреево",
+  "title": "Букеты из клубники и роз",
+  "seller_link": "/user/4713717ceecfaaa06272e1db2a22dfea/profile?id=985614792&src=item",
+  "text": "19 розочек\nКрасивые и полезные букеты на праздник!\n",
+  "post_date": "  07 October в 15:46  "
+}

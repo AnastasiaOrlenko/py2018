@@ -1,0 +1,12 @@
+{
+  "text": "Эустома в коробке\n",
+  "title": "Эустома в коробке",
+  "price": 1350,
+  "index": 1535939100,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eustoma_v_korobke_1535939100",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

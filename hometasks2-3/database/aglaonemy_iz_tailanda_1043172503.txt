@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1043172503,
+  "title": "Аглаонемы из Таиланда",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/aglaonemy_iz_tailanda_1043172503",
+  "seller": "Aнна",
+  "address": "Зеленоград",
+  "text": "Продаю растения из Таиланда На звонки не отвечаю только сообщения .Все растения можно посмотреть в моем профиле на Авито \n1) по 4) 900 р\n5) по 10) 600 р\n",
+  "post_date": "  6 октября в 19:08  ",
+  "seller_link": "/user/c5419e28cfe8dc08a437c1b9be183623/profile?id=1043172503&src=item"
+}

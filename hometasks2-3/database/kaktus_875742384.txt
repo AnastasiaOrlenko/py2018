@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 875742384,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_875742384",
+  "seller": "Мария",
+  "address": "Москва, м. Сходненская",
+  "text": "Цена за штуку\n",
+  "post_date": "  5 октября в 16:14  ",
+  "seller_link": "/user/f2fce9428936a9160817e9258124e5c4/profile?id=875742384&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 346846068,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_lechebnoe_346846068",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Каланхоэ лечебное",
+  "seller_link": "/user/45bad73ca1605e073974ff0fb9e34d35/profile?id=346846068&src=item",
+  "text": "каланхоэ лечебное от 150 руб до 500 руб = Растения разного размера - есть с мощными листьями взрослые растения - выращены с любовью без химических удобрений =\n",
+  "post_date": "  07 October в 17:12  "
+}

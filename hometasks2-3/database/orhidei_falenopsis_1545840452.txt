@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1545840452,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhidei_falenopsis_1545840452",
+  "address": "Москва, м. Бибирево",
+  "title": "Орхидеи фаленопсис",
+  "seller_link": "/user/7c261ebc5aafd05c94c5ea3afa2fc281/profile?id=1545840452&src=item",
+  "text": "Орхидеи фаленопсис Surf song (2 ствола) и Marbella (2 ствола). 1500 руб. за каждую. Сейчас цветут. Фото сделано 07.10.18.\nПокупала для мамы, эти две оказались дублем.\nСамовывоз от м.Бибирево или встреча по договоренности.\n",
+  "post_date": "  07 October в 16:34  "
+}

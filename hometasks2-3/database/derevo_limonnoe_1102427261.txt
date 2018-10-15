@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Рижская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derevo_limonnoe_1102427261",
+  "price": 400,
+  "seller": "Полина",
+  "post_date": "  08 October в 18:33  ",
+  "title": "Дерево лимонное",
+  "text": "Дерево лимонное, ему примерно год, отдадим за 500р с горшком\n",
+  "index": 1102427261,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/880c540441bb1afdb29ede0a437054f2/profile?id=1102427261&src=item"
+}

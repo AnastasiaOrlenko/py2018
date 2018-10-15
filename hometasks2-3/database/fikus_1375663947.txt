@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1375663947,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1375663947",
+  "seller": "Не компания",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Продам фикус\n",
+  "post_date": "  6 октября в 15:00  ",
+  "seller_link": "/user/d13536f6552e739d24eff29233d3e257/profile?id=1375663947&src=item"
+}

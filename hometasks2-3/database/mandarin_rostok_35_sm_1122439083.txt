@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1122439083,
+  "title": "Мандарин росток 35 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mandarin_rostok_35_sm_1122439083",
+  "seller": "Виктория",
+  "address": "Москва, м. Тропарево",
+  "text": "Росток мандарина, высота 35 см\n",
+  "post_date": "  5 октября в 16:06  ",
+  "seller_link": "/user/5b227bb7f748c97068bd856607a6d807/profile?id=1122439083&src=item"
+}

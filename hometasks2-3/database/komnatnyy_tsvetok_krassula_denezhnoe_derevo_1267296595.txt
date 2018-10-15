@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1267296595,
+  "title": "Комнатный цветок Крассула (Денежное дерево)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_krassula_denezhnoe_derevo_1267296595",
+  "seller": "Наталия",
+  "address": "Москва, м. Выхино",
+  "text": "Взрослое растение в горшке с питательным грунтом. \nВстреча возможна в/у метро Выхино или Авиамоторная.\n",
+  "post_date": "  5 октября в 14:10  ",
+  "seller_link": "/user/331ffdf057132fbc0f820ee1c57777cd/profile?id=1267296595&src=item"
+}

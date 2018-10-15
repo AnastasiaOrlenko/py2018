@@ -1,0 +1,12 @@
+{
+  "price": 15,
+  "seller_status": "Частное лицо",
+  "index": 1625975236,
+  "title": "Аксессуар. Бабочка для цветов. 50 штук",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aksessuar._babochka_dlya_tsvetov._50_shtuk_1625975236",
+  "seller": "Оксана",
+  "address": "Москва, м. Марьино",
+  "text": "Длина 30 см. Разные расцветки. В наличии 50 штук.\n1 штука - 15 рублей.\n50 штук - 600 рублей.\n",
+  "post_date": "  6 октября в 20:09  ",
+  "seller_link": "/user/bf868177501980aefa1f5c2630e00383/profile?id=1625975236&src=item"
+}

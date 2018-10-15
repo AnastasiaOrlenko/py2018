@@ -1,0 +1,12 @@
+{
+  "text": "Блок управления насосом Gardena 01273-20.000.00 (Система полива)\nНовый\n",
+  "title": "Блок управления насосом полива 01273-20.000.00",
+  "price": 3100,
+  "index": 1282926108,
+  "address": "Москва, м. Крылатское",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/blok_upravleniya_nasosom_poliva_01273-20.000.00_1282926108",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:25  ",
+  "seller": "Евгений",
+  "seller_link": "/user/64d34e0b061d702a6b92b3f784ba1188/profile?id=1282926108&src=item"
+}

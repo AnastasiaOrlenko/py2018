@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/b33defe45d5687cf169c3c3dbc00fbef/profile?id=971205436&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitolampa_971205436",
+  "post_date": "  08 October в 10:04  ",
+  "address": "Москва, м. Крестьянская застава",
+  "seller": "Михаил",
+  "text": "Продам фитолампы.\nВ комплекте 4 планки (по 33 см).\nОтличное состояние, все диоды исправны\nПокупались за 1400\n",
+  "index": 971205436,
+  "seller_status": "Частное лицо",
+  "price": 700,
+  "title": "Фитолампа"
+}

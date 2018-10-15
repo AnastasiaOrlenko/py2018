@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1184262115,
+  "title": "Пеларгония душистая,PAC angeles parfume",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_dushistayapac_angeles_parfume_1184262115",
+  "seller": "не компания",
+  "address": "Москва, м. Первомайская",
+  "text": "Предлагаю черенки укоренённые и 3 кашпо с цветами ,Пеларгония ДУШИСТАЯ ,PAC ANGELES PARFUME 150- 400 руб, зацвела, после обрезки\nПомогает при боли в ушках ,убивает своим душистым ароматом многие бактерии в квартире и просто красивый цветок и аккуратные листочки.\n",
+  "post_date": "  4 октября в 21:05  ",
+  "seller_link": "/user/5033e4e654e392733e7ae3b21d5980bb/profile?id=1184262115&src=item"
+}

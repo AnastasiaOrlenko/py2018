@@ -1,0 +1,12 @@
+{
+  "price": 65,
+  "seller_status": "Частное лицо",
+  "index": 1275048535,
+  "title": "Флористика. Сережки клена. Сухоцветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/floristika._serezhki_klena._suhotsvety_1275048535",
+  "seller": "Ольга",
+  "address": "Москва, м. Новокузнецкая",
+  "text": "Продам сережки клена для флористических проектов.\n65р\nМ.Новокузнецкая\n",
+  "post_date": "  5 октября в 14:32  ",
+  "seller_link": "/user/63185b13a24b841eb99fa5055c4c6e62/profile?id=1275048535&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1164943006,
+  "title": "Драцена, пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_palma_1164943006",
+  "seller": "Ксения",
+  "address": "Москва, м. Молодежная",
+  "text": "Продаю так уезжаю, цветок почти три метра)) не привередливое но любит уход и чистоту листиков! Будет радовать вас каждое утро))\n",
+  "post_date": "  5 октября в 11:50  ",
+  "seller_link": "/user/2a3db1eb8b9be2235687f628baa6558b/profile?id=1164943006&src=item"
+}

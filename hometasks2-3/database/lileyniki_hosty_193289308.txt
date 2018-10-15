@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Лилейники и хосты разных расцветок.\n",
+  "index": 193289308,
+  "title": "Лилейники, хосты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lileyniki_hosty_193289308",
+  "seller": "Денис",
+  "address": "Москва, м. Теплый стан",
+  "post_date": "  6 октября в 07:35  ",
+  "seller_link": "/user/347a45128977531573bfb170c5a278a9/profile?id=193289308&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 1606851316,
+  "seller": "Алексей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avtopoliv_rasteniy_1606851316",
+  "address": "Москва, м. Бибирево",
+  "title": "Автополив растений",
+  "seller_link": "/user/68a714514cf2f0c210b2d3252ec51126/profile?id=1606851316&src=item",
+  "text": "Комплект автополива под горшок с нижним диаметром горшка 15см\nOlggol 15\nАвтомотический полив растения вплоть до 5 недель\n",
+  "seller-contact": "Алексей",
+  "post_date": "  07 October в 16:38  "
+}

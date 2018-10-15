@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1028266512,
+  "title": "Бенджамина вариегатный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bendzhamina_variegatnyy_1028266512",
+  "seller": "Кузнецова Алена",
+  "address": "Москва, м. Добрынинская",
+  "text": "Здоровое, укорененное молодое растение фикуса Бенджамина вариегатная форма. Не нуждается в пересадке. Вырастет в красивое пестрое деревце.\n",
+  "post_date": "  4 октября в 20:47  ",
+  "seller_link": "/user/03b3e120ee580a09c3bd6fd13dab3833/profile?id=1028266512&src=item"
+}

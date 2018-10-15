@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1305273317,
+  "title": "Традесканция. Продажа /обмен",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya._prodazha_obmen_1305273317",
+  "seller": "Наталия",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Традесканция. Отростки с корешками.\nПри хорошем уходе цветёт несколько раз в год. Хорошо чистит воздух.\n",
+  "post_date": "  5 октября в 14:10  ",
+  "seller_link": "/user/331ffdf057132fbc0f820ee1c57777cd/profile?id=1305273317&src=item"
+}

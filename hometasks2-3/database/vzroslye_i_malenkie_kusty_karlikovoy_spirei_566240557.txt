@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 566240557,
+  "seller": "ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vzroslye_i_malenkie_kusty_karlikovoy_spirei_566240557",
+  "address": "Москва, м. Первомайская",
+  "title": "Взрослые и маленькие кусты карликовой спиреи",
+  "seller_link": "/user/dfb6b1ef5743d7c70ff837d384991274/profile?id=566240557&src=item",
+  "text": "Продаю взрослые кусты карликовой спиреи -1000\nтакже маленькие кустики-250р\n",
+  "post_date": "  07 October в 19:53  "
+}

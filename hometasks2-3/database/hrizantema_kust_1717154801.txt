@@ -1,0 +1,12 @@
+{
+  "text": "Вторая хризантема из тех что осталась у меня \nПродаю тк не хочу возиться с цветами\nЗацветёт очень скоро-видео бутоны\n",
+  "title": "Хризантема куст",
+  "price": 400,
+  "index": 1717154801,
+  "address": "Москва, м. Орехово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_kust_1717154801",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:00  ",
+  "seller": "Виктория",
+  "seller_link": "/user/9dd7b881ca9e23e1eec30494b63eb16d/profile?id=1717154801&src=item"
+}

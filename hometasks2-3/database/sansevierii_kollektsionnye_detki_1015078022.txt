@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "фернвоод 500\nфранцисси 300 и 400\nлавранос 1970 300\nпатенс спидер 400\nсуфритикоса блек 500\n",
+  "index": 1015078022,
+  "title": "Сансевиерии коллекционные детки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevierii_kollektsionnye_detki_1015078022",
+  "seller": "Любовь",
+  "address": "Москва, м. Люблино",
+  "post_date": "  6 октября в 17:22  ",
+  "seller_link": "/user/41af86abbeaefcbfbaed57193ca1baf9/profile?id=1015078022&src=item"
+}

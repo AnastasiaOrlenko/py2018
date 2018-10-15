@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 926673124,
+  "title": "Девичий виноград, кусты, деревья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/devichiy_vinograd_kusty_derevya_926673124",
+  "seller": "НАТАЛИЯ (частное лицо)",
+  "address": "Москва, м. Первомайская",
+  "text": "Саженцы девичьего винограда - 50р.\nКлен 1метр 150р, 2 метра - 300р.\nАкация желтая - 100р\n",
+  "post_date": "  6 октября в 00:08  ",
+  "seller_link": "/user/45605aac9bb1652bf30cc0f127c575d1/profile?id=926673124&src=item"
+}

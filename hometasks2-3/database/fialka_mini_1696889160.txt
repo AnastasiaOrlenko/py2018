@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1696889160,
+  "title": "Фиалка мини",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_mini_1696889160",
+  "seller": "Алена",
+  "address": "Москва, м. Бибирево",
+  "text": "Фиалка миниатюрная.\n",
+  "post_date": "  07 October в 12:47  ",
+  "seller_link": "/user/b772bb265196176e03656ebfeb319852/profile?id=1696889160&src=item"
+}

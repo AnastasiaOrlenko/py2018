@@ -1,0 +1,13 @@
+{
+  "price": 149,
+  "seller_status": "Компания",
+  "index": 1189024736,
+  "title": "Домашний цветок(хлорофитум кудрявый)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashniy_tsvetokhlorofitum_kudryavyy_1189024736",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Сходненская",
+  "text": "готово переехать в новый дом.в заботливые ручки ,в горшочке 3 растения !встречаюсь Сокол и Сходненская\n",
+  "post_date": "  5 октября в 13:24  ",
+  "seller_link": "/user/9c227eba42bdfe824bdbab927a9d4db2/profile?id=1189024736&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 180,
+  "index": 1073161051,
+  "seller": "Павел",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobrenie_stimulyator_tsitovit_1073161051",
+  "address": "Москва, м. ВДНХ",
+  "title": "Удобрение стимулятор Цитовит",
+  "seller_link": "/user/d177f8ae662e315ac2ebcd89191a6116/profile?id=1073161051&src=item",
+  "text": "Продаю удобрение стимулятор Цитовит 100 мл. Самовывоз Ярославское шоссе.\n",
+  "post_date": "  07 October в 23:19  "
+}

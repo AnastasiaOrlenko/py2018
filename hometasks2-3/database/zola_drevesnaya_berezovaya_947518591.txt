@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 947518591,
+  "title": "Зола древесная березовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zola_drevesnaya_berezovaya_947518591",
+  "seller": "марина  частное лицо",
+  "seller-contact": "марина николаевна",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "300г-100р Чистая качественная Только береза\n",
+  "post_date": "  5 октября в 13:09  ",
+  "seller_link": "/user/1486bb5b5d5f35dc7ac8ba034757d384/profile?id=947518591&src=item"
+}

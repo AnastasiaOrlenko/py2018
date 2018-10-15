@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1532158361,
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kizilnik_blestyaschiy_1532158361",
+  "address": "Москва, м. Алтуфьево",
+  "title": "Кизильник блестящий",
+  "seller_link": "/user/023f6115344cc3a8b26795ed83a8c85e/profile?id=1532158361&src=item",
+  "text": "Кизильник от 50 см. Трехлетний. Для живых изгородей, заборов. Прекрасно переносит стрижку под любые формы. От 20 штук. Актуально до конца октября.\n",
+  "post_date": "  07 October в 21:12  "
+}

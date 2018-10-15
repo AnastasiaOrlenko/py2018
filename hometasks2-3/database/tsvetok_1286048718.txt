@@ -1,0 +1,13 @@
+{
+  "price": 7900,
+  "seller_status": "Компания",
+  "index": 1286048718,
+  "title": "Цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_1286048718",
+  "seller": "Частное лицо",
+  "seller-contact": "Константин",
+  "address": "Москва, м. Белорусская",
+  "text": "Цветок комнатный\n",
+  "post_date": "  5 октября в 15:51  ",
+  "seller_link": "/user/bf241c95e5bb5e176e3e832538ec94ae/profile?id=1286048718&src=item"
+}

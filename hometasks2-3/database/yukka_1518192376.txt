@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Высота 2,50, цена договорная\n",
+  "index": 1518192376,
+  "seller": "Раиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1518192376",
+  "address": "Москва, м. Строгино",
+  "title": "Юкка",
+  "seller_link": "/user/1fa4fd345fb10f3b1b45f2e8a196f59f/profile?id=1518192376&src=item",
+  "post_date": "  07 October в 19:22  "
+}

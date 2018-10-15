@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1084805846,
+  "title": "Хоста твилайт и другие многолетники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hosta_tvilayt_i_drugie_mnogoletniki_1084805846",
+  "seller": "Александра",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Осока пестролистная, василек, ирисы голубые и жёлтые, гвоздика, лилейник - 50 р. Клубника - 10 р, Хоста твилайт - от 70 р. Привожу со своей дачи.\n",
+  "post_date": "  5 октября в 09:24  ",
+  "seller_link": "/user/ce9371666150e9882b23b884bdccb045/profile?id=1084805846&src=item"
+}

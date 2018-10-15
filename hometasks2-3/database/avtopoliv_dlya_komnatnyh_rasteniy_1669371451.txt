@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1669371451,
+  "title": "Автополив для комнатных растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avtopoliv_dlya_komnatnyh_rasteniy_1669371451",
+  "seller": "Nata",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Новый, нет заглушек и трубочек соединяющих шланги с гребенкой.Заглушки можно заменить чем то другим ,а шланги и так туго надеваются на гребенку.\n",
+  "post_date": "  5 октября в 00:20  ",
+  "seller_link": "/user/c52bb48bbcb9139dcb095ed3b77c7f22/profile?id=1669371451&src=item"
+}

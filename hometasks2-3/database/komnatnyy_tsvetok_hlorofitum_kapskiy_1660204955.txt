@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 550,
+  "index": 1660204955,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_hlorofitum_kapskiy_1660204955",
+  "address": "Москва, м. Медведково",
+  "title": "Комнатный цветок Хлорофитум капский",
+  "seller_link": "/user/783eacbe8a7e5c6a19ba434636fcbd74/profile?id=1660204955&src=item",
+  "text": "Комнатное растение Хлорофитум капский.\nРастение хорошо разрослось.\nГоршок белый пластиковый.\nПродаю из-за ремонта.\n",
+  "post_date": "  07 October в 12:57  "
+}

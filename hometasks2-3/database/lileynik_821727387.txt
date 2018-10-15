@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 821727387,
+  "title": "Лилейник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lileynik_821727387",
+  "seller": "Елена",
+  "address": "Москва, м. Академическая",
+  "text": "Очень красивый бархатный лилейник.\n",
+  "post_date": "  5 октября в 16:04  ",
+  "seller_link": "/user/e07128b85ea3b67e4b361e256e1cec4a/profile?id=821727387&src=item"
+}

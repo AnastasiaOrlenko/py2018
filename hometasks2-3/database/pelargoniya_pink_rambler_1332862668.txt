@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Наталья",
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_pink_rambler_1332862668",
+  "seller_status": "Компания",
+  "title": "Пеларгония Pink Rambler",
+  "post_date": "  08 October в 14:50  ",
+  "price": 250,
+  "index": 1332862668,
+  "seller_link": "/user/a228c96bc5ec229e0f92f15cdc722740/profile?id=1332862668&src=item",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Продаю укорененный черенок сортовой пеларгонии Pink Rambler\n"
+}

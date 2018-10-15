@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1248220671,
+  "title": "Пилея монетолистная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pileya_monetolistnaya_1248220671",
+  "seller": "Марина",
+  "seller-contact": "хозяйка",
+  "address": "Москва, м. Солнцево",
+  "text": "Солнцево\nМогу передать в метро\n",
+  "post_date": "  4 октября в 20:59  ",
+  "seller_link": "/user/9287edebfdd2239e9ddd12e669ca3350/profile?id=1248220671&src=item"
+}

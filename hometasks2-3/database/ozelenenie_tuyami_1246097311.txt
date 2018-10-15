@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Игорь",
+  "index": 1246097311,
+  "title": "Озеленение туями",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ozelenenie_tuyami_1246097311",
+  "seller": "ZapComTrans",
+  "address": "Москва, м. Китай-город",
+  "text": "Продаются Туи для озеленения торговых центров, офисов, бизнес центров.\nЗвоните\n",
+  "post_date": "  5 октября в 12:01  ",
+  "seller_link": "/user/7933f94295bda8c7c704c3ba01208242/profile?id=1246097311&src=item"
+}

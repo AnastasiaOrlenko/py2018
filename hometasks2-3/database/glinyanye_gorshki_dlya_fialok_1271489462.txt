@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Продам в одни руки глиняные горшки 8 см 8 от за 350 р\n",
+  "index": 1271489462,
+  "seller": "Юля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/glinyanye_gorshki_dlya_fialok_1271489462",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Глиняные горшки для фиалок",
+  "seller_link": "/user/34007ab7e0cd4b7335a2b29e254f93bf/profile?id=1271489462&src=item",
+  "post_date": "  07 October в 15:32  "
+}

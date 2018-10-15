@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1608892405,
+  "title": "Фукция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuktsiya_1608892405",
+  "seller": "Наталия",
+  "address": "Москва, м. Теплый стан",
+  "text": "Продаю растение фукция. Длина:35 см. Неприхотлив в уходе.\n",
+  "post_date": "  6 октября в 11:08  ",
+  "seller_link": "/user/550cc158c55047bbb7e6263e2362016f/profile?id=1608892405&src=item"
+}

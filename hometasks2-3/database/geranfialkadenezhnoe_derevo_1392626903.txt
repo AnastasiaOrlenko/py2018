@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1392626903,
+  "title": "Герань,фиалка,денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geranfialkadenezhnoe_derevo_1392626903",
+  "seller": "лара",
+  "seller-contact": "лара",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Комнатные растения,приносящие РАДОСТЬ и УДАЧУ!Есть цветущая герань:бледно-розовая,темно-розовая,коралловая\n",
+  "post_date": "  6 октября в 22:17  ",
+  "seller_link": "/user/34eb6794bc009a38652ebda3803f7eab/profile?id=1392626903&src=item"
+}

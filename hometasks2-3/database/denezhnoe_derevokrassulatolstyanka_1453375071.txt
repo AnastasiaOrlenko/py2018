@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1453375071,
+  "title": "Денежное дерево(крассула,толстянка)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevokrassulatolstyanka_1453375071",
+  "seller": "Мария,не компания",
+  "seller-contact": "Мария",
+  "address": "Москва, м. ВДНХ",
+  "text": "Денежное дерево(крассула,толстянка),укорененный отросток,высота вместе с горшком18 см\nвыращиваю без удобрений\nцена с горшком 100руб\nосталось 2 шт\n",
+  "post_date": "  5 октября в 18:35  ",
+  "seller_link": "/user/151af53631b0b47372b4bfb273c79baa/profile?id=1453375071&src=item"
+}

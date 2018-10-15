@@ -1,0 +1,12 @@
+{
+  "title": "Спирея жёлтолистная",
+  "price": 90,
+  "seller": "иван",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=979794345&src=item",
+  "address": "Москва, м. Охотный ряд",
+  "index": 979794345,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spireya_zheltolistnaya_979794345",
+  "text": "Мы предлагаем\nСпирея голдфлейм и голден принцесс ,20-30 см ,стоимость куста 150 в горшке .,Окс 90 рублей.Доставка ,любая форма оплаты.\n",
+  "post_date": "  4 октября в 18:02  "
+}

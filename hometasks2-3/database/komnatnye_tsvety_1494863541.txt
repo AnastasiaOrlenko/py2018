@@ -1,0 +1,12 @@
+{
+  "price": 450,
+  "seller_status": "Частное лицо",
+  "index": 1494863541,
+  "title": "Комнатные цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_1494863541",
+  "seller": "Анна",
+  "address": "Москва, м. Отрадное",
+  "text": "Композиция домашних растений , не прихотливы , смотрятся аккуратно и достойно , украсят ваш дом ) пишите сообщение здесь или смс :)\n",
+  "post_date": "  07 October в 12:21  ",
+  "seller_link": "/user/7b26cce021007d12ef63ae3bdbbb26b7/profile?id=1494863541&src=item"
+}

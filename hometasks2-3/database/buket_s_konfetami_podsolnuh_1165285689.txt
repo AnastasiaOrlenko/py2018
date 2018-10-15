@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1165285689,
+  "title": "Букет с конфетами \"Подсолнух\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_s_konfetami_podsolnuh_1165285689",
+  "seller": "Елена",
+  "address": "Москва, м. Молодежная",
+  "text": "Букет из конфет \" Марсианка\", диаметр приблизительно от 20 до 25см, возможно сделать с \"Осенним вальсом\",отличный подарок .\n",
+  "post_date": "  6 октября в 20:19  ",
+  "seller_link": "/user/a58bb0480381245e6616b98bfedc0422/profile?id=1165285689&src=item"
+}

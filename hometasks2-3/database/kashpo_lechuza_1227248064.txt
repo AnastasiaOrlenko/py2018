@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1227248064,
+  "title": "Кашпо Lechuza",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_lechuza_1227248064",
+  "seller": "Марина",
+  "address": "Москва, м. Тушинская",
+  "text": "Размеры, прим. (Ш х Г х В)\t50 x 50 x 46,5 cm\nАнтрацитовый металлик\nПочти новый.\n",
+  "post_date": "  5 октября в 19:12  ",
+  "seller_link": "/user/291d88567eb20d2205272d55ff9d0b1a/profile?id=1227248064&src=item"
+}

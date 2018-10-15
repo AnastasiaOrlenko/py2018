@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1625113690,
+  "title": "Филодендрон Медуза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/filodendron_meduza_1625113690",
+  "seller": "Наталия",
+  "address": "Москва, м. Селигерская",
+  "text": "Укорененный черенок\n",
+  "post_date": "  5 октября в 20:13  ",
+  "seller_link": "/user/bf59973dfad57bb79301fc3a46909446/profile?id=1625113690&src=item"
+}

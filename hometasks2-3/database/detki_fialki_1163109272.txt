@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1163109272,
+  "title": "Детки фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/detki_fialki_1163109272",
+  "seller": "Светлана",
+  "address": "Москва, м. Чертановская",
+  "text": "Предлагаю детки фиалок\nАВ - Чернильное сердце - 250 р\nMac’s Paisley Pattern - 100р.\nПоднесу к метро.\nНа смс не отвечаю. Не меняюсь.\n",
+  "post_date": "  6 октября в 22:55  ",
+  "seller_link": "/user/3098efcbf2734cf64e4e5a367884226f/profile?id=1163109272&src=item"
+}

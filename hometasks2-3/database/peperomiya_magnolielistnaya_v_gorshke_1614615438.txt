@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1614615438,
+  "title": "Пеперомия магнолиелистная в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/peperomiya_magnolielistnaya_v_gorshke_1614615438",
+  "seller": "частное лицо",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Обалденно красива\nСочные зеленые листья \nОтдам в новом пластиковом зеленом красивом горшке \nБольшая 450 с горшком\nПоменьше 300 с горшком\n",
+  "post_date": "  07 October в 12:13  ",
+  "seller_link": "/user/817f3feb2c53f6afdd92c83fd80d0422/profile?id=1614615438&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1537950706,
+  "title": "Аспарагус серповидный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/asparagus_serpovidnyy_1537950706",
+  "seller": "Татьяна",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Продаю аспарагус серповидный, высота 1,5 метра, диаметр кроны 1 мерт, диаметр горшка 30 см. Дает новые побеги. Самовывоз\n",
+  "post_date": "  5 октября в 20:12  ",
+  "seller_link": "/user/299f2b6adf3d938b860458d4ed7fd3b8/profile?id=1537950706&src=item"
+}

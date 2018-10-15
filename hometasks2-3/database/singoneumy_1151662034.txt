@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singoneumy_1151662034",
+  "price": 200,
+  "seller": "Елена",
+  "post_date": "  08 October в 22:29  ",
+  "title": "Сингонеумы",
+  "text": "Panda- 200, Confetti-200, wendlandii-200\nВсе уже подросли\n",
+  "index": 1151662034,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c724110caaf48b8c3d4359da367b47fc/profile?id=1151662034&src=item"
+}

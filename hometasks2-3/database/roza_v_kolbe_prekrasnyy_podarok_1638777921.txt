@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1638777921,
+  "title": "Роза в Колбе прекрасный подарок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_prekrasnyy_podarok_1638777921",
+  "seller": "Татьяна",
+  "address": "Москва, м. Братиславская",
+  "text": "Если не отвечаю на телефон пишите.я Вам отвечу смс.\n",
+  "post_date": "  4 октября в 22:54  ",
+  "seller_link": "/user/dcd24a8f074d10c1c73746ac955fd4f9/profile?id=1638777921&src=item"
+}

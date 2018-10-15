@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1273180856,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gretskiy_oreh_sazhenets_1273180856",
+  "address": "Москва, м. Речной вокзал",
+  "title": "Грецкий орех саженец",
+  "seller_link": "/user/58da1de7b330009d639936535f959eaa/profile?id=1273180856&src=item",
+  "text": "Саженцы грецкого ореха 3 года, отдельно есть 4 года и 5 года. Находятся в Водниках.\n",
+  "post_date": "  07 October в 13:55  "
+}

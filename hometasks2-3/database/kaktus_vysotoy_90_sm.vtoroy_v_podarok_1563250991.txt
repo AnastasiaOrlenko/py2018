@@ -1,0 +1,12 @@
+{
+  "text": "В керамическом горшке. Высота в горшке от основания горшка.Находится на даче под Чеховом\n",
+  "title": "Кактус высотой 90 см.Второй в подарок",
+  "price": 4000,
+  "index": 1563250991,
+  "address": "Москва, м. Университет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_vysotoy_90_sm.vtoroy_v_podarok_1563250991",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 01:00  ",
+  "seller": "Полина",
+  "seller_link": "/user/7a53aeccb3e6ff5de5eb780409cafeb5/profile?id=1563250991&src=item"
+}

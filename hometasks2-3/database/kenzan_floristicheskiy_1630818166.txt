@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1600,
+  "index": 1630818166,
+  "seller": "Макс",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kenzan_floristicheskiy_1630818166",
+  "address": "Москва, м. Сокол",
+  "title": "Кензан флористический",
+  "seller_link": "/user/95d28d75861fc0b6621dd2cd2d1010e6/profile?id=1630818166&src=item",
+  "text": "Размер: d-8 см.\nЗаказы принимаются от 10 штук!\n",
+  "post_date": "  07 October в 17:07  "
+}

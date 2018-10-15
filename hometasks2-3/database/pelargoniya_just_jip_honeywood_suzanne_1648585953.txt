@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/19fd5343097e05576bbdabfeaed05b8d/profile?id=1648585953&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_just_jip_honeywood_suzanne_1648585953",
+  "post_date": "  08 October в 09:40  ",
+  "address": "Москва, м. Выхино",
+  "seller": "Юлия",
+  "text": "Пеларгонии\nматочник Just Jip - 150р(фото 2)\nHoneywood Suzanne (3 черенка) - 250р\nВозможна встреча у ст.м. Новокосино, на любой станции Таганско-Краснопресненской линии метро от Выхино до Октябрьского поля или самовывоз из мкр. Кожухово. \nНе звоните, укажите номер телефона в сообщении, тогда я Вам перезвоню. Доступна в whatsapp.\n",
+  "index": 1648585953,
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "title": "Пеларгония Just Jip, Honeywood Suzanne"
+}

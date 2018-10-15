@@ -1,0 +1,12 @@
+{
+  "text": "Пальма юкка ,высота 2 метра.Растение находится в городе Покров,Владимирской области. Возможен торг.\n",
+  "title": "Пальма",
+  "price": 5000,
+  "index": 705878403,
+  "address": "Москва",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_705878403",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:27  ",
+  "seller": "Елена",
+  "seller_link": "/user/9fadd8af12873d65a96503366b3c0cfc/profile?id=705878403&src=item"
+}

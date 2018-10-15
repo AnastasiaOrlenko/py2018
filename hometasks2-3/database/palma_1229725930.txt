@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1229725930,
+  "title": "Пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_1229725930",
+  "seller": "Юлия",
+  "seller-contact": "Юлия",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продам пальму, высота растения с горшком 190см. Самовывоз из центра\n",
+  "post_date": "  07 October в 12:40  ",
+  "seller_link": "/user/72db82a2a0f49584c2a63e42be2ecca7/profile?id=1229725930&src=item"
+}

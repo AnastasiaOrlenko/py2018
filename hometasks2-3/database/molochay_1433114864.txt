@@ -1,0 +1,12 @@
+{
+  "text": "Забрать можно по адресу Востряковский проезд, дом 1, корп 1\n",
+  "title": "Молочай",
+  "price": 500,
+  "index": 1433114864,
+  "address": "Москва, м. Улица академика Янгеля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1433114864",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:53  ",
+  "seller": "Елена Туркина",
+  "seller_link": "/user/568cdfed731087f17bea651a758a8dab/profile?id=1433114864&src=item"
+}

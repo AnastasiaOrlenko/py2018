@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1598888420,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1598888420",
+  "address": "Москва, м. Новокосино",
+  "title": "Каланхоэ",
+  "seller_link": "/user/cd60ec74f2a65f1d75c84d26d86955a6/profile?id=1598888420&src=item",
+  "text": "Или за горшок с землёй,или шоколадка \nМожно и просто так\n",
+  "post_date": "  07 October в 21:16  "
+}

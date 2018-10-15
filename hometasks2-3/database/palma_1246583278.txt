@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1246583278,
+  "title": "Пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_1246583278",
+  "seller": "Юлия",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Продам цветок, торг\n",
+  "post_date": "  5 октября в 21:24  ",
+  "seller_link": "/user/65b4325f8306a1e50b4c0f80ea213206/profile?id=1246583278&src=item"
+}

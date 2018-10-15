@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1722907381,
+  "title": "Хойя Полинейра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_polineyra_1722907381",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Сильное молодое растение. Развитая корневая система. Есть цветоносы. Белый новый керамический горшок.\n",
+  "post_date": "  6 октября в 18:54  ",
+  "seller_link": "/user/f25bb87c55f92a8e533e942ccab4a09a/profile?id=1722907381&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 964944852,
+  "title": "Корзины для цветов или подарочных наборов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korziny_dlya_tsvetov_ili_podarochnyh_naborov_964944852",
+  "seller": "Наталья",
+  "address": "Москва, м. Белорусская",
+  "text": "Продам корзины для цветов или подарочных наборов. В наличии 6 штук, круглые и овальные, в диаметре от 12 до 25-30 см. За вашу цену.\n",
+  "post_date": "  4 октября в 19:43  ",
+  "seller_link": "/user/9128e29d7d17b94b7bc43f4030b0c20b/profile?id=964944852&src=item"
+}

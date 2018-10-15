@@ -1,0 +1,12 @@
+{
+  "text": "Доставка и самовывоз по Москве и обл\n",
+  "title": "Композиция из свежих цветов",
+  "price": 1650,
+  "index": 1463846365,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kompozitsiya_iz_svezhih_tsvetov_1463846365",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:06  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

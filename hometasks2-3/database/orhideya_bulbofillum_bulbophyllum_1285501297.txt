@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1285501297,
+  "title": "Орхидея бульбофиллум Bulbophyllum",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_bulbofillum_bulbophyllum_1285501297",
+  "seller": "Татьяна",
+  "address": "Москва, м. Перово",
+  "text": "Орхидея Bulbophyllum sp. Природный вид. Леса Вьетнама. Активно растит корешки, появились новые росты, живет на блоке из сфагнума. Размер блока 21*12 см. Цветение неизвестно.\nСамовывоз!\n",
+  "post_date": "  5 октября в 13:38  ",
+  "seller_link": "/user/8f836a91f457c1f01540a2fd918984f3/profile?id=1285501297&src=item"
+}

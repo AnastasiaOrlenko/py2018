@@ -1,0 +1,13 @@
+{
+  "price": 700,
+  "seller_status": "Компания",
+  "index": 1037481933,
+  "title": "Цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_1037481933",
+  "seller": "Мария",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Митино",
+  "text": "Продаётся цветок с горшком, раскидистый, пышный,самовывоз. Есть ещё роза, пуасентия, если забираете все 3 огромных растения, цена за все 2000.\n",
+  "post_date": "  5 октября в 22:09  ",
+  "seller_link": "/user/1faf9399c7f2fa45a60f5ebc3217d9bf/profile?id=1037481933&src=item"
+}

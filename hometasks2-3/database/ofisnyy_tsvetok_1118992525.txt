@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1118992525,
+  "title": "Офисный цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ofisnyy_tsvetok_1118992525",
+  "seller": "Илиона",
+  "seller-contact": "Павел Сергеевич",
+  "address": "Москва, м. Савеловская",
+  "text": "Красивое здоровое растение. Возраст более 10 лет. Продается вместе с горшком.\n",
+  "post_date": "  07 October в 01:30  ",
+  "seller_link": "/user/d5d13784fa671e23610b543e11796448/profile?id=1118992525&src=item"
+}

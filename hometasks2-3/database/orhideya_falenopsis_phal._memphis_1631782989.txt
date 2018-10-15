@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 450,
+  "index": 1631782989,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_phal._memphis_1631782989",
+  "address": "Москва, м. Арбатская",
+  "title": "Орхидея фаленопсис Phal. Memphis",
+  "seller_link": "/user/d2b586ad73df0eda2b6062a0cbda035d/profile?id=1631782989&src=item",
+  "text": "Орхидея фаленопсис Phal. Memphis \nЦветы крупные, до 10 см. \nНедавно пересажен в орхиату. \nВ настоящий момент растит молодой лист и корни.\nПредпочтительна связь через форму на сайте.\n",
+  "post_date": "  08 October в 08:44  "
+}

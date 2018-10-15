@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 706530488,
+  "title": "Кашпо большое (польша). Смотрится очень красиво",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_bolshoe_polsha._smotritsya_ochen_krasivo_706530488",
+  "seller": "Юлия (частное лицо)",
+  "address": "Москва, м. Сходненская",
+  "text": "Пластик. есть еще белые большие кашпо из пластика.\n",
+  "post_date": "  6 октября в 13:51  ",
+  "seller_link": "/user/14c6bc066a38ce6b6c9381f268494aee/profile?id=706530488&src=item"
+}

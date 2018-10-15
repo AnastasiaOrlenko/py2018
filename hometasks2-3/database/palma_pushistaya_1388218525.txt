@@ -1,0 +1,12 @@
+{
+  "price": 6000,
+  "seller_status": "Частное лицо",
+  "index": 1388218525,
+  "title": "Пальма пушистая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_pushistaya_1388218525",
+  "seller": "Nataly",
+  "address": "Москва, м. Арбатская",
+  "text": "Красивашная пушистая пальма (10 лет) выращена из малюсенького саженца, без химии. Самовывоз.\n",
+  "post_date": "  4 октября в 22:31  ",
+  "seller_link": "/user/cd757c9bfd1cced2bf74a89297e65e12/profile?id=1388218525&src=item"
+}

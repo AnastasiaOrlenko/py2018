@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1318673228,
+  "title": "Аквагрунт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/akvagrunt_1318673228",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "Цена за шт.\n",
+  "post_date": "  07 October в 12:48  ",
+  "seller_link": "/user/8eb9171e77a100ab25f0af82d40ce0ed/profile?id=1318673228&src=item"
+}

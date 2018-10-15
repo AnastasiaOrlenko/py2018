@@ -1,0 +1,12 @@
+{
+  "price": 1600,
+  "seller_status": "Частное лицо",
+  "index": 995861709,
+  "title": "Цветочная корзиночка на заказ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnaya_korzinochka_na_zakaz_995861709",
+  "seller": "Анастасия",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Создаем любые цветочные,подарочные коробочки!\n",
+  "post_date": "  4 октября в 19:28  ",
+  "seller_link": "/user/4172b75dfecc64be187884df84015e43/profile?id=995861709&src=item"
+}

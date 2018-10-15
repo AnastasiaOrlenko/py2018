@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 80,
+  "index": 1644737772,
+  "seller": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geyherella_alabama_sanrayz_1644737772",
+  "address": "Москва, м. Медведково",
+  "title": "Гейхерелла Алабама Санрайз",
+  "seller_link": "/user/5af12edef0b8cc9655d9e99d5d1fe7dc/profile?id=1644737772&src=item",
+  "text": "Гейхерелла выращена на своей даче. Высота 30 см. Находится в Пушкинском р-не. Возможна по договоренности встреча в Сергиево-Посадском или Пушкинском р-не. Цена за розетку.\n",
+  "post_date": "  07 October в 20:52  "
+}

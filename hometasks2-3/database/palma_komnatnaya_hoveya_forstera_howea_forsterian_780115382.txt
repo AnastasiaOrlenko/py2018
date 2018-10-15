@@ -1,0 +1,12 @@
+{
+  "price": 6000,
+  "seller_status": "Частное лицо",
+  "index": 780115382,
+  "title": "Пальма комнатная Ховея Форстера (Howea forsterian)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_komnatnaya_hoveya_forstera_howea_forsterian_780115382",
+  "seller": "Наталья",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Пальма комнатная Ховея Форстера (Howea forsterian). Приобреталась 11 лет назад. Высота с горшком 145 см. Высота горшка с поддоном 37см.\n",
+  "post_date": "  5 октября в 14:06  ",
+  "seller_link": "/user/a299566c616f388507c8b3a1d3764df0/profile?id=780115382&src=item"
+}

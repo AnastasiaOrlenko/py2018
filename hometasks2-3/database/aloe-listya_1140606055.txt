@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1140606055,
+  "title": "Алоэ-листья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe-listya_1140606055",
+  "seller": "Людмила",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Продам листья взрослого алоэ.Фото реально.Могу передать в метро.Цена за все\n",
+  "post_date": "  07 October в 08:54  ",
+  "seller_link": "/user/7c572abdb07cba6a7adcfd4bc8ebb693/profile?id=1140606055&src=item"
+}

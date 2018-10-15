@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/ec9fea840b7c7a0ead587984c298759d/profile?id=1676459458&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_starter_tsvetuschaya_1676459458",
+  "post_date": "  08 October в 09:44  ",
+  "address": "Москва, м. Сходненская",
+  "seller": "Ольга",
+  "text": "Продаю листья, деток, стартеры сортовых фиалок. На данный момент есть стартер Lion's Spekticular, цветет сейчас, спорт. \nВстречусь в метро по договоренности.\n",
+  "index": 1676459458,
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "title": "Фиалка стартер цветущая"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1698352376,
+  "title": "Ящики для рассады",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaschiki_dlya_rassady_1698352376",
+  "seller": "Любовь",
+  "address": "Москва, м. Бунинская аллея",
+  "text": "2 шт . цена за все\n",
+  "post_date": "  6 октября в 22:19  ",
+  "seller_link": "/user/d696a0582214f8094f1ae3e2800276db/profile?id=1698352376&src=item"
+}

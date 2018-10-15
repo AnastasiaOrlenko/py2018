@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1433194707,
+  "title": "Драцена, высота 90 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_vysota_90_sm_1433194707",
+  "seller": "Оксана",
+  "seller-contact": "Оксана",
+  "address": "Москва, м. Люблино",
+  "text": "Высота драцены – 90 см. Крона по горизонтали – 90 см.\nДрацена посажена в большой пластиковый горшок диаметром 23 см.\n",
+  "post_date": "  5 октября в 07:39  ",
+  "seller_link": "/user/92f5707e904a659363fd0cbb9df5eab2/profile?id=1433194707&src=item"
+}

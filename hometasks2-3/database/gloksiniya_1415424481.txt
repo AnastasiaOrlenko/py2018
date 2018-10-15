@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 60,
+  "index": 1415424481,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gloksiniya_1415424481",
+  "address": "Москва, м. Ясенево",
+  "title": "Глоксиния",
+  "seller_link": "/user/ffde0355d210828df6bfcef206057069/profile?id=1415424481&src=item",
+  "text": "Продам листики глоксинии винно красной для укоренения.\n",
+  "post_date": "  07 October в 19:31  "
+}

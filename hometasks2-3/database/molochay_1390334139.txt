@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1390334139,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1390334139",
+  "address": "Москва, м. Марьино",
+  "title": "Молочай",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1390334139&src=item",
+  "text": "Продам растение-молочный беложилый. Продаю растение без горшка, просто комом земли. Высота растения от земли 25 см. Возможна доставка до любой станции метро.\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 22:12  "
+}

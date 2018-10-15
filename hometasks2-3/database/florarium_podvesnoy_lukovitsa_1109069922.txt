@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 290,
+  "index": 1109069922,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_podvesnoy_lukovitsa_1109069922",
+  "address": "Москва, м. Сходненская",
+  "title": "Флорариум подвесной \"Луковица\"",
+  "seller_link": "/user/84a4edb2bb780536e7cdb82781665c80/profile?id=1109069922&src=item",
+  "text": "Подвесной флорариум - только стекло, без содержимого\nВысота 9,5 см\nШирина 10 см\n",
+  "post_date": "  07 October в 23:28  "
+}

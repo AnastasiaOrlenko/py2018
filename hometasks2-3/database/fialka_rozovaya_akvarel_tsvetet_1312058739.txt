@@ -1,0 +1,13 @@
+{
+  "text": "Фото сделано 13.10.18 г.\n",
+  "title": "Фиалка розовая акварель, цветёт",
+  "price": 350,
+  "index": 1312058739,
+  "address": "Москва, м. Авиамоторная",
+  "seller-contact": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_rozovaya_akvarel_tsvetet_1312058739",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:20  ",
+  "seller": "Анастасия",
+  "seller_link": "/user/50f952a9c4f5d26cc758c5d38874bff6/profile?id=1312058739&src=item"
+}

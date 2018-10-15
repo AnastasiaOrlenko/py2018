@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Алексеевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/asparagus_umbellatus_1723488383",
+  "price": 200,
+  "seller": "Ирина",
+  "post_date": "  08 October в 15:00  ",
+  "title": "Аспарагус umbellatus",
+  "text": "Аспарагус umbellatus, детка от взрослого растения, ампельное растение, очень красиво смотрится.\n",
+  "index": 1723488383,
+  "seller_status": "Компания",
+  "seller_link": "/user/b2e969fff6c2fd196a896d3c6ba0cf23/profile?id=1723488383&src=item"
+}

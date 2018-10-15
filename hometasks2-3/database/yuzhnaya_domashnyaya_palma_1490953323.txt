@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Белорусская",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yuzhnaya_domashnyaya_palma_1490953323",
+  "seller_status": "Компания",
+  "title": "Южная домашняя пальма",
+  "post_date": "  08 October в 14:22  ",
+  "price": 500,
+  "index": 1490953323,
+  "seller_link": "/user/e6f1801fb7f5b8cd0778ea80ac76f4b6/profile?id=1490953323&src=item",
+  "text": "Южная домашняя пальма.\nОчень хорошо растет дома. \nУкрасит любой интерьер.\nреклама не интересует!!!\n"
+}

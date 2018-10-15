@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Листочки фиалки в добрые руки. Сорт \"Ballerina\". Цветет долго, любит свет и регулярный полив. Великолепно размножается.\n",
+  "index": 1608597087,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1608597087",
+  "seller": "Анна",
+  "address": "Москва, м. Щелковская",
+  "post_date": "  07 October в 08:53  ",
+  "seller_link": "/user/acf642758284a680f01527311f143447/profile?id=1608597087&src=item"
+}

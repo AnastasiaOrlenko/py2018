@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1059375876,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1059375876",
+  "seller": "Елена",
+  "address": "Москва, м. Отрадное",
+  "text": "Кактус в керамическом горшке.\n",
+  "post_date": "  5 октября в 08:55  ",
+  "seller_link": "/user/a7fbd1771049886f03e88cd6c1b8dcb8/profile?id=1059375876&src=item"
+}

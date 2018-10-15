@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1133795298,
+  "title": "Дримиоптис. Укорененные луковицы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/drimioptis._ukorenennye_lukovitsy_1133795298",
+  "seller": "не компания",
+  "address": "Москва, м. Братиславская",
+  "text": "Разрастается в такой вот пышный цветок, (2 фото) - из интернета. \nВ наличии 15 стаканчиков.\nЦена за один.\nСамовывоз от подъезда.\n",
+  "post_date": "  6 октября в 16:30  ",
+  "seller_link": "/user/1022da56a9bf207489a00aff76ba59df/profile?id=1133795298&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 390,
+  "seller_status": "Компания",
+  "index": 183024345,
+  "title": "Каштан, саженец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashtan_sazhenets_183024345",
+  "seller": "Михаил",
+  "seller-contact": "Григорий",
+  "address": "Москва, м. Савеловская",
+  "text": "саженцы от 0,6 -1 ,4 м\nцена 3900-1450 руб соответственно,\n100% приживаемость,\nвозможна помошь при посадке.\nдоставка 600 руб по москве, по области +30 руб/км\n",
+  "post_date": "  6 октября в 02:36  ",
+  "seller_link": "/user/6868d86c9ee37db65fc2494b15c5430f/profile?id=183024345&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1443192975,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1443192975",
+  "seller": "Татьяна",
+  "address": "Москва, м. Кузьминки",
+  "text": "Растение здоровое, с отростками, высота от земли 78см.\n",
+  "post_date": "  5 октября в 21:43  ",
+  "seller_link": "/user/e8b9a902e26a84991bc3f4b2e968f2dd/profile?id=1443192975&src=item"
+}

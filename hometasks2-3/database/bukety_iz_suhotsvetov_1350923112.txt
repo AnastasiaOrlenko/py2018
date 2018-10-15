@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1350923112,
+  "title": "Букеты из сухоцветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bukety_iz_suhotsvetov_1350923112",
+  "seller": "Елена",
+  "address": "Москва, м. Молодежная",
+  "text": "Букеты из невянущих цветов. Сохраняют свою красоту в течении года. Диаметр данных букетов 14 см. Высота 26 см. \nЛюбые расцветки на заказ. Композиции в шляпной коробках и др. По запросу сайт вышлю.\n",
+  "post_date": "  07 October в 10:39  ",
+  "seller_link": "/user/f3fa67f0ef1edff860ba59beb1b5f092/profile?id=1350923112&src=item"
+}

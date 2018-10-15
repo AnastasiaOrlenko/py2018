@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "цветы, самовывоз\n",
+  "index": 1492515674,
+  "title": "Цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_1492515674",
+  "seller": "Галина",
+  "address": "Москва, м. Улица Горчакова",
+  "post_date": "  6 октября в 17:47  ",
+  "seller_link": "/user/7f9e3f396f5551ec8f2b9bbbc5c8faf8/profile?id=1492515674&src=item"
+}

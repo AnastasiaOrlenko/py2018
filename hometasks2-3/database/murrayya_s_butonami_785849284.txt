@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 785849284,
+  "seller": "светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/murrayya_s_butonami_785849284",
+  "address": "Москва, м. Планерная",
+  "title": "Муррайя с бутонами",
+  "seller_link": "/user/90dfed1f9c1a8c3b595c5ff9733776b5/profile?id=785849284&src=item",
+  "text": "из семян со своего дерева,2-е фото материнское растение не продается\n",
+  "seller-contact": "светлана",
+  "post_date": "  07 October в 13:39  "
+}

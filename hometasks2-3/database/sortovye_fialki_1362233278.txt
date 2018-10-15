@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1362233278,
+  "title": "Сортовые фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_fialki_1362233278",
+  "seller": "Анастасия",
+  "address": "Москва, м. Юго-Западная",
+  "text": "цветущие кустики шикарных редких видов.\n",
+  "post_date": "  5 октября в 13:15  ",
+  "seller_link": "/user/348de07d4f8f131f389e6ec00e910eba/profile?id=1362233278&src=item"
+}

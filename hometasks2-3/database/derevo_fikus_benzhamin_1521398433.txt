@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 15000,
+  "index": 1521398433,
+  "seller": "Артем",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derevo_fikus_benzhamin_1521398433",
+  "address": "Москва, м. Войковская",
+  "title": "Дерево фикус бенжамин",
+  "seller_link": "/user/26d0f5401ffbb0f57fc612be6649c1ff/profile?id=1521398433&src=item",
+  "text": "Фикус бенжамин 185см\n",
+  "post_date": "  07 October в 21:49  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1400,
+  "seller_status": "Частное лицо",
+  "index": 1377344829,
+  "title": "Орхидея целогина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_tselogina_1377344829",
+  "seller": "Юлия",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Coelogyne mooreana× beccari поставщик ОМ, растит новый рост.\n",
+  "post_date": "  07 October в 11:49  ",
+  "seller_link": "/user/7e902784bb646761abb4d35c86f23849/profile?id=1377344829&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Розы, эвкалипт, ...\n",
+  "title": "Цветы в коробочке",
+  "price": 2000,
+  "index": 1422338169,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_v_korobochke_1422338169",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1027913663,
+  "title": "Blc. Phoenix",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/blc._phoenix_1027913663",
+  "seller": "Анна",
+  "address": "Москва, м. Селигерская",
+  "text": "Продается деленка каттлеи Blc. Phoenix готова к цветению. Фото цветения материнского растения.\nОрхидея Фаленопсис каттлея Цимбидиум ванда\n",
+  "post_date": "  5 октября в 18:26  ",
+  "seller_link": "/user/aacfbb77888d7b1d9b7fa0ae1091149d/profile?id=1027913663&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korni_piona_1095831429",
+  "seller-contact": "татьяна",
+  "price": 45,
+  "seller": "тм",
+  "post_date": "  08 October в 19:16  ",
+  "title": "Корни пиона",
+  "text": "Продаем корни пионов красные белые буро красные доставка\n",
+  "index": 1095831429,
+  "seller_status": "Компания",
+  "seller_link": "/user/3386c47d89e1a45062deb259e10c6378/profile?id=1095831429&src=item"
+}

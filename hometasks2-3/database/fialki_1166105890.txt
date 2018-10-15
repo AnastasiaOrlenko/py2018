@@ -1,0 +1,13 @@
+{
+  "price": 15,
+  "seller_status": "Компания",
+  "index": 1166105890,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1166105890",
+  "seller": "частое лицо",
+  "seller-contact": "Татьяна Ивановна",
+  "address": "Москва, м. Площадь Ильича",
+  "text": "Предлагаю листики фиалок цвета есть фиолетовый, сиреневый, розовый. Цена за лист 15 руб.\n",
+  "post_date": "  07 October в 12:08  ",
+  "seller_link": "/user/f6bc213ec67dae083d54b24087266477/profile?id=1166105890&src=item"
+}

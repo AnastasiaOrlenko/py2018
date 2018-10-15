@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1349231681,
+  "seller": "лариса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_aloe-vera_1349231681",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Продам алоэ-вера",
+  "seller_link": "/user/ce551815c2c5cd5a1ddf921beb468268/profile?id=1349231681&src=item",
+  "text": "Продам алоэ-вера. Абсолютно здоровое растение, возраст 1 год. Самовывоз метро Братислаская.\n",
+  "post_date": "  07 October в 22:37  "
+}

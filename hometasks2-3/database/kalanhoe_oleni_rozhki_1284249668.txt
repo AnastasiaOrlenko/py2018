@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1284249668,
+  "title": "Каланхоэ Оленьи Рожки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_oleni_rozhki_1284249668",
+  "seller": "Полина",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Черенки и укоренённые молодые растения. Необычное каланхоэ с резными листочками. Неприхотливое травянистое растение.\n",
+  "post_date": "  5 октября в 17:12  ",
+  "seller_link": "/user/eda3731d7358413647e0afe6bbee5a51/profile?id=1284249668&src=item"
+}

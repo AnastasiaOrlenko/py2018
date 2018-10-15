@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Чертановская",
+  "seller": "Анжела",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/liliya_belayakomnatnyy_tsvetok._zatsvetaet_1417428047",
+  "seller_status": "Частное лицо",
+  "title": "Лилия белая,комнатный цветок. Зацветает",
+  "post_date": "  08 October в 14:19  ",
+  "price": 1000,
+  "index": 1417428047,
+  "seller_link": "/user/bfc39de4274169fd1264b7ef73a8d999/profile?id=1417428047&src=item",
+  "text": "Лилия белая,комнатный цветок.Шикарное луковичное растение. Нежный аромат. Идеальный подарок ко дню рождения.\n"
+}

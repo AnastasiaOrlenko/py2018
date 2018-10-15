@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 880075063,
+  "title": "Продам хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_hlorofitum_880075063",
+  "seller": "не компания",
+  "address": "Москва, м. Первомайская",
+  "text": "Хлорофитум, домашний неприхотливый очиститель воздуха за сутки 6 кв метров: \n55 см --1 год, много побегов 450 руб \nс кашпо 650 руб ,\nпобеги 50 руб\n",
+  "post_date": "  4 октября в 21:05  ",
+  "seller_link": "/user/5033e4e654e392733e7ae3b21d5980bb/profile?id=880075063&src=item"
+}

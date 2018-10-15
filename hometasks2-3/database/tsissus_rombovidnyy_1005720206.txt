@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1005720206,
+  "title": "Циссус ромбовидный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsissus_rombovidnyy_1005720206",
+  "seller": "татьяна",
+  "address": "Москва, м. Краснопресненская",
+  "text": "Циссус! \n( горшок+ почва с удобрениями+дренаж) цена 500\n",
+  "post_date": "  6 октября в 22:02  ",
+  "seller_link": "/user/9eda916e81867a7278b3b4ea1f088aef/profile?id=1005720206&src=item"
+}

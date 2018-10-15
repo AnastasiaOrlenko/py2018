@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 655659163,
+  "title": "Click Grow смартпот",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/click_grow_smartpot_655659163",
+  "seller": "Светлана",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Коломенская",
+  "text": "Click Grow электронный смартпот (без картриджа)\nБу 1 растение, в отличном состоянии, ОРИГИНАЛ, покупался в Эстонии (страна изобретателя)\n",
+  "post_date": "  5 октября в 11:26  ",
+  "seller_link": "/user/b4421a91a24327e9be012d6afbfde998/profile?id=655659163&src=item"
+}

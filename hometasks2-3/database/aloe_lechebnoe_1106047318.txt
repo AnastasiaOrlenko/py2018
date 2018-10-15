@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1106047318,
+  "title": "Алое лечебное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_lechebnoe_1106047318",
+  "seller": "роман",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "алое лечебное в горшке ОСТАЛИСЬ ПОСЛЕДНИЕ 2 ЦВЕТКА !!!\n",
+  "post_date": "  07 October в 08:23  ",
+  "seller_link": "/user/6a91f91f94f81b15a986141cf76eb2f8/profile?id=1106047318&src=item"
+}

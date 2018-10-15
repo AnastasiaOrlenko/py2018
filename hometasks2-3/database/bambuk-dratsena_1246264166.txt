@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Орехово",
+  "seller": "Sergey",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bambuk-dratsena_1246264166",
+  "seller_status": "Частное лицо",
+  "title": "Бамбук-драцена",
+  "post_date": "  08 October в 12:31  ",
+  "price": 600,
+  "index": 1246264166,
+  "seller_link": "/user/83839ee38534a17a4d3d749dc27d9f12/profile?id=1246264166&src=item",
+  "text": "Продаю бамбук в горшке. Высота растения около 1.5 м.\nНеприхотлив в уходе.\nСамовывоз.\nм Орехово / м. Домодедовская.\n"
+}

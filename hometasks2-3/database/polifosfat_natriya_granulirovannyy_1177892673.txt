@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1177892673,
+  "title": "Полифосфат натрия гранулированный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polifosfat_natriya_granulirovannyy_1177892673",
+  "seller": "Евгений",
+  "address": "Москва, м. Академическая",
+  "text": "Полифосфат натрия тех. гранулированный мешках по 25кг производства Китай.\nКоличество 246 кг нетто. Цена 70 руб/кг\n",
+  "post_date": "  4 октября в 21:35  ",
+  "seller_link": "/user/2495ebf46fae68dde7c2559170f932bd/profile?id=1177892673&src=item"
+}

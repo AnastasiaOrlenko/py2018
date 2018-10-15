@@ -1,0 +1,12 @@
+{
+  "text": "Гербера, орхидея, гипсофила, зелень\n",
+  "title": "Корзина цветов",
+  "price": 1350,
+  "index": 1157830592,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzina_tsvetov_1157830592",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

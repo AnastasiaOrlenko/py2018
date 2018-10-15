@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1064755601,
+  "title": "Алоэ 40см-ствол",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_40sm-stvol_1064755601",
+  "seller": "Роза",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Продам взрослый ствол алоэ.\n",
+  "post_date": "  07 October в 08:48  ",
+  "seller_link": "/user/6bd4478737120703c39c6775ba1f9b47/profile?id=1064755601&src=item"
+}

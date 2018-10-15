@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1416442565,
+  "title": "Денежное дерево (толстянка)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_tolstyanka_1416442565",
+  "seller": "Михаил",
+  "address": "Москва, м. Водный стадион",
+  "text": "Денежное дерево (толстянка). Высота 20 см.\nМожно взять отростки с корнями, но без земли - 50 руб.\n",
+  "post_date": "  4 октября в 20:51  ",
+  "seller_link": "/user/50abae240b6013d50dcb92f395139c41/profile?id=1416442565&src=item"
+}

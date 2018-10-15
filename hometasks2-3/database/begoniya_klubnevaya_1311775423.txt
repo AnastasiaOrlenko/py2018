@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/0aab23e9ffe046cca4b8699843769f10/profile?id=1311775423&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_klubnevaya_1311775423",
+  "post_date": "  08 October в 09:56  ",
+  "address": "Москва, м. Калужская",
+  "seller": "Мила",
+  "text": "Бегония клубневая, цветки ярко-лимонного цвета. Маленькая еще, но уже набирает бутоны )))\n",
+  "index": 1311775423,
+  "seller_status": "Частное лицо",
+  "price": 120,
+  "title": "Бегония клубневая"
+}

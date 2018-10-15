@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_dlya_ikebany_530922617",
+  "price": 1000,
+  "seller": "Олег",
+  "post_date": "  08 October в 18:53  ",
+  "title": "Подставка для икебаны",
+  "text": "Подставка для икубаны\nДиаметр 80 мм. 200 шипов\n",
+  "index": 530922617,
+  "seller_status": "Компания",
+  "seller_link": "/user/c432396d361ad7770cb4e3b29ab8f35f/profile?id=530922617&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1279502705,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1279502705",
+  "seller": "Наталья",
+  "address": "Москва, м. Новокосино",
+  "text": "Продаю излишки хлорофитума. Всего три куста, 2 из них цветут и уже появились новые побеги.\n",
+  "post_date": "  5 октября в 16:27  ",
+  "seller_link": "/user/fc95f83283e8747d6ed7029b88914b65/profile?id=1279502705&src=item"
+}

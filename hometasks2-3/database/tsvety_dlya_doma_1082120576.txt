@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1082120576,
+  "title": "Цветы для дома",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_dlya_doma_1082120576",
+  "seller": "Елена",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "Продаются цветы с фото любой за 200р\n",
+  "post_date": "  5 октября в 22:19  ",
+  "seller_link": "/user/9a417639b83e0904f0259413bda8b121/profile?id=1082120576&src=item"
+}

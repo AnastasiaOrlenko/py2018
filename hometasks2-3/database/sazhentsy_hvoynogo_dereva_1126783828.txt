@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1126783828,
+  "seller": "лилия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_hvoynogo_dereva_1126783828",
+  "address": "Москва, м. Сухаревская",
+  "title": "Саженцы хвойного дерева",
+  "seller_link": "/user/4b02b2433cbb0c85686aecba12e3a373/profile?id=1126783828&src=item",
+  "text": "саженцы сосны обыкновенной,голубой,саженцы елки,пихты,клена\n",
+  "post_date": "  07 October в 13:57  "
+}

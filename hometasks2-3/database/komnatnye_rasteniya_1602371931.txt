@@ -1,0 +1,12 @@
+{
+  "text": "Названия к сожалению не знаю\n",
+  "title": "Комнатные растения",
+  "price": 500,
+  "index": 1602371931,
+  "address": "Москва, м. Озёрная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_1602371931",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:27  ",
+  "seller": "Ксюша",
+  "seller_link": "/user/f159f5668045fea9ffce3aab49584479/profile?id=1602371931&src=item"
+}

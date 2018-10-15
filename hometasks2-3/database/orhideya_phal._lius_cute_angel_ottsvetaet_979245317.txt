@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1100,
+  "index": 979245317,
+  "seller": "Елена Т",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_phal._lius_cute_angel_ottsvetaet_979245317",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Орхидея Phal. Lius Cute Angel отцветает",
+  "seller_link": "/user/023534d9abb80475cef9279940c18918/profile?id=979245317&src=item",
+  "text": "Продаю орхидею Phal. Lius Cute Angel Yaphon. Цветет охотно, практически без пауз. На фото последнее ее цветение. Актуальные фото по запросу.\nВопросы в личку. \nВстреча у м. Славянский б-р по договоренности.\n",
+  "post_date": "  07 October в 21:54  "
+}

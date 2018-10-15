@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 400,
+  "index": 1296277224,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ferokaktus_1296277224",
+  "address": "Москва, м. Университет",
+  "title": "Ферокактус",
+  "seller_link": "/user/0c58a7972ef49ed83765b9071c299dc3/profile?id=1296277224&src=item",
+  "text": "Ферокактус. Красивый и очень колючий.\n",
+  "post_date": "  07 October в 20:02  "
+}

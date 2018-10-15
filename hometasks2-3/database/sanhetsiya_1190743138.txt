@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1190743138,
+  "title": "Санхеция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sanhetsiya_1190743138",
+  "seller": "Ольга",
+  "address": "Москва, м. Медведково",
+  "text": "Молодое растение Санхеция. Декоративные крупные листья с желтыми прожилками. Высота 30 см. На 1 фото. Второе - родительское.\n",
+  "post_date": "  5 октября в 10:43  ",
+  "seller_link": "/user/8ed9c48fa6702a5f50a11efca46d4a04/profile?id=1190743138&src=item"
+}

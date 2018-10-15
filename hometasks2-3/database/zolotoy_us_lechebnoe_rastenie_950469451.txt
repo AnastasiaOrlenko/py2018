@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_lechebnoe_rastenie_950469451",
+  "price": 300,
+  "seller": "Ольга",
+  "post_date": "  08 October в 18:40  ",
+  "title": "Золотой Ус (лечебное растение)",
+  "text": "Очень красивый интерьерный цветок, можно использовать в лечебных целях. Зацветает на 2-3 год красивыми белыми соцветиями, напоминающими незабудки.\n",
+  "index": 950469451,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/bcc971217fb6d659ed808735c38314c2/profile?id=950469451&src=item"
+}

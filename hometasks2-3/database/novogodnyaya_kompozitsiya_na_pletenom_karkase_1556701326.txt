@@ -1,0 +1,12 @@
+{
+  "text": "Новогодняя композиция на плетеном каркасе.\nПример.\nДиаметр 50 см.\n",
+  "title": "Новогодняя композиция на плетеном каркасе",
+  "price": 100,
+  "index": 1556701326,
+  "address": "Москва, м. Калужская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novogodnyaya_kompozitsiya_na_pletenom_karkase_1556701326",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:13  ",
+  "seller": "Наталья",
+  "seller_link": "/user/139d539491ac1b633268359009a54ae9/profile?id=1556701326&src=item"
+}

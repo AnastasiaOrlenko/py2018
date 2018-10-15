@@ -1,0 +1,12 @@
+{
+  "price": 4500,
+  "seller_status": "Частное лицо",
+  "index": 556858146,
+  "title": "Ростовые бумажные пионы,полевые цветы(большие цвет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rostovye_bumazhnye_pionypolevye_tsvetybolshie_tsvet_556858146",
+  "seller": "Екатерина",
+  "address": "Москва, м. Ясенево",
+  "text": "Ростовые бумажные пионы бело-голубые диаметром 55см, высота любая по вашему желанию.\nИсполнение в любом цвете и размере.\n Композиция из полевые бумажных цветов.\nРостовой мак, одуванчик, ромашка,василёк.\nДиаметр цветов 55см\nВысота стеблей 1.5-1.7мм \nВ соц сетях ciferkaibykovka\n",
+  "post_date": "  6 октября в 13:22  ",
+  "seller_link": "/user/f14c0091ab40e9fdfffcaf8aad98db07/profile?id=556858146&src=item"
+}

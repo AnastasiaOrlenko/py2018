@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 8000,
+  "index": 1216003045,
+  "seller": "Светлана Мазалова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_mikrokarpa_1216003045",
+  "address": "Москва, м. Марьино",
+  "title": "Фикус микрокарпа",
+  "seller_link": "/user/19eff5fe4b67f90ed233bf576be91463/profile?id=1216003045&src=item",
+  "text": "Фикус микрокарпа,высота с горш.1.60,бонсай,треб.опрыскивание и небольшой полив,не любт сквозняков,продаётся в керомич.горшке.Недорого!!!Самовывоз!\n",
+  "post_date": "  08 October в 07:40  "
+}

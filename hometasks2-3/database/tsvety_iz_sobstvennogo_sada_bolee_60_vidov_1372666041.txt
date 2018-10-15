@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Марксистская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_iz_sobstvennogo_sada_bolee_60_vidov_1372666041",
+  "price": 100,
+  "seller": "Юлия",
+  "post_date": "  08 October в 21:24  ",
+  "title": "Цветы из собственного сада, более 60 видов",
+  "text": "цветы разрослись, продаю по 100р.\nесть еще растения, смотрите профиль.\n",
+  "index": 1372666041,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/65d0f96a207729b294d3db17a8db0874/profile?id=1372666041&src=item"
+}

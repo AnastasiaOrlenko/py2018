@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Преображенская площадь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sanseveriya_1601511336",
+  "price": 200,
+  "seller": "Елена",
+  "post_date": "  08 October в 16:24  ",
+  "title": "Сансевьерия",
+  "text": "Сансевьерия цилиндрика. Молодое крепкое растение, высота от грунта около 15 см. 200 руб.\n",
+  "index": 1601511336,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/35472f4333d047b73e6a7dfb9be7bea5/profile?id=1601511336&src=item"
+}

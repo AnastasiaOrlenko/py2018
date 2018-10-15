@@ -1,0 +1,12 @@
+{
+  "title": "Молочай Euphorbia Gabizan (Cocklebur)",
+  "price": 300,
+  "seller": "Андрей",
+  "seller_link": "/user/3089a442ecbcbbb04aa0d6fd979844dd/profile?id=848766444&src=item",
+  "address": "Москва, м. Чистые пруды",
+  "index": 848766444,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_euphorbia_gabizan_cocklebur_848766444",
+  "text": "Молочай габизан - Euphorbia 'Gabizan' или ‘Cocklebur’, гибрид E.suzannae и E.bupleurifolia.\nНа первом фото - материнское растение (7 лет)\n(не продается)\nПродаются растения на втором и третьем фото\nЕсть и другие различные суккуленты: литопсы, титанопсис, фаукария, кристатные эониумы и эхеверии, хавортии, гастерии, адромисхусы, местоклемма, аихризон и др.\nВышлю ссылку по запросу.\n",
+  "post_date": "  4 октября в 17:01  "
+}

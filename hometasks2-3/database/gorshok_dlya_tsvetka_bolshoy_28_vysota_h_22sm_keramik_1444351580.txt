@@ -1,0 +1,13 @@
+{
+  "text": "фирменный, внутр диаметр вверху 22 см.поддон пластик такого же цвета\n",
+  "title": "Горшок для цветка большой 28 высота х 22см керамик",
+  "price": 390,
+  "index": 1444351580,
+  "address": "Москва, м. Калужская",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetka_bolshoy_28_vysota_h_22sm_keramik_1444351580",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:46  ",
+  "seller": "частное лицо",
+  "seller_link": "/user/db439ca691b442df39ce2daa70025fdb/profile?id=1444351580&src=item"
+}

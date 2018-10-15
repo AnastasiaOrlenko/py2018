@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1296221755,
+  "title": "Хризантема Инг-Янг",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_ing-yang_1296221755",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 12д , высота 30 см\n",
+  "post_date": "  6 октября в 20:51  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1296221755&src=item"
+}

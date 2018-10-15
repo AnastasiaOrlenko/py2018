@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1138432164,
+  "title": "Тилландсия дуэра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tillandsiya_duera_1138432164",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 5д. Высота 30см.\n",
+  "post_date": "  07 October в 01:14  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1138432164&src=item"
+}

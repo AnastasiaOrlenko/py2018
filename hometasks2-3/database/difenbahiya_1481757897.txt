@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Людмила",
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/difenbahiya_1481757897",
+  "seller_status": "Компания",
+  "title": "Дифенбахия",
+  "post_date": "  08 October в 11:19  ",
+  "price": 399,
+  "index": 1481757897,
+  "seller_link": "/user/fd0179c1794fcaaa1a6bc0ce5901abbe/profile?id=1481757897&src=item",
+  "address": "Москва, м. Раменки",
+  "text": "Дифенбахия. Здоровое растения. От привозного из эмиратов. Крупное. 1,5 года. Растёт быстро.\n"
+}

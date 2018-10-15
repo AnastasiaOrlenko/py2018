@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 1500,
+  "index": 990493079,
+  "seller": "не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_990493079",
+  "address": "Москва, м. Пражская",
+  "title": "Кактусы",
+  "seller_link": "/user/d789a69fc6f8c27874073cb50254c1c2/profile?id=990493079&src=item",
+  "text": "Продам композицию из кактусов(4 вида) Один из них -маммилярия.Высота самого крупного кактуса -30 см.Отдаю вместе с горшком.Диаметр горшка -22 см\n",
+  "seller-contact": "Ольга",
+  "post_date": "  07 October в 21:08  "
+}

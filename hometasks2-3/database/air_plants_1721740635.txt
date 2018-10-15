@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1721740635,
+  "title": "Air plants",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/air_plants_1721740635",
+  "seller": "Ксения",
+  "address": "Москва, м. Римская",
+  "text": "Микс тилландсии\n",
+  "post_date": "  6 октября в 23:15  ",
+  "seller_link": "/user/eb66c3707fef1bc73f77ed2bf8403e8d/profile?id=1721740635&src=item"
+}

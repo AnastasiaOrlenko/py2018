@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1248628649,
+  "seller": "Дарья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukonosnyy_volshebnyy_1248628649",
+  "address": "Москва, м. Коломенская",
+  "title": "Фикус каучуконосный (волшебный)",
+  "seller_link": "/user/22098dfc443673454639d605f143411d/profile?id=1248628649&src=item",
+  "text": "3-хлетнее дерево в горшке со свежим грунтом.\nВысота с горшком - 70 см.,\nветки в шириру - 60 см.\n",
+  "post_date": "  08 October в 02:56  "
+}

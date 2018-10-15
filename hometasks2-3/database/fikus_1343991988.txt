@@ -1,0 +1,12 @@
+{
+  "price": 7000,
+  "seller_status": "Частное лицо",
+  "index": 1343991988,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1343991988",
+  "seller": "Евгений",
+  "address": "Москва, м. Варшавская",
+  "text": "Фикус высота 180см.\n",
+  "post_date": "  4 октября в 21:46  ",
+  "seller_link": "/user/8cde75ac5589100bfb213e79ea7b8b7d/profile?id=1343991988&src=item"
+}

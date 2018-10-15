@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 1000,
+  "index": 1297059870,
+  "seller": "Роман (EXOBJECT)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semechko_drakontomelona_-_buddiyskiy_plod_amulet_1297059870",
+  "address": "Москва, м. Коньково",
+  "title": "Семечко драконтомелона - буддийский плод амулет",
+  "seller_link": "/user/4abbee905cf5b486603ecc5b32fc9811/profile?id=1297059870&src=item",
+  "text": "Подлиное живое семечко Драконтомелона (крупное, уникальное дерево) - буддийский плод амулет на удачу.\nСейчас есть несколько семечек на продажу.\n",
+  "seller-contact": "Роман",
+  "post_date": "  07 October в 19:38  "
+}

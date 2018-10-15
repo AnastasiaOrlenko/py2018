@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoy_napolnyy_gorshok_dlya_tsvetov_1429256960",
+  "price": 500,
+  "seller": "михаил",
+  "post_date": "  08 October в 23:59  ",
+  "title": "Большой напольный горшок для цветов",
+  "text": "Продам большой горшок, состояние новый, размер высота 32см, диаметр 37см\n",
+  "index": 1429256960,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/625aa62ac98789bf260286cfb89cc4ed/profile?id=1429256960&src=item"
+}

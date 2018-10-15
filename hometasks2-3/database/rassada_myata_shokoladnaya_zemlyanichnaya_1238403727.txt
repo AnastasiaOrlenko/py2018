@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1238403727,
+  "title": "Рассада мята шоколадная, земляничная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rassada_myata_shokoladnaya_zemlyanichnaya_1238403727",
+  "seller": "николай",
+  "address": "Москва, м. Алма-Атинская",
+  "text": "Рассада мяты\nЕсть с запахом земляники и мяты.\nОчень классно пахнет.\nСамовывоз.\nОтправка в регионы\n",
+  "post_date": "  5 октября в 17:23  ",
+  "seller_link": "/user/77f24f17166e5f4a6032d30583f2fdcb/profile?id=1238403727&src=item"
+}

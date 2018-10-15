@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1054278840,
+  "title": "Лилия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/liliya_1054278840",
+  "seller": "Лилия",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "продается\n",
+  "post_date": "  6 октября в 12:50  ",
+  "seller_link": "/user/334a33fec9e5210196915cbecc0a6455/profile?id=1054278840&src=item"
+}

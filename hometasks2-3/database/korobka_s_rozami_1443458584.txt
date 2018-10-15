@@ -1,0 +1,12 @@
+{
+  "text": "Розы в коробке\n",
+  "title": "Коробка с розами",
+  "price": 3100,
+  "index": 1443458584,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korobka_s_rozami_1443458584",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

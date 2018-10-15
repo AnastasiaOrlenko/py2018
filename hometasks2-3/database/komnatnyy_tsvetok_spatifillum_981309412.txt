@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 981309412,
+  "title": "Комнатный цветок спатифиллум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_spatifillum_981309412",
+  "seller": "Юлия",
+  "address": "Москва, м. Марксистская",
+  "text": "Комнатные цветущие растения спатифиллум. Цветет белым цветком.\nВ наличии 4 стаканчика по 100р.\n",
+  "post_date": "  6 октября в 17:34  ",
+  "seller_link": "/user/65d0f96a207729b294d3db17a8db0874/profile?id=981309412&src=item"
+}

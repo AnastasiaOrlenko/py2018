@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1196763856,
+  "title": "Молодая сортовая фиалка Little Miss Muffet",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molodaya_sortovaya_fialka_little_miss_muffet_1196763856",
+  "seller": "Мария",
+  "seller-contact": "Не компания",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Продам молодую сортовую фиалочку (мини) Little Miss Muffet, в стаканчике, на фитиле, диаметр 7 см. Фото продаваемой фиалки от 25 сентября 2018г.\nПоднесу к турникету метро и упакую.\n",
+  "post_date": "  07 October в 07:28  ",
+  "seller_link": "/user/4cf59bcb913aa0ed2fd0c54cb1b1b92e/profile?id=1196763856&src=item"
+}

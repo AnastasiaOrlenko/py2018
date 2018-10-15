@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Верхние Лихоборы",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sortovaya_aelita_1258120535",
+  "seller_status": "Частное лицо",
+  "title": "Фиалка сортовая Аэлита",
+  "post_date": "  08 October в 11:46  ",
+  "price": 180,
+  "index": 1258120535,
+  "seller_link": "/user/ec667640289a4cfda4382f48778340dd/profile?id=1258120535&src=item",
+  "text": "Фиалка молодая, первое цветение.\nСорт Аэлита.\n Она немного отцветает, но есть другие бутоны\n"
+}

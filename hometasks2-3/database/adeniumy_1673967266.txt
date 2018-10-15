@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Адениум арабикум Yak Yemen 9 месяцев. Адениумы обессумы. Живу в Башкирии в Стерлитамаке. Место пересечения Фабри\n",
+  "index": 1673967266,
+  "title": "Адениумы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/adeniumy_1673967266",
+  "seller": "Ирина",
+  "address": "Москва, м. Полянка",
+  "post_date": "  6 октября в 09:29  ",
+  "seller_link": "/user/2edf9572a6d9682bf9ffc418cf7644a7/profile?id=1673967266&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1377393130,
+  "title": "Горшок керамика для бансай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramika_dlya_bansay_1377393130",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Планерная",
+  "text": "Горшок керамика для бансай \nдиаметр 16 см\nвысота 8 см\n",
+  "post_date": "  4 октября в 19:23  ",
+  "seller_link": "/user/fe4a58a3f0aa70537df47a6f912573f3/profile?id=1377393130&src=item"
+}

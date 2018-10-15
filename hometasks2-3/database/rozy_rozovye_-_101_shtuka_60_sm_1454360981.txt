@@ -1,0 +1,13 @@
+{
+  "price": 71,
+  "seller_status": "Магазин",
+  "index": 1454360981,
+  "title": "Розы розовые - 101 штука 60 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_rozovye_-_101_shtuka_60_sm_1454360981",
+  "seller": "Btcflowers",
+  "seller-contact": "Менеджер Екатерина",
+  "address": "Москва, м. Рижская",
+  "text": " Розовые розы в букете с крупными бутонами!\n\n\nДоставка от 2 часов. Стойкость до 2 недель.\nВ пределах МКАД 400 руб. \nЗа МКАД +50 руб/1км\n\n\nДругие композиции смотрите ниже, сразу под объявлением или справа от фото, в нашем авито-магазине по ссылке btcflowers!\n",
+  "post_date": "  5 октября в 15:39  ",
+  "seller_link": "/dostavka-tsvetov?gdlkerfdnwq=101&shopId=100895"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1291444295,
+  "title": "Орхидея Бардендрум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_bardendrum_1291444295",
+  "seller": "Юлия",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Bardendrum Sister my love. При пересадке моего растения отвалился кусок, вот его и продаю.\n",
+  "post_date": "  6 октября в 21:34  ",
+  "seller_link": "/user/7e902784bb646761abb4d35c86f23849/profile?id=1291444295&src=item"
+}

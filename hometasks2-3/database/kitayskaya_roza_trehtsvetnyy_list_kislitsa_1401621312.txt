@@ -1,0 +1,13 @@
+{
+  "seller-contact": "ольга",
+  "seller": "оля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kitayskaya_roza_trehtsvetnyy_list_kislitsa_1401621312",
+  "seller_status": "Компания",
+  "title": "Китайская роза трехцветный лист кислица",
+  "post_date": "  08 October в 12:31  ",
+  "price": 100,
+  "index": 1401621312,
+  "seller_link": "/user/42bfd3d65759f2d2520876e2affb2189/profile?id=1401621312&src=item",
+  "address": "Москва, м. Алексеевская",
+  "text": "зелено-бело-розовый лист\nФ3-300р\nФ4- от 100 до150\nФ5- кислица-50 р\n"
+}

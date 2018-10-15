@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1396600631,
+  "title": "Клен явор (Клен белый) семена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klen_yavor_klen_belyy_semena_1396600631",
+  "seller": ".",
+  "address": "Москва, м. Спортивная",
+  "text": "Семена Клена явора (Клена белого)\n150 р./10 штук.\nВысылаю в другие регионы (при оплате доставки).\n",
+  "post_date": "  5 октября в 10:49  ",
+  "seller_link": "/user/818018165ca1acba962f39c39f0ad7a1/profile?id=1396600631&src=item"
+}

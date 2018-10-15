@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1635169482,
+  "title": "Флористическая губка (оазис) для живых цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/floristicheskaya_gubka_oazis_dlya_zhivyh_tsvetov_1635169482",
+  "seller": "Вахтанг",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер 23х11х8. Цветочная губка является идеальной почвой для композиций из срезанных цветов. В коробке 20 штук. Коробок 48. Оптом, с доставкой по Москве. Производитель victoria floral products. Очень выгодная цена!!\n",
+  "post_date": "  07 October в 09:47  ",
+  "seller_link": "/user/9ba860d7efa3ddd4e474acf0bd2aa027/profile?id=1635169482&src=item"
+}

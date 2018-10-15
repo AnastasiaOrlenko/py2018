@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 87667097,
+  "title": "Алоэ лечебное старше 5 лет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_lechebnoe_starshe_5_let_87667097",
+  "seller": "Алекс",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Большое Алоэ.Столетник .Лекарственное. 5 лет.\n",
+  "post_date": "  5 октября в 15:25  ",
+  "seller_link": "/user/0f324260abfd318dac4a7875c207b4e3/profile?id=87667097&src=item"
+}

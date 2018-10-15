@@ -1,0 +1,12 @@
+{
+  "price": 2700,
+  "seller_status": "Частное лицо",
+  "index": 1493002733,
+  "title": "Цветы в коробке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_v_korobke_1493002733",
+  "seller": "Марина",
+  "address": "Москва, м. Войковская",
+  "text": "Принимаем заказы на подарочные коробки с цветами к 8 марта.\nКомпозиция из живых цветов с шоколадными буквами. Коробка в виде сердца 22см\n",
+  "post_date": "  5 октября в 00:56  ",
+  "seller_link": "/user/87e6f0499a8b6158270e034a8de45cea/profile?id=1493002733&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Строгино",
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krassula_sanset_55_sm_4_goda_956220519",
+  "seller_status": "Компания",
+  "title": "Крассула Сансет 55 см (4 года)",
+  "post_date": "  08 October в 11:56  ",
+  "price": 3500,
+  "index": 956220519,
+  "seller_link": "/user/25d38fa4d7946631d4b024596f878d85/profile?id=956220519&src=item",
+  "text": "Красивое здоровое денежное дерево. По фен шуй привлекает денюжки в дом. Есть здоровые детки по 350 р.\n"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 450,
+  "seller_status": "Компания",
+  "index": 1144374794,
+  "title": "Герань пеларгония Susan Payne",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_susan_payne_1144374794",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Полежаевская",
+  "text": "Продаются укорененные черенки сортовой пеларгонии. Пример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте. Черенки большие -450р, растение 650р молодое.\n",
+  "post_date": "  6 октября в 00:15  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1144374794&src=item"
+}

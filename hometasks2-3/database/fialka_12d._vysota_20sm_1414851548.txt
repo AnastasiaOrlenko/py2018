@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1414851548,
+  "title": "Фиалка 12д. Высота 20см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_12d._vysota_20sm_1414851548",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 20см.\n",
+  "post_date": "  6 октября в 22:49  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1414851548&src=item"
+}

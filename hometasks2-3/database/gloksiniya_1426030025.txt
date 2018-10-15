@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/e953596eb41c9fac85982621d678a612/profile?id=1426030025&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gloksiniya_1426030025",
+  "post_date": "  08 October в 10:21  ",
+  "address": "Москва, м. Славянский бульвар",
+  "seller": "Кристина",
+  "text": "Глоксиния — клубневое растение, относящееся к роду геснериевых. Ее родиной является Бразилия. Листики по 100руб.\n",
+  "index": 1426030025,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Глоксиния"
+}

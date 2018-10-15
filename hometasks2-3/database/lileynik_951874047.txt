@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 951874047,
+  "title": "Лилейник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lileynik_951874047",
+  "seller": "Елена",
+  "address": "Москва, м. Варшавская",
+  "text": "Корневища лилейника. Цена за 1 корень.\n",
+  "post_date": "  6 октября в 18:19  ",
+  "seller_link": "/user/29aa32fca22d6cd2c7a95a9dc20dc316/profile?id=951874047&src=item"
+}

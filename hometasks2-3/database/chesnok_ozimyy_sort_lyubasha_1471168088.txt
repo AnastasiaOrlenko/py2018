@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Октябрьское поле",
+  "seller": "дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chesnok_ozimyy_sort_lyubasha_1471168088",
+  "seller_status": "Частное лицо",
+  "title": "Чеснок озимый, сорт Любаша",
+  "post_date": "  08 October в 11:36  ",
+  "price": 130,
+  "index": 1471168088,
+  "seller_link": "/user/69d80285526d1e84db856dc7daa0bd5d/profile?id=1471168088&src=item",
+  "text": "Продаётся озимый чеснок. Сорт Любаша.\nВыращен в Рязанской области,урожай 2018 года. Выращен без химических удобрений. Чеснок первой, второй репродукции.Есть зубки для посадки.\n"
+}

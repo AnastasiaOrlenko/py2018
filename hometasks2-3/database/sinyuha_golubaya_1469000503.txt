@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1469000503,
+  "title": "Синюха голубая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sinyuha_golubaya_1469000503",
+  "seller": "Елена",
+  "address": "Москва, м. Пушкинская",
+  "text": "Продам куст Синюха голубая ( продается фото 3 и 4) цена за куст 100 руб.\n",
+  "post_date": "  5 октября в 13:48  ",
+  "seller_link": "/user/98c86ac487870b49a0fbf8c0202f0559/profile?id=1469000503&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1274795305,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_palma_1274795305",
+  "address": "Москва, м. Печатники",
+  "title": "Драцена пальма",
+  "seller_link": "/user/84495b72744bff1577b7c47b8c6a4104/profile?id=1274795305&src=item",
+  "text": "Продаю свою пальму драцену в красивом салатовом горшке.на цветке 2 ответвления.высота 65 см.Состояние хорошее.цена договорная\n",
+  "post_date": "  07 October в 13:45  "
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 574952754,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_rastenie_badan_574952754",
+  "address": "Москва, м. Митино",
+  "title": "Продам растение бадан",
+  "seller_link": "/user/6b9725dcdacae086ab4ff07de2a320c2/profile?id=574952754&src=item",
+  "text": "Лекарственное растение, великолепно смотрится на цветочной клумбе, неприхотливое, любит солнышко.\n",
+  "seller-contact": "Анна",
+  "post_date": "  07 October в 14:39  "
+}

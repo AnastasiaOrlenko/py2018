@@ -1,0 +1,12 @@
+{
+  "price": 2250,
+  "seller_status": "Частное лицо",
+  "index": 1554526809,
+  "title": "Флорариум с суккулентами",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_s_sukkulentami_1554526809",
+  "seller": "Ксения",
+  "address": "Москва, м. Выхино",
+  "text": "Флорариум с живыми суккулентами. \nРазмер: высота 19,5 см, диаметр 20 см, диаметр отверстия 13 см.\n",
+  "post_date": "  5 октября в 12:26  ",
+  "seller_link": "/user/4ad889ae2049fbeddb3ce9a2cacfbaa8/profile?id=1554526809&src=item"
+}

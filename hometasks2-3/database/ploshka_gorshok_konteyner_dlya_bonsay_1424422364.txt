@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1424422364,
+  "title": "Плошка (горшок, контейнер) для бонсай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ploshka_gorshok_konteyner_dlya_bonsay_1424422364",
+  "seller": "Давид",
+  "address": "Москва, м. Домодедовская",
+  "text": "Бонсайница (горшок, плошка) японского производства в отличном состоянии из глины. Для деревца бонсай. Цена за обе.\n",
+  "post_date": "  5 октября в 07:14  ",
+  "seller_link": "/user/7c736d95807fb3f0e623ae611c7bc778/profile?id=1424422364&src=item"
+}

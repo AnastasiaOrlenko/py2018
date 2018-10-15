@@ -1,0 +1,13 @@
+{
+  "price": 70,
+  "seller_status": "Компания",
+  "index": 1099417523,
+  "title": "Пеларгония розебудная фиттония традесканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_rozebudnaya_fittoniya_tradeskantsiya_1099417523",
+  "seller": "оля",
+  "seller-contact": "ольга",
+  "address": "Москва, м. Алексеевская",
+  "text": "ф1-герань розебудная Ungarisk Appleblossom,сейчас не цветет-250р\nф 2-фиттония-50 р\nф 3,4-традесканция розовеющая-50р\nФ 5- традесканция белая -70 р\n",
+  "post_date": "  6 октября в 10:03  ",
+  "seller_link": "/user/42bfd3d65759f2d2520876e2affb2189/profile?id=1099417523&src=item"
+}

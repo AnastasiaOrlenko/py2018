@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1569826849,
+  "seller": "не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoletniki_i_kalanhoe_1569826849",
+  "address": "Москва, м. Киевская",
+  "title": "Столетники и каланхое",
+  "seller_link": "/user/fc0aeca4bcd65f2f9f8dc3dc51e8b53c/profile?id=1569826849&src=item",
+  "text": "Столетники 2-х летки- 150\nКаланхое (доктор) - 100\n",
+  "seller-contact": "Ирина",
+  "post_date": "  07 October в 20:01  "
+}

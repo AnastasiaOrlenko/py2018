@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "укоренившиеся детки денежного дерева с новыми листочками.\nмного. до 7 см бесплатно от 7 см по 50р\n",
+  "index": 1481363708,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_detki_1481363708",
+  "address": "Москва, м. Семеновская",
+  "title": "Толстянка денежное дерево детки",
+  "seller_link": "/user/b449248bd73317b70e2a0bf9f3045110/profile?id=1481363708&src=item",
+  "post_date": "  07 October в 18:34  "
+}

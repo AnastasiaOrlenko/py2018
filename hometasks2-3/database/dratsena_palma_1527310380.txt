@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Частное",
+  "index": 1527310380,
+  "title": "Драцена пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_palma_1527310380",
+  "seller": "Частное лицо ( не компания!)",
+  "address": "Москва, м. Щелковская",
+  "text": "Продам пальму за договорную цену.\n",
+  "post_date": "  07 October в 12:08  ",
+  "seller_link": "/user/6ebd7f3570273dfcf78d6b6393bcd337/profile?id=1527310380&src=item"
+}

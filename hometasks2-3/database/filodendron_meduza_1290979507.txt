@@ -1,0 +1,12 @@
+{
+  "text": "Продам укоренённый верхушечные черенок филодендрон медуза.\n",
+  "title": "Филодендрон медуза",
+  "price": 200,
+  "index": 1290979507,
+  "address": "Москва, м. Борисово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/filodendron_meduza_1290979507",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:49  ",
+  "seller": "Евгения",
+  "seller_link": "/user/30035705042befe8ce220a3b1cbe56d6/profile?id=1290979507&src=item"
+}

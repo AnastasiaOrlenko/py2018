@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бибирево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabristshlyumberger_rozovyy_1495657977",
+  "price": 100,
+  "seller": "Эльфира",
+  "post_date": "  08 October в 16:58  ",
+  "title": "Декабрист(шлюмбергер) розовый",
+  "text": "Укорененные отростки декабриста. Пример цветения фото 2\n",
+  "index": 1495657977,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e2e729b22e30dcd34bdc419bc37002e1/profile?id=1495657977&src=item"
+}

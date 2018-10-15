@@ -1,0 +1,12 @@
+{
+  "title": "Растение-хищник Саррацения",
+  "price": 100,
+  "seller": "Оля",
+  "seller_link": "/user/c4dcc3807415cdb5b288349f6cd507dc/profile?id=1465441428&src=item",
+  "address": "Москва, м. Молодежная",
+  "index": 1465441428,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie-hischnik_sarratseniya_1465441428",
+  "text": "молодое растение\n",
+  "post_date": "  4 октября в 18:14  "
+}

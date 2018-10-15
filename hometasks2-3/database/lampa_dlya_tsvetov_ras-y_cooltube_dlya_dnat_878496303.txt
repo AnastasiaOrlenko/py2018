@@ -1,0 +1,12 @@
+{
+  "text": "продаю Cooltube для ДНаТ 100, 125 мм.\nв ограниченном количестве\n",
+  "title": "Лампа для цветов (рас-й) Cooltube для днат",
+  "price": 1999,
+  "index": 878496303,
+  "address": "Москва, м. Динамо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampa_dlya_tsvetov_ras-y_cooltube_dlya_dnat_878496303",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:38  ",
+  "seller": "Жанна Журавлева",
+  "seller_link": "/user/8d458b2e9d661e52ee45fd17e31c1205/profile?id=878496303&src=item"
+}

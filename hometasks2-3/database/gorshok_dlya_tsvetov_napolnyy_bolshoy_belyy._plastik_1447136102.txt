@@ -1,0 +1,12 @@
+{
+  "text": "Горшок для цветов большой пластиковый белый. Верхний диаметр 30/35, нижний 24. Высота 26.\n",
+  "title": "Горшок для цветов напольный большой белый. Пластик",
+  "price": 500,
+  "index": 1447136102,
+  "address": "Москва, м. Белорусская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_napolnyy_bolshoy_belyy._plastik_1447136102",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:22  ",
+  "seller": "Елена",
+  "seller_link": "/user/081d53df1e94d30fb67d26804e384b67/profile?id=1447136102&src=item"
+}

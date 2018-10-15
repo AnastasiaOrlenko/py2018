@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 833208732,
+  "title": "Цветок Бенджамин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_bendzhamin_833208732",
+  "seller": "Изабелла",
+  "address": "Москва, м. Автозаводская",
+  "text": "Цветок Бенджамин вместе с горшком 300руб могу поднести к метро\n",
+  "post_date": "  4 октября в 19:41  ",
+  "seller_link": "/user/5f3a9f0116adf3d5db31faad7d8686a6/profile?id=833208732&src=item"
+}

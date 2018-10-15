@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1439592059,
+  "title": "Тюльпаны из моего сада",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tyulpany_iz_moego_sada_1439592059",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Домодедовская",
+  "text": "Тюльпаны попугайные - экзоты сада\n✔Фото N 1- 2 Estella Rijnveld\n✔Фото N 3 Super Parrot\n✔Фото N 4 Texas Gold\n✔Фото N 5 Top Parrot\n✔Фото N 6 Victor's Secret\n✔Фото N 7 Weber's Parrot\n✔Фото N 8 White Parrot\n✔✔Тюльпаны лилиецветные, махровые\n✔Фото N 9 - 10 Yellow Spider\n✔Коллекция зеленоцветковых тюльпанов.\n✔1. Артист\n✔2. Чайна Таун\n✔3. Доллз Микс\n✔4. Эсперанто\n✔5. Флэминг Спринггрин\n✔6. Голден Артист\n✔7. Грин Ривер\n✔8. Гренлэнд\n✔9. Голливуд Стар\n✔10. Найтрайдер\n✔11. Омникс\n✔12. Рэд Спринггрин\n✔13. Виришик\n✔14. Йеллоу Спринггрин\n✔15. Exotic Emperor\n✔16. Spring Green\n✔Другие сорта смотрите в других объявлениях.\n✔В другие города высылаю.\n",
+  "post_date": "  07 October в 09:24  ",
+  "seller_link": "/user/cb0828e1553f9433cb9959155afa8419/profile?id=1439592059&src=item"
+}

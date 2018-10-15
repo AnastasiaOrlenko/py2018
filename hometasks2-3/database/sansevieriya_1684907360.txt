@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кузьминки",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1684907360",
+  "seller_status": "Компания",
+  "title": "Сансевиерия",
+  "post_date": "  08 October в 11:03  ",
+  "price": 300,
+  "index": 1684907360,
+  "seller_link": "/user/ac75218ee15985f97b7b7f04f22b27f1/profile?id=1684907360&src=item",
+  "text": "Продам излишки растения. Рассаживаются цветы, мне много.\n"
+}

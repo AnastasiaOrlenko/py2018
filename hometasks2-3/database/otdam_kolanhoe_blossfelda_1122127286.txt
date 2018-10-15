@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам за шоколадку Милка цветок.цветет ярко-красным.1 фото -цветущее,2фото- цветок который отдаю\n",
+  "index": 1122127286,
+  "title": "Отдам Коланхоэ Блоссфельда",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otdam_kolanhoe_blossfelda_1122127286",
+  "seller": "Виктория",
+  "address": "Москва, м. Перово",
+  "post_date": "  5 октября в 11:21  ",
+  "seller_link": "/user/1952aad52338d8513f96d09fa8aeb56d/profile?id=1122127286&src=item"
+}

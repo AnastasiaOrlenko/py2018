@@ -1,0 +1,13 @@
+{
+  "price": 170,
+  "seller_status": "Компания",
+  "index": 837814202,
+  "title": "Горшок для орхидеи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_orhidei_837814202",
+  "seller": "частное лицо",
+  "seller-contact": "Жанна",
+  "address": "Москва, м. Коньково",
+  "text": "Продам 4 новых горшка для орхидей 2.8 литра 19,5 диаметр + 1 горшок в подарок без поддона цена за шт все вместе отдам за 680\n",
+  "post_date": "  5 октября в 09:44  ",
+  "seller_link": "/user/65ac3a2d5b3646e623a1ab1de9a1d337/profile?id=837814202&src=item"
+}

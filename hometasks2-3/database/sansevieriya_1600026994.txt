@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1600026994,
+  "title": "Сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1600026994",
+  "seller": "Наталья",
+  "address": "Москва, м. Университет",
+  "text": "Одно растение, отсажено от большого весной, самый длинный лист ок 40 см.\nОбмен не предлагать.\n",
+  "post_date": "  5 октября в 15:35  ",
+  "seller_link": "/user/03069965c6d40b1e97854e8c5692c2fe/profile?id=1600026994&src=item"
+}

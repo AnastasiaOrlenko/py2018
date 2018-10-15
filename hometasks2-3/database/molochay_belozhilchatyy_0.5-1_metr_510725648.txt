@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 510725648,
+  "title": "Молочай беложильчатый 0.5-1 метр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_belozhilchatyy_0.5-1_metr_510725648",
+  "seller": "Павел",
+  "seller-contact": "Павел",
+  "address": "Москва",
+  "text": "МОЛОЧАЙ БЕЛОЖИЛЬЧАТЫЙ в горшке взрослые растения:\n1метр -1500р\n0.8 метр-1500р\n0.5 м-1000р\n4 фото - растет с дефинбахией 1,2 м-2000р\n",
+  "post_date": "  5 октября в 17:25  ",
+  "seller_link": "/user/ea3a1c4614f486727e37d3d995dd6bcd/profile?id=510725648&src=item"
+}

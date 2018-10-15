@@ -1,0 +1,12 @@
+{
+  "text": "В настоящее время есть хорошие крепкие укорененные черенки сортовых пеларгоний, цветение на фото:\nSalima DZ- 350р\nBerkswell Bonanza - ангел -250\nВстреча по договоренности\n",
+  "title": "Сортовые пеларгонии",
+  "price": 250,
+  "index": 1182509483,
+  "address": "Москва, м. Шипиловская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_pelargonii_1182509483",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:19  ",
+  "seller": "Варвара",
+  "seller_link": "/user/811702764ab6915b422280150cfec129/profile?id=1182509483&src=item"
+}

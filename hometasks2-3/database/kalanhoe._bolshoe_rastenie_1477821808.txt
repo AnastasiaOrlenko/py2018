@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 1000,
+  "index": 1477821808,
+  "seller": "Управляющая компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe._bolshoe_rastenie_1477821808",
+  "address": "Москва, м. Киевская",
+  "title": "Каланхоэ. Большое растение",
+  "seller_link": "/user/fd6c849243c91d5c32134d6fedf64854/profile?id=1477821808&src=item",
+  "text": "Каланхоэ. Взрослое растение, большое и красивое.\n",
+  "seller-contact": "Ольга собственник",
+  "post_date": "  07 October в 22:28  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1564555881,
+  "title": "Бальзамин махровый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/balzamin_mahrovyy_1564555881",
+  "seller": "Александр",
+  "address": "Москва, м. Бибирево",
+  "text": "Отдам с горшком, бальзамин махровый.\n",
+  "post_date": "  07 October в 11:42  ",
+  "seller_link": "/user/7660f6fe4fda282b5ff2ca95043e3433/profile?id=1564555881&src=item"
+}

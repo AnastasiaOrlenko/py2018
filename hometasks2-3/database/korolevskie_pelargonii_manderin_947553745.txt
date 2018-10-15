@@ -1,0 +1,12 @@
+{
+  "text": "Только вегатативные сорта петуний,калибрахоа, так же в наличии новинки Night sky, Baby doll,в наличии есть кампанулы жених и невеста,фуксии,пеларгонии тюльпановидные,розебудные и зонартики,глоксинии,ахименосы.Все растения одомашнены, хооошая корневая. Полный асортимент на cherenki.msk.\n",
+  "title": "Королевские пеларгонии manderin",
+  "price": 60,
+  "index": 947553745,
+  "address": "Москва, м. Аннино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korolevskie_pelargonii_manderin_947553745",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 06:41  ",
+  "seller": "андрей",
+  "seller_link": "/user/db0f779f374a64244cebd34f68ed9071/profile?id=947553745&src=item"
+}

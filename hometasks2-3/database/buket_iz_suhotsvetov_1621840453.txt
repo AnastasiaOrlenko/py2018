@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 1621840453,
+  "title": "Букет из сухоцветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_suhotsvetov_1621840453",
+  "seller": "Елена",
+  "address": "Москва, м. Молодежная",
+  "text": "Букет из сухоцветов. Диаметр 36 см. Высота около 30 см. Лагурус, лаванда, рожь, хлопок. Доставка букетов. Необычный букет.\n",
+  "post_date": "  6 октября в 13:15  ",
+  "seller_link": "/user/f3fa67f0ef1edff860ba59beb1b5f092/profile?id=1621840453&src=item"
+}

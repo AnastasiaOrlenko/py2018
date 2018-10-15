@@ -1,0 +1,12 @@
+{
+  "price": 199,
+  "seller_status": "Частное лицо",
+  "index": 1381190939,
+  "title": "Цветочный горшок, пластмасса с поддоном",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_plastmassa_s_poddonom_1381190939",
+  "seller": "татьяна",
+  "address": "Москва, м. Первомайская",
+  "text": "Пластмассовый цветочный горшок с поддоном. Размеры на фото. Б/У.\n",
+  "post_date": "  6 октября в 11:27  ",
+  "seller_link": "/user/3035263b600b35977267c614bc6f77e0/profile?id=1381190939&src=item"
+}

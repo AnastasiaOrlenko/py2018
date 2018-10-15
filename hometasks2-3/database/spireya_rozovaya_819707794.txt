@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 819707794,
+  "title": "Спирея розовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spireya_rozovaya_819707794",
+  "seller": "марина",
+  "seller-contact": "марина",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Продаются хорошие взрослые кусты спиреи.\n",
+  "post_date": "  5 октября в 14:38  ",
+  "seller_link": "/user/94884860e165b1109278b543aa127972/profile?id=819707794&src=item"
+}

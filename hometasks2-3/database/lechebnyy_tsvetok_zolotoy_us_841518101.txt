@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 841518101,
+  "title": "Лечебный цветок Золотой ус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lechebnyy_tsvetok_zolotoy_us_841518101",
+  "seller": "Алина Иванова",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "лечебный цветок ЗОЛОТОЙ УС\n",
+  "post_date": "  6 октября в 19:21  ",
+  "seller_link": "/user/e1b2b4aeb48f07bb9fe567d6b46479cb/profile?id=841518101&src=item"
+}

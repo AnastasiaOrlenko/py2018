@@ -1,0 +1,13 @@
+{
+  "price": 99,
+  "seller_status": "Компания",
+  "index": 965009971,
+  "title": "Домашнее растение Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnee_rastenie_kalanhoe_965009971",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Сходненская",
+  "text": "высота с горшком 50см..забирать Сходненская,сокол.,\n",
+  "post_date": "  5 октября в 14:46  ",
+  "seller_link": "/user/9c227eba42bdfe824bdbab927a9d4db2/profile?id=965009971&src=item"
+}

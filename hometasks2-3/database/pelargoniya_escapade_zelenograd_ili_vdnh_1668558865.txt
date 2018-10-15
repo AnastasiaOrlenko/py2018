@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Олеся",
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_escapade_zelenograd_ili_vdnh_1668558865",
+  "seller_status": "Компания",
+  "title": "Пеларгония Escapade, Зеленоград или ВДНХ",
+  "post_date": "  08 October в 12:58  ",
+  "price": 350,
+  "index": 1668558865,
+  "seller_link": "/user/e287da66a36d03407bdda6961188d9d8/profile?id=1668558865&src=item",
+  "address": "Москва, м. ВДНХ",
+  "text": "Продается молодой кустик пеларгонии Escapade (на фото первое цветение).\nСамовывоз из г. Зеленоград, 14 м-н.\nИли возможна встреча у метро ВДНХ.\n"
+}

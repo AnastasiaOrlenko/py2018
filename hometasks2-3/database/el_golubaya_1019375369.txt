@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/8986fd7b2bf47733f5f92aab3796504e/profile?id=1019375369&src=item",
+  "seller-contact": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/el_golubaya_1019375369",
+  "post_date": "  08 October в 09:01  ",
+  "address": "Москва, м. Площадь революции",
+  "seller": "Компания",
+  "text": "Ель голубая , спец предложение размерные ряд 140-160 см 220-260 см 370 420 см .\n",
+  "index": 1019375369,
+  "seller_status": "Компания",
+  "price": 3000,
+  "title": "Ель голубая"
+}

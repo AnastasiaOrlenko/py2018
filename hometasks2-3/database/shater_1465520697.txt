@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250000,
+  "index": 1465520697,
+  "seller": "Антон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shater_1465520697",
+  "address": "Москва, м. Речной вокзал",
+  "title": "Шатёр",
+  "seller_link": "/user/049c2c174fddc12d0478c05a9dfe0368/profile?id=1465520697&src=item",
+  "text": "Продам шатёр разборный сборный 2 года использован .размер 17,5х6 м, высота 2,8м\n",
+  "post_date": "  07 October в 19:56  "
+}

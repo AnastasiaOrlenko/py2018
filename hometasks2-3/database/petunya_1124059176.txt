@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1124059176,
+  "title": "Петунья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/petunya_1124059176",
+  "seller": "АРМ-РОЗ",
+  "address": "Москва",
+  "text": "Предлагаем для вашего сада прекрасные вегетативные ампельные многолетние петунии. Более 100 сортов с индивидуальными расцветками.\n",
+  "post_date": "  07 October в 09:49  ",
+  "seller_link": "/user/016d29e8ceb0ca4ed41109345b5dcbd0/profile?id=1124059176&src=item"
+}

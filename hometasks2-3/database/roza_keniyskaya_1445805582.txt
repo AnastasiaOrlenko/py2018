@@ -1,0 +1,13 @@
+{
+  "price": 29,
+  "seller_status": "Компания",
+  "index": 1445805582,
+  "title": "Роза кенийская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_keniyskaya_1445805582",
+  "seller": "Изабель",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Огромное количество цветов, розы 29 р за шт\n",
+  "post_date": "  6 октября в 12:25  ",
+  "seller_link": "/user/9c717c34e0e3864b67670437dcff7a04/profile?id=1445805582&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1174739148,
+  "title": "Фиалка сортовая Optimara Michelangelo",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sortovaya_optimara_michelangelo_1174739148",
+  "seller": "Ирина",
+  "address": "Москва, м. Строгино",
+  "text": "Стартёр сортовой фиалочки Optimara Michelangelo\n",
+  "post_date": "  07 October в 10:18  ",
+  "seller_link": "/user/923157dcf84a42fd6b41242f0011e53d/profile?id=1174739148&src=item"
+}

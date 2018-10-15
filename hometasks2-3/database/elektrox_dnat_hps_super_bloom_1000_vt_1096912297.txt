@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/69bbf71bb4658e5c1bcb40341065e47d/profile?id=1096912297&src=item",
+  "seller-contact": "Максим или Тамара",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/elektrox_dnat_hps_super_bloom_1000_vt_1096912297",
+  "post_date": "  08 October в 09:26  ",
+  "address": "Москва, м. Тульская",
+  "seller": "HomeHarvest",
+  "text": "Elektrox HPS Super Bloom 1000W — высокопроизводительная лампа для растений, находящихся в фазе цветения и образования плодов. Отлично подходит для цветов и фруктов.\n",
+  "index": 1096912297,
+  "seller_status": "Компания",
+  "price": 4750,
+  "title": "Elektrox днат HPS Super Bloom 1000 Вт"
+}

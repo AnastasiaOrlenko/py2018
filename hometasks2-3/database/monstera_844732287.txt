@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Текстильщики",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_844732287",
+  "seller_link": "/user/2d511e851a178a8cf98a03ba4a936ac1/profile?id=844732287&src=item",
+  "seller": "Сергей",
+  "post_date": "  09 October в 00:08  ",
+  "title": "Монстера",
+  "text": "Продам монстеру, цена договорная\n",
+  "index": 844732287,
+  "seller_status": "Частное лицо"
+}

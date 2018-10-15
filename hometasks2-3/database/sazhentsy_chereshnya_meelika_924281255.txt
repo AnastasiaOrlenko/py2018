@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Эстонский сорт. Очень зимостойкий. Дерево среднерослое. Плоды чёрно-красные (около 4 г.), сладкие, вкусные. Вышлю каталоги и статьи на е-мэйл.\n",
+  "index": 924281255,
+  "seller": "Вячеслав Иванович",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_chereshnya_meelika_924281255",
+  "address": "Москва",
+  "title": "Саженцы Черешня Меелика",
+  "seller_link": "/user/7083c88978485300cfb4316751a700b8/profile?id=924281255&src=item",
+  "post_date": "  07 October в 15:22  "
+}

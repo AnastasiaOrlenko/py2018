@@ -1,0 +1,12 @@
+{
+  "price": 75,
+  "seller_status": "Частное лицо",
+  "index": 1620294259,
+  "title": "Снежноягодник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/snezhnoyagodnik_1620294259",
+  "seller": "иван",
+  "address": "Москва, м. Царицыно",
+  "text": "Снежноягодник ,есть много ,нал и безнал.\n",
+  "post_date": "  07 October в 06:01  ",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=1620294259&src=item"
+}

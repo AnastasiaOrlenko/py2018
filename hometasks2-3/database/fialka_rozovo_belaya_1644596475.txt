@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1644596475,
+  "title": "Фиалка розово белая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_rozovo_belaya_1644596475",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 20см.\n",
+  "post_date": "  6 октября в 22:47  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1644596475&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1390363682,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stromanta_1390363682",
+  "address": "Москва, м. Хорошево",
+  "title": "Строманта",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1390363682&src=item",
+  "text": "На ночь складывает листья . Внутренняя сторона листа цвета фуксии.\n",
+  "post_date": "  07 October в 22:21  "
+}

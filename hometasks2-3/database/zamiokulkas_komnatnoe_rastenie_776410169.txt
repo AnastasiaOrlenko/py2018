@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 776410169,
+  "title": "Замиокулкас комнатное растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_komnatnoe_rastenie_776410169",
+  "seller": "Терехова Елена",
+  "address": "Москва, м. Каширская",
+  "text": "Продаются комнатные растения. Подрощенные, пересажены 7 месяцев назад, то есть уже прижитые и у каждого по ростку от корня. Длинна стебля около 80 см.\n",
+  "post_date": "  5 октября в 20:44  ",
+  "seller_link": "/user/80a0a2ff713dedcd3e4a9ce0a79aa6a9/profile?id=776410169&src=item"
+}

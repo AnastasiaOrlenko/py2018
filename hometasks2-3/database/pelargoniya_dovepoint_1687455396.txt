@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1687455396,
+  "seller": "Elena",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_dovepoint_1687455396",
+  "address": "Москва, м. Преображенская площадь",
+  "title": "Пеларгония Dovepoint",
+  "seller_link": "/user/f80d69a9b9e846acc1ef69b6af3ee115/profile?id=1687455396&src=item",
+  "text": "Подросшие кустики, фото 4,5.\n",
+  "post_date": "  08 October в 00:10  "
+}

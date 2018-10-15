@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "в наличии примерно 150 шт.Продаю не меньше чем по 10 шт.а лучше все сразу\n",
+  "index": 650994687,
+  "title": "Горшки для кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_kashpo_650994687",
+  "seller": "Валерий",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "post_date": "  6 октября в 23:00  ",
+  "seller_link": "/user/459495bbfcfee84f8fc5e4d8f9892deb/profile?id=650994687&src=item"
+}

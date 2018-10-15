@@ -1,0 +1,12 @@
+{
+  "title": "Сено с куриным навозом",
+  "price": 20,
+  "seller": "Мария Бяхова",
+  "seller_link": "/user/30fee638d21670c58063c7864d423a0c/profile?id=984616543&src=item",
+  "address": "Москва, м. Первомайская",
+  "index": 984616543,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/seno_s_kurinym_navozom_984616543",
+  "text": "Мешки с сеном из под кур. Цена за один мешок. Самовывоз. Г. Балашиха ул. Александровская д7\n",
+  "post_date": "  4 октября в 17:31  "
+}

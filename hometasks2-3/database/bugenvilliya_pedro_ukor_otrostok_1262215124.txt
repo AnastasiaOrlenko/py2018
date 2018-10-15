@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 1262215124,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bugenvilliya_pedro_ukor_otrostok_1262215124",
+  "address": "Москва, м. Новопеределкино",
+  "title": "Бугенвиллия Педро укор отросток",
+  "seller_link": "/user/c5fe032f791b81842ddaae0f6d07da10/profile?id=1262215124&src=item",
+  "text": "Продаю укор отросток Бугенвиллию Педро с фото\nЦена 250 руб\nКто хочет увидеть другие растения которые я продаю наберите в интернете цветочный магазин Натальи Крониной \nА так же смотрите мой профиль на авито\n",
+  "seller-contact": "Наталья",
+  "post_date": "  07 October в 23:51  "
+}

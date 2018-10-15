@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1134652708,
+  "title": "Пеларгонии Senna Katarina Angel Rosatto Magnus",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargonii_senna_katarina_angel_rosatto_magnus_1134652708",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Продаю излишки от своих растений. Пеларгонии:Senna. Katarina .Magnus, Onno (по 150 руб), Королевская пеларгония Angel Rosatto ( 200 руб). Сорт пеларгонии Marbaska Rose (300 руб). Есть фуксии сортовые.Фуксии по 100 рублей. Сорта фуксий : New millenium, Maori Maid, ledy in Black, Henry Mochara, Ballet Girl, White Eyes Maxima (продано). Кому интересно, фото вышлю на телефон, по вацап, вайбер.\n",
+  "post_date": "  5 октября в 22:37  ",
+  "seller_link": "/user/1641c725cb3e69cdeac5930078fc6818/profile?id=1134652708&src=item"
+}

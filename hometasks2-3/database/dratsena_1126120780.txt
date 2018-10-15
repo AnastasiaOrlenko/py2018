@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новокосино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1126120780",
+  "price": 9000,
+  "seller": "Ольга",
+  "post_date": "  08 October в 15:29  ",
+  "title": "Драцена",
+  "text": "Шикарная драцена, 16 лет постились с любовью и заботой, высота 2,6м\n",
+  "index": 1126120780,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/6251f14e2ef0b40cdee028f3e890dc86/profile?id=1126120780&src=item"
+}

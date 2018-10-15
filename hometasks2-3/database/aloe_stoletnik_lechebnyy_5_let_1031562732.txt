@@ -1,0 +1,12 @@
+{
+  "price": 1400,
+  "seller_status": "Частное лицо",
+  "index": 1031562732,
+  "title": "Алое столетник лечебный 5 лет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_stoletnik_lechebnyy_5_let_1031562732",
+  "seller": "Алина",
+  "address": "Москва, м. Молодежная",
+  "text": "Алое столетник лечебный 5 лет. Растёт в покупной хорошей земле без применения активаторов роста и удобрений.\nВыращен для лечения.\n",
+  "post_date": "  5 октября в 20:04  ",
+  "seller_link": "/user/52a6c5dcacd0d2354a3075c21f7f1b32/profile?id=1031562732&src=item"
+}

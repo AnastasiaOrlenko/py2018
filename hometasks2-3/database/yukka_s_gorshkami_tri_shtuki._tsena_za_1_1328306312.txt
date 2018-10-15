@@ -1,0 +1,12 @@
+{
+  "text": "Пальма Юкка с горшками высота 60 см вместе с горшком, пересаживать не надо. Три штуки. 400 руб за один. 1000 за все три. Само вывоз. Звонить с 11-23 час.\n",
+  "title": "Юкка с горшками три штуки. Цена за 1",
+  "price": 400,
+  "index": 1328306312,
+  "address": "Москва, м. Алма-Атинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_s_gorshkami_tri_shtuki._tsena_za_1_1328306312",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:26  ",
+  "seller": "Светлана",
+  "seller_link": "/user/4542ec7045b7cace0075bb6a89832191/profile?id=1328306312&src=item"
+}

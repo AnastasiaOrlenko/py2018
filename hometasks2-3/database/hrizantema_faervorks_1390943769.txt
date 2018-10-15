@@ -1,0 +1,12 @@
+{
+  "price": 650,
+  "seller_status": "Частное лицо",
+  "index": 1390943769,
+  "title": "Хризантема фаерворкс",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_faervorks_1390943769",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 10д. Высота 35см\n",
+  "post_date": "  6 октября в 20:36  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1390943769&src=item"
+}

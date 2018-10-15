@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 800,
+  "index": 1579374305,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1579374305",
+  "address": "Москва, м. Пятницкое шоссе",
+  "title": "Диффенбахия",
+  "seller_link": "/user/7c7f398b83cba955c0154785390fc490/profile?id=1579374305&src=item",
+  "text": "Цветок 60 см. Красивенные листья, здоровый, неприхотливый. Обычно покупают мужчинам для привлечения успеха и сил.\n",
+  "post_date": "  07 October в 16:05  "
+}

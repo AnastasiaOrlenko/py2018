@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/e889c3292ac029f520ced6f080c80aad/profile?id=1133893690&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_molochay_1133893690",
+  "post_date": "  08 October в 10:24  ",
+  "address": "Москва, м. Славянский бульвар",
+  "seller": "Екатерина",
+  "text": "В высоту более 1.6 м!\n",
+  "index": 1133893690,
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "title": "Кактус молочай"
+}

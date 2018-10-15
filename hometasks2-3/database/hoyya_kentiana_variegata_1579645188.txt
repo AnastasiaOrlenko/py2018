@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Домодедовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_kentiana_variegata_1579645188",
+  "price": 1200,
+  "seller": "Светлана",
+  "post_date": "  08 October в 17:08  ",
+  "title": "Хойя Kentiana variegata",
+  "text": "Фото2-1200р.\nБрони нет,без торга. Доставка до вашего метро 150р.(центр зала). Только сообщения на сайте,на звонки не отвечаю. Почта,СДЕК.\n",
+  "index": 1579645188,
+  "seller_status": "Компания",
+  "seller_link": "/user/8b52155bb1e3a2922316e12833759492/profile?id=1579645188&src=item"
+}

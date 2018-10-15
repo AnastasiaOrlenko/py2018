@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 615644561,
+  "title": "Алоэ (столетник ) 37см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_stoletnik_37sm_615644561",
+  "seller": "Зинаида",
+  "address": "Москва, м. Царицыно",
+  "text": "Продам алоэ (столетник) 37 см.\n",
+  "post_date": "  5 октября в 17:20  ",
+  "seller_link": "/user/5c79916a33c6e75b1eaef54d13da0fec/profile?id=615644561&src=item"
+}

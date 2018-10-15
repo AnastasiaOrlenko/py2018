@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1470147823,
+  "title": "Кактусы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_1470147823",
+  "seller": "Римма",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "размер 6 см на 4 см\nцветущая - их мама :)\n",
+  "post_date": "  6 октября в 11:53  ",
+  "seller_link": "/user/911f74029bada742934c98f7db4dfc4d/profile?id=1470147823&src=item"
+}

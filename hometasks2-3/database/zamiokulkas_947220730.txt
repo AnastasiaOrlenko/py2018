@@ -1,0 +1,12 @@
+{
+  "price": 8500,
+  "seller_status": "Частное лицо",
+  "index": 947220730,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_947220730",
+  "seller": "Ольга",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "Продаю замиокулькас в горшке emsa с автополивом. Размеры горшка 63*33*33. Общая высота цветка с горшком 1,5 метра. Самовывоз\n",
+  "post_date": "  5 октября в 12:18  ",
+  "seller_link": "/user/eb1c5251f5d5666dbbf6ed854a52a573/profile?id=947220730&src=item"
+}

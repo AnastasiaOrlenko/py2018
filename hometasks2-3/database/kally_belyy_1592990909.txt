@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/7842eb6ef08dc36ec1edf78c6cea6b7e/profile?id=1592990909&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kally_belyy_1592990909",
+  "post_date": "  08 October в 09:03  ",
+  "address": "Москва, м. Жулебино",
+  "seller": "нина",
+  "text": "Рассадила каллы, есть четыре укорененных отростка. Большой - 300 руб. , остальные по 200 руб.\n",
+  "index": 1592990909,
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "title": "Каллы (белый)"
+}

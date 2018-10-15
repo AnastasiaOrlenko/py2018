@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 981666098,
+  "title": "Роза в хрустальной колбе",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_hrustalnoy_kolbe_981666098",
+  "seller": "Elena",
+  "address": "Москва, м. Сходненская",
+  "text": "Долговечные розы в хрустальной колбе, высота и диаметр колбы на ваше усмотрение. Цвет роз в ассортименте\n",
+  "post_date": "  5 октября в 12:05  ",
+  "seller_link": "/user/14783d013566dfa2818ff4770940386f/profile?id=981666098&src=item"
+}

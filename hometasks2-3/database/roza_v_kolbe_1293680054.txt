@@ -1,0 +1,11 @@
+{
+  "title": "Роза в колбе",
+  "address": "Москва, м. Маяковская",
+  "seller": "Константин",
+  "seller_link": "/user/3c05a323bf8be5152d3fcfb0b992df04/profile?id=1293680054&src=item",
+  "index": 1293680054,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_1293680054",
+  "text": "Распродажа роз в колбе \nПремиум - 1590\nКинг сайз - 2500\nвысота колбы 28 см\nподарочная коробка - 500\nГравировка - 300\nДоставка в день заказа\n",
+  "post_date": "  4 октября в 17:34  "
+}

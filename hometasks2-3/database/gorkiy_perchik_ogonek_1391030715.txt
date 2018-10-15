@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1391030715,
+  "title": "Горький перчик Огонек",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorkiy_perchik_ogonek_1391030715",
+  "seller": "Не компания",
+  "seller-contact": "ЛАРИСА",
+  "address": "Москва, м. Братиславская",
+  "text": "Достался от бабушки. Так и сею и выращиваю. Любит солнце. Теплолюбивое растение. Зимой убирайте от открытых окон.\n",
+  "post_date": "  6 октября в 12:57  ",
+  "seller_link": "/user/0ea0cc38efcbc67faefd1c6e339f4d66/profile?id=1391030715&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Отрадное",
+  "seller": "Хозяин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskiy_gorshok_1716655274",
+  "seller_status": "Частное лицо",
+  "title": "Керамический горшок",
+  "post_date": "  08 October в 12:33  ",
+  "price": 300,
+  "index": 1716655274,
+  "seller_link": "/user/22120738976a1d0d881fbb58ce955995/profile?id=1716655274&src=item",
+  "text": "Продам керамический горшок с отверстием, D 24 см., высота 18 см. Без сколов. Цена 300 рублей.\nТерриториально- Юрловский проезд.\n"
+}

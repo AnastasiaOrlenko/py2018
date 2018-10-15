@@ -1,0 +1,12 @@
+{
+  "title": "Лиана вечнозеленая в вазоне",
+  "price": 2500,
+  "seller": "Антонина",
+  "seller_link": "/user/ef43626bd05201dd72dc7e09d6a17d21/profile?id=756580317&src=item",
+  "address": "Москва, м. Молодежная",
+  "index": 756580317,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/liana_vechnozelenaya_v_vazone_756580317",
+  "text": "2 лианы Монстера высота 140см. В вазонах Антик 40х40 или 40х50 керамика.\n",
+  "post_date": "  4 октября в 17:58  "
+}

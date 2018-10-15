@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 615032018,
+  "title": "Эпифиллум лесной кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epifillum_lesnoy_kaktus_615032018",
+  "seller": "Екатерина",
+  "seller-contact": "Екатерина",
+  "address": "Москва, м. Улица Скобелевская",
+  "text": "Эпифиллум-лесной кактус\nУкорененый -300руб\nгодовалый-550руб\n3х летки - 1400руб\nМогу отправить в другой город.\n",
+  "post_date": "  6 октября в 22:13  ",
+  "seller_link": "/user/d63815749de1929682cd7ad1710eef4c/profile?id=615032018&src=item"
+}

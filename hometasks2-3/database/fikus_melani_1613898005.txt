@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 1613898005,
+  "seller": "вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_melani_1613898005",
+  "address": "Москва, м. Рижская",
+  "title": "Фикус мелани",
+  "seller_link": "/user/44f52a92a2395966f875a6f48d3611a3/profile?id=1613898005&src=item",
+  "text": "высота 25см.\n",
+  "post_date": "  07 October в 18:46  "
+}

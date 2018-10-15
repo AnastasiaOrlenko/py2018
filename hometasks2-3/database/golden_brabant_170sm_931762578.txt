@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 931762578,
+  "title": "Голден Брабант 170см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/golden_brabant_170sm_931762578",
+  "seller": "Анна",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Пушистые туи сорт Голден Брабант. 170см от 5шт. Возможна доставка.\n",
+  "post_date": "  6 октября в 11:18  ",
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=931762578&src=item"
+}

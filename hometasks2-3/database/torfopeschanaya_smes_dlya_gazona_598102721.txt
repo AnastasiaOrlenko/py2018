@@ -1,0 +1,13 @@
+{
+  "text": "Материал сухой и рассыпчатый подойдёт для озеленения , ландшафтных работ , высадки ёлочек , туй , аппаратчиков и тд\nЦена указана при полной загрузке автомобиля 20 кубов с расчетом \n1380₽/1м3\n",
+  "title": "Торфопесчаная смесь для газона",
+  "price": 1380,
+  "index": 598102721,
+  "address": "Москва, м. Алтуфьево",
+  "seller-contact": "Юрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/torfopeschanaya_smes_dlya_gazona_598102721",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:06  ",
+  "seller": "Юрий",
+  "seller_link": "/user/5320b665c1510e79ebcd2d31f7253420/profile?id=598102721&src=item"
+}

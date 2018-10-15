@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/69bbf71bb4658e5c1bcb40341065e47d/profile?id=1221317552&src=item",
+  "seller-contact": "Максим или Ринат",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/advanced_nutrients_professional_0.5_l_1221317552",
+  "post_date": "  08 October в 09:24  ",
+  "address": "Москва, м. Тульская",
+  "seller": "HomeHarvest",
+  "text": "Комплект 0,5 литра в себя включает: \n1) Tarantula Liquid Advanced Nutrients 0,5 л \n2) Nirvana Advanced Nutrients 0,5 л \n3) Sensizym Advanced Nutrients 0,5 л \nСамовывоз: м. Тульская, м. Юго-Западная. Оправление в регионы Почтой России и другими ТК.\nЦены постоянно меняются, пожалуйста, уточняйте наличие и цену.\n",
+  "index": 1221317552,
+  "seller_status": "Компания",
+  "price": 4200,
+  "title": "Advanced Nutrients Professional 0.5 л"
+}

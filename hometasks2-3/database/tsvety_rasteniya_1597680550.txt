@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/e05637423ede46795afa9616477557ba/profile?id=1597680550&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_rasteniya_1597680550",
+  "post_date": "  08 October в 10:25  ",
+  "address": "Москва, м. Селигерская",
+  "seller": "Наталия",
+  "text": "Продаю растения: столетник, драцена, циперус, \"щучий хвост\"\n",
+  "index": 1597680550,
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "title": "Цветы, растения"
+}

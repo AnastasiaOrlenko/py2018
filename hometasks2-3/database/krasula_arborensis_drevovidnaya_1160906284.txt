@@ -1,0 +1,13 @@
+{
+  "price": 1900,
+  "seller_status": "Компания",
+  "index": 1160906284,
+  "title": "Красула Arborensis древовидная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krasula_arborensis_drevovidnaya_1160906284",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Царицыно",
+  "text": "Укорененное деревце 17 см высота.\nИмпорт из США!\nГод уже растёт в кВ.\nПолностью адаптировано под наш климат,зиму перенесло Отлично на подоконнике при редком поливе.\nВыросло за год в двое!\n",
+  "post_date": "  6 октября в 09:54  ",
+  "seller_link": "/user/45b4734ea037f708ddd9e266dd4e17d5/profile?id=1160906284&src=item"
+}

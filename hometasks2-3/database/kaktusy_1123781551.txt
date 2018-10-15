@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1123781551,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_1123781551",
+  "address": "Москва, м. Медведково",
+  "title": "Кактусы",
+  "seller_link": "/user/8009eada3be0a2b32dbf558796b86992/profile?id=1123781551&src=item",
+  "text": "1,2 фото Aylostera heliosa cv Sunrise - 500 р\n3 фото Mammilaria elongata - 120 р\n4 фото Mammillaria wildii - 120 р\n5,6 фото mammillaria carmenae по 300 р\n7 фото Echinofossulocactus SP по 150 р.\n8 фото сеянцы lobivia aurea 50 р\n9 фото Mammillaria bombycina 350 р\n10 фото Mammillaria matudae - 300 р\nФото цветущих летние, уже отцвели. Пересылка через СДЭК по Москве и ближайшему Подмосковью 140 р.\n",
+  "post_date": "  07 October в 14:29  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1052232687,
+  "title": "Продажа конского навоза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodazha_konskogo_navoza_1052232687",
+  "seller": "Наталья",
+  "seller-contact": "Василий",
+  "address": "Москва, м. Академическая",
+  "text": "продажа чистого конского навоза без опилок в мешках\n",
+  "post_date": "  4 октября в 23:09  ",
+  "seller_link": "/user/b6063ad92b6f9ed94d5839682d78573b/profile?id=1052232687&src=item"
+}

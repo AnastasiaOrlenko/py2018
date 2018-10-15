@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1338128951,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ekologicheski_chistye_zheludi_duba_1338128951",
+  "address": "Москва, м. Хорошевская",
+  "title": "Экологически чистые желуди дуба",
+  "seller_link": "/user/cecab7cbaf6463b6ea56bd4e2259a06a/profile?id=1338128951&src=item",
+  "text": "Продам экологически чистые желуди дуба со своей дачи. 5 литров\n",
+  "seller-contact": "Ирина",
+  "post_date": "  07 October в 17:43  "
+}

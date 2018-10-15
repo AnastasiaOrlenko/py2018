@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1584915747,
+  "title": "Хойя Аустралис Лиза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_australis_liza_1584915747",
+  "seller": "светлана",
+  "address": "Москва, м. Первомайская",
+  "text": "Хойя Аустралис Лиза (250р) черенки с корнями..(1фото не продается..) Доставка до вашего метро 150р.\n",
+  "post_date": "  5 октября в 13:43  ",
+  "seller_link": "/user/3593e58a8147d2ce31f9a31d2f2f344d/profile?id=1584915747&src=item"
+}

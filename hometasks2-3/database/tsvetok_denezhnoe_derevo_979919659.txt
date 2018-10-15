@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 979919659,
+  "title": "Цветок Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_denezhnoe_derevo_979919659",
+  "seller": "Вероника",
+  "address": "Москва, м. Медведково",
+  "text": "Вырастили сами. Продается с горшком, горшок на колесиках\n",
+  "post_date": "  5 октября в 14:32  ",
+  "seller_link": "/user/6b7c1a74a11ea8e3ca508795a8e2b89b/profile?id=979919659&src=item"
+}

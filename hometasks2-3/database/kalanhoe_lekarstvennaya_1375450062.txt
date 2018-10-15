@@ -1,0 +1,12 @@
+{
+  "price": 380,
+  "seller_status": "Частное лицо",
+  "index": 1375450062,
+  "title": "Каланхоэ лекарственная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_lekarstvennaya_1375450062",
+  "seller": "Анна",
+  "address": "Москва, м. Шипиловская",
+  "text": "Отростки лекарственной каланхоэ. В горшке 5 шт\n",
+  "post_date": "  6 октября в 12:08  ",
+  "seller_link": "/user/da997a6abee740b76d9f049477a02325/profile?id=1375450062&src=item"
+}

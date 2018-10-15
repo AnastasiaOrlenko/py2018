@@ -1,0 +1,12 @@
+{
+  "text": "Продам цветущий молодой куст фото сделаны со вспышкой и без.\n*Встречусь с вами в метро академическая. \n*Пишите в вацап, звонки с 09.00 до 23.00.\n",
+  "title": "Красивая, большая и нежная фиалка. куст",
+  "price": 700,
+  "index": 1004636182,
+  "address": "Москва, м. Академическая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krasivaya_bolshaya_i_nezhnaya_fialka._kust_1004636182",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:36  ",
+  "seller": "Анастасия",
+  "seller_link": "/user/a96fdab996db5c28a945818f3956cae7/profile?id=1004636182&src=item"
+}

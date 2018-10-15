@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1095489438,
+  "seller": "Евгения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1095489438",
+  "address": "Москва, м. Войковская",
+  "title": "Замиокулькас",
+  "seller_link": "/user/1dee8f3152208074170951191a1ae7bd/profile?id=1095489438&src=item",
+  "text": "Замиокулькас. В зависимости от размера 300, 250 и 150 р. Все с корнями и луковицей.\n",
+  "post_date": "  07 October в 13:30  "
+}

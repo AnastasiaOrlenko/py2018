@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1443299939",
+  "price": 50,
+  "seller": "татьяна",
+  "post_date": "  08 October в 23:39  ",
+  "title": "Молочай",
+  "text": "Большой выбор молочаев от 50 до 200р в зависимости от размера\n",
+  "index": 1443299939,
+  "seller_status": "Компания",
+  "seller_link": "/user/4705c96508d8dbb9384e768b4149e5ed/profile?id=1443299939&src=item"
+}

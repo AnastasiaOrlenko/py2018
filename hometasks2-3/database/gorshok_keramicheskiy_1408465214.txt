@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Проспект Мира",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramicheskiy_1408465214",
+  "price": 1000,
+  "seller": "Андрей",
+  "post_date": "  08 October в 20:40  ",
+  "title": "Горшок керамический",
+  "text": "Продаю керамический горшок с поддоном!\nВ идеальном состоянии!\nРазмер:\nВысота-30см\nДиаметр-35см\n",
+  "index": 1408465214,
+  "seller_status": "Компания",
+  "seller_link": "/user/37f11172b8b22c04b47d55aeaf8f2595/profile?id=1408465214&src=item"
+}

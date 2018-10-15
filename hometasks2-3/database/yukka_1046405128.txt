@@ -1,0 +1,12 @@
+{
+  "price": 399,
+  "seller_status": "Компания",
+  "index": 1046405128,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1046405128",
+  "seller": "Арина",
+  "address": "Москва, м. Бунинская аллея",
+  "text": "Пальма больше 10 лет высота более 160\n",
+  "post_date": "  6 октября в 15:33  ",
+  "seller_link": "/user/2f61343e97e619119add8dabf1910186/profile?id=1046405128&src=item"
+}

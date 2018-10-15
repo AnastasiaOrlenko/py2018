@@ -1,0 +1,13 @@
+{
+  "price": 40,
+  "seller_status": "Компания",
+  "index": 414533492,
+  "title": "Ремонтантная клубника Московский деликатес",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/remontantnaya_klubnika_moskovskiy_delikates_414533492",
+  "seller": "Нина",
+  "seller-contact": "Нина",
+  "address": "Москва, м. Медведково",
+  "text": "Рассада ремонтантной клубники Московский деликатес\nс закрытой корневой системой(в кассетах)\n",
+  "post_date": "  4 октября в 21:44  ",
+  "seller_link": "/user/4c79b65395c9d398f06691c446caa386/profile?id=414533492&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1321507953,
+  "title": "Замиокулькас долларовое дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_dollarovoe_derevo_1321507953",
+  "seller": "Татьяна",
+  "address": "Москва, м. Новокосино",
+  "text": "Продам замиокулькас или долларовое дерево. 700 руб. Красивое взрослое растение. Сильные стебли и клубни. Самовывоз.\n",
+  "post_date": "  07 October в 12:39  ",
+  "seller_link": "/user/f67a19c8366c9b3d69d83e3c96af16f1/profile?id=1321507953&src=item"
+}

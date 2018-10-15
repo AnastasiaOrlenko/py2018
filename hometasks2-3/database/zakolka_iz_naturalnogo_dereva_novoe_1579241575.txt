@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1579241575,
+  "title": "Заколка из натурального дерева (новое)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zakolka_iz_naturalnogo_dereva_novoe_1579241575",
+  "seller": "Алена",
+  "address": "Москва, м. Свиблово",
+  "text": "Заколка из натурального дерева . Производство Индия. В использовании не была. Цена указана за штуку.\n",
+  "post_date": "  6 октября в 13:16  ",
+  "seller_link": "/user/aa6b947244481871c6f30b2dc2b5d6b0/profile?id=1579241575&src=item"
+}

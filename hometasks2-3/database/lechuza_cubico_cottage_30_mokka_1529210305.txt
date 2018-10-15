@@ -1,0 +1,12 @@
+{
+  "price": 3200,
+  "seller_status": "Частное лицо",
+  "index": 1529210305,
+  "title": "Lechuza cubico Cottage 30 мокка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lechuza_cubico_cottage_30_mokka_1529210305",
+  "seller": "Инна",
+  "address": "Москва, м. ВДНХ",
+  "text": "Бронь.\nРазмеры, прим. (Ш х Г х В) - 29,5 x 29,5 x 56,5 cm\nВысокое кашпо Лечуза с автополивом, в идеальном состоянии.\nСамовывоз район Останкино.\n",
+  "post_date": "  5 октября в 23:12  ",
+  "seller_link": "/user/240a73dc703039adeb9736a56e0ac903/profile?id=1529210305&src=item"
+}

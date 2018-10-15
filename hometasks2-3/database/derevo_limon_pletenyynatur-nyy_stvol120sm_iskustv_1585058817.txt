@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1585058817,
+  "title": "Дерево лимон плетеный,натур-ный ствол120см Искуств",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derevo_limon_pletenyynatur-nyy_stvol120sm_iskustv_1585058817",
+  "seller": "сергей",
+  "address": "Москва, м. Братиславская",
+  "text": "Р-он Капотня.\n",
+  "post_date": "  6 октября в 15:31  ",
+  "seller_link": "/user/060f124a27f5fa17d341dfffb3271f39/profile?id=1585058817&src=item"
+}

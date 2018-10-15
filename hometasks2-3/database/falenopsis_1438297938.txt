@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1438297938,
+  "title": "Фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_1438297938",
+  "seller": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Цветок 11 см.\n",
+  "post_date": "  6 октября в 09:26  ",
+  "seller_link": "/user/e550a91df67086d0b354a31fadf91df2/profile?id=1438297938&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Фикус каучуковый Тенеке, высота 15 см - 150 руб\n",
+  "title": "Фикус каучуковый Тенеке",
+  "price": 150,
+  "index": 599273799,
+  "address": "Москва, м. Тимирязевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_kauchukovyy_teneke_599273799",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:52  ",
+  "seller": "К",
+  "seller_link": "/user/50f8434439472f377fb51e209a9ae35d/profile?id=599273799&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1648440988,
+  "title": "Горшок для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_1648440988",
+  "seller": "Людмила",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "Высота-36см.Радиус-40см.Есть еще горшки.Смотрите профиль\n",
+  "post_date": "  5 октября в 13:08  ",
+  "seller_link": "/user/fff3f1005c3a4f3ff7670b1bc94bb90a/profile?id=1648440988&src=item"
+}

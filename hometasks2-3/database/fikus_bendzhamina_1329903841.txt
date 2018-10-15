@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1329903841,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1329903841",
+  "seller": "Оксана",
+  "address": "Москва, м. Площадь революции",
+  "text": "Крона 30 см, выращен из 3-х отростков моего домашнего фикуса. Грунт - земля. Продаю без горшка.\n",
+  "post_date": "  07 October в 11:50  ",
+  "seller_link": "/user/fd38156bd996695781af7d0c36fd79be/profile?id=1329903841&src=item"
+}

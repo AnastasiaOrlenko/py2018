@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1643790117,
+  "title": "Хавортия, Суккулент",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_sukkulent_1643790117",
+  "seller": "Артём",
+  "address": "Москва, м. Щелковская",
+  "text": "Есть 4 ростика, все детки от одной мамки.\nХорошо разрастаются, в обильном поливе не нуждаются.\nЦена за каждый.\n",
+  "post_date": "  6 октября в 13:18  ",
+  "seller_link": "/user/4f54858a9c020708c3ed01a778c9eda6/profile?id=1643790117&src=item"
+}

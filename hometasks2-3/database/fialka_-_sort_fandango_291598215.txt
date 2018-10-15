@@ -1,0 +1,13 @@
+{
+  "price": 30,
+  "seller_status": "Компания",
+  "index": 291598215,
+  "title": "Фиалка - сорт \"Фанданго\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_fandango_291598215",
+  "seller": "ОБУВЬ МЕЧТЫ - OASIS SHOES",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Кантемировская",
+  "text": "Фиалки (сенполии) - сорт \"Фанданго\" (Лебецкая) , листик - 30 руб., а также - детки, стартеры.\nЕсть другие сорта.\n",
+  "post_date": "  5 октября в 20:25  ",
+  "seller_link": "/user/c2900c4f264d126e41d9e617d2129963/profile?id=291598215&src=item"
+}

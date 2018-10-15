@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1396321798,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1396321798",
+  "seller": "Наталия",
+  "address": "Москва, м. Теплый стан",
+  "text": "Растение неприхотливо в уходе. Разрастается быстро.\n",
+  "post_date": "  6 октября в 11:11  ",
+  "seller_link": "/user/550cc158c55047bbb7e6263e2362016f/profile?id=1396321798&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1231094364,
+  "seller": "Частное физическое лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_funduka_1231094364",
+  "address": "Москва, м. Павелецкая",
+  "title": "Саженцы Фундука",
+  "seller_link": "/user/4d896fe14166d6d99390d63bb34bef3b/profile?id=1231094364&src=item",
+  "text": "Саженцы Фундук\nСорт: \nИтальянский Giffoni \nИтальянский Romana\nКоличество от 500шт\nНа 1ГА посадка идет 500шт\nСтоимость указана за штуку\n",
+  "seller-contact": "Дмитрий",
+  "post_date": "  07 October в 17:59  "
+}

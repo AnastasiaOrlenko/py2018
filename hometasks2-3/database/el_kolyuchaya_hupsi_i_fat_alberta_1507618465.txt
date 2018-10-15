@@ -1,0 +1,12 @@
+{
+  "price": 3500,
+  "seller_status": "Частное лицо",
+  "index": 1507618465,
+  "title": "Ель колючая Хупси и Фат Альберта",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/el_kolyuchaya_hupsi_i_fat_alberta_1507618465",
+  "seller": "евгений",
+  "address": "Москва, м. Выхино",
+  "text": "Ель колючая Хупси,Глаука,Фат Альберта,выращенные в Подмосковье,размер 1.0-3.0м .\n",
+  "post_date": "  07 October в 08:00  ",
+  "seller_link": "/user/33be6318a51ba67fe331cb2d5f9ea0b3/profile?id=1507618465&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 477867771,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_477867771",
+  "seller": "Частник",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Красивая фиалка (3 штуки) продаю за 300 рублей (одна). Цветет регулярно, пышно.\n",
+  "post_date": "  6 октября в 22:07  ",
+  "seller_link": "/user/66ed9b8b0866a2530fc782bbd49f4f8f/profile?id=477867771&src=item"
+}

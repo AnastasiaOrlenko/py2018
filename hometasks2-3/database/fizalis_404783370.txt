@@ -1,0 +1,13 @@
+{
+  "price": 25,
+  "seller_status": "Компания",
+  "index": 404783370,
+  "title": "Физалис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fizalis_404783370",
+  "seller": "Нина",
+  "seller-contact": "Нина",
+  "address": "Москва, м. Медведково",
+  "text": "Физалис декоративный используется для зимних букетов. \n Цена за одну ветку.\nЕсть также корни растения физалиса для посадки\n",
+  "post_date": "  6 октября в 14:26  ",
+  "seller_link": "/user/4c79b65395c9d398f06691c446caa386/profile?id=404783370&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 1900,
+  "index": 916541946,
+  "seller": "Valerya",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_bc._duhs_white_pink_pig_v._digbyana_916541946",
+  "address": "Москва, м. Беляево",
+  "title": "Орхидея Bc. Duh's White ' Pink Pig' (В. Digbyana",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=916541946&src=item",
+  "text": "Bc. Duh's White ' Pink Pig' is a hybrid between Brassavola Digbyana and Bc. Mount Hood, цвести будет с фото\n",
+  "seller-contact": "не компания",
+  "post_date": "  08 October в 06:04  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Отрадное",
+  "seller": "Лада",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_2_diffenbahii_spatifilum_1482748009",
+  "seller_status": "Частное лицо",
+  "title": "Монстера, 2 Диффенбахии, Спатифилум",
+  "post_date": "  08 October в 12:45  ",
+  "price": 3000,
+  "index": 1482748009,
+  "seller_link": "/user/fcaaf2d1fc8df4395102579ae424116f/profile?id=1482748009&src=item",
+  "text": "Монстера, 2 Диффенбахии, Спатифилум. Растения взрослые, здоровые. Цена указана при покупке все вместе. Возможна раздельная продажа.\n"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 985008410,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/duranta_erecta_gold_mound_985008410",
+  "address": "Москва, м. Филевский парк",
+  "title": "Duranta Erecta Gold Mound",
+  "seller_link": "/user/007122ec05161e59f33afea753de2b40/profile?id=985008410&src=item",
+  "text": "Duranta Erecta Gold Mound - карлик\nВзрослое растение обрастает после обрезки, молодые листики растут золотистые, 44 см. от земли - 1100\nЧеренки по 300 р. - фото №2.\nСамовывоз из квартиры, живу 5 мин. пешком от метро.\nМогу поднести к метро Филевский парк или Славянский бульвар. \nВозможна доставка к любой станции метро 200.\n",
+  "seller-contact": "Анастасия",
+  "post_date": "  07 October в 17:55  "
+}

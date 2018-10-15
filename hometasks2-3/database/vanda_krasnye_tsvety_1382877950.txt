@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1382877950,
+  "title": "Ванда красные цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vanda_krasnye_tsvety_1382877950",
+  "seller": "Елена",
+  "address": "Москва, м. Кузьминки",
+  "text": "Здоровое растение, сорт указан на фото\n",
+  "post_date": "  07 October в 09:05  ",
+  "seller_link": "/user/8674c318bc3a78c4a8d7fb46f2b321be/profile?id=1382877950&src=item"
+}

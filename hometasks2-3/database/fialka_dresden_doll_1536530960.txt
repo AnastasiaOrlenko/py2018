@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1536530960,
+  "title": "Фиалка Dresden Doll",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_dresden_doll_1536530960",
+  "seller": "Наталья",
+  "address": "Москва, м. Печатники",
+  "text": "Фиалка ампельная, обильно и долго цветущая!\nНа первом фото взрослое растение, на втором большая детка-250 ₽\n",
+  "post_date": "  5 октября в 19:11  ",
+  "seller_link": "/user/93a5fff337e8ca9279a16700530cffc0/profile?id=1536530960&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1661392678,
+  "title": "Пальма веерная многолетняя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_veernaya_mnogoletnyaya_1661392678",
+  "seller": "Нина Ивановна",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Продаю веерную пальму. Высота 70 см. Высота ствола 20 см. Ширина ствола 10 см. \n \nг. Долгопрудный, пос. Шереметьевский.\nПри самовывозе - цена ниже.\n",
+  "post_date": "  5 октября в 11:08  ",
+  "seller_link": "/user/4a73076d1b35b062900edccbebe067a5/profile?id=1661392678&src=item"
+}

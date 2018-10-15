@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1608910979,
+  "title": "Алоэ-вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe-vera_1608910979",
+  "seller": "Не компания",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "О полезных свойствах этого растения думаю писать не надо. Самовывоз.\n",
+  "post_date": "  5 октября в 16:20  ",
+  "seller_link": "/user/a6e790a3a76b9516e25c34706e0887a1/profile?id=1608910979&src=item"
+}

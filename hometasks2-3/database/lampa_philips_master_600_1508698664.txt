@@ -1,0 +1,12 @@
+{
+  "price": 1650,
+  "seller_status": "Частное лицо",
+  "index": 1508698664,
+  "title": "Лампа Philips master 600",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampa_philips_master_600_1508698664",
+  "seller": "Римма",
+  "address": "Москва, м. Белокаменная",
+  "text": "Продаю новые лампы Philips MASTER SON-T PIA Plus 600 Вт\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/a15325d0520d25bf51eb32ef14347f8d/profile?id=1508698664&src=item"
+}

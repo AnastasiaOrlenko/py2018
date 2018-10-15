@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 874521839,
+  "title": "Сладкие букеты на заказ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sladkie_bukety_na_zakaz_874521839",
+  "seller": "Тамила",
+  "address": "Москва, м. Войковская",
+  "text": "заказывайте сладкий оригиналный букет на день рождения и на праздник.\n",
+  "post_date": "  6 октября в 13:15  ",
+  "seller_link": "/user/8f39aefbbd1866149b6e850d25fa8ff9/profile?id=874521839&src=item"
+}

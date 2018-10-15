@@ -1,0 +1,12 @@
+{
+  "text": "Продам цветок очень большой не куда ставить, торг возможен, кого заинтересовал фото могу скинуть на ватсаб,пальма, торг\n",
+  "title": "Продам цветок",
+  "price": 1300,
+  "index": 1475740670,
+  "address": "Москва, м. Октябрьское поле",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_tsvetok_1475740670",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 07:28  ",
+  "seller": "Юлия",
+  "seller_link": "/user/65b4325f8306a1e50b4c0f80ea213206/profile?id=1475740670&src=item"
+}

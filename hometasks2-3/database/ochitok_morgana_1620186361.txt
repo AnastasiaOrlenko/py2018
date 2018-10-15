@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1620186361,
+  "title": "Очиток Моргана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ochitok_morgana_1620186361",
+  "seller": "Елена",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "Красивый цветок. Растет быстро.\n",
+  "post_date": "  5 октября в 06:39  ",
+  "seller_link": "/user/ea3aa1d8319e217052dd4cf84abcaf50/profile?id=1620186361&src=item"
+}

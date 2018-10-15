@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 933875594,
+  "title": "Семена Суданской розы или Каркаде",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semena_sudanskoy_rozy_ili_karkade_933875594",
+  "seller": "Частное лицо",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Печатники",
+  "text": "Семена суданской розы. Для оранжереи. Проверены на всхожесть. Привезены из Египта. Цена за 30 косточек. Самовывоз.\n",
+  "post_date": "  5 октября в 11:57  ",
+  "seller_link": "/user/13ffc38512f9f7cbccaa2a59154822f8/profile?id=933875594&src=item"
+}

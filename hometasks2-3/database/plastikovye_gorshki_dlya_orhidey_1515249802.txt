@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1515249802,
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plastikovye_gorshki_dlya_orhidey_1515249802",
+  "address": "Москва, м. Кузнецкий мост",
+  "title": "Пластиковые горшки для орхидей",
+  "seller_link": "/user/1eb76223efac3605849fa60f3ae506fe/profile?id=1515249802&src=item",
+  "text": "Пластиковый горшок для орхидей\nЦена за 1 шт\n",
+  "post_date": "  07 October в 16:38  "
+}

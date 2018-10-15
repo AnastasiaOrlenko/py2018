@@ -1,0 +1,12 @@
+{
+  "price": 10000,
+  "seller_status": "Частное лицо",
+  "index": 989915691,
+  "title": "Букет из пионов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_pionov_989915691",
+  "seller": "Юлия",
+  "address": "Москва, м. Кантемировская",
+  "text": "Два Роскошных, пышных, больших букетов из пионов.\nПродаётся в комплекте из 2х штук.\nПо отдельности не продаётся.\n",
+  "post_date": "  5 октября в 14:45  ",
+  "seller_link": "/user/47abb4d357524d0f8c13bb56949cc8be/profile?id=989915691&src=item"
+}

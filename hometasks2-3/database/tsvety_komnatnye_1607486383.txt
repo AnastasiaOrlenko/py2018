@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бибирево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_komnatnye_1607486383",
+  "price": 150,
+  "seller": "Марина",
+  "post_date": "  08 October в 17:45  ",
+  "title": "Цветы комнатные",
+  "text": "Продаю комнатные растения: могу по договоренности встретиться у метро!!!\n",
+  "index": 1607486383,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a60c6c530e047cd9b0f31a3df4268b2c/profile?id=1607486383&src=item"
+}

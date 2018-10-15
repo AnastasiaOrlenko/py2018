@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1447383560,
+  "title": "Бегония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_1447383560",
+  "seller": "Ольга (частное лицо)",
+  "address": "Москва, м. Ленинский проспект",
+  "text": "Молодое растение в пластиковом горшке, высота горшка 10 см. Самовывоз от м. Ленинский пр-т. В\n",
+  "post_date": "  6 октября в 23:16  ",
+  "seller_link": "/user/fdb5376a13438db9b60e352dccf36487/profile?id=1447383560&src=item"
+}

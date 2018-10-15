@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 50,
+  "index": 1397608895,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1397608895",
+  "address": "Москва, м. Марьино",
+  "title": "Хлорофитум",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1397608895&src=item",
+  "text": "Продам растения - хлорофитум. Все растения хорошо укоренившиеся. Возможна доставка до любой станции метро.\n1, 2,3 фото по 250 рублей\n4 фото 350 рублей\n5 фото 50 рублей\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 15:40  "
+}

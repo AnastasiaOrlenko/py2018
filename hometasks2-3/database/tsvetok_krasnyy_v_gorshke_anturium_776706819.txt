@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 776706819,
+  "title": "Цветок красный в горшке Антуриум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_krasnyy_v_gorshke_anturium_776706819",
+  "seller": "Юлия (частное лицо)",
+  "address": "Москва, м. Сходненская",
+  "text": "Очень красиво цветет.\n",
+  "post_date": "  6 октября в 13:52  ",
+  "seller_link": "/user/14c6bc066a38ce6b6c9381f268494aee/profile?id=776706819&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новогиреево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalina_s_vetki_1467223630",
+  "price": 150,
+  "seller": "инна ануфриева",
+  "post_date": "  08 October в 18:47  ",
+  "title": "Калина с ветки",
+  "text": "Ягоды калины с куста своей дачи\n",
+  "index": 1467223630,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/04a32f47a03bc23f86599615ba65cfe8/profile?id=1467223630&src=item"
+}

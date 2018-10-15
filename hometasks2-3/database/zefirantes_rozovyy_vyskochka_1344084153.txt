@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zefirantes_rozovyy_vyskochka_1344084153",
+  "price": 100,
+  "seller": "Продавец",
+  "post_date": "  08 October в 23:19  ",
+  "title": "Зефирантес розовый (выскочка)",
+  "text": "1 луковичка с листьями 100 р.\n3 луковички с листьями 200 р.\nПересажу в пластиковый стаканчик.\nБирюлево-Восточное, Загорье.\nВ метро сейчас не бываю.\n",
+  "index": 1344084153,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/226087a93c5256b5f06c7cd3f4ea881a/profile?id=1344084153&src=item"
+}

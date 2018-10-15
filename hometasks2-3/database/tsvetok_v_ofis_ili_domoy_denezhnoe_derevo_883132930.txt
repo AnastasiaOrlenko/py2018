@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 883132930,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_v_ofis_ili_domoy_denezhnoe_derevo_883132930",
+  "address": "Москва, м. Планерная",
+  "title": "Цветок в офис или домой \"денежное дерево\"",
+  "seller_link": "/user/158f1790637a8106061e0af24eabf7ea/profile?id=883132930&src=item",
+  "text": "Денежное дерево или толчанка - символ достатка и благополучия. Отличный подарок для друзей и коллег, домой или в офис. 3-4 летние растения высотой 15–35.\n",
+  "post_date": "  07 October в 12:54  "
+}

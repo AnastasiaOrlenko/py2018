@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 499,
+  "index": 1596798656,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_s_poddonom_zolotistyy_1596798656",
+  "address": "Москва, м. Добрынинская",
+  "title": "Горшок с поддоном золотистый",
+  "seller_link": "/user/2c605604cd7d2f8a864c41ddf7c9e3c2/profile?id=1596798656&src=item",
+  "text": "Горшок с поддоном дизайнерский,НОВЫЙ. Красивый золотистый цвет с интересный фактурой ,рельефный. Возможен обмен ...от химии,парфюмерии до коробок конфет.\n",
+  "post_date": "  07 October в 22:59  "
+}

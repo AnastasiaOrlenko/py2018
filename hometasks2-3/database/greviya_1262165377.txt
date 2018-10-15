@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1262165377,
+  "title": "Гревия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/greviya_1262165377",
+  "seller": "Ольга",
+  "address": "Москва, м. Крымская",
+  "text": "Продам черенок гревии,очень редкое растение цветет все лето,на звонок на работе не всегда могу ответить, пишите смс .\n",
+  "post_date": "  6 октября в 20:05  ",
+  "seller_link": "/user/5ac5a9b787086cccf227997c3bdfc597/profile?id=1262165377&src=item"
+}

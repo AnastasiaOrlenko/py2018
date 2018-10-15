@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1248020354,
+  "title": "Горшки цветочные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_tsvetochnye_1248020354",
+  "seller": "Валентина",
+  "address": "Москва, м. Молодежная",
+  "text": "Горшки для цветов. Продаю в связи с переездом.Любой за 100 рублей.\n",
+  "post_date": "  6 октября в 20:18  ",
+  "seller_link": "/user/3716045b7bbaee05fed5afbff90b4236/profile?id=1248020354&src=item"
+}

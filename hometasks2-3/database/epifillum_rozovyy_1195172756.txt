@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "seller": "Олег попов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epifillum_rozovyy_1195172756",
+  "seller_status": "Частное лицо",
+  "title": "Эпифиллум розовый",
+  "post_date": "  08 October в 14:27  ",
+  "price": 300,
+  "index": 1195172756,
+  "seller_link": "/user/825b4be8a1122cd72a4cf1e8690905f7/profile?id=1195172756&src=item",
+  "text": "зпифиллум розовый\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1040127418,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1040127418",
+  "seller": "Алексей",
+  "address": "Москва, м. Площадь революции",
+  "text": "продам каланхоэ\n",
+  "post_date": "  6 октября в 13:10  ",
+  "seller_link": "/user/61604a920c60b3a3d3a05197e9fe24e3/profile?id=1040127418&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2999,
+  "index": 1374753658,
+  "seller": "михаил",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_1374753658",
+  "address": "Москва, м. Дмитровская",
+  "title": "Спатифиллум",
+  "seller_link": "/user/0418d7b9ddc482e4aa0dc87a4a046275/profile?id=1374753658&src=item",
+  "text": "Спатифмиллум-цветок женского счастья. Цветёт круглый год белыми цветами. Растению 17 лет. Продаётся с горшком.\n",
+  "post_date": "  07 October в 19:57  "
+}

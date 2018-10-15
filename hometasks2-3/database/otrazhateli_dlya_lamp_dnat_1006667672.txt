@@ -1,0 +1,12 @@
+{
+  "price": 380,
+  "seller_status": "Частное лицо",
+  "index": 1006667672,
+  "title": "Отражатели для ламп днат",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otrazhateli_dlya_lamp_dnat_1006667672",
+  "seller": "Екатерина",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продам отражатели из анодированного алюминия для ламп ДНат 70-600 Вт и листы анафола\n",
+  "post_date": "  6 октября в 23:43  ",
+  "seller_link": "/user/de4d96179dd3c04bae9a59b59a82482b/profile?id=1006667672&src=item"
+}

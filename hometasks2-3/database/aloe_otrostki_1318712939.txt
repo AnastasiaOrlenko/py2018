@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1318712939,
+  "title": "Алоэ (отростки)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_otrostki_1318712939",
+  "seller": "Ольга",
+  "address": "Москва, м. Новокосино",
+  "text": "Алоэ отростки. Возраст примерно 1 год. Цена 50 руб.\nМ. Новокосино, ул. Октября. 44\n",
+  "post_date": "  5 октября в 22:10  ",
+  "seller_link": "/user/10b1d7a8eb4ebd81141cccb050899a94/profile?id=1318712939&src=item"
+}

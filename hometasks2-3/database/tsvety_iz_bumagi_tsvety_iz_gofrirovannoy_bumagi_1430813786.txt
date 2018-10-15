@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1430813786,
+  "title": "Цветы из бумаги / цветы из гофрированной бумаги",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_iz_bumagi_tsvety_iz_gofrirovannoy_bumagi_1430813786",
+  "seller": "Галина",
+  "address": "Москва, м. ВДНХ",
+  "text": "Цветы - тюльпаны\n крепированной бумаги \nБукеты с конфетами \nВыбор цветов, конфет и цвет бумаги по желанию).\nЦена за 1 цветок 50 рублей\n+ упаковка\n+ конфеты\nПять минут пешком от метро ВДНХ\n",
+  "post_date": "  6 октября в 13:12  ",
+  "seller_link": "/user/bd65a77a64b521a13bf0405d34a0d877/profile?id=1430813786&src=item"
+}

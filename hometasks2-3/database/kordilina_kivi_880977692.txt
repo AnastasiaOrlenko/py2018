@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 880977692,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kordilina_kivi_880977692",
+  "address": "Москва, м. Смоленская",
+  "title": "Кордилина Киви",
+  "seller_link": "/user/dbfe40be359f1d5db5092509950f52dd/profile?id=880977692&src=item",
+  "text": "1 фото - 32см - 200 руб. 2 фото - 31см - 200 руб. 3 фото - 37 см - 500 руб. 4 фото - 48 см с горшком - 1000 руб.\n",
+  "post_date": "  07 October в 22:06  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1156545753,
+  "title": "Сансевиерия (тещин язык)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_teschin_yazyk_1156545753",
+  "seller": "Оксана",
+  "address": "Москва, м. Текстильщики",
+  "text": "Сансевиерия - фильтрует воздух, поглощает формальдегид, нейтрализует воздействие вредных паров. Листья вырабатывают вещества, обладающие антимикробным действием.\n",
+  "post_date": "  6 октября в 10:53  ",
+  "seller_link": "/user/27bfbf4938db78da37022aab3be7dafb/profile?id=1156545753&src=item"
+}

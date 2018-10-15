@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 965596099,
+  "seller": "Галина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_965596099",
+  "address": "Москва, м. Крылатское",
+  "title": "Рэо",
+  "seller_link": "/user/4b28669d6b536927b8658c6591a8a433/profile?id=965596099&src=item",
+  "text": "Продаю красивую рэо в горшке.Бесплатно подвезу к метро крылатское.\n",
+  "post_date": "  07 October в 18:24  "
+}

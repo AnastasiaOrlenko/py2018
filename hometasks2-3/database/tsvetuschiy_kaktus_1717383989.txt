@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1717383989,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetuschiy_kaktus_1717383989",
+  "address": "Москва, м. Полянка",
+  "title": "Цветущий кактус",
+  "seller_link": "/user/0cc6790d4187d90b5cbc34620267ba09/profile?id=1717383989&src=item",
+  "text": "Кактус. Первое цветение. Теперь будет цвести каждый год, а может и несколько раз за лето.\nНа фотках кактус в процессе цветения.\nЦветок бледно розовый, большой.\n",
+  "seller-contact": "Ольга",
+  "post_date": "  07 October в 21:18  "
+}

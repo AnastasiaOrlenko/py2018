@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 900,
+  "index": 589184811,
+  "seller": "ХОЗЯИН",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_tsvetuschiy_589184811",
+  "address": "Москва, м. Орехово",
+  "title": "Молочай цветущий",
+  "seller_link": "/user/6ee670dbdd6e5ba4804e31ac23f83925/profile?id=589184811&src=item",
+  "text": "МОЛОЧАЙ � цветущий возрость более 10 лет.\n",
+  "post_date": "  07 October в 14:21  "
+}

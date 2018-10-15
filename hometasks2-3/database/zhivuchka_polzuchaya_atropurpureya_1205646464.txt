@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 25,
+  "index": 1205646464,
+  "seller": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zhivuchka_polzuchaya_atropurpureya_1205646464",
+  "address": "Москва, м. Медведково",
+  "title": "Живучка ползучая Атропурпурея",
+  "seller_link": "/user/5af12edef0b8cc9655d9e99d5d1fe7dc/profile?id=1205646464&src=item",
+  "text": "Живучка ползучая Атропурпурея выращена на своей даче. Находится в Пушкинском р-не. Возможна по договоренности встреча в Сергиево-Посадском или Пушкинском р-не. Цена за розетку.\n",
+  "post_date": "  07 October в 15:22  "
+}

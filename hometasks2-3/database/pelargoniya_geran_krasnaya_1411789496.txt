@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1411789496,
+  "title": "Пеларгония Герань красная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_krasnaya_1411789496",
+  "seller": "Татьяна",
+  "seller-contact": "Татьяна",
+  "address": "Москва, м. Люблино",
+  "text": "Ярко красный цвет. В наличии три штуки.\n",
+  "post_date": "  6 октября в 16:34  ",
+  "seller_link": "/user/f17404f7889e972da1ebf2faba54464c/profile?id=1411789496&src=item"
+}

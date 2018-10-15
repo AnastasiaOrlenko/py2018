@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1498072746,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1498072746",
+  "seller": "Ольга",
+  "address": "Москва, м. Каховская",
+  "text": "Фиалки те что на фото. Цена за одну\n",
+  "post_date": "  5 октября в 15:18  ",
+  "seller_link": "/user/2b2612604478b49ac1f313b904438d15/profile?id=1498072746&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1619588993,
+  "title": "Пальмы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palmy_1619588993",
+  "seller": "Александр",
+  "address": "Москва, м. Строгино",
+  "text": "продам пальмы 7-10 лет, выращенные в домашних условиях в связи с переездом.\n",
+  "post_date": "  6 октября в 10:07  ",
+  "seller_link": "/user/f6c6b0a8a56788a515fe93b40f4a94d7/profile?id=1619588993&src=item"
+}

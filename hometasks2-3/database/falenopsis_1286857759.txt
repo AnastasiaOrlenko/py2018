@@ -1,0 +1,12 @@
+{
+  "price": 1450,
+  "seller_status": "Частное лицо",
+  "index": 1286857759,
+  "title": "Фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_1286857759",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис сортовой, с большими бутонами. 1 ствол.\n",
+  "post_date": "  6 октября в 21:08  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1286857759&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Индийский лук",
+  "price": 50,
+  "seller": "Елена (не компания)",
+  "seller_link": "/user/be107386392128eca47a8613cdc7398c/profile?id=1718391046&src=item",
+  "address": "Москва, м. Ховрино",
+  "index": 1718391046,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/indiyskiy_luk_1718391046",
+  "text": "растение - лекарь. осталось две луковички 2-3см.\n",
+  "post_date": "  4 октября в 18:11  ",
+  "seller-contact": "Елена"
+}

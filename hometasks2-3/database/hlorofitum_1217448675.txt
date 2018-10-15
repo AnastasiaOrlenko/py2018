@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Калужская",
+  "seller": "Мила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1217448675",
+  "seller_status": "Частное лицо",
+  "title": "Хлорофитум",
+  "post_date": "  08 October в 13:45  ",
+  "price": 120,
+  "index": 1217448675,
+  "seller_link": "/user/0aab23e9ffe046cca4b8699843769f10/profile?id=1217448675&src=item",
+  "text": "Растение молодое, маленькое, зато кашпо большое, новое )\n"
+}

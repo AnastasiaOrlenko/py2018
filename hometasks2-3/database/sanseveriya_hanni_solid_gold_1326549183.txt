@@ -1,0 +1,12 @@
+{
+  "text": "Редкая коллекционная сансевьерия, один из красивейших сортов низкорослой сансевьерии Ханни\n",
+  "title": "Сансевьерия ханни Солид голд",
+  "price": 2500,
+  "index": 1326549183,
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sanseveriya_hanni_solid_gold_1326549183",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:15  ",
+  "seller": "ника",
+  "seller_link": "/user/7901c979e94ac738837d74cc11d7123e/profile?id=1326549183&src=item"
+}

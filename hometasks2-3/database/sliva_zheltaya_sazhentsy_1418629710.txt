@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1418629710,
+  "title": "Слива желтая саженцы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sliva_zheltaya_sazhentsy_1418629710",
+  "seller": "Александра",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Саженцы сливы желтой , неприхотлива, морозоустойчива, желтая сладкая, прекрасно приживается, есть много других разных саженцев\n",
+  "post_date": "  6 октября в 05:25  ",
+  "seller_link": "/user/db6b39a1ce88aacb364103c244c08aad/profile?id=1418629710&src=item"
+}

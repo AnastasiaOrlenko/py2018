@@ -1,0 +1,12 @@
+{
+  "title": "Торфяная смесь для туалета Кеккила",
+  "price": 500,
+  "seller": "Андрей",
+  "seller_link": "/user/04368b832a030d71f6645617eb190cd7/profile?id=1426570152&src=item",
+  "address": "Москва, м. Алтуфьево",
+  "index": 1426570152,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/torfyanaya_smes_dlya_tualeta_kekkila_1426570152",
+  "text": "Продам торфяной наполнитель Кеккила 50 литров.Для компостных туалетов. Финский. 10 мешков. 5000 за всё.\n",
+  "post_date": "  4 октября в 16:58  "
+}

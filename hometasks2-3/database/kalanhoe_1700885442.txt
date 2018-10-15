@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1700885442,
+  "title": "Каланхое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1700885442",
+  "seller": "Комнатные цветы",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "Самовывоз.\n",
+  "post_date": "  6 октября в 11:34  ",
+  "seller_link": "/user/bfc2f5109b84ca034d110bc90a086513/profile?id=1700885442&src=item"
+}

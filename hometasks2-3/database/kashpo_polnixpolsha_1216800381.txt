@@ -1,0 +1,13 @@
+{
+  "text": "Диаметр 31 см\nВысота 31 см\n",
+  "title": "Кашпо Polnix(Польша)",
+  "price": 2000,
+  "index": 1216800381,
+  "address": "Москва, м. Новослободская",
+  "seller-contact": "Элина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_polnixpolsha_1216800381",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:21  ",
+  "seller": "Елена(частное лицо)",
+  "seller_link": "/user/f509dee94adf2d3eaef40fe31a982c36/profile?id=1216800381&src=item"
+}

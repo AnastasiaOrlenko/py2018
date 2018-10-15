@@ -1,0 +1,12 @@
+{
+  "price": 1750,
+  "seller_status": "Частное лицо",
+  "index": 1576888301,
+  "title": "Фаленопсис (орхидея)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_orhideya_1576888301",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис сортовой, 2ств. Насыщенный цвет, плотные листы.\n",
+  "post_date": "  6 октября в 21:46  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1576888301&src=item"
+}

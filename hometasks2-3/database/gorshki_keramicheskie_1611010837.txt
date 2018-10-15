@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Проспект Мира",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_keramicheskie_1611010837",
+  "price": 1500,
+  "seller": "Андрей",
+  "post_date": "  08 October в 20:39  ",
+  "title": "Горшки керамические",
+  "text": "Продаю 2 керамических горшка.\nВ идеальном состоянии.\nРазмер:\nВысота-35см\nДиаметр-40см\nЦена за 1шт.\n",
+  "index": 1611010837,
+  "seller_status": "Компания",
+  "seller_link": "/user/37f11172b8b22c04b47d55aeaf8f2595/profile?id=1611010837&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Хорошево",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_1394833774",
+  "seller_status": "Частное лицо",
+  "title": "Кротон",
+  "post_date": "  08 October в 13:07  ",
+  "price": 2000,
+  "index": 1394833774,
+  "seller_link": "/user/9f8a028a310e14aade9afd810033afcb/profile?id=1394833774&src=item",
+  "text": "Прекрасное неприхотливое комнатное растение. Можно смоделировать под нужную форму и гармонично встроить в интерьер\n"
+}

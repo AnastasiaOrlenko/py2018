@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1313035833,
+  "title": "Сортовые бальзамины",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_balzaminy_1313035833",
+  "seller": "Наталия",
+  "address": "Москва, м. Отрадное",
+  "text": "Продаю «сильные» отростки сортовых бальзаминов:\nMagenta sport\nApple blossom\nEmsoa hole\nDouble circus orange white\nWhite gardenia\nСорт утерян, белый крупный махровый с оборкой (самый левый стаканчик)\nКаждый по 150₽, потеряшка 100₽\nСамовывоз\n",
+  "post_date": "  5 октября в 18:26  ",
+  "seller_link": "/user/5939983cc53975eae8ca6e977a57e450/profile?id=1313035833&src=item"
+}

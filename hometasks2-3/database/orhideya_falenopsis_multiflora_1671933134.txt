@@ -1,0 +1,12 @@
+{
+  "price": 1750,
+  "seller_status": "Частное лицо",
+  "index": 1671933134,
+  "title": "Орхидея фаленопсис мультифлора",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_multiflora_1671933134",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 40-50см. Мультифлорная!!! Редкий цвет!\n",
+  "post_date": "  6 октября в 22:01  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1671933134&src=item"
+}

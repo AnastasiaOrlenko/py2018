@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1572821496,
+  "title": "Пальма веерная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_veernaya_1572821496",
+  "seller": "Нина Ивановна",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Предлагаю пальму Китайскую Веерную. Высота 130 см.\nСамовывоз.\nТорг.\nДолгопрудный. пос. Шереметьевский.\n",
+  "post_date": "  5 октября в 12:17  ",
+  "seller_link": "/user/4a73076d1b35b062900edccbebe067a5/profile?id=1572821496&src=item"
+}

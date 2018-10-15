@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1152933241,
+  "seller": "Евгения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derzhateli_dlya_tsvetov_na_stoyku-_raspor_1152933241",
+  "address": "Москва, м. Борисово",
+  "title": "Держатели для цветов на стойку- распор",
+  "seller_link": "/user/30035705042befe8ce220a3b1cbe56d6/profile?id=1152933241&src=item",
+  "text": "Продам лишние держатели на стойку- распор. Держатся за счет других держателей. Диаметр 15 см. Есть 4 шт. При покупке всех отдам по 150 руб за шт\n",
+  "post_date": "  07 October в 16:23  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1307024847,
+  "title": "Сортовая фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovaya_fialka_1307024847",
+  "seller": "Анна",
+  "address": "Москва, м. Маяковская",
+  "text": "Продам укорененные черенки. А также взрослое растение за 150 руб.\n",
+  "post_date": "  6 октября в 09:03  ",
+  "seller_link": "/user/5c0737868668351b9c5d008c44da6594/profile?id=1307024847&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1046131401,
+  "title": "Алое вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_vera_1046131401",
+  "seller": "Олег",
+  "address": "Москва, м. Бибирево",
+  "text": "Цветку 3 года . Здоровый красивый. Продам без горшка.\n",
+  "post_date": "  5 октября в 08:59  ",
+  "seller_link": "/user/cdc56c8cd1f6d133ad920f9ebdf8e2b6/profile?id=1046131401&src=item"
+}

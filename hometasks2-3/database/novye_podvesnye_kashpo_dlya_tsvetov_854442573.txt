@@ -1,0 +1,12 @@
+{
+  "text": "Подвесные металлические зеленые кашпо для цветов (без кокосовой вставки), хорошо в них смотрится, например, петуния; по диаметру есть 2 размера: 35 и 40см (190руб. и 230руб.)\n",
+  "title": "Новые подвесные кашпо для цветов",
+  "price": 190,
+  "index": 854442573,
+  "address": "Москва, м. Войковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novye_podvesnye_kashpo_dlya_tsvetov_854442573",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 23:17  ",
+  "seller": "*",
+  "seller_link": "/user/034b08b2837c69d593d9a17a86f482db/profile?id=854442573&src=item"
+}

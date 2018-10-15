@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1084392847,
+  "title": "Личи ростки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lichi_rostki_1084392847",
+  "seller": "Виктория",
+  "address": "Москва, м. Тропарево",
+  "text": "Ростки личи\n",
+  "post_date": "  5 октября в 16:03  ",
+  "seller_link": "/user/5b227bb7f748c97068bd856607a6d807/profile?id=1084392847&src=item"
+}

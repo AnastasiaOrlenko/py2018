@@ -1,0 +1,12 @@
+{
+  "text": "Долговечные розы в хрустальной колбе размера мини, от 999₽ самовывоз. Метро Сходненская, Светлогорский проезд 3\n",
+  "title": "Мини розы в хрустальных колбах",
+  "price": 999,
+  "index": 1289910083,
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mini_rozy_v_hrustalnyh_kolbah_1289910083",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:18  ",
+  "seller": "Elena",
+  "seller_link": "/user/14783d013566dfa2818ff4770940386f/profile?id=1289910083&src=item"
+}

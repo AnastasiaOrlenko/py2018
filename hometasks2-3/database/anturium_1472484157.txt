@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1472484157,
+  "title": "Антуриум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1472484157",
+  "seller": "Александр",
+  "address": "Москва, м. Полянка",
+  "text": "По всем вопросам обращаться по телефону\n",
+  "post_date": "  6 октября в 13:02  ",
+  "seller_link": "/user/f62a0d48abe2259f0ca65f38eac283e9/profile?id=1472484157&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "маленькие гиппеаструмы (детки) красного цвета. На фото мама с детенышем.\n",
+  "title": "Гиппеаструм",
+  "price": 50,
+  "index": 1005468349,
+  "address": "Москва, м. Щелковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_1005468349",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:28  ",
+  "seller": "Мирослава",
+  "seller_link": "/user/27f87055068f9efa378eb3a6349b6d72/profile?id=1005468349&src=item"
+}

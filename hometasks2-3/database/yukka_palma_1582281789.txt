@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1582281789,
+  "title": "Юкка пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_palma_1582281789",
+  "seller": "Анастасия",
+  "address": "Москва, м. Университет",
+  "text": "Юкка пальма, 197см\n",
+  "post_date": "  5 октября в 20:52  ",
+  "seller_link": "/user/4510289d1d817f6931482df554bca07c/profile?id=1582281789&src=item"
+}

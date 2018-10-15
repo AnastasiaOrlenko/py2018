@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1673446497,
+  "title": "Диффенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1673446497",
+  "seller": "Мария Николаева",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "30 рублей за один отросток, есть уже с корнями.\n",
+  "post_date": "  07 October в 12:37  ",
+  "seller_link": "/user/05947b522ff8650d70ad4934eca7e845/profile?id=1673446497&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1700,
+  "seller_status": "Частное лицо",
+  "index": 1056111157,
+  "title": "Фикус бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1056111157",
+  "seller": "Галина",
+  "address": "Москва, м. Новокосино",
+  "text": "Растение 1м+20см горшок керамика.размах 50см.\n",
+  "post_date": "  5 октября в 16:01  ",
+  "seller_link": "/user/891831645e1385ae4bf815b31a8b20d9/profile?id=1056111157&src=item"
+}

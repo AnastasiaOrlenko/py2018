@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 910561960,
+  "title": "Юкка морозостойкая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_morozostoykaya_910561960",
+  "seller": "собственник",
+  "seller-contact": "татьяна",
+  "address": "Москва, м. Бибирево",
+  "text": "Продаю сажены юкки морозостойкой\n",
+  "post_date": "  6 октября в 14:00  ",
+  "seller_link": "/user/433bccfe3af0b0d845d28de2eaae5cc5/profile?id=910561960&src=item"
+}

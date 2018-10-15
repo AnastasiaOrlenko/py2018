@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1355159769,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1355159769",
+  "address": "Москва, м. Марьино",
+  "title": "Монстера",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1355159769&src=item",
+  "text": "Продам растение-монстера. Растение с хорошо развитой корневой системой. Возможна доставка до любой станции метро. Любой горшок за 300 рублей\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 16:49  "
+}

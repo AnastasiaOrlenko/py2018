@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "seller-contact": "Екатерина",
+  "index": 711287675,
+  "title": "Клубника Фриго",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klubnika_frigo_711287675",
+  "seller": "PLANTMARKET (Питомник АСТ)",
+  "address": "Москва, м. Щелковская",
+  "text": "Огромный ассортимент клубники Фриго в корнях европейского производства. От производителя без наценок.\nКрупный и мелкий опт. \nСо склада во Владимирской ( Знаменское)\n",
+  "post_date": "  5 октября в 14:59  ",
+  "seller_link": "/user/9bb17acb1bd720303e7d65230b098a18/profile?id=711287675&src=item"
+}

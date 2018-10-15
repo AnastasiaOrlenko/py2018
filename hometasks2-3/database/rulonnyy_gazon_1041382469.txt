@@ -1,0 +1,12 @@
+{
+  "price": 75,
+  "seller_status": "Частное лицо",
+  "index": 1041382469,
+  "title": "Рулонный газон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rulonnyy_gazon_1041382469",
+  "seller": "Андрей",
+  "address": "Москва",
+  "text": "Рулонный газон 4-х сортов;\nГородской, Стандарт, Премиум, Теневой\nЦена от 75 руб. 1м2 опт от 5 соток без доставки\n",
+  "post_date": "  6 октября в 12:23  ",
+  "seller_link": "/user/d1207859c9c216be5552147af6ec50a0/profile?id=1041382469&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1068026086,
+  "title": "Цветы эухарис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_euharis_1068026086",
+  "seller": "сергей",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Продаю цветы эухарис забрать можно ст м лермонтовский проспект цена указана за одну луковицу\n",
+  "post_date": "  6 октября в 15:23  ",
+  "seller_link": "/user/f4cce09cd40591d820732faec463e3c6/profile?id=1068026086&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 953247574,
+  "title": "Молочай беложильчатый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_belozhilchatyy_953247574",
+  "seller": "Андрей",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "С горшком\n",
+  "post_date": "  5 октября в 05:05  ",
+  "seller_link": "/user/5c3a01f35fb09c3bf011537722a19a9c/profile?id=953247574&src=item"
+}

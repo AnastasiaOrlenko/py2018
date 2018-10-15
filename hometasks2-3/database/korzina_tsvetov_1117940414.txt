@@ -1,0 +1,12 @@
+{
+  "text": "Корзина с герберами, розами, декором, зеленью,...\n",
+  "title": "Корзина цветов",
+  "price": 4000,
+  "index": 1117940414,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzina_tsvetov_1117940414",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

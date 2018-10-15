@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 6295,
+  "index": 1670125047,
+  "seller": "Veronika",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palmy-hrizalidokarpus160sm_1670125047",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Пальмы-Хризалидокарпус160см",
+  "seller_link": "/user/1d4e930cb3bfc79fd0e7cc374e178e56/profile?id=1670125047&src=item",
+  "text": "Продаю шикарные Пальмы Хризалидокарпусы 27см×160см. Прекрасного качества. Быстрая доставка в день заказа до двери. Скидки от 3х шт.\n",
+  "post_date": "  07 October в 13:07  "
+}

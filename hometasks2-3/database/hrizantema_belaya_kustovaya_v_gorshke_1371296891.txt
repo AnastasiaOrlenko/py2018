@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1371296891,
+  "title": "Хризантема белая кустовая в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_belaya_kustovaya_v_gorshke_1371296891",
+  "seller": "Юлия",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "Большой цветущий куст в горшке. На фото именно это растение, которое продаётся.\n",
+  "post_date": "  5 октября в 09:24  ",
+  "seller_link": "/user/b8f3187d6d9ba4a5fadacbf47286ea85/profile?id=1371296891&src=item"
+}

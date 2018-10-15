@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Жулебино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_vashingtoniya_1276020797",
+  "price": 6500,
+  "seller": ".",
+  "post_date": "  08 October в 15:12  ",
+  "title": "Пальма вашингтония",
+  "text": "Две пальмы вашингтония 70 см от пола и 110 см, в горшках с автополивом, зелёных в идеальном состоянии (горшок озадачивается отдельно)\n",
+  "index": 1276020797,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/da61fb5395b9e2d738cbe06894a8a0d5/profile?id=1276020797&src=item"
+}

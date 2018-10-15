@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1417089344,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1417089344",
+  "seller": "Любовь Александровна",
+  "address": "Москва, м. Нижегородская",
+  "text": "Продам алоэ за 500 рублей.Возраст 4 года.Рост 110 см.\n",
+  "post_date": "  07 October в 12:36  ",
+  "seller_link": "/user/ea7cb2603e3f87d481c54ffc322686e2/profile?id=1417089344&src=item"
+}

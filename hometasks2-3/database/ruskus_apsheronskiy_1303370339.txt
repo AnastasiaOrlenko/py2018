@@ -1,0 +1,12 @@
+{
+  "title": "Рускус Апшеронский",
+  "price": 100,
+  "seller": "Дмитрий",
+  "seller_link": "/user/3663321d412baafe67bcb9037f551377/profile?id=1303370339&src=item",
+  "address": "Москва",
+  "index": 1303370339,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ruskus_apsheronskiy_1303370339",
+  "text": "Продаю рускус, в наличии круглый год, отправка в другие города, хорошее качество, длинный, средний, мелкий.\n",
+  "post_date": "  4 октября в 18:09  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 967412305,
+  "title": "Фиалки детки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_detki_967412305",
+  "seller": "Елена",
+  "address": "Москва, м. Марьино",
+  "text": "Детки фиалки\n1) ЛЕ-Полина Виардо\n2) ЕК-Снежные карпаты - стандарт\n3) ЛЕ-Акапулько - стандарт\n4) Imp s Fortuitous Fancy - мини\n5) Подснежник - мини.\n",
+  "post_date": "  6 октября в 22:14  ",
+  "seller_link": "/user/197640e64439ff8199f6cc041c00fdc9/profile?id=967412305&src=item"
+}

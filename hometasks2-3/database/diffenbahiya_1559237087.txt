@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Южная",
+  "seller": "Cергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1559237087",
+  "seller_status": "Частное лицо",
+  "title": "Диффенбахия",
+  "post_date": "  08 October в 12:39  ",
+  "price": 200,
+  "index": 1559237087,
+  "seller_link": "/user/d84e24ca2aea3da393ed593459374a32/profile?id=1559237087&src=item",
+  "text": "Растение с горшком и землёй. Самовывоз Чертановская 24\n"
+}

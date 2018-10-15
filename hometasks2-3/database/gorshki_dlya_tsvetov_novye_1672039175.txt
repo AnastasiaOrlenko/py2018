@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1672039175,
+  "title": "Горшки для цветов новые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_novye_1672039175",
+  "seller": "Olga",
+  "address": "Москва, м. Братиславская",
+  "text": "Горшки белые с черным вкладышем.\n2 шт.- 200 рублей.\nОбъем: 2 л\nДиаметр: 16 см\nВысота: 15 см\nПо всем вопросам пишите или звоните.\n",
+  "post_date": "  6 октября в 19:41  ",
+  "seller_link": "/user/0471aa1c9d627894ea9483e32903fee9/profile?id=1672039175&src=item"
+}

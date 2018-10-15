@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1379664267,
+  "title": "Орхидея психопсис желтый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_psihopsis_zheltyy_1379664267",
+  "seller": "Юлия",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Psychopsis Kalihi Mountain alba от Швертер сейчас цветет, в отличном состоянии.\n",
+  "post_date": "  6 октября в 21:28  ",
+  "seller_link": "/user/7e902784bb646761abb4d35c86f23849/profile?id=1379664267&src=item"
+}

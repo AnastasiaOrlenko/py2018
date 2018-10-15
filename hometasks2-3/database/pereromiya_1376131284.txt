@@ -1,0 +1,13 @@
+{
+  "price": 99,
+  "seller_status": "Компания",
+  "index": 1376131284,
+  "title": "Переромия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pereromiya_1376131284",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Сходненская",
+  "text": "Взрослое, самостоятельное растение ,149р.приезжайте забирайте сходненская,сокол.есть поменьше 99р.\n",
+  "post_date": "  5 октября в 13:43  ",
+  "seller_link": "/user/9c227eba42bdfe824bdbab927a9d4db2/profile?id=1376131284&src=item"
+}

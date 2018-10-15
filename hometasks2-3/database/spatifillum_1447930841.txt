@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1447930841,
+  "title": "Спатифиллум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_1447930841",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "1 фото (7ростков) - 200р\n2 фото - 100р\n3 фото - по 50р\n4 фото - 30р\n5 фото - 3 стаканчика за 100р\n6 фото - все что на фото 300р\n",
+  "post_date": "  6 октября в 15:37  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1447930841&src=item"
+}

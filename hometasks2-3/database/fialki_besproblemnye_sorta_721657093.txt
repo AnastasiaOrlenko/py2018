@@ -1,0 +1,13 @@
+{
+  "price": 95,
+  "seller_status": "Компания",
+  "index": 721657093,
+  "title": "Фиалки беспроблемные сорта",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_besproblemnye_sorta_721657093",
+  "seller": "Цветы и все для их выращивания",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Большая коллекция сортовых фиалок. \nЛисты, детки, розетки с бутонами и цветущие.\nЦаревна лебедь, Splendiferous, Wrangler's Goudy Lady, Парниковый эффект, Arapahoe, ПТ-Искусительница, Lemon Kisses\nНапишите свой эл адрес – вышлю Полный каталог наличия сортов с фото и ценами.\n",
+  "post_date": "  5 октября в 19:48  ",
+  "seller_link": "/user/b6e9ddc96508c1645943eb3a303d42d2/profile?id=721657093&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 45,
+  "seller_status": "Компания",
+  "index": 1205410328,
+  "title": "Горшки для цветов глиняные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_glinyanye_1205410328",
+  "seller": "не компания",
+  "seller-contact": "1",
+  "address": "Москва, м. Павелецкая",
+  "text": "Горшки для цветов глиняные, 45 руб штука\n",
+  "post_date": "  4 октября в 20:18  ",
+  "seller_link": "/user/3ac39e12e536b59671defd83fa985fc3/profile?id=1205410328&src=item"
+}

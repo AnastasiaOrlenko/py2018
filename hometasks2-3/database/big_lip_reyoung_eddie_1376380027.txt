@@ -1,0 +1,12 @@
+{
+  "price": 1250,
+  "seller_status": "Частное лицо",
+  "index": 1376380027,
+  "title": "Биг Лип Reyoung Eddie",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/big_lip_reyoung_eddie_1376380027",
+  "seller": "Екатерина",
+  "address": "Москва, м. Парк Победы",
+  "text": "В наличии сортовой Биг лип Reyoung Eddie. Цветущий, 12 см горшок. 1250 р\n",
+  "post_date": "  5 октября в 15:22  ",
+  "seller_link": "/user/6902b364ac4484c1673821c021cc3208/profile?id=1376380027&src=item"
+}

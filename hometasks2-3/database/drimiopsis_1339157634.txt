@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1339157634,
+  "title": "Дримиопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/drimiopsis_1339157634",
+  "seller": "Екатерина",
+  "address": "Москва, м. Серпуховская",
+  "text": "В горшке пять хороших крепких луковиц.\n",
+  "post_date": "  5 октября в 10:12  ",
+  "seller_link": "/user/6bfa72ca23731611cf8456ee20550f5e/profile?id=1339157634&src=item"
+}

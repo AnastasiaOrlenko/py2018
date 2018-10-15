@@ -1,0 +1,12 @@
+{
+  "text": "51 роза Анна Карина 60 см в упаковке\n",
+  "title": "Букет роз",
+  "price": 2990,
+  "index": 1363718076,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_roz_1363718076",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 23:37  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

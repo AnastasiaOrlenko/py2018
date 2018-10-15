@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Выхино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_fioletovaya_1536166874",
+  "seller-contact": "Галина",
+  "price": 30,
+  "seller": "Наталия",
+  "post_date": "  08 October в 20:57  ",
+  "title": "Фиалка фиолетовая",
+  "text": "Продаю фиалки\n",
+  "index": 1536166874,
+  "seller_status": "Компания",
+  "seller_link": "/user/5cdae5962a36b39ba3eaad21c033bfc0/profile?id=1536166874&src=item"
+}

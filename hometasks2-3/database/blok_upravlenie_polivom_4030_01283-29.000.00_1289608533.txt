@@ -1,0 +1,12 @@
+{
+  "text": "Блок управление поливом Gardena 4030 (01283-29.000.00)\nНовый.\n",
+  "title": "Блок управление поливом 4030 (01283-29.000.00)",
+  "price": 4300,
+  "index": 1289608533,
+  "address": "Москва, м. Крылатское",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/blok_upravlenie_polivom_4030_01283-29.000.00_1289608533",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:25  ",
+  "seller": "Евгений",
+  "seller_link": "/user/64d34e0b061d702a6b92b3f784ba1188/profile?id=1289608533&src=item"
+}

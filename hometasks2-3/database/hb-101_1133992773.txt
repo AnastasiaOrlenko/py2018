@@ -1,0 +1,12 @@
+{
+  "price": 12500,
+  "seller_status": "Частное лицо",
+  "index": 1133992773,
+  "title": "HB-101",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hb-101_1133992773",
+  "seller": "Екатерина",
+  "address": "Москва, м. Коптево",
+  "text": "Экологически чистый стимулятор роста и активатор иммунной системы.\n",
+  "post_date": "  07 October в 10:01  ",
+  "seller_link": "/user/d889dc351c216f82bd9e10fc128fc386/profile?id=1133992773&src=item"
+}

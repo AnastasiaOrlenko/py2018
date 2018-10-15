@@ -1,0 +1,12 @@
+{
+  "text": "Пушистая, красивая Драцена. Возраст - около 8 лет. 800р\nЕсть также отсаженный отросток, хорошо укоренившийся. 300р\n",
+  "title": "Драцена",
+  "price": 300,
+  "index": 947088203,
+  "address": "Москва, м. Юго-Западная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_947088203",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:09  ",
+  "seller": "Ирина",
+  "seller_link": "/user/ea35f6f29cb4e358518b333e9828fa8f/profile?id=947088203&src=item"
+}

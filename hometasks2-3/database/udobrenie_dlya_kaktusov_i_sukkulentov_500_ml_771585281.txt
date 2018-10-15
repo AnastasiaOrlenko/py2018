@@ -1,0 +1,12 @@
+{
+  "price": 450,
+  "seller_status": "Частное лицо",
+  "index": 771585281,
+  "title": "Удобрение для кактусов и суккулентов 500 мл",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobrenie_dlya_kaktusov_i_sukkulentov_500_ml_771585281",
+  "seller": "Виктория",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Новое удобрение для кактусов и суккулентов greenworld 500 мл. \nВозможен обмен на зонт трость.\n",
+  "post_date": "  4 октября в 21:58  ",
+  "seller_link": "/user/4ee46b5296e3bac181aca1b3cdedcf81/profile?id=771585281&src=item"
+}

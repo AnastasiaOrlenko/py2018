@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 1602257649,
+  "seller": "не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1602257649",
+  "address": "Москва, м. Пражская",
+  "title": "Замиокулькас",
+  "seller_link": "/user/e120982f99383f250614b71aa7f57e09/profile?id=1602257649&src=item",
+  "text": "Замиокулькас (долларовое дерево) отросток в тепличке.\n",
+  "seller-contact": "Елена",
+  "post_date": "  08 October в 07:53  "
+}

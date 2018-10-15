@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1292324711,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1292324711",
+  "seller": "Людмила",
+  "address": "Москва, м. Кузьминки",
+  "text": "Каланхоэ чихалочка лечебный, в ярких горшочках по 100, в стаканчиках по 50. Оптом дешевле.\n",
+  "post_date": "  5 октября в 10:33  ",
+  "seller_link": "/user/6e845dee67ed3392f4eadf245a3d3d80/profile?id=1292324711&src=item"
+}

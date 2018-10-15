@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1343829867,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoya_bella_tsvetuschiy_kust_1343829867",
+  "address": "Москва, м. Крымская",
+  "title": "Хойа Белла цветущий куст",
+  "seller_link": "/user/289fba3e61694fa930f1b5ddbdfd3cbd/profile?id=1343829867&src=item",
+  "text": "Домашняя, в бутонах. Крепкое здоровое растение- цветёт всё лето, не переставая. Продаю в связи с переездом... Жалко отдавать, но ничего не поделать... Отдам в заботливые руки) разумный торг уместен\n",
+  "post_date": "  07 October в 13:59  "
+}

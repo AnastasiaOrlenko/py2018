@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Лермонтовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_pubicalyx_silver_pink_1049909142",
+  "price": 2000,
+  "seller": "Елена",
+  "post_date": "  08 October в 18:13  ",
+  "title": "Хойя Pubicalyx silver pink",
+  "text": "Взрослое растение, часто цветёт.\n",
+  "index": 1049909142,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/40f14a5ec32b2d87ea7dd42c52634340/profile?id=1049909142&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_1650162362",
+  "seller_status": "Частное лицо",
+  "title": "Сингониум",
+  "post_date": "  08 October в 13:11  ",
+  "price": 100,
+  "index": 1650162362,
+  "seller_link": "/user/b9c8029b03311e3e2ec5a78d08cd8e53/profile?id=1650162362&src=item",
+  "text": "Отростки с корнями 3шт. Высота 45 см. Готовы к посадке.\n"
+}

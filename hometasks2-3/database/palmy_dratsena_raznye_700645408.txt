@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 700645408,
+  "title": "Пальмы (драцена ) разные",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palmy_dratsena_raznye_700645408",
+  "seller": "НЕ КОМПАНИЯ",
+  "address": "Москва, м. Аэропорт",
+  "text": "По всем вопросам, отвечу по телефону.\nПисьма и личные сообщения не читаю. Цена от 3000 руб. 3 мин пешком от м. Аэропорт.\n",
+  "post_date": "  5 октября в 20:56  ",
+  "seller_link": "/user/52b60dc3d9300122071a832f3f127cee/profile?id=700645408&src=item"
+}

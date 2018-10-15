@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": ".",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_degremona_872959331",
+  "seller_status": "Частное лицо",
+  "title": "Каланхоэ дегремона",
+  "post_date": "  08 October в 13:55  ",
+  "price": 350,
+  "index": 872959331,
+  "seller_link": "/user/671116bcd722cfc0579f586df4ab37b1/profile?id=872959331&src=item",
+  "text": "Продаю лечебное растение каланхоэ дегремона. Домашний лекарь, лечение насморка у детей, ожогов, экземы и ..... Цены от 350 руб .\n"
+}

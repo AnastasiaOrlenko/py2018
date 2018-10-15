@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1216011278,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1216011278",
+  "seller": "веста",
+  "address": "Москва, м. Медведково",
+  "text": "Фикус срочно\n",
+  "post_date": "  6 октября в 11:50  ",
+  "seller_link": "/user/2ca7e8405f0ba509f959c5219fe13a5b/profile?id=1216011278&src=item"
+}

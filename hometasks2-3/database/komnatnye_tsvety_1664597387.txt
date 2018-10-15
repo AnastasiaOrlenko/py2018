@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1664597387,
+  "title": "Комнатные цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_1664597387",
+  "seller": "Алексей,Анна",
+  "address": "Москва, м. Университет",
+  "text": "Продаем очень дёшево комнатные цветы. Цветок на окне за 300 руб, у стены -500 руб.\n",
+  "post_date": "  6 октября в 16:49  ",
+  "seller_link": "/user/2780d03aa7d55dda3cc5c416403235b3/profile?id=1664597387&src=item"
+}

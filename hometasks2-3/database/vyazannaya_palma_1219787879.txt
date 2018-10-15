@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1219787879,
+  "title": "Вязанная пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vyazannaya_palma_1219787879",
+  "seller": "Алина",
+  "address": "Москва, м. Новогиреево",
+  "text": "Пальма. Выполнена на проволочной основе. Комплект с горшком. \nПальмочка станет отличным подарком для ваших близких, или просто украсит ваш интерьер.\n",
+  "post_date": "  5 октября в 18:17  ",
+  "seller_link": "/user/dc49aee9da054d8bce70967e167aabec/profile?id=1219787879&src=item"
+}

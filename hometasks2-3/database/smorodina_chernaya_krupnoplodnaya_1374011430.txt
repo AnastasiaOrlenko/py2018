@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Инна",
+  "seller": "собственник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/smorodina_chernaya_krupnoplodnaya_1374011430",
+  "seller_status": "Компания",
+  "title": "Смородина черная Крупноплодная",
+  "post_date": "  08 October в 11:44  ",
+  "price": 50,
+  "index": 1374011430,
+  "seller_link": "/user/e4d98a4cc25bb54b23758602510f9d1d/profile?id=1374011430&src=item",
+  "address": "Москва, м. Котельники",
+  "text": "Отличный проверенный Крупноплодный сорт. 4.5 - 5кг. ягод с одного куста. Цена: опт - 50 руб, розница -150 руб.\n"
+}

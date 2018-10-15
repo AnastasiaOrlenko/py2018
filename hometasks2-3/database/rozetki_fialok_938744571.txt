@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 938744571,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozetki_fialok_938744571",
+  "address": "Москва, м. Отрадное",
+  "title": "Розетки фиалок",
+  "seller_link": "/user/7fcc355503cacc4fbffa16d37273d70e/profile?id=938744571&src=item",
+  "text": "Предлагаю цветущие и набирающие бутоны (цвели летом) взрослые сортовые фиалки по 100р, 150р. и 200р. На фотографиях представлено цветение тех растений, которые продаются.\n",
+  "post_date": "  07 October в 19:41  "
+}

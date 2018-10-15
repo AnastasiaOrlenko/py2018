@@ -1,0 +1,13 @@
+{
+  "price": 25,
+  "seller_status": "Компания",
+  "index": 875042501,
+  "title": "Спилы, распилы, срезы, круги,пеньки, корни дерева",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spily_raspily_srezy_krugipenki_korni_dereva_875042501",
+  "seller": ".",
+  "seller-contact": "Вадим",
+  "address": "Москва, м. Теплый стан",
+  "text": "Дуб, береза, сосна, ель, осина, липа, клён, тополь, орех. \nОт 1 до 55 см \nСлэбы, пни, корни, коряги, палки. \nВышлю все цены \nОпт и розница\nПишите в Инстаграм woodkoss\n",
+  "post_date": "  6 октября в 13:39  ",
+  "seller_link": "/user/59a14b0b4fa183433a1079ad685e5c2c/profile?id=875042501&src=item"
+}

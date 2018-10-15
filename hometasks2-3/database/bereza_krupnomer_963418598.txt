@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Курская",
+  "seller": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bereza_krupnomer_963418598",
+  "seller_status": "Частное лицо",
+  "title": "Береза крупномер",
+  "seller_link": "/user/89034da57fed5d4918039bbdb2c9c5aa/profile?id=963418598&src=item",
+  "index": 963418598,
+  "post_date": "  08 October в 11:13  ",
+  "text": "Отдам даром березу крупномер за самовывоз и обратную засыпку получившейся ямы. 43 км от Москвы с Курского вокзала.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 120,
+  "seller_status": "Частное лицо",
+  "index": 1671083776,
+  "title": "Тимьян (чабрец) трава 500гр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/timyan_chabrets_trava_500gr_1671083776",
+  "seller": "Светлана",
+  "address": "Москва, м. Орехово",
+  "text": "Со своего дачного участка для Вашего здоровья 500гр отличной травы.\n",
+  "post_date": "  5 октября в 19:22  ",
+  "seller_link": "/user/acea45681fa8ffa748ca6adb9378a264/profile?id=1671083776&src=item"
+}

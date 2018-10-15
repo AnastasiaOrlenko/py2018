@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Орехово",
+  "seller": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prima_klima_svetilnik_125mm_dnat_dri_mgl_1479736894",
+  "seller_status": "Частное лицо",
+  "title": "Prima Klima светильник 125мм днат дри мгл",
+  "post_date": "  08 October в 11:55  ",
+  "price": 3500,
+  "index": 1479736894,
+  "seller_link": "/user/354e17c1948c32cc1f634c0651afeb88/profile?id=1479736894&src=item",
+  "text": "Для ДНАТ или МГЛ (ДРИ) до 600Вт\nCooltube, култуб, светильник с отражателем\nЕсть 2шт\n"
+}

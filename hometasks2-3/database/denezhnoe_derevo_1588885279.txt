@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1588885279,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1588885279",
+  "seller": "Кристина",
+  "address": "Москва, м. Новокосино",
+  "text": "Продается взрослое дерево. Высота самых высоких веток- 40 см.Цена 1500 р.По сути это цена горшка, в котором это дерево( черная шелкография).\n",
+  "post_date": "  6 октября в 10:46  ",
+  "seller_link": "/user/6ac02da0b534a9baa8fed6ec3ace979b/profile?id=1588885279&src=item"
+}

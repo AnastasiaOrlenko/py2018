@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Юго-Западная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_lechebnoe_1265190348",
+  "price": 300,
+  "seller": "Руслан",
+  "post_date": "  08 October в 15:49  ",
+  "title": "Каланхоэ лечебное",
+  "text": "Продам Каланхоэ лечебное. Очень хорошо иметь дома, у кого маленькие детки часто болеют, сок из листьев закапывают в носик.\n",
+  "index": 1265190348,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/5844d6ae55b2d0818d0f3fd39bc066fc/profile?id=1265190348&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1598368417,
+  "title": "Кашпо керамика",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kashpo_keramika_1598368417",
+  "seller": "Наталья",
+  "address": "Зеленоград",
+  "text": "Диаметр 14, высота 11,5см\nВ отличном состоянии.\nЗеленоград 2мкр\n",
+  "post_date": "  5 октября в 09:11  ",
+  "seller_link": "/user/8405b6b583cb1dc3d43e6ce4e2a74083/profile?id=1598368417&src=item"
+}

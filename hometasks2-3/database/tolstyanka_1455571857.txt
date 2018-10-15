@@ -1,0 +1,12 @@
+{
+  "price": 20,
+  "seller_status": "Частное лицо",
+  "index": 1455571857,
+  "title": "Толстянка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1455571857",
+  "seller": "Любовь",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Черенки (с корешками) толстянки (денежное дерево, разновидность суккулентов)\nВозможен обмен.\n",
+  "post_date": "  6 октября в 08:47  ",
+  "seller_link": "/user/21a8211e74a6b2f0de0da18eb1ff36c4/profile?id=1455571857&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 170,
+  "index": 939636432,
+  "seller": "Павел",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/organo-mineralnoe_udobrenie_ekofus_939636432",
+  "address": "Москва, м. ВДНХ",
+  "title": "Органо-минеральное удобрение экофус",
+  "seller_link": "/user/d177f8ae662e315ac2ebcd89191a6116/profile?id=939636432&src=item",
+  "text": "Продаю органо-минеральное удобрение ЭкоФус 500 мл. Самовывоз Ярославское шоссе.\n",
+  "post_date": "  07 October в 23:19  "
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1600039165,
+  "seller": "Вадим",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oleandr_rozovyy_mahrovyy_1600039165",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Олеандр розовый махровый",
+  "seller_link": "/user/3d7b532ea27cbb8255b6e165422a1dc7/profile?id=1600039165&src=item",
+  "text": "Продам олеандр розовый махровый. \n1. Высота 50 см. Набирает бутоны. - 350\n2. Высота 45 см. Появились бутоны - 350\n3. Высота 40 см. Пока без бутонов - 250\n",
+  "post_date": "  07 October в 14:51  "
+}

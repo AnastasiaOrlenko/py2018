@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1339676724,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1339676724",
+  "seller": "Надежда",
+  "seller-contact": "Павел",
+  "address": "Москва, м. Свиблово",
+  "text": "В хорошем пластиковом горшке.\n",
+  "post_date": "  6 октября в 11:51  ",
+  "seller_link": "/user/6ef3ca72556def548b6a63ab0d145eab/profile?id=1339676724&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1276741872,
+  "title": "Герань пеларгония сортовая. Плющелистная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_sortovaya._plyuschelistnaya_1276741872",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Полежаевская",
+  "text": "Продаются годовалые, цветущие растения в горшках сортовой, плющелистной пеларгонии. \nAmethyst - флот 1 Nealit 2- фото- 3f Wico- фото 2,Pac Granatit - фото 4.\nПример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте. Любой по 1000р. Все цветут. Уже большие! Пеларгония на фото 3 -продана. На фото -2- продана.\n",
+  "post_date": "  07 October в 11:05  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1276741872&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1301951813,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1301951813",
+  "seller": "Ольга",
+  "address": "Москва, м. Селигерская",
+  "text": "Фиалка молодая, начала цвести в мае-июне.\n",
+  "post_date": "  5 октября в 17:05  ",
+  "seller_link": "/user/ec667640289a4cfda4382f48778340dd/profile?id=1301951813&src=item"
+}

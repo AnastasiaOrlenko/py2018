@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Раменки",
+  "seller": "Тамара Байкова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_komnatnoe_1185727316",
+  "seller_status": "Частное лицо",
+  "title": "Растение комнатное",
+  "post_date": "  08 October в 14:29  ",
+  "price": 100,
+  "index": 1185727316,
+  "seller_link": "/user/0681927c59d07e7e770b1c451c090d70/profile?id=1185727316&src=item",
+  "text": "Растение, хорошо очищает воздух в помещении, неприхотливо в уходе. Поливать 1 раз в неделю. Цена 100 руб.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1266254662,
+  "seller": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ptitsemlechnik_ili_indiyskiy_luk_1266254662",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "title": "Птицемлечник или индийский лук",
+  "seller_link": "/user/0c60143a53aa85547221385b331fe052/profile?id=1266254662&src=item",
+  "text": " Птицемлечник или индийский лук-взрослая луковица около 8 см в диаметре, цвела несколько раз-250 р. Детки с листиками-30 р. \nИспользуется в лечебных целях. \n",
+  "post_date": "  07 October в 13:53  "
+}

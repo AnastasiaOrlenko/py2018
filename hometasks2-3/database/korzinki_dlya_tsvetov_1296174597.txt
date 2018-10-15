@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1296174597,
+  "title": "Корзинки для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korzinki_dlya_tsvetov_1296174597",
+  "seller": "maratich",
+  "address": "Москва, м. Университет",
+  "text": "Изготовлены из сосны. Размер 20х20х16 см. Не пропитанные. Чистое дерево. Можно под заказ. Размеры обсуждаются.\n",
+  "post_date": "  07 October в 12:13  ",
+  "seller_link": "/user/c4f2e485c0d2104c24272b342771860e/profile?id=1296174597&src=item"
+}

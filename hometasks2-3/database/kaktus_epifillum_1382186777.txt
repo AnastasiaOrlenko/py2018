@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Киевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_epifillum_1382186777",
+  "seller-contact": "Продавец",
+  "price": 250,
+  "seller": "-",
+  "post_date": "  08 October в 23:04  ",
+  "title": "Кактус эпифиллум",
+  "text": "Молодые растения кактуса эпифиллума,малинового цвета. 250 руб./шт.\n",
+  "index": 1382186777,
+  "seller_status": "Компания",
+  "seller_link": "/user/36cf652701eca1d89aad9defc226173e/profile?id=1382186777&src=item"
+}

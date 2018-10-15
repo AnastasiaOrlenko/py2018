@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 350,
+  "index": 1048544251,
+  "seller": "Алиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_1048544251",
+  "address": "Москва, м. Сходненская",
+  "title": "Кашпо",
+  "seller_link": "/user/80ff0cd7285c796e1bd372b542062ac7/profile?id=1048544251&src=item",
+  "text": "Кашпо для растений. Hand made! Ручная вязка. Очень красиво для декора\n",
+  "seller-contact": "Алиса",
+  "post_date": "  07 October в 22:05  "
+}

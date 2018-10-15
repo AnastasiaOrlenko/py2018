@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 120,
+  "index": 938583547,
+  "seller": "наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mini_fialka_938583547",
+  "address": "Москва, м. Коньково",
+  "title": "Мини фиалка",
+  "seller_link": "/user/60603fe87466f011b9f29b11601eb006/profile?id=938583547&src=item",
+  "text": "Мини фиалки Shirl's red sky .Фото-1-2 цветение взрослой фиалки.Листья с белой каймой ,а цветочки нежно-розового цвета.Цена за детку -120 руб (фото 3)\n",
+  "post_date": "  07 October в 22:50  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Саларьево",
+  "seller": "Сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampy_dlya_rasteniy_akvariumov_827109376",
+  "seller_status": "Компания",
+  "title": "Лампы для растений, аквариумов",
+  "post_date": "  08 October в 11:58  ",
+  "price": 250,
+  "index": 827109376,
+  "seller_link": "/user/672e79bb407e97875a4ffb3ff8641f98/profile?id=827109376&src=item",
+  "text": "Продам лампы нарва,сильвания,осрам для растений и аквариумов,58Вт.остались только нарва и сильвания пачка\n"
+}

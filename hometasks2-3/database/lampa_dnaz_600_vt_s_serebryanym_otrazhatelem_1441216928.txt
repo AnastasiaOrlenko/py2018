@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "seller": "Евдокия Романова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampa_dnaz_600_vt_s_serebryanym_otrazhatelem_1441216928",
+  "seller_status": "Частное лицо",
+  "title": "Лампа дназ 600 вт с серебряным отражателем",
+  "post_date": "  08 October в 10:39  ",
+  "price": 1360,
+  "index": 1441216928,
+  "seller_link": "/user/44d9bf763e6b9a6d312f31b76c29917f/profile?id=1441216928&src=item",
+  "text": "Продаю лампу ДНаЗ 600 ВТ Reflux Ag\n"
+}

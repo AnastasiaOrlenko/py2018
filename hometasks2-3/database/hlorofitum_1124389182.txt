@@ -1,0 +1,13 @@
+{
+  "price": 20,
+  "seller_status": "Компания",
+  "index": 1124389182,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1124389182",
+  "seller": "марина  частное лицо",
+  "seller-contact": "марина николаевна",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "от 20 до 100р в зависимости от количества и размера Полосатый- 100р один куст см последнее фото могу доставить по москве\n",
+  "post_date": "  5 октября в 13:06  ",
+  "seller_link": "/user/1486bb5b5d5f35dc7ac8ba034757d384/profile?id=1124389182&src=item"
+}

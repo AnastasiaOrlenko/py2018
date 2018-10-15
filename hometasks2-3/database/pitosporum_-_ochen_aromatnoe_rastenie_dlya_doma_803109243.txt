@@ -1,0 +1,12 @@
+{
+  "text": "Питоспорум - ароматное растение для дома - 450р\n",
+  "title": "Питоспорум - очень ароматное растение для дома",
+  "price": 460,
+  "index": 803109243,
+  "address": "Москва",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pitosporum_-_ochen_aromatnoe_rastenie_dlya_doma_803109243",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 07:40  ",
+  "seller": "Полина",
+  "seller_link": "/user/695008f1684377891c1cb1f6ea035769/profile?id=803109243&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1619817747,
+  "title": "Хоя лакуноза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoya_lakunoza_1619817747",
+  "seller": "Юлия",
+  "address": "Москва, м. ВДНХ",
+  "text": "Разновидность хои с чудесным ароматом, раскрывающимся к вечеру. Черенки с цветами, 150-250р в зависимости от размера\n",
+  "post_date": "  4 октября в 22:00  ",
+  "seller_link": "/user/af986c1dbdf8e225bf93da82f7b2c364/profile?id=1619817747&src=item"
+}

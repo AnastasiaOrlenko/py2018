@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_benzhamina_ekzotika_shtambovyy_140-150_sm_1441206016",
+  "seller_status": "Компания",
+  "title": "Фикус Бенжамина Экзотика штамбовый 140-150 см",
+  "post_date": "  08 October в 12:43  ",
+  "price": 13490,
+  "index": 1441206016,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1441206016&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": " Фикус Бенжамина Экзотика штамбовый 140-150 см \nв интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

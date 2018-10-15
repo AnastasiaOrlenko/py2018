@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_lechebnoe.dvuhgodichnoe_1290632327",
+  "seller-contact": "Елена",
+  "price": 160,
+  "seller": "елена",
+  "post_date": "  08 October в 19:09  ",
+  "title": "Алоэ лечебное.двухгодичное",
+  "text": "АЛОЭ ЛЕЧЕБНОЕ .ДВУХГОДИЧНОЕ\n",
+  "index": 1290632327,
+  "seller_status": "Компания",
+  "seller_link": "/user/3581b17f0119ad8190ac71df4d7561a1/profile?id=1290632327&src=item"
+}

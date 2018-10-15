@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1307546058,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oksalis_oxalis_kislitsa_1307546058",
+  "address": "Москва, м. Южная",
+  "title": "Oксалис oxalis кислица",
+  "seller_link": "/user/846c23e34da524ee34b24f8cf3148fa5/profile?id=1307546058&src=item",
+  "text": "Предлагаю излишки сортовых оксалисов:\nФОТО 1- 4 Оxalis Luteola splesh - 300 руб. за луковицу\nФОТО 5 Oxalis Dauble Trouble (махровый сорт) - 200 руб.\nФОТО 6 Оxalis Decaphylla (Декафила, резные листочки) - 100 руб.\nФОТО 7 и 8 Оxalis Corymbosa (Мартианская кислица) - 30 руб.\nПросьба писать в л / сообщения, встречаюсь в метро, возможна отправка почтой России.\n",
+  "post_date": "  07 October в 15:10  "
+}

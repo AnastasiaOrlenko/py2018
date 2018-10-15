@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1623508175,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1623508175",
+  "address": "Москва, м. Авиамоторная",
+  "title": "Фиалка",
+  "seller_link": "/user/50f952a9c4f5d26cc758c5d38874bff6/profile?id=1623508175&src=item",
+  "text": "Продаю деток, первое фото пример цветения взято из интернета.\n",
+  "seller-contact": "Анастасия",
+  "post_date": "  07 October в 23:33  "
+}

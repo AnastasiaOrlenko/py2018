@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/473bb281824b61049581d202fba1a920/profile?id=1173638119&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleus_krasnyy_1173638119",
+  "post_date": "  08 October в 09:36  ",
+  "address": "Москва, м. Окружная",
+  "seller": "Римма",
+  "text": "Продам колеус красный.\n",
+  "index": 1173638119,
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "title": "Колеус красный"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 964902166,
+  "title": "Стапелия в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stapeliya_v_gorshke_964902166",
+  "seller": "***************",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Зеленое растение (отросток), форма кораллов , цветет как морская звезда\n•первое фото это образец растения, не продается\n",
+  "post_date": "  4 октября в 22:39  ",
+  "seller_link": "/user/df13f383836d7785f3b622323ee7a103/profile?id=964902166&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1228321586,
+  "title": "Горшочек с цветком",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshochek_s_tsvetkom_1228321586",
+  "seller": "Эльф",
+  "address": "Москва, м. Жулебино",
+  "text": "Горшок ручной работы\n",
+  "post_date": "  5 октября в 10:18  ",
+  "seller_link": "/user/f5cdbb461c82b6402a6005994f52b98c/profile?id=1228321586&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1313632110,
+  "title": "Пуансеттия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/puansettiya_1313632110",
+  "seller": "Алла",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "Пуансеттия в высоту 40 см. Горшок керамический. - 250 руб.\n",
+  "post_date": "  6 октября в 19:04  ",
+  "seller_link": "/user/e7f4423db003c43b438dba5792838b1e/profile?id=1313632110&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1678410623,
+  "title": "Горшок для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_1678410623",
+  "seller": "Olga",
+  "address": "Москва, м. Братиславская",
+  "text": "Керамический горшок с глазурью.\nб/у, в идеальном состоянии.\nОбъем: 1 л\nДиаметр: 12 см\nВысота: 10 см\nПо всем вопросам пишите или звоните.\n",
+  "post_date": "  6 октября в 20:10  ",
+  "seller_link": "/user/0471aa1c9d627894ea9483e32903fee9/profile?id=1678410623&src=item"
+}

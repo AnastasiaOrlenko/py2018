@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1417153465,
+  "title": "Фикус 1.15 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1.15_sm_1417153465",
+  "seller": "Евгения",
+  "address": "Москва, м. Щелковская",
+  "text": "Фикус. 1м 15 см\n",
+  "post_date": "  6 октября в 21:38  ",
+  "seller_link": "/user/d202650912de62a4695bb47273ffbe04/profile?id=1417153465&src=item"
+}

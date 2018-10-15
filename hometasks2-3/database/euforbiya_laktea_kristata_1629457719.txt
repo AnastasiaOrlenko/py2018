@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1629457719,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/euforbiya_laktea_kristata_1629457719",
+  "address": "Москва, м. Курская",
+  "title": "Эуфорбия лактеа кристата",
+  "seller_link": "/user/d05eec28d58bbac04de7c6c9cb1508c2/profile?id=1629457719&src=item",
+  "text": "Euphorbia lactea cristata на своих корнях - 500р\nЕсть другие суккуленты, вышлю ссылку на альбом по запросу. \nСамовывоз из метро Курская, отправка почтой по России\n",
+  "post_date": "  07 October в 12:58  "
+}

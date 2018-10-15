@@ -1,0 +1,12 @@
+{
+  "text": "Лампа OSRAM, отражатель (плафон), ЭПРА (балласт). Комплекты работали полтора месяца.\n",
+  "title": "Днат600 комплект",
+  "price": 12000,
+  "index": 1295549199,
+  "address": "Москва, м. Тропарево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dnat600_komplekt_1295549199",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:35  ",
+  "seller": "Зина",
+  "seller_link": "/user/f2ac3281b59da113e9fb84997d0c4096/profile?id=1295549199&src=item"
+}

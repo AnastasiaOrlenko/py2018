@@ -1,0 +1,12 @@
+{
+  "price": 4000,
+  "seller_status": "Частное лицо",
+  "index": 875312769,
+  "title": "Монстера (пальма)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_palma_875312769",
+  "seller": "Ольга",
+  "address": "Москва, м. Курская",
+  "text": "Продам пальму (большая). При необходимости, могу пересадить ее в Ваш горшок.\n",
+  "post_date": "  5 октября в 13:05  ",
+  "seller_link": "/user/1923d7e38bccb0065a1d04c460e5305d/profile?id=875312769&src=item"
+}

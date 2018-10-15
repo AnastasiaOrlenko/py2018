@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Продаю хвостики и листву клубники не обработанную, мытую, высушенную.\n",
+  "index": 1103899141,
+  "title": "Продам хвостики и листву клубники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_hvostiki_i_listvu_klubniki_1103899141",
+  "seller": "Игорь",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "post_date": "  5 октября в 20:25  ",
+  "seller_link": "/user/cdce6b5b056e43a45d292a6cfa96611d/profile?id=1103899141&src=item"
+}

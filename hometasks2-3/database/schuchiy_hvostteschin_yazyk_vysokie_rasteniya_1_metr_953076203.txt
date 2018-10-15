@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 953076203,
+  "title": "Щучий хвост,тещин язык высокие растения 1 метр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/schuchiy_hvostteschin_yazyk_vysokie_rasteniya_1_metr_953076203",
+  "seller": "Наталья",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Щучий хвост,тещин язык высокие растения 0,7 метра высотой без горшка с хорошими корнями.100% приживаемость.\n",
+  "post_date": "  5 октября в 08:03  ",
+  "seller_link": "/user/bab434e3de2ece2f820fc01b0d79fe27/profile?id=953076203&src=item"
+}

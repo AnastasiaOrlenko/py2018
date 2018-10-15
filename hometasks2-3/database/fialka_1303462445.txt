@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1303462445,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1303462445",
+  "address": "Москва, м. Кунцевская",
+  "title": "Фиалка",
+  "seller_link": "/user/89b46633075164207e71869e5e34026b/profile?id=1303462445&src=item",
+  "text": "Продаю листики (на срез) сортовой фиалки. Сорт Rhapsody in White.\n",
+  "post_date": "  07 October в 19:18  "
+}

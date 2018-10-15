@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1577857715,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1577857715",
+  "seller": ".",
+  "seller-contact": "Андрей",
+  "address": "Москва, м. Новогиреево",
+  "text": "4 кактуса в больших горшках высота 30 - 35 см с горшком, все за 1000 по отдельности по 300\n",
+  "post_date": "  6 октября в 17:54  ",
+  "seller_link": "/user/198027a68e24b8a88e1b5d6f88c4a308/profile?id=1577857715&src=item"
+}

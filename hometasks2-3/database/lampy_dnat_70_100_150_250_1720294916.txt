@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1720294916,
+  "title": "Лампы днат 70 100 150 250",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampy_dnat_70_100_150_250_1720294916",
+  "seller": "Екатерина",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продаю лампы ДНаТ 70, 100, 150, 250 Вт\n",
+  "post_date": "  6 октября в 23:43  ",
+  "seller_link": "/user/de4d96179dd3c04bae9a59b59a82482b/profile?id=1720294916&src=item"
+}

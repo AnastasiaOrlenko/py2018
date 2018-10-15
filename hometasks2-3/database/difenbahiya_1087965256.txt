@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1087965256,
+  "title": "Дифенбахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/difenbahiya_1087965256",
+  "seller": "Оксана",
+  "address": "Москва, м. Полежаевская",
+  "text": "Цена указана без горшка. Растению около 10 лет\n",
+  "post_date": "  6 октября в 15:25  ",
+  "seller_link": "/user/4bcf9dbad149888c3b38151df27dee4f/profile?id=1087965256&src=item"
+}

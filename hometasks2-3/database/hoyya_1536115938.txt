@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1536115938,
+  "title": "Хойя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_1536115938",
+  "seller": "Наталия",
+  "address": "Москва, м. Теплый стан",
+  "text": "Продаю растение с горшком.\n",
+  "post_date": "  6 октября в 11:16  ",
+  "seller_link": "/user/550cc158c55047bbb7e6263e2362016f/profile?id=1536115938&src=item"
+}

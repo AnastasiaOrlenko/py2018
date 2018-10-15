@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1516378928,
+  "title": "Аглаонема",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aglaonema_1516378928",
+  "seller": "Олег",
+  "address": "Москва, м. Беговая",
+  "text": "Аглаонема, высота 25 см, диаметр горшка 12 см.\n",
+  "post_date": "  6 октября в 00:07  ",
+  "seller_link": "/user/52a907a3ae21a7ca309f997301d74d65/profile?id=1516378928&src=item"
+}

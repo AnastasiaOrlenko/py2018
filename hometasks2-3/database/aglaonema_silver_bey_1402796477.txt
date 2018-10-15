@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1402796477,
+  "title": "Аглаонема Сильвер Бей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aglaonema_silver_bey_1402796477",
+  "seller": "Раиса",
+  "address": "Москва, м. Нагатинская",
+  "text": "Неприхотливое комнатное растение с 8 листьями (9 й на подходе), адаптировано к комнатным условиям, Подходит для дома и офиса. Цена указана за растение без горшка.\n",
+  "post_date": "  07 October в 11:00  ",
+  "seller_link": "/user/dd5941c11e783a236bfef5dd5ee77ef8/profile?id=1402796477&src=item"
+}

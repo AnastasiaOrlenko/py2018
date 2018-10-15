@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1020783454,
+  "title": "Мох Стабилизированный мох",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/moh_stabilizirovannyy_moh_1020783454",
+  "seller": "Екатерина",
+  "address": "Москва, м. Борисово",
+  "text": "Светлый 400р \nТемный 400р\nСамый тёмный 400\nФасовка 400гр.коробка.\nФинский мох\n",
+  "post_date": "  07 October в 11:50  ",
+  "seller_link": "/user/416b2282e4c86d15e71e69fbc014da5f/profile?id=1020783454&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Частное лицо",
+  "index": 1552625263,
+  "title": "Драцена большая комнатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_bolshaya_komnatnaya_1552625263",
+  "seller": "Роза",
+  "address": "Москва, м. Кузьминки",
+  "text": "Три ствола, большие 3 остролистные кроны.Свмовывоз от станции Люберцы в удобное для Вас время.\n",
+  "post_date": "  6 октября в 20:28  ",
+  "seller_link": "/user/388d0beea5d62077c0b342ab08e79b90/profile?id=1552625263&src=item"
+}

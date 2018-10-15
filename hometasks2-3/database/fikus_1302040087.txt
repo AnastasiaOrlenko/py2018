@@ -1,0 +1,12 @@
+{
+  "title": "Фикус",
+  "price": 450,
+  "seller": "Алексей/Яна",
+  "seller_link": "/user/4a67092e901a72b1f5ca6283ee55081b/profile?id=1302040087&src=item",
+  "address": "Москва, м. Ботанический сад",
+  "index": 1302040087,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1302040087",
+  "text": "Без горшка\n",
+  "post_date": "  4 октября в 16:57  "
+}

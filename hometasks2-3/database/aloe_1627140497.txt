@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1627140497,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1627140497",
+  "seller": "Людмила",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "text": "лекарственное.выс.-10 см.\n",
+  "post_date": "  5 октября в 09:43  ",
+  "seller_link": "/user/adf7435f98a26bf00d6d55bbd6156c1e/profile?id=1627140497&src=item"
+}

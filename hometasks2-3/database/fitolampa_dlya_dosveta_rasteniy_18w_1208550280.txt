@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1208550280,
+  "title": "Фитолампа для досвета растений 18w",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitolampa_dlya_dosveta_rasteniy_18w_1208550280",
+  "seller": "Светлана",
+  "address": "Москва, м. Кузьминки",
+  "text": "Новая лампа для роста растений. Цоколь е27 (обычный). Светодиоды: 11 красных + 3 синих + 1 белый + 1 ик +1 уф. Мощность 18w\n",
+  "post_date": "  5 октября в 16:10  ",
+  "seller_link": "/user/f68db3f72c217b339dda2abda156da6d/profile?id=1208550280&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 720067835,
+  "seller": "Юля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_720067835",
+  "address": "Москва, м. Соколиная гора",
+  "title": "Фиалки",
+  "seller_link": "/user/f08bc9cd99b6d23439f618a2134fbe4a/profile?id=720067835&src=item",
+  "text": "Фиалки махровые нежно розового цвета. Четыре молодых растения в пластиковых горшочках. 1шт - 150р\n",
+  "post_date": "  07 October в 22:46  "
+}

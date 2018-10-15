@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1711726602,
+  "title": "Сансевиерия комнатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_komnatnaya_1711726602",
+  "seller": "Мария Николаева",
+  "address": "Москва, м. Селигерская",
+  "text": "Комнатное растение в месте с горшком\n",
+  "post_date": "  07 October в 12:37  ",
+  "seller_link": "/user/05947b522ff8650d70ad4934eca7e845/profile?id=1711726602&src=item"
+}

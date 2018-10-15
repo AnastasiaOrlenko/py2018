@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Верхние Лихоборы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_svetlo-bezhevoe_1195852056",
+  "price": 100,
+  "seller": "ЕЛЕНА",
+  "post_date": "  08 October в 20:07  ",
+  "title": "Кашпо светло-бежевое",
+  "text": "Диаметр- 24 см., высота- 19 см. Продаю с поддоном.\n",
+  "index": 1195852056,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/4157b7af625fc2be1c9770174da67a48/profile?id=1195852056&src=item"
+}

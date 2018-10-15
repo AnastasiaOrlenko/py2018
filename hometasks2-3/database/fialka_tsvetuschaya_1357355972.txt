@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1357355972,
+  "title": "Фиалка цветущая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_tsvetuschaya_1357355972",
+  "seller": "ххххх",
+  "address": "Москва, м. Новокосино",
+  "text": "Продам фиалку без горшка цветущие как на фото, цветки до 7 см в диаметре\n",
+  "post_date": "  6 октября в 22:33  ",
+  "seller_link": "/user/8f0c8a2ea6f505974dbf1ac7c6ccc329/profile?id=1357355972&src=item"
+}

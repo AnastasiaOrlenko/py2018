@@ -1,0 +1,11 @@
+{
+  "text": "Клен остролистный Роял ред, Кримстон Кинг, Aeschylus, липа мелколистная Гринспаейер обхват ствола 22/25/30. В наличии.\nСадовый центр\n",
+  "title": "Крупномеры клен, липа, вяз",
+  "seller_link": "/user/bad0f69a620e732c9ac20dc0fe4dcb4f/profile?id=1060677743&src=item",
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krupnomery_klen_lipa_vyaz_1060677743",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:29  ",
+  "seller": "Наталья",
+  "index": 1060677743
+}

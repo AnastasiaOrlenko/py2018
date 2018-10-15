@@ -1,0 +1,12 @@
+{
+  "price": 4,
+  "seller_status": "Частное лицо",
+  "index": 1098054007,
+  "title": "Капельницы для полива",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kapelnitsy_dlya_poliva_1098054007",
+  "seller": "Галина",
+  "address": "Москва, м. Новогиреево",
+  "text": "Капельницы продам по 25 шт. 100 р.\nДоставка до метро Новогиреево 50 р.\nДо любой станции метро 200 р.\nНа адрес 300 р.\nЕсть доставка по Талдому МО.\n",
+  "post_date": "  5 октября в 18:40  ",
+  "seller_link": "/user/2644abf1c4cc6615a3ff2e0c7df76d2a/profile?id=1098054007&src=item"
+}

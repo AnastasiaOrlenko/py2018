@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 944815186,
+  "title": "Хризантемы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantemy_944815186",
+  "seller": "ЖАК",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Букеты из хризантемы\n",
+  "post_date": "  07 October в 09:18  ",
+  "seller_link": "/user/0bc8dc6bffcc0a5542f9928585eb21b9/profile?id=944815186&src=item"
+}

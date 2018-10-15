@@ -1,0 +1,12 @@
+{
+  "price": 79,
+  "seller_status": "Частное лицо",
+  "index": 1338775191,
+  "title": "Грунт универсальный удобрение 5 л",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grunt_universalnyy_udobrenie_5_l_1338775191",
+  "seller": "Фёдор",
+  "address": "Москва, м. Багратионовская",
+  "text": "Грунт универсальный удобрение 5 л.\nВозможна доставка по Москве до удобной станции метро 100 руб.\n",
+  "post_date": "  07 October в 11:41  ",
+  "seller_link": "/user/dab99af360626978bff649f9aa754ef7/profile?id=1338775191&src=item"
+}

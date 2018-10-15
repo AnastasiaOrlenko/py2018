@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1518938881,
+  "title": "Сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_1518938881",
+  "seller": "Ольга",
+  "address": "Москва, м. Братиславская",
+  "text": "Растение здорово, не требует пересадки.\n",
+  "post_date": "  5 октября в 15:07  ",
+  "seller_link": "/user/b9c8029b03311e3e2ec5a78d08cd8e53/profile?id=1518938881&src=item"
+}

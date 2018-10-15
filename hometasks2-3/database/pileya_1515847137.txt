@@ -1,0 +1,13 @@
+{
+  "price": 120,
+  "seller_status": "Компания",
+  "index": 1515847137,
+  "title": "Пилея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pileya_1515847137",
+  "seller": "Александр",
+  "seller-contact": "Александр",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Продам укорененные черенки\n",
+  "post_date": "  6 октября в 11:34  ",
+  "seller_link": "/user/de6fcdaa236227c199f1c724ded2b904/profile?id=1515847137&src=item"
+}

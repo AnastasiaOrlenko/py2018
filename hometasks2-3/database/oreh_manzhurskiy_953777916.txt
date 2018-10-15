@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Достоевская",
+  "seller": "Николай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oreh_manzhurskiy_953777916",
+  "seller_status": "Компания",
+  "title": "Орех Манжурский",
+  "post_date": "  08 October в 13:50  ",
+  "price": 500,
+  "index": 953777916,
+  "seller_link": "/user/d1992d7b43bf40c4fa23b2025671ad85/profile?id=953777916&src=item",
+  "text": "Продам два трехлетних саженца, с закрытой корневой сиситемой. Цена за шт.\n"
+}

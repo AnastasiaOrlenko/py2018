@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1323361092,
+  "title": "Алоэ древовидное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_drevovidnoe_1323361092",
+  "seller": "Наталья",
+  "address": "Москва, м. Молодежная",
+  "text": "Многолетнее алоэ древовидное. \nС детками.\nКаждый кустик по 300 руб. \nЗабирать м Молодежная\n",
+  "post_date": "  07 October в 01:51  ",
+  "seller_link": "/user/cd17155249c057befb2be8c53e6403ea/profile?id=1323361092&src=item"
+}

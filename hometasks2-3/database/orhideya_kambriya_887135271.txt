@@ -1,0 +1,12 @@
+{
+  "text": "Орхидея Камбрия на фото цветение моего цветка. Цветущее не продается,фото как образец,ПОЧТОЙ НЕ ОТПРАВЛЯЮ.\nотростки именно от этой Орхидеи.\nцены: \n фото (5) - 500руб\n фото (6) - 500руб\n",
+  "title": "Орхидея Камбрия",
+  "price": 500,
+  "index": 887135271,
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_kambriya_887135271",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:59  ",
+  "seller": "Наталья",
+  "seller_link": "/user/e32b24d6986db527931ddecfe8e06145/profile?id=887135271&src=item"
+}

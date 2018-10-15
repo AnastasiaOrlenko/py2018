@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1450776307,
+  "title": "Садовые растения книга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sadovye_rasteniya_kniga_1450776307",
+  "seller": "Светлана Иванова",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Всё о травянистых растениях.Посадка,уход.Как правильно вырастить красивый цветок.\n",
+  "post_date": "  4 октября в 23:05  ",
+  "seller_link": "/user/a0e2a35ef915352c55f5c741c1716bfd/profile?id=1450776307&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1403258529,
+  "title": "Кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_1403258529",
+  "seller": "Олеся",
+  "address": "Москва, м. Перово",
+  "text": "Кашпо подвесное ручной работы. Делаю на заказ. Оформление под цвет горшка.\n",
+  "post_date": "  6 октября в 12:25  ",
+  "seller_link": "/user/8e0bd6923098b2c60aa544a85366a559/profile?id=1403258529&src=item"
+}

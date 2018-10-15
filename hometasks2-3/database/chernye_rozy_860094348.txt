@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/c09d657e664fdd9da00110b878242e72/profile?id=860094348&src=item",
+  "seller-contact": "Георгий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chernye_rozy_860094348",
+  "post_date": "  08 October в 09:25  ",
+  "address": "Москва, м. Алексеевская",
+  "seller": "GUGS Jewelry",
+  "text": "В наличии Черные эквадорские розы с крупным бутоном.Обязательно говорите что вы с авито!\n",
+  "index": 860094348,
+  "seller_status": "Компания",
+  "price": 150,
+  "title": "Чёрные розы"
+}

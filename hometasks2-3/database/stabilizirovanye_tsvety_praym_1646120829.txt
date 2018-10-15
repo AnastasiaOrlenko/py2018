@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 280,
+  "index": 1646120829,
+  "seller": "игорь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stabilizirovanye_tsvety_praym_1646120829",
+  "address": "Москва, м. Автозаводская",
+  "title": "Стабилизированые Цветы прайм",
+  "seller_link": "/user/62b2a251929a01add75a9e4a412778e4/profile?id=1646120829&src=item",
+  "text": "Стабилизированые розы, стабилизированые Цветы размер прайм\n",
+  "post_date": "  07 October в 23:55  "
+}

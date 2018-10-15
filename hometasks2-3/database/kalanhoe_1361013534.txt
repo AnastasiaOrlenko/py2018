@@ -1,0 +1,12 @@
+{
+  "title": "Каланхоэ",
+  "price": 350,
+  "seller": "Евгения",
+  "seller_link": "/user/f47f2af5fc5ebc8d1aaa8bf91fce17cf/profile?id=1361013534&src=item",
+  "address": "Москва, м. Ховрино",
+  "index": 1361013534,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1361013534",
+  "text": "Каланхоэ с гормшком. Есть ещё много цветов, смотрите в моих объявлениях. Оптом дешевле ))) Самовывоз метро Ховрино\n",
+  "post_date": "  4 октября в 17:08  "
+}

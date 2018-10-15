@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1376598739,
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mirt_1376598739",
+  "address": "Москва, м. Кантемировская",
+  "title": "Мирт",
+  "seller_link": "/user/66e6e7236c5201f564364a694fe08eef/profile?id=1376598739&src=item",
+  "text": "Мирт, 10-15см, здоров) очень хорошо очищает воздух\n",
+  "post_date": "  07 October в 17:51  "
+}

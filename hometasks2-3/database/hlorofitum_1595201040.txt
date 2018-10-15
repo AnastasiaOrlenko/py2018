@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1595201040,
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1595201040",
+  "address": "Москва, м. Кузнецкий мост",
+  "title": "Хлорофитум",
+  "seller_link": "/user/1eb76223efac3605849fa60f3ae506fe/profile?id=1595201040&src=item",
+  "text": "Детки хлорофитума\nЦена за 1 шт\n",
+  "post_date": "  07 October в 16:37  "
+}

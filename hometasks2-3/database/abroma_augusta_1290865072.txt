@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1290865072,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/abroma_augusta_1290865072",
+  "address": "Москва, м. Фрунзенская",
+  "title": "Abroma augusta",
+  "seller_link": "/user/3c89372b5a3c74919cf7a201da041019/profile?id=1290865072&src=item",
+  "text": "Сеянец 8 мес. Должен эффектно цвести, но в природе это кустарник. (цветение из интернета)\n",
+  "post_date": "  07 October в 22:36  "
+}

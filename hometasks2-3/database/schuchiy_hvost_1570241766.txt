@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1570241766,
+  "title": "Щучий хвост",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/schuchiy_hvost_1570241766",
+  "seller": "Оксана",
+  "address": "Москва, м. Текстильщики",
+  "text": "Продается растение щучий хвост.\n",
+  "post_date": "  6 октября в 10:54  ",
+  "seller_link": "/user/27bfbf4938db78da37022aab3be7dafb/profile?id=1570241766&src=item"
+}

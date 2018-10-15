@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/898fb4c49caad2a24c500cb3aca72605/profile?id=1454863922&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_sazhentsy_tayskih_ananasov_1454863922",
+  "post_date": "  08 October в 10:01  ",
+  "address": "Москва, м. Площадь революции",
+  "seller": "Татьяна",
+  "text": "Продам саженцы тайских ананасов. Возраст 2 года. Плодоносят на третий год. В наличии 5 штук. Также есть три саженца помоложе.\n",
+  "index": 1454863922,
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "title": "Продам саженцы тайских ананасов"
+}

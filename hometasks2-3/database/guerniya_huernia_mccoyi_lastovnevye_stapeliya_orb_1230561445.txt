@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1230561445,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/guerniya_huernia_mccoyi_lastovnevye_stapeliya_orb_1230561445",
+  "address": "Москва, м. Нахимовский проспект",
+  "title": "Гуэрния Huernia mccoyi, Ластовневые, стапелия, орб",
+  "seller_link": "/user/063e788f6b38e5527bf7a77cf1b95983/profile?id=1230561445&src=item",
+  "text": "Продаю чернки гуэрнии, на фото текущее цветение. Цветёт все лето и осень.\n",
+  "post_date": "  08 October в 01:46  "
+}

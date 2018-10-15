@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Южная",
+  "seller": "Дарья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1332005834",
+  "seller_status": "Частное лицо",
+  "title": "Антуриум",
+  "post_date": "  08 October в 13:39  ",
+  "price": 600,
+  "index": 1332005834,
+  "seller_link": "/user/3e70fa2d8c0ae1488c4ab1f657a7c4d3/profile?id=1332005834&src=item",
+  "text": "Цветок взрослый. Постоянно цветёт. Фото своё. Продам с горшком. В пересадке не нуждается. За 600 р.\n"
+}

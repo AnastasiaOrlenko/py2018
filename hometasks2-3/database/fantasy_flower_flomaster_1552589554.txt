@@ -1,0 +1,12 @@
+{
+  "text": "fantasy flower фломастер\n",
+  "title": "Fantasy flower фломастер",
+  "price": 30,
+  "index": 1552589554,
+  "address": "Москва, м. Пражская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fantasy_flower_flomaster_1552589554",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:10  ",
+  "seller": "Михаил",
+  "seller_link": "/user/cf30d7ba86b8f590fd84bcd1e897a2d9/profile?id=1552589554&src=item"
+}

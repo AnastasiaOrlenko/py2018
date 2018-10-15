@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/3c9d80f6e41f8c11bf5f6bfbd0693d1a/profile?id=1159836351&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ikusstvenn._iz_plastika_bonsay_1159836351",
+  "post_date": "  08 October в 08:54  ",
+  "address": "Москва, м. Шаболовская",
+  "seller": "Ольга",
+  "text": "Искусственн. пластиковый бонсай. Сделала сама, даже песок и камни везла с Кипра.\n",
+  "index": 1159836351,
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "title": "Икусственн. из пластика бонсай"
+}

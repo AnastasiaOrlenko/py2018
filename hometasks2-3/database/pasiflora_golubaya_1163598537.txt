@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 400,
+  "index": 1163598537,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pasiflora_golubaya_1163598537",
+  "address": "Москва, м. Теплый стан",
+  "title": "Пасифлора голубая",
+  "seller_link": "/user/c5cbe69f520caaa8d5006c8c8d4587b9/profile?id=1163598537&src=item",
+  "text": "Пасифлора голубая\nСейчас обильно цветет\n",
+  "post_date": "  08 October в 01:12  "
+}

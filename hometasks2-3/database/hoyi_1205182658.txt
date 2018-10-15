@@ -1,0 +1,12 @@
+{
+  "text": "Предлагаются укорененные растущие черенки.\nФото 1,2,3,4- Caudata Big and green Leaves - два черенка с ростами в горшке - 300р.\nфото 5 - Керри вариегатная, укоренённый черенок - 300р.\nфото 6,7 - Керри вариегатная, маточник - 400р.\nФото 8 - Obovata variegata - молодые растения по два в горшке - 250р.\nФото 9,10 - Obovata variegata - взрослое растение - 300р.\n",
+  "title": "Хойи",
+  "seller_link": "/user/7982d487df41cfec3e17cd5fda9ee965/profile?id=1205182658&src=item",
+  "address": "Москва, м. Университет",
+  "seller-contact": "Лариса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_1205182658",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 09:25  ",
+  "seller": ".",
+  "index": 1205182658
+}

@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 658664365,
+  "title": "Эпипремнум скелетон skeleton key",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/epipremnum_skeleton_skeleton_key_658664365",
+  "seller": "Анна (не комнания)",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Медведково",
+  "text": "Epipremnum skeleton key, сциндапсус ключик - редкий сорт, привезён полгода назад из Азии. На 1м фото пример взрослого растения, также на 2м фото пример моего листа, листья крупные. Продаётся растение с 3го и 4го фото.\nВ центре бываю по средам вечером, иногда в другие дни. В любой день можно встретиться м. Бабушкинская, Медведково.\n",
+  "post_date": "  07 October в 08:09  ",
+  "seller_link": "/user/7403520b64de8300f0db683edbbbb9aa/profile?id=658664365&src=item"
+}

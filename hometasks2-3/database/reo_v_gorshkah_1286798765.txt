@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1286798765,
+  "title": "Рео в горшках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_v_gorshkah_1286798765",
+  "seller": "Мила-ПО РЕКЛАМЕ НЕ БЕСПОКОИТЬ!",
+  "address": "Москва, м. Нагорная",
+  "text": "Рео - три цветка в горшках.\n100р. за штуку.\nПО РЕКЛАМЕ НЕ БЕСПОКОИТЬ!\nЗвонки после 19.00 или whatsapp, viber, telegram или сообщения на авито.\n",
+  "post_date": "  6 октября в 14:05  ",
+  "seller_link": "/user/e559fd771085a5561f07b75b1879c4b6/profile?id=1286798765&src=item"
+}

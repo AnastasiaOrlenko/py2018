@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_belaya_5_st_v_kashpo_klassik_90-100_sm_km444_1710819865",
+  "seller_status": "Компания",
+  "title": "Орхидея белая 5 ст в кашпо Классик 90-100 см KM444",
+  "post_date": "  08 October в 11:50  ",
+  "price": 26000,
+  "index": 1710819865,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1710819865&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Орхидея белая 5 ст в кашпо Классик 90-100 см KM444 \nв интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

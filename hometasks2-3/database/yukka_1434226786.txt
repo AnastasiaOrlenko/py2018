@@ -1,0 +1,13 @@
+{
+  "price": 300,
+  "seller_status": "Компания",
+  "index": 1434226786,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1434226786",
+  "seller": "Ольга",
+  "seller-contact": "Ольга",
+  "address": "Москва, м. Площадь Ильича",
+  "text": "Юкка без горшка 300руб с корнем\nЮкка в горшке 380 руб\n",
+  "post_date": "  5 октября в 23:39  ",
+  "seller_link": "/user/2f00f5236e49cd0dfc96abec9e9454ee/profile?id=1434226786&src=item"
+}

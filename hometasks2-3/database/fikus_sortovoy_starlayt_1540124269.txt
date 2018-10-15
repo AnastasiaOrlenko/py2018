@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Ольга",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_sortovoy_starlayt_1540124269",
+  "seller_status": "Компания",
+  "title": "Фикус сортовой Старлайт",
+  "post_date": "  08 October в 11:54  ",
+  "price": 650,
+  "index": 1540124269,
+  "seller_link": "/user/bd529d0057d87c2ff583cc9a2d5197d6/profile?id=1540124269&src=item",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Сортовой вариегатный фикус Старлайт самый красивый и неприхотливый из всех сортовых фикусов.\nПродаётся то растение, что на фото, в платиковом горшке.\nВстречаюсь метро Царицыно.\n"
+}

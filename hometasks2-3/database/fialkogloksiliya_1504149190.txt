@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1504149190,
+  "title": "Фиалкоглоксилия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialkogloksiliya_1504149190",
+  "seller": "Светлана Иванова",
+  "address": "Москва, м. Царицыно",
+  "text": "Фиалка цветет розовым цветом\n",
+  "post_date": "  6 октября в 20:54  ",
+  "seller_link": "/user/d6561ded58bb466d62c46b6d008d14e5/profile?id=1504149190&src=item"
+}

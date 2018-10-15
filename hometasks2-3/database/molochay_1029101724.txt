@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1029101724,
+  "title": "Молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1029101724",
+  "seller": "лилия",
+  "address": "Москва, м. Каховская",
+  "text": "Высота 57 см от земли, с горшком 66 см,\n",
+  "post_date": "  6 октября в 11:00  ",
+  "seller_link": "/user/1303b5294f5ef0567054ecb5a87ff0e6/profile?id=1029101724&src=item"
+}

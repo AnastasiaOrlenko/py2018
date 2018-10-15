@@ -1,0 +1,13 @@
+{
+  "price": 1000,
+  "seller_status": "Компания",
+  "index": 1118565408,
+  "title": "Монстера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1118565408",
+  "seller": "Илиона",
+  "seller-contact": "Павел Сергеевич",
+  "address": "Москва, м. Савеловская",
+  "text": "Красивое здоровое растение. Возраст более 10 лет. Продается вместе с дорогим горшком.\n",
+  "post_date": "  07 October в 01:30  ",
+  "seller_link": "/user/d5d13784fa671e23610b543e11796448/profile?id=1118565408&src=item"
+}

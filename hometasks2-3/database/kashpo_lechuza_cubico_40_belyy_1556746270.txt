@@ -1,0 +1,12 @@
+{
+  "price": 8500,
+  "seller_status": "Частное лицо",
+  "index": 1556746270,
+  "title": "Кашпо lechuza cubico 40 (белый)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_lechuza_cubico_40_belyy_1556746270",
+  "seller": "Екатерина",
+  "address": "Москва, м. Выхино",
+  "text": "Диаметр 40 на 40 см высота 75 см поверхность глянцевая лакированная\n",
+  "post_date": "  6 октября в 23:47  ",
+  "seller_link": "/user/64492d70660f61a7936ec673f26043bb/profile?id=1556746270&src=item"
+}

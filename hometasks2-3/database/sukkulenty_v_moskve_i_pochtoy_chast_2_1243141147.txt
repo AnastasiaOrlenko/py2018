@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1243141147,
+  "title": "Суккуленты в Москве и почтой (часть 2)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sukkulenty_v_moskve_i_pochtoy_chast_2_1243141147",
+  "seller": "Марина",
+  "address": "Москва, м. Зябликово",
+  "text": "1. Набор: гриновия (3 детки) + Crassula lycopodioides (толстянка плауновидная) + Haworthia retusa (хавортия ретуза) 650руб.\n2. Еcheveria topsy turvy (эчеверия топси-турви) розетка 3 см 120руб.\n3. Еcheveria topsy turvy (эчеверия топси-турви) розетка 5 см 150руб.\n4. Echeveria purpusorum (эчеверия пурпузорум) розетка 6 см 200руб.\n5. Sedum Nussbaumerianum (Седум Нуссбаумера) высота 7 см 220руб.\n6. Cotyledon tomentosa (Котиледон войлочный) 200руб.\n7. Kalanchoe tomentosa (Каланхоэ войлочное) 170руб.\n8. Portulacaria afra f. variegata (Портулакария афра вариегатная) высота 9 см 130руб.\n9. Graptopetalum Pachyphyllum (Граптопеталум Толстолистный) 100руб.\n10. Sedum burrito (Седум буритто) 70руб.\nЗабрать можно в Москве (м.Красногвардейская), либо вышлю по почте (посылка 1 класса 200руб).\n",
+  "post_date": "  6 октября в 07:23  ",
+  "seller_link": "/user/0cb1d2660e8a95004c52b487a85acd80/profile?id=1243141147&src=item"
+}

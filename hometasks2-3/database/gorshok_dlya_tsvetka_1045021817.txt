@@ -1,0 +1,12 @@
+{
+  "text": "Глиняный. Продам или обменяю на комнатный цветок.\n",
+  "title": "Горшок для цветка",
+  "price": 100,
+  "index": 1045021817,
+  "address": "Москва, м. Тульская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetka_1045021817",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:38  ",
+  "seller": "Ирина",
+  "seller_link": "/user/fd6655aabc5d584c45fc573bbf36d779/profile?id=1045021817&src=item"
+}

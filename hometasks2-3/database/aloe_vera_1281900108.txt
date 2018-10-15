@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1281900108,
+  "title": "Алоэ вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_vera_1281900108",
+  "seller": "Юлия",
+  "address": "Москва, м. ВДНХ",
+  "text": "Растения возрастом 1 - 1,5 года\n",
+  "post_date": "  4 октября в 21:59  ",
+  "seller_link": "/user/af986c1dbdf8e225bf93da82f7b2c364/profile?id=1281900108&src=item"
+}

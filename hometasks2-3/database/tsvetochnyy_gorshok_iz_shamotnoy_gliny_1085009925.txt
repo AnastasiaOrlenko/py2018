@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1800,
+  "index": 1085009925,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_iz_shamotnoy_gliny_1085009925",
+  "address": "Москва, м. Кузьминки",
+  "title": "Цветочный горшок из шамотной глины",
+  "seller_link": "/user/1118a1a4f77e4dbba6befe27d7e8ad94/profile?id=1085009925&src=item",
+  "text": "Пролаю горшок из шамотной глины б/у. Размеры на фото. Горшок очень тяжелый.\n",
+  "post_date": "  07 October в 22:11  "
+}

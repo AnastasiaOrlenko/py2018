@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1556135220,
+  "title": "Фиалка белая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_belaya_1556135220",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 20см.\n",
+  "post_date": "  6 октября в 22:48  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1556135220&src=item"
+}

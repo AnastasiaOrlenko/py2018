@@ -1,0 +1,12 @@
+{
+  "text": "Продам цветущие Фиалочки!\n",
+  "title": "Фиалочки",
+  "price": 100,
+  "index": 1494380406,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialochki_1494380406",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:37  ",
+  "seller": "Екатерина",
+  "seller_link": "/user/ef013c2b5a558b6776efcd6bd9ced713/profile?id=1494380406&src=item"
+}

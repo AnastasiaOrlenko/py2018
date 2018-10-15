@@ -1,0 +1,12 @@
+{
+  "text": "Породам Экологически чистое удобрение для любых растений биогумос, конский навоз ,чистый ,перегнивший, упакован в мешки 60л.\nСамовывоз с Пятницкого шоссе 17км.\nВозможна доставка .\n",
+  "title": "Конский навоз в мешках пятницкое шоссе",
+  "price": 200,
+  "index": 703349394,
+  "address": "Москва, м. Пятницкое шоссе",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/konskiy_navoz_v_meshkah_pyatnitskoe_shosse_703349394",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:15  ",
+  "seller": "Ирина",
+  "seller_link": "/user/89e002de82df343326dee53124591e75/profile?id=703349394&src=item"
+}

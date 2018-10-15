@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 836005418,
+  "title": "Молодило (каменная роза )",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molodilo_kamennaya_roza_836005418",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "звонить в любое время , под заказ\n",
+  "post_date": "  4 октября в 22:08  ",
+  "seller_link": "/user/b0a380667cef2c00fb33666363668d52/profile?id=836005418&src=item"
+}

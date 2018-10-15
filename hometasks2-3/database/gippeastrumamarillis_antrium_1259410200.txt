@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1259410200,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrumamarillis_antrium_1259410200",
+  "address": "Москва, м. Октябрьское поле",
+  "title": "Гиппеаструм(амариллис) антриум",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1259410200&src=item",
+  "text": "Молодое растение .На фото пример цветения .так же есть антриум 3 фото.\n",
+  "post_date": "  07 October в 22:22  "
+}

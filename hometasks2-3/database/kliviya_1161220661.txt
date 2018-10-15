@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_1161220661",
+  "price": 1800,
+  "seller": "Екатерина",
+  "post_date": "  08 October в 17:14  ",
+  "title": "Кливия",
+  "text": "От пола до верхушки метр, продаю с горошком цветет 2-3 раза в год, хорошо разрастается ( приносит 3-4 детки в год)\n",
+  "index": 1161220661,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/6c995b650627c33636988e7e863da5cd/profile?id=1161220661&src=item"
+}

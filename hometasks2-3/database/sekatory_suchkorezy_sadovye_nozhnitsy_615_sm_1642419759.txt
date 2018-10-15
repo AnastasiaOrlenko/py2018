@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 599,
+  "index": 1642419759,
+  "seller": "Ирина (частное лицо)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sekatory_suchkorezy_sadovye_nozhnitsy_615_sm_1642419759",
+  "address": "Москва, м. Волжская",
+  "title": "Секаторы, сучкорезы, садовые ножницы 61,5 см",
+  "seller_link": "/user/4ba05fe00a849e812b77d53f0404bce4/profile?id=1642419759&src=item",
+  "text": "Ножницы садовые, длина 61,5см, сталь, арт.C22951190.\nНовые\nЗабрать можно в Марьино, Люблино, Дмитрове\n",
+  "seller-contact": "Ирина",
+  "post_date": "  07 October в 15:00  "
+}

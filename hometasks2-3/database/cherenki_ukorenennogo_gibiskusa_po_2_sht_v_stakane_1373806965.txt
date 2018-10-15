@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1373806965,
+  "title": "Черенки укорененного гибискуса по 2 шт в стакане",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/cherenki_ukorenennogo_gibiskusa_po_2_sht_v_stakane_1373806965",
+  "seller": "Юлия",
+  "address": "Москва, м. Чертановская",
+  "text": "С корнями. Сидят по 2шт в каждом стаканчике. У меня 2 стаканчика.\nПродаю сразу по 2.\nЕсть другие гибискусы. Смотрите все мои объявления.\n",
+  "post_date": "  4 октября в 19:10  ",
+  "seller_link": "/user/f9d0930d3a97ba31aaf0836b6ca19420/profile?id=1373806965&src=item"
+}

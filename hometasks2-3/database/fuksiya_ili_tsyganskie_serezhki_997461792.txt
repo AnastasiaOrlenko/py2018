@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 997461792,
+  "title": "Фуксия или цыганские сережки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiya_ili_tsyganskie_serezhki_997461792",
+  "seller": "Ирина",
+  "address": "Москва",
+  "text": "В керамическом горшке, цвела\n",
+  "post_date": "  4 октября в 20:13  ",
+  "seller_link": "/user/30fc1f801ea76eb73e2e3890ed299eac/profile?id=997461792&src=item"
+}

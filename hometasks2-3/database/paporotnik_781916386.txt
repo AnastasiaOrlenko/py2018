@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Речной вокзал",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_781916386",
+  "price": 3000,
+  "seller": "Елена",
+  "post_date": "  08 October в 17:47  ",
+  "title": "Папоротник",
+  "text": "Папоротник с керамическим горшком.\n",
+  "index": 781916386,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/03eb05c89d9fa996224a05eadf7bc11f/profile?id=781916386&src=item"
+}

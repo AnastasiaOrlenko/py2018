@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Елена",
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetuschaya_stapeliya_1256956606",
+  "seller_status": "Компания",
+  "title": "Цветущая стапелия",
+  "post_date": "  08 October в 13:56  ",
+  "price": 350,
+  "index": 1256956606,
+  "seller_link": "/user/59d8f585f4240f0fef4a46f8fc8fa1a7/profile?id=1256956606&src=item",
+  "address": "Москва, м. Ботанический сад",
+  "text": "Без горшка\n"
+}

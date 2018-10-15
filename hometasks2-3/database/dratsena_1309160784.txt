@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1309160784,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1309160784",
+  "seller": "Ксения",
+  "address": "Москва, м. Братиславская",
+  "text": "Продаю с горшком.\n",
+  "post_date": "  6 октября в 20:01  ",
+  "seller_link": "/user/bc9b030b0bd8736762faf53461ddcbc7/profile?id=1309160784&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Зеленоград",
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kashpo_dlya_tsvetov_keramicheskie_lebedi_1542076465",
+  "seller_status": "Частное лицо",
+  "title": "Кашпо для цветов керамические \"Лебеди\"",
+  "post_date": "  08 October в 13:32  ",
+  "price": 1000,
+  "index": 1542076465,
+  "seller_link": "/user/e220092550a9dcfab74eacd3acd79492/profile?id=1542076465&src=item",
+  "text": "Два керамических кашпо в форме лебедей чёрного и белого цветов. Продаются только вместе. Возможен торг.\n! Звонить с 10:00 до 20:00 !\n"
+}

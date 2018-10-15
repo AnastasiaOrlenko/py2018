@@ -1,0 +1,12 @@
+{
+  "price": 10,
+  "seller_status": "Частное лицо",
+  "index": 1357494610,
+  "title": "Кактус детки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_detki_1357494610",
+  "seller": "Юлия",
+  "address": "Москва, м. Войковская",
+  "text": "Какстус, детки уже крупные, нужно пересаживать, цветёт белым цветком. Самовывоз м.войковская, 10 минут от метро.\n",
+  "post_date": "  07 October в 00:37  ",
+  "seller_link": "/user/9fb929586e8ccf2b8c84527d044c21e0/profile?id=1357494610&src=item"
+}

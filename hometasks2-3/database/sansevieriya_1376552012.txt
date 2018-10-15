@@ -1,0 +1,12 @@
+{
+  "text": "Сансевиерия в продаже разная.\nФото 1 - 600р\nФото 2 - 500р\nФото 3 и 4 - 300р\nФото 5 - 100р.\nФото 6 - 200\n",
+  "title": "Сансевиерия",
+  "price": 500,
+  "index": 1376552012,
+  "address": "Москва, м. Свиблово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_1376552012",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:57  ",
+  "seller": "Анжелика",
+  "seller_link": "/user/703736b351f81b09cb8e3f3795a6d461/profile?id=1376552012&src=item"
+}

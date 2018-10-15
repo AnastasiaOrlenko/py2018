@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 12000,
+  "index": 1308225557,
+  "seller": "Anna Savitskaya",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_2_sht_vysota_190_sm_1308225557",
+  "address": "Москва, м. Университет",
+  "title": "Монстера, 2 шт, высота 190 см",
+  "seller_link": "/user/f6524c4dd69aae0d8191e7de2bed641f/profile?id=1308225557&src=item",
+  "text": "Цена (15 тыс. руб) за обе. Растения в прекрасном состоянии. Высота 190 см каждая. Роскошные кадки в подарок (высота 60 см). Возможен торг. Самовывоз м. Университет. Пожалуйста, не звоните, пишите в WhatsApp.\n",
+  "post_date": "  07 October в 16:16  "
+}

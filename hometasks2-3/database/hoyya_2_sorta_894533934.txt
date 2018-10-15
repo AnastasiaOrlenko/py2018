@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 894533934,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_2_sorta_894533934",
+  "address": "Москва, м. Печатники",
+  "title": "Хойя 2 сорта",
+  "seller_link": "/user/57f88aa501789e1f250bba33fbefe75f/profile?id=894533934&src=item",
+  "text": "1 большая ветка 100₽. \nЦветок как на фото 350₽.\nЕсть ещё большего размера 500₽.\nПишите, пожалуйста, на сюда. На звонки не всегда могу ответить\n",
+  "post_date": "  07 October в 16:46  "
+}

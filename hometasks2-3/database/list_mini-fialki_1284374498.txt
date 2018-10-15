@@ -1,0 +1,12 @@
+{
+  "price": 40,
+  "seller_status": "Частное лицо",
+  "index": 1284374498,
+  "title": "Лист мини-фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/list_mini-fialki_1284374498",
+  "seller": "Евгения",
+  "address": "Москва, м. Домодедовская",
+  "text": "Очень красивая мини-фиалочка с фиолетовыми цветами. Цветет очень долго\n",
+  "post_date": "  5 октября в 19:46  ",
+  "seller_link": "/user/6542cdf12293ccc2771c2f2066557860/profile?id=1284374498&src=item"
+}

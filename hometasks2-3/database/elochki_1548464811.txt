@@ -1,0 +1,12 @@
+{
+  "text": "Новые елочки, есть 4 шт , 1,2 и 1,5 см. Зеленоград\n",
+  "title": "Елочки",
+  "price": 500,
+  "index": 1548464811,
+  "address": "Москва, м. Пятницкое шоссе",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/elochki_1548464811",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:46  ",
+  "seller": "Ирина",
+  "seller_link": "/user/8c2c0bb857f345dae4991f0734796f94/profile?id=1548464811&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 800,
+  "index": 1285766179,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_rakushka_1285766179",
+  "address": "Москва, м. Крестьянская застава",
+  "title": "Горшок для цветов Ракушка",
+  "seller_link": "/user/993060614d49c5af9ee62032c1231f2a/profile?id=1285766179&src=item",
+  "text": "Ракушка дизайнерский горшок, глянцевый. Очень красивый даже просто для интерьера\n",
+  "post_date": "  07 October в 23:35  "
+}

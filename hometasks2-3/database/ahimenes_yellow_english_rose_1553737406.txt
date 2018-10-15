@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1553737406,
+  "title": "Ахименес Yellow English Rose",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ahimenes_yellow_english_rose_1553737406",
+  "seller": "Виктория",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Ахименес Yellow English Rose.\nПолноценное растение. Скоро цветение. Неприхотлив.\n",
+  "post_date": "  4 октября в 21:58  ",
+  "seller_link": "/user/4ee46b5296e3bac181aca1b3cdedcf81/profile?id=1553737406&src=item"
+}

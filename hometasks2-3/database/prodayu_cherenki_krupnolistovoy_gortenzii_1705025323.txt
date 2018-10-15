@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1705025323,
+  "title": "Продаю черенки крупнолистовой гортензии",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodayu_cherenki_krupnolistovoy_gortenzii_1705025323",
+  "seller": "Елена",
+  "address": "Москва, м. Щелковская",
+  "text": "Продаю саженцы крупнолистовой гортензии:\nЧеренки по цене 300 рублей/штука.\nЧеренки от 10 см высотой.\n",
+  "post_date": "  5 октября в 15:16  ",
+  "seller_link": "/user/0aa85c25c6b1248189ed7aeae8890c2d/profile?id=1705025323&src=item"
+}

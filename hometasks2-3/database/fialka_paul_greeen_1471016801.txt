@@ -1,0 +1,13 @@
+{
+  "title": "Фиалка Paul greeen",
+  "price": 50,
+  "seller": "Лариса",
+  "seller_link": "/user/20f97fe45d73c642c1f7b8c8cc46d232/profile?id=1471016801&src=item",
+  "address": "Москва, м. Краснопресненская",
+  "index": 1471016801,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_paul_greeen_1471016801",
+  "text": "Лист Фиалки Paul greeen, аккуратно формируется розетка , не капризная .\nЕсть в наличии стартер 150 руб\n",
+  "post_date": "  4 октября в 18:14  ",
+  "seller-contact": "Лариса"
+}

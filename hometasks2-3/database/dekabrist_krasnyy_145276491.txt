@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 145276491,
+  "title": "Декабрист красный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_krasnyy_145276491",
+  "seller": "Частник",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Продаю декабристы красный и белый с красной серединкой, цена 350 рублей штука.\n",
+  "post_date": "  6 октября в 22:07  ",
+  "seller_link": "/user/66ed9b8b0866a2530fc782bbd49f4f8f/profile?id=145276491&src=item"
+}

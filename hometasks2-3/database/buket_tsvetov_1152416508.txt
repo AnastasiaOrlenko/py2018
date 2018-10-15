@@ -1,0 +1,12 @@
+{
+  "text": "Букет соответствует фото\n",
+  "title": "Букет цветов",
+  "price": 1950,
+  "index": 1152416508,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_tsvetov_1152416508",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

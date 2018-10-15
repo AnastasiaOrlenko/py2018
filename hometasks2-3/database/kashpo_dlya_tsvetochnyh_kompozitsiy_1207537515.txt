@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1207537515,
+  "seller": "Полина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetochnyh_kompozitsiy_1207537515",
+  "address": "Москва, м. Проспект Вернадского",
+  "title": "Кашпо для цветочных композиций",
+  "seller_link": "/user/519ad088c3ca8b97140c5d0842ad89da/profile?id=1207537515&src=item",
+  "text": "Материал - дерево. \nРазмер: 17*17 см. Глубина - 11,5 см.\nТелефон для связи предоставляю при необходимости в письме. Пишите!\n",
+  "post_date": "  07 October в 23:55  "
+}

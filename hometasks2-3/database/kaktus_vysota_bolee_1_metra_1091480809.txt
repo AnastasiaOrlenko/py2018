@@ -1,0 +1,12 @@
+{
+  "text": "Кактус, высота более 1 метра.\n",
+  "title": "Кактус, высота более 1 метра",
+  "price": 1000,
+  "index": 1091480809,
+  "address": "Москва, м. Водный стадион",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_vysota_bolee_1_metra_1091480809",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:21  ",
+  "seller": "Марина",
+  "seller_link": "/user/10f94360dbe58393fdbafde0afff9c44/profile?id=1091480809&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Антон",
+  "seller": "Forever Roses",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_v_kolbe_forever_roses_moscow_vse_razmery_1432201765",
+  "seller_status": "Компания",
+  "title": "Роза в колбе Forever Roses Moscow, все размеры",
+  "post_date": "  08 October в 10:52  ",
+  "price": 1490,
+  "index": 1432201765,
+  "seller_link": "/user/9c24363deb6010b9eee5574836e0244b/profile?id=1432201765&src=item",
+  "address": "Москва, м. Перово",
+  "text": "Предлагаем Вашему вниманию самые качественные розы от собственной плантации в ЭКВАДОРЕ!!!!\nВсегда в наличии.\nСАМОВЫВОЗ, ДОСТАВКА!\nЦены от 1490,00\nЗВОНИТЕ И ОФОРМЛЯЙТЕ ЗАКАЗ!!!\n"
+}

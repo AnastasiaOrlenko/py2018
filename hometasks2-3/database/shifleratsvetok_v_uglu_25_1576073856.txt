@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Цена договорная\n",
+  "index": 1576073856,
+  "seller": "Раиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shifleratsvetok_v_uglu_25_1576073856",
+  "address": "Москва, м. Строгино",
+  "title": "Шифлера(цветок в углу), 2,5",
+  "seller_link": "/user/1fa4fd345fb10f3b1b45f2e8a196f59f/profile?id=1576073856&src=item",
+  "post_date": "  07 October в 19:24  "
+}

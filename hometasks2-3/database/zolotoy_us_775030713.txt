@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 775030713,
+  "title": "Золотой ус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_775030713",
+  "seller": "Inna",
+  "address": "Москва, м. Павелецкая",
+  "text": "Лечебное растение золотой ус. Есть взрослое растение в горшке -400. Есть в переносных горшках. Поэтому цена разная. Все с усами. Как на фото. Могу подойти к метро.\n",
+  "post_date": "  07 October в 11:23  ",
+  "seller_link": "/user/f5a995adbb1e684d994a8f156b22dc08/profile?id=775030713&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Гортензия, розы, Хризантема, ...\n",
+  "title": "Хризантема, розы, гортензия",
+  "price": 2200,
+  "index": 962992133,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantema_rozy_gortenziya_962992133",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

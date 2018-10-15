@@ -1,0 +1,13 @@
+{
+  "price": 2500,
+  "seller_status": "Компания",
+  "index": 1611709331,
+  "title": "Замиакулькас вариегатный долларовое дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiakulkas_variegatnyy_dollarovoe_derevo_1611709331",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Царицыно",
+  "text": "Редкий сорт!Крупный и здоровый цветок с новыми ростами.\nПересажен в свежий грунт,в керамической горшок.\n",
+  "post_date": "  6 октября в 09:54  ",
+  "seller_link": "/user/45b4734ea037f708ddd9e266dd4e17d5/profile?id=1611709331&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1485048844,
+  "title": "Фиалки большие",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_bolshie_1485048844",
+  "seller": "Ekaterina",
+  "address": "Москва, м. Щукинская",
+  "text": "Шикарные рослые фиалки . Лист-30р. Цветущая большая фиалка без горшка-200р. Цветущая большая фиалка в горшке-240р.\n",
+  "post_date": "  5 октября в 14:22  ",
+  "seller_link": "/user/cbd7fcfa7fee73406e309c312ab9d1e6/profile?id=1485048844&src=item"
+}

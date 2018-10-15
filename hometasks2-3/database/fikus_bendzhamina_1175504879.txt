@@ -1,0 +1,12 @@
+{
+  "price": 7000,
+  "seller_status": "Частное лицо",
+  "index": 1175504879,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1175504879",
+  "seller": "Евгения",
+  "address": "Москва, м. Хорошевская",
+  "text": "Фикус Бенджамина, Нидерланды. Высота 140 см. В идеальном состоянии. В наличии 2 шт.\n",
+  "post_date": "  6 октября в 18:14  ",
+  "seller_link": "/user/69ef06ce847b8b91372ba4a4372f498d/profile?id=1175504879&src=item"
+}

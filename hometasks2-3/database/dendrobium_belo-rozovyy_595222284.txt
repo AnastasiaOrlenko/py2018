@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 595222284,
+  "title": "Дендробиум бело-розовый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dendrobium_belo-rozovyy_595222284",
+  "seller": "Татьяна",
+  "address": "Москва, м. Улица Горчакова",
+  "text": "Растение дало новые молодые побеги, очень обильно цветет, нежно бело-розовые цветы\n",
+  "post_date": "  6 октября в 09:47  ",
+  "seller_link": "/user/a9a6327593b632819eabf5f1dd8d6591/profile?id=595222284&src=item"
+}

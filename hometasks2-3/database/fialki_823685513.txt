@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 823685513,
+  "title": "Фиалки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_823685513",
+  "seller": "Наталия",
+  "seller-contact": "Наташа",
+  "address": "Москва, м. Щелковская",
+  "text": "фиалки белые-синие-махровые сиреневые \nна данное время отцвели\nна смс не отвечаю\n",
+  "post_date": "  6 октября в 01:36  ",
+  "seller_link": "/user/916d710fa473012d2cc51874553ffa01/profile?id=823685513&src=item"
+}

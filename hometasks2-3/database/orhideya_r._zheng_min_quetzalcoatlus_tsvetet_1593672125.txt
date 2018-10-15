@@ -1,0 +1,12 @@
+{
+  "text": "Взрослое, цветущее (на 13.10.18) растение. Крупный, больше 5,5 см цветок.\nСамовывоз из дома у ст м Юго-Западная.\nСвязь через форму сайта.\n",
+  "title": "Орхидея Р. Zheng Min Quetzalcoatlus цветет",
+  "price": 3000,
+  "index": 1593672125,
+  "address": "Москва",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_r._zheng_min_quetzalcoatlus_tsvetet_1593672125",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:20  ",
+  "seller": "Елена",
+  "seller_link": "/user/5a56c1f460b2d7cabfff9914794c857c/profile?id=1593672125&src=item"
+}

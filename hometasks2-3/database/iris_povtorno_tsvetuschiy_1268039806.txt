@@ -1,0 +1,12 @@
+{
+  "text": "Цветет два раза весной и осенью, в этом году зацвёл в августе.\nС прекрасным ароматом\n",
+  "title": "Ирис повторно цветущий",
+  "price": 250,
+  "index": 1268039806,
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/iris_povtorno_tsvetuschiy_1268039806",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:57  ",
+  "seller": "Елена",
+  "seller_link": "/user/70cf47df1b3a4050b854550ebda3b249/profile?id=1268039806&src=item"
+}

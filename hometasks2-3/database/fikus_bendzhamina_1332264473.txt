@@ -1,0 +1,12 @@
+{
+  "text": "Фикус Бенджамина около 1,5 метров высотой (без горшка) продам . Допускаю торг.\n",
+  "title": "Фикус Бенджамина",
+  "price": 6000,
+  "index": 1332264473,
+  "address": "Москва, м. Молодежная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1332264473",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:18  ",
+  "seller": "Александр",
+  "seller_link": "/user/c04c4bb335aa60833566fdb30b085201/profile?id=1332264473&src=item"
+}

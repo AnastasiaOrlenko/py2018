@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1641557082,
+  "title": "Фиалка Полина Виардо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_polina_viardo_1641557082",
+  "seller": "Елена",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "Зацветающая фиалка Полина Виардо.Фото 1 пример цветения. Встречаюсь в метро.\n",
+  "post_date": "  6 октября в 09:34  ",
+  "seller_link": "/user/d269fcb169618cbaa47d28132ae63943/profile?id=1641557082&src=item"
+}

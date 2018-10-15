@@ -1,0 +1,12 @@
+{
+  "price": 4900,
+  "seller_status": "Частное лицо",
+  "index": 1342801782,
+  "title": "Букет цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_tsvetov_1342801782",
+  "seller": "Екатерина Печерица",
+  "address": "Москва, м. Площадь революции",
+  "text": "Букет цветов: состав роза morning dew, хлопок, хамелациум, эустома. Работаем по предзаказу. Доставка по Москве от 3500 р бесплатная.\n",
+  "post_date": "  5 октября в 15:31  ",
+  "seller_link": "/user/a2331f2bbedbbeba23e4463efdf83f5b/profile?id=1342801782&src=item"
+}

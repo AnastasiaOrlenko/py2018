@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 952069283,
+  "title": "Хосты, лилейники, ель коника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hosty_lileyniki_el_konika_952069283",
+  "seller": "Денис",
+  "address": "Москва, м. Теплый стан",
+  "text": "Хосты большие кусты 6-8 лет, лилейники, пионы, ель коника высота 1,2 метра\n",
+  "post_date": "  6 октября в 07:35  ",
+  "seller_link": "/user/347a45128977531573bfb170c5a278a9/profile?id=952069283&src=item"
+}

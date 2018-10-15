@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Войковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortii_raznye_1690646678",
+  "price": 300,
+  "seller": "Юрий",
+  "post_date": "  08 October в 19:10  ",
+  "title": "Хавортии разные",
+  "text": "1. Haworthia coarctata IB 12268 -Brenthoek- (для любителей дикорастущих)-850 р.\n2. Haworthia cooperi, левая-150 р., правая-300р.\n3. Haworthia cooperi(взрослая розетка)-450 р.\n4. Haworthia magnifica var. dekenahii-300 р.\n5. Фото взрослого растения(для примера)\n6. Haworthia hybrid(c деткой)-350 р.\n7. Haworthia decipiens-200 р.\n8. Haworthia limifolia(c деткой) оч. интересный лист-350 р.\n",
+  "index": 1690646678,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/4b4953653b569886d784ac713097b888/profile?id=1690646678&src=item"
+}

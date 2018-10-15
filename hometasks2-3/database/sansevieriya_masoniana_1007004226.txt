@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1007004226,
+  "title": "Сансевиерия Масониана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_masoniana_1007004226",
+  "seller": "Евгений",
+  "address": "Москва, м. Курская",
+  "text": "Сансевиевия Масониана Виктория\n",
+  "post_date": "  5 октября в 08:20  ",
+  "seller_link": "/user/bbaaa1b15d18458e55d4d1cbb45889d1/profile?id=1007004226&src=item"
+}

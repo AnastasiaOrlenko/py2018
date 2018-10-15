@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 100,
+  "index": 1460866472,
+  "seller": "не компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevera_tsilindrika_1460866472",
+  "address": "Москва, м. Киевская",
+  "title": "Сансевьера цилиндрика",
+  "seller_link": "/user/fc0aeca4bcd65f2f9f8dc3dc51e8b53c/profile?id=1460866472&src=item",
+  "text": "С новым ростом\n",
+  "seller-contact": "Ирина",
+  "post_date": "  07 October в 21:10  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1123914227,
+  "title": "Финиковая пальма",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/finikovaya_palma_1123914227",
+  "seller": "Елизавета",
+  "seller-contact": "Елизавета",
+  "address": "Москва, м. Щелковская",
+  "text": "Финиковая пальма (возраст 5 лет) вырастет большой\nСамовывоз м. Щелковская\n",
+  "post_date": "  5 октября в 17:04  ",
+  "seller_link": "/user/b53aade197853ad6ec64c10a4bf9dc4a/profile?id=1123914227&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "text": "День добрый если вы читаете это Обьявление значит вы попали на нас без посредников цена на торф от 15м3 составляет 1500₽/1куб \nА за 20м3 мы везём вам за 1300₽/1куб\n",
+  "title": "Торф с доставкой в день обращения",
+  "price": 85,
+  "index": 1096445179,
+  "address": "Москва, м. Алтуфьево",
+  "seller-contact": "Юрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/torf_s_dostavkoy_v_den_obrascheniya_1096445179",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:49  ",
+  "seller": "Юрий",
+  "seller_link": "/user/5320b665c1510e79ebcd2d31f7253420/profile?id=1096445179&src=item"
+}

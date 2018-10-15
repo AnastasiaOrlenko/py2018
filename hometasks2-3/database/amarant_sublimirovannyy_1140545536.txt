@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Тульская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amarant_sublimirovannyy_1140545536",
+  "price": 400,
+  "seller": "Юлия",
+  "post_date": "  08 October в 18:00  ",
+  "title": "Амарант сублимированный",
+  "text": "Амарант сублимированный новый \n4 шт в наличии\n",
+  "index": 1140545536,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/238c616554e3fc06d1d3d8c55d45b4fb/profile?id=1140545536&src=item"
+}

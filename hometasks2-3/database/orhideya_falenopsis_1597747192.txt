@@ -1,0 +1,12 @@
+{
+  "text": "Мощная орхидейка с тремя цветоносами,один начал цвести\n",
+  "title": "Орхидея фаленопсис",
+  "price": 450,
+  "index": 1597747192,
+  "address": "Москва, м. Каширская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1597747192",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:25  ",
+  "seller": "ирина",
+  "seller_link": "/user/1c4f7e171de1b8e2d2cc6535fd431cdc/profile?id=1597747192&src=item"
+}

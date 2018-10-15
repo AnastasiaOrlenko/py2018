@@ -1,0 +1,12 @@
+{
+  "text": "Фиалки разного цвета\n",
+  "title": "Фиалки",
+  "price": 200,
+  "index": 1362990479,
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1362990479",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:53  ",
+  "seller": "татьяна",
+  "seller_link": "/user/1d1181b97daa2226537927722ec668bc/profile?id=1362990479&src=item"
+}

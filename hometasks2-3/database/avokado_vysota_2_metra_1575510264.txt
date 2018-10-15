@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1575510264,
+  "title": "Авокадо (высота 2 метра)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avokado_vysota_2_metra_1575510264",
+  "seller": "Наталья",
+  "address": "Москва, м. Братиславская",
+  "text": "Продаю Авокадо с горшком. Растение боится когда очень много солнца.\n",
+  "post_date": "  5 октября в 15:03  ",
+  "seller_link": "/user/f0b19e64e88bbec0cb4c73c02a413595/profile?id=1575510264&src=item"
+}

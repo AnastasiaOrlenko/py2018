@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Даром отростки каланхоэ.забирать из Зеленограда\n",
+  "index": 1541166090,
+  "title": "Каланхоэ отростки",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kalanhoe_otrostki_1541166090",
+  "seller": "Светлана",
+  "address": "Зеленоград",
+  "post_date": "  6 октября в 13:37  ",
+  "seller_link": "/user/3b232ada63d02ed2532aa6c29ae87ba0/profile?id=1541166090&src=item"
+}

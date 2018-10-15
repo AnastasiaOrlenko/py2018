@@ -1,0 +1,12 @@
+{
+  "text": "Сортовые фиалки. В горшочках -200₽, листочки укоренённые-100₽\n",
+  "title": "Фиалки",
+  "price": 100,
+  "index": 1674013573,
+  "address": "Москва, м. Новокосино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1674013573",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 07:42  ",
+  "seller": "Алексей",
+  "seller_link": "/user/63e7a0709b20a1de89681315e41b00ef/profile?id=1674013573&src=item"
+}

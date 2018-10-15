@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/c0ed08a3a83f770f470dc0576f9a52dc/profile?id=1475330403&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sheflera_1475330403",
+  "post_date": "  08 October в 10:31  ",
+  "address": "Москва, м. Пятницкое шоссе",
+  "seller": "Анна",
+  "text": "Шефлера для зимнего сада с большой корневой системой в большом пластиковом горшке ,активно растет нужно много места,которого у нас не хватает,поэтому продаем\n",
+  "index": 1475330403,
+  "seller_status": "Частное лицо",
+  "price": 790,
+  "title": "Шефлера"
+}

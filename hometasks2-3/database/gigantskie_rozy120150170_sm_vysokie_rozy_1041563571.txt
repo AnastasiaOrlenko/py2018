@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/3bd038078d9dc209dd241cd882910bf0/profile?id=1041563571&src=item",
+  "seller-contact": "Собственник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gigantskie_rozy120150170_sm_vysokie_rozy_1041563571",
+  "post_date": "  08 October в 10:11  ",
+  "address": "Москва, м. Охотный ряд",
+  "seller": "ДОСТАВКА ЦВЕТОВ",
+  "text": "Всегда в наличии высокие розы от производителя!)\nОт 400р за цветок)\n",
+  "index": 1041563571,
+  "seller_status": "Компания",
+  "price": 400,
+  "title": "Гигантские розы,120,150,170 см, высокие розы"
+}

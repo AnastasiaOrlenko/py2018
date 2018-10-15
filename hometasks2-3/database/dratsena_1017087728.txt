@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1017087728,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1017087728",
+  "seller": "Наргиза Юсупова",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Драцена\n",
+  "post_date": "  6 октября в 11:59  ",
+  "seller_link": "/user/ea0256ccc31aee02b7407c1c6de282b6/profile?id=1017087728&src=item"
+}

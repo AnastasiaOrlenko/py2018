@@ -1,0 +1,12 @@
+{
+  "price": 2700,
+  "seller_status": "Частное лицо",
+  "index": 1129344444,
+  "title": "Рипсалис 70 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ripsalis_70_sm_1129344444",
+  "seller": "Ирина",
+  "address": "Москва, м. Теплый стан",
+  "text": "Срочною Продам Рипсалис Кассута ампельный 70x23\n",
+  "post_date": "  5 октября в 13:58  ",
+  "seller_link": "/user/481897c63d925557e25d9b6cbb056eb4/profile?id=1129344444&src=item"
+}

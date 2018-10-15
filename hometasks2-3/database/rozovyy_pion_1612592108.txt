@@ -1,0 +1,12 @@
+{
+  "text": "Светло-розовый,3 шт 250р, предоплата,привоз в воскресенье или понедельник.\n",
+  "title": "Розовый пион",
+  "price": 250,
+  "index": 1612592108,
+  "address": "Москва, м. Войковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozovyy_pion_1612592108",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:49  ",
+  "seller": "Юлия",
+  "seller_link": "/user/ddaf38c9e528074a6c5682b3b872aca3/profile?id=1612592108&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Нежно зелёный букет роз, гербер и хризантем\n",
+  "title": "Герберы, розы, хризантемы",
+  "price": 2100,
+  "index": 1656241846,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gerbery_rozy_hrizantemy_1656241846",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:06  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

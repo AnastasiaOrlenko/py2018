@@ -1,0 +1,12 @@
+{
+  "price": 7800,
+  "seller_status": "Частное лицо",
+  "index": 1374807731,
+  "title": "Самшит шар",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/samshit_shar_1374807731",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 35д. Высота 60см\n",
+  "post_date": "  07 October в 01:23  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1374807731&src=item"
+}

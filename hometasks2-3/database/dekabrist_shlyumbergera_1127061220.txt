@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1127061220,
+  "seller": "Диана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_shlyumbergera_1127061220",
+  "address": "Москва, м. Юго-Западная",
+  "title": "Декабрист шлюмбергера",
+  "seller_link": "/user/629ef7c231422ad4275f4a16a3ccc6c2/profile?id=1127061220&src=item",
+  "text": "Продам укорененные черенки от 100руб, молодые растения от 150руб, и большие кусты от 300 руб. Сорта разные. Много других красивоцветущих комнатных растений. Смотрите профиль!\n",
+  "post_date": "  07 October в 15:03  "
+}

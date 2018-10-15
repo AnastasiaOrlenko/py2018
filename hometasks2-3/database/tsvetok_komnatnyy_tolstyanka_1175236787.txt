@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Нагорная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_komnatnyy_tolstyanka_1175236787",
+  "price": 100,
+  "seller": "Лидия",
+  "post_date": "  08 October в 22:31  ",
+  "title": "Цветок комнатный \"Толстянка\"",
+  "text": "Растет с мая-месяца . Крепкие,можно не пересаживать до марта.Звонить до 22 час.\n",
+  "index": 1175236787,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/8b6d6e4eb1dfdaa27855f9619b6f727b/profile?id=1175236787&src=item"
+}

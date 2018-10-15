@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/952a583b509271814a75145695115cd3/profile?id=1482004031&src=item",
+  "seller-contact": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_tsvetuschaya_belaya_1482004031",
+  "post_date": "  08 October в 10:16  ",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "seller": "Наталья",
+  "text": "Орхидея в горшке прозрачном забрать Бескудниковский бульвар\n",
+  "index": 1482004031,
+  "seller_status": "Компания",
+  "price": 700,
+  "title": "Орхидея цветущая белая"
+}

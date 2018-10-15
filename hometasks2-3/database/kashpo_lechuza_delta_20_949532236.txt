@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 949532236,
+  "title": "Кашпо lechuza delta 20",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_lechuza_delta_20_949532236",
+  "seller": "Екатерина",
+  "address": "Москва, м. Выхино",
+  "text": "Кашпо LECHUZA DELTA 20(Белый)\nПоверхность-глянцевая,лакированная\nДлина 40см\nШирина 15см\nВысота 18см\nЦена 2000\n",
+  "post_date": "  6 октября в 23:51  ",
+  "seller_link": "/user/64492d70660f61a7936ec673f26043bb/profile?id=949532236&src=item"
+}

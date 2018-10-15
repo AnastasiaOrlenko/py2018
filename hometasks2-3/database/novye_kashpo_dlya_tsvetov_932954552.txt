@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 932954552,
+  "title": "Новые кашпо для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/novye_kashpo_dlya_tsvetov_932954552",
+  "seller": "Лариса",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "Продам каждый 100-150р\nВсе за 500р\n",
+  "post_date": "  6 октября в 10:05  ",
+  "seller_link": "/user/34412e52e127f796ad849ecdb84d5c2b/profile?id=932954552&src=item"
+}

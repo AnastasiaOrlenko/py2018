@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1107173458,
+  "title": "Ящики контейнеры для рассады",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaschiki_konteynery_dlya_rassady_1107173458",
+  "seller": "Ольга1282",
+  "address": "Москва, м. Авиамоторная",
+  "text": "два ящика пластмассовых. можно собирать как угодно, за счет разборных перегородок. черного цвета. цена за каждый, либо оба за 150 руб. размер поддона 16*38,5 см.\n",
+  "post_date": "  07 October в 12:17  ",
+  "seller_link": "/user/16ad971498d81de4569691f19eec9b3f/profile?id=1107173458&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Фиалка - сорт Аlamo Мarvel",
+  "price": 30,
+  "seller": "Алёна",
+  "seller_link": "/user/7ce6d64ecd5b00fa79c1310ec3059e77/profile?id=1184063347&src=item",
+  "address": "Москва, м. Каширская",
+  "index": 1184063347,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_alamo_marvel_1184063347",
+  "text": "Фиалки - сорт Аlamo Мarvel. \n(черенки - 30 руб., детки, стартеры, взрослые). \nЕсть другие сорта.\n",
+  "post_date": "  4 октября в 17:29  "
+}

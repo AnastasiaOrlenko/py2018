@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "seller": "Андрей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semena_pertsa_944455895",
+  "seller_status": "Частное лицо",
+  "title": "Семена Перца",
+  "post_date": "  08 October в 12:45  ",
+  "price": 10000,
+  "index": 944455895,
+  "seller_link": "/user/4ea7236ec37816902f7691a0d7060719/profile?id=944455895&src=item",
+  "text": "Семена перца \"Полёт\" цена за 1кг 50000руб. \n\"Кирилл\" и \"Алексий\" цена 40000руб.\nФАСОВКА по 200 Гр И 100гр\n"
+}

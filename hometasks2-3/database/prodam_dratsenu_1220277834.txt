@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1220277834,
+  "title": "Продам драцену",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_dratsenu_1220277834",
+  "seller": "Любовь",
+  "address": "Москва, м. Щелковская",
+  "text": "160 сантиметров. Возраст около 8 лет\n",
+  "post_date": "  5 октября в 21:39  ",
+  "seller_link": "/user/6b523c6b6d5b9f8f39dd03b53720b0ac/profile?id=1220277834&src=item"
+}

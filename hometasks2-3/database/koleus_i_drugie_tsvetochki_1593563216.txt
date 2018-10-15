@@ -1,0 +1,12 @@
+{
+  "price": 120,
+  "seller_status": "Частное лицо",
+  "index": 1593563216,
+  "title": "Колеус и другие цветочки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleus_i_drugie_tsvetochki_1593563216",
+  "seller": "**&&**&&**",
+  "address": "Москва, м. Новогиреево",
+  "text": "Колеус.фиалка.коланхоэ лечебный.алоэ.коланхоэ цветущий.зефирантес.гибискус.герань.\n",
+  "post_date": "  6 октября в 19:47  ",
+  "seller_link": "/user/7f1c28f457eb9a0ee81cad7aec9932d6/profile?id=1593563216&src=item"
+}

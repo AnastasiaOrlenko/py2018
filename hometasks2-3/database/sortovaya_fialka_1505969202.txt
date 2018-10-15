@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1505969202,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovaya_fialka_1505969202",
+  "address": "Москва, м. Маяковская",
+  "title": "Сортовая фиалка",
+  "seller_link": "/user/5c0737868668351b9c5d008c44da6594/profile?id=1505969202&src=item",
+  "text": "Продам укоренненные черешки, а также взрослое цветущее растение (150 руб).\n",
+  "post_date": "  08 October в 07:54  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 14001,
+  "seller_status": "Частное лицо",
+  "index": 1691032241,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1691032241",
+  "seller": "Елена Ткаченко",
+  "address": "Москва, м. Молодежная",
+  "text": "Юкка растение высота больше метра\n",
+  "post_date": "  4 октября в 21:56  ",
+  "seller_link": "/user/cc499ae8a8df78c34fe5f8a02e0f7fbb/profile?id=1691032241&src=item"
+}

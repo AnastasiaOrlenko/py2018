@@ -1,0 +1,12 @@
+{
+  "text": "Живая композиция. Доставка и самовывоз по Москве и обл\n",
+  "title": "Астра, роза, орхидея в корзинке",
+  "price": 2000,
+  "index": 1601021852,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/astra_roza_orhideya_v_korzinke_1601021852",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:06  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

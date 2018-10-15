@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1282246100,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buketiki_iz_listev_1282246100",
+  "address": "Москва, м. Новоясеневская",
+  "title": "Букетики из листьев",
+  "seller_link": "/user/2139acba60ac586712117c7d0f618a16/profile?id=1282246100&src=item",
+  "text": "Букеты из осенних листьев, очень красиво и оригинально. Долго будет радовать глаз. Букеты могут состоять из разного количества розочек.\n",
+  "post_date": "  07 October в 15:17  "
+}

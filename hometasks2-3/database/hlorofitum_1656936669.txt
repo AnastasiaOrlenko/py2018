@@ -1,0 +1,12 @@
+{
+  "price": 20,
+  "seller_status": "Частное лицо",
+  "index": 1656936669,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1656936669",
+  "seller": "Оксана",
+  "address": "Москва, м. Домодедовская",
+  "text": "Отростки цветов\n",
+  "post_date": "  5 октября в 18:32  ",
+  "seller_link": "/user/e6ec7b40b8bb1bcc25ecc5cd0a9f3163/profile?id=1656936669&src=item"
+}

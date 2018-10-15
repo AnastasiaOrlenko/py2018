@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1679232394,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1679232394",
+  "seller": "Любовь",
+  "address": "Москва, м. Орехово",
+  "text": "отдам вместе с горшком.Мама с маленьким алоэ\n",
+  "post_date": "  07 October в 10:21  ",
+  "seller_link": "/user/a6b5cea72becee46d47a842a0fb2bb82/profile?id=1679232394&src=item"
+}

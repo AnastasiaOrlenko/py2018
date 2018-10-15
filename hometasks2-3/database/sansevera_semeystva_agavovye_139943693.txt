@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 139943693,
+  "title": "Сансевьера семейства агавовые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevera_semeystva_agavovye_139943693",
+  "seller": "собственник",
+  "address": "Москва, м. Бибирево",
+  "text": "продаю сансевьеру взрослую 150 см\n",
+  "post_date": "  6 октября в 13:59  ",
+  "seller_link": "/user/433bccfe3af0b0d845d28de2eaae5cc5/profile?id=139943693&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1127699524,
+  "title": "Дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/derevo_1127699524",
+  "seller": "Татьяна",
+  "address": "Москва, м. Водный стадион",
+  "text": "В хорошем глиняном горшке.\n",
+  "post_date": "  6 октября в 21:03  ",
+  "seller_link": "/user/f1f2384e70af4f9a0bb8548b99d48613/profile?id=1127699524&src=item"
+}

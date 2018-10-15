@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1504446494,
+  "title": "Хойи сортовые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_sortovye_1504446494",
+  "seller": "Светлана",
+  "address": "Москва, м. Дмитровская",
+  "text": "Хойя карноза Crimson Queen (фото 1) \nХойя обовата (фото 2) \nХойя паразитика Лао (фото 3) \nХойя аустралис (фото 4) \nПо 350р за растение. \nПоднесу к м. Дмитровская.\n",
+  "post_date": "  5 октября в 16:32  ",
+  "seller_link": "/user/62db66ae7ab6597973ce422f30117868/profile?id=1504446494&src=item"
+}

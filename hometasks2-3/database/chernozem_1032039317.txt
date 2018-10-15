@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Продам чернозем в любом количестве\n",
+  "index": 1032039317,
+  "title": "Чернозем",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chernozem_1032039317",
+  "seller": "Андрей Сорокин",
+  "address": "Москва, м. Свиблово",
+  "post_date": "  07 October в 10:31  ",
+  "seller_link": "/user/34438b216114736fed42962b470fc3a0/profile?id=1032039317&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1681910120,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aglaonema_1681910120",
+  "address": "Москва, м. Беговая",
+  "title": "Аглаонема",
+  "seller_link": "/user/21f4a8b855f3a1068b891a9fee695433/profile?id=1681910120&src=item",
+  "text": "Продам сортовую Аглаонему, адаптирована.\n",
+  "post_date": "  07 October в 15:31  "
+}

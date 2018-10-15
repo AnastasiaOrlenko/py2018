@@ -1,0 +1,12 @@
+{
+  "price": 390,
+  "seller_status": "Частное лицо",
+  "index": 1650237344,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1650237344",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Большое разнообразие цвета! Размер горшка 10д. Высота 25-30см.\n",
+  "post_date": "  6 октября в 22:35  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1650237344&src=item"
+}

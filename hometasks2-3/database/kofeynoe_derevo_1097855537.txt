@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1097855537,
+  "title": "Кофейное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kofeynoe_derevo_1097855537",
+  "seller": "Любовь",
+  "address": "Москва, м. Бибирево",
+  "text": "Высокое кофейное дерево (около 2х метров). Плодоносит. В горшке :керамика.\nТолько самовывоз!\n",
+  "post_date": "  07 October в 09:26  ",
+  "seller_link": "/user/493a50495acd60ac776c6006fd1a65ea/profile?id=1097855537&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 969051575,
+  "seller": "Алла",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_korolevskaya_969051575",
+  "address": "Москва, м. Первомайская",
+  "title": "Бегония королевская",
+  "seller_link": "/user/8107e4adc8129b083520b7bb925ad9f6/profile?id=969051575&src=item",
+  "text": "Бегония королевская. Взрослвй кустик 400 руб. Можно приобрести срезку 1 лист 100 руб. Самовывоз.\n",
+  "post_date": "  07 October в 18:58  "
+}

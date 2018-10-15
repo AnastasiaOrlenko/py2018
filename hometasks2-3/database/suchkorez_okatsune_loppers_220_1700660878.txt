@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новогиреево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/suchkorez_okatsune_loppers_220_1700660878",
+  "price": 7999,
+  "seller": "13",
+  "post_date": "  08 October в 19:24  ",
+  "title": "Сучкорез Okatsune loppers 220",
+  "text": "made in Japan\nручная работа. рез 50 мм\nжесткость металла по роквеллу 61-62\nцена в США 190$.\nв Рооссии продают в Краснодаре за 13500 рублей.\nесть в наличии один. последний, больше не будет.\n",
+  "index": 1700660878,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a9cbbb7b10fb34461233ebb49aa97f0d/profile?id=1700660878&src=item"
+}

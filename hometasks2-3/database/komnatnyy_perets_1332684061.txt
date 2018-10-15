@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1332684061,
+  "title": "Комнатный перец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_perets_1332684061",
+  "seller": "Анастасия",
+  "address": "Москва, м. Бибирево",
+  "text": "Комнатные острые перчики желтого и красного цвета. Отлично подходят для формирования из них бонсай.\n",
+  "post_date": "  4 октября в 18:45  ",
+  "seller_link": "/user/c6d46e349de9647f61cc33f2fc1b9cc3/profile?id=1332684061&src=item"
+}

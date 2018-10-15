@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/cf3b27f1f021b6c143ab5b7de8f9ca74/profile?id=1560566523&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/svoya_myata_sadovaya_kustovaya_1560566523",
+  "post_date": "  08 October в 10:26  ",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "seller": "Ольга Владимировна",
+  "text": "продам свою душистую садовую мяту.\nотросток- 50 руб\nбольшой куст= 100 руб.\nФОТО ВЕСЕННЕЕ !!!!!!!!!!!!!!\nСейчас- одни корни и стебли.\nнужна= пишите сюда на сайт.\nНЕ ЗВОНИТЕ !!!!\n",
+  "index": 1560566523,
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "title": "Своя мята садовая кустовая"
+}

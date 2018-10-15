@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новокосино",
+  "seller": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ukorenennyy_cherenok_1232965136",
+  "seller_status": "Частное лицо",
+  "title": "Укоренённый черенок",
+  "post_date": "  08 October в 11:50  ",
+  "price": 200,
+  "index": 1232965136,
+  "seller_link": "/user/13381150fc623c6904f56ce83b7a7909/profile?id=1232965136&src=item",
+  "text": "Укоренённый черенок\n"
+}

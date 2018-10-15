@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ховрино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lesnoy_kaktus_-_epifillum_krasnyy_152645087",
+  "price": 100,
+  "seller": "Елена (не компания)",
+  "post_date": "  08 October в 19:30  ",
+  "title": "Лесной кактус - эпифиллум красный",
+  "text": "Предлагаю красный эпифиллум. Фото №2 - 230р., №3 - 100р. Есть другие растения.\nВстречаюсь на разных станциях метро\n",
+  "index": 152645087,
+  "seller_status": "Компания",
+  "seller_link": "/user/be107386392128eca47a8613cdc7398c/profile?id=152645087&src=item"
+}

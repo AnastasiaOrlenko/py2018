@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1221588411,
+  "title": "Пеларгония герань ярко- красная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_yarko-_krasnaya_1221588411",
+  "seller": "Роза",
+  "address": "Москва, м. Кузьминки",
+  "text": "Герань хорошо чувствует себя на комнатном окне,цветет круглый год, запах листьев успокаивает перед сном.\n",
+  "post_date": "  6 октября в 21:20  ",
+  "seller_link": "/user/388d0beea5d62077c0b342ab08e79b90/profile?id=1221588411&src=item"
+}

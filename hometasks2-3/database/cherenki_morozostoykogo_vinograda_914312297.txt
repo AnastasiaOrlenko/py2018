@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 914312297,
+  "title": "Черенки морозостойкого винограда",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/cherenki_morozostoykogo_vinograda_914312297",
+  "seller": "Валерий",
+  "address": "Москва, м. Планерная",
+  "text": "предлагаю черенки районированного,приспособленного к вырщиванию в Подмосковье винограда.\n",
+  "post_date": "  07 October в 09:33  ",
+  "seller_link": "/user/990c22017f5969554a9759f0ee8eb874/profile?id=914312297&src=item"
+}

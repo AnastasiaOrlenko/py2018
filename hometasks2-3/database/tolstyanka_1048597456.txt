@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1048597456,
+  "seller": "/",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1048597456",
+  "address": "Москва, м. Улица 1905 года",
+  "title": "Толстянка",
+  "seller_link": "/user/c8506830e69c88c5c98d1b409841746c/profile?id=1048597456&src=item",
+  "text": "Толстянка -суккулент.\nДругое название -денежное дерево. \nДва растения. Каждое по 300₽.\nВысота каждого примерно 20 см\n",
+  "seller-contact": "Алёна",
+  "post_date": "  07 October в 17:14  "
+}

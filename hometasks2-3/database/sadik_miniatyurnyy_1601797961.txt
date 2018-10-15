@@ -1,0 +1,13 @@
+{
+  "price": 3000,
+  "seller_status": "Компания",
+  "index": 1601797961,
+  "title": "Садик миниатюрный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sadik_miniatyurnyy_1601797961",
+  "seller": "Юлия",
+  "seller-contact": "Юлия",
+  "address": "Москва, м. Коломенская",
+  "text": "Миниатюрный садик с живыми растениями и фигурками. Диаметр кашпо примерно 27 см. Самовывоз\n",
+  "post_date": "  6 октября в 20:27  ",
+  "seller_link": "/user/b00105304323018e380ed4d64edc9696/profile?id=1601797961&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3000,
+  "index": 884496805,
+  "seller": "Нина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/listvennitsa_evropeyskaya_3m_konusovidnaya_krona_884496805",
+  "address": "Москва, м. Крылатское",
+  "title": "Лиственница европейская 3м конусовидная крона",
+  "seller_link": "/user/b691b68925832bd01ae66f6a8cc03ebb/profile?id=884496805&src=item",
+  "text": "продаю\n",
+  "post_date": "  08 October в 01:09  "
+}

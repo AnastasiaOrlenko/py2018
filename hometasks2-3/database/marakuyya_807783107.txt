@@ -1,0 +1,12 @@
+{
+  "text": "Маракуйя, 150 - 300р\\шт.\nЕсть колеусы, гиностемма, джинура, плектрантус, переския.\nВстреча в районе/у турникетов м.Тульская при покупке от 200р.\n",
+  "title": "Маракуйя",
+  "price": 150,
+  "index": 807783107,
+  "address": "Москва, м. Тульская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/marakuyya_807783107",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:39  ",
+  "seller": "sagmina",
+  "seller_link": "/user/7f389f723a93405277058c1249eb2fdf/profile?id=807783107&src=item"
+}

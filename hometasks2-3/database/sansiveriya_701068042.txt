@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 701068042,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansiveriya_701068042",
+  "address": "Москва, м. Царицыно",
+  "title": "Сансивьерия",
+  "seller_link": "/user/ae2ed44e7a57aa6d5508c906f5646c90/profile?id=701068042&src=item",
+  "text": "Высота 50 см, четыре корня, можно рассадить Есть три растения Подвезу к метро\n",
+  "post_date": "  07 October в 22:52  "
+}

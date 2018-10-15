@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/limon_rastenie_3_goda_1662708348",
+  "seller-contact": "Галина Анатольевна",
+  "price": 320,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:48  ",
+  "title": "Лимон растение 3 года",
+  "text": "Растение лимон 3 года. З штуки. Цена за все. Выращено из косточек лимона, купленного в Москве. Адаптирован для внутренних помещений.\n",
+  "index": 1662708348,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1662708348&src=item"
+}

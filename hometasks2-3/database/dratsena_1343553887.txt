@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Павелецкая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1343553887",
+  "price": 1000,
+  "seller": "PetitKa",
+  "post_date": "  08 October в 20:49  ",
+  "title": "Драцена",
+  "text": "Продам драцены (Dracena Marginata) разной высоты. 1000 (90см) и 1500 (115см) рублей. Самовывоз из г. Мытищи (ул. Благовещенская)\n",
+  "index": 1343553887,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/42454854695758c42aee89bf7bac9026/profile?id=1343553887&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1257506654,
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1257506654",
+  "address": "Москва, м. Марксистская",
+  "title": "Орхидея фаленопсис",
+  "seller_link": "/user/1126c2fdbf31870ff142d0a07f82b57f/profile?id=1257506654&src=item",
+  "text": "Шикарный красный Будда, взрослая орхидея Phal. Buddha`s Treasure. Домашний, цветший, здоровый, корней много. Почтой не отправляю-листья очень хрупкие у них.\n",
+  "post_date": "  07 October в 15:24  "
+}

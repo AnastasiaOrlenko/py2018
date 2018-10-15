@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1270856041,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_glina_1270856041",
+  "address": "Москва, м. Марьино",
+  "title": "Горшок для цветов глина",
+  "seller_link": "/user/2f86cf51b43fdeba519aa08196124763/profile?id=1270856041&src=item",
+  "text": "В норм состоянии, поддоном. Поднесу к м Марьино\n",
+  "post_date": "  07 October в 13:54  "
+}

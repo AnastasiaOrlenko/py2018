@@ -1,0 +1,12 @@
+{
+  "text": "Продается большой пластмассовый горшок для цветов. Если возьмете оба горшка (еще одно фото есть в моем профиле) отдам за 350.\n",
+  "title": "Большой горшок для цветов",
+  "price": 150,
+  "index": 1048427249,
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoy_gorshok_dlya_tsvetov_1048427249",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:44  ",
+  "seller": "Вера",
+  "seller_link": "/user/c09c9c10447809a1af913a53df6d1e7c/profile?id=1048427249&src=item"
+}

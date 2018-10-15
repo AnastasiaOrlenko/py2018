@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1124711673,
+  "title": "Ардизия вариегатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ardiziya_variegatnaya_1124711673",
+  "seller": "Екатерина",
+  "address": "Москва, м. Марьино",
+  "text": "Укоренненый черенок редкой пестролистной ардизии от давно адаптированного растения\n",
+  "post_date": "  6 октября в 22:42  ",
+  "seller_link": "/user/953b7f446b8557441aa3c911638f6a24/profile?id=1124711673&src=item"
+}

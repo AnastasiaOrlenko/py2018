@@ -1,0 +1,13 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 89103578,
+  "title": "Кусторез, секатор, ножницы садовые Lux tools",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kustorez_sekator_nozhnitsy_sadovye_lux_tools_89103578",
+  "seller": "Частное лицо",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Добрынинская",
+  "text": "Бу пару раз, в отличном состоянии\n",
+  "post_date": "  6 октября в 21:20  ",
+  "seller_link": "/user/73c1bbee5639d54486cc24ab36333357/profile?id=89103578&src=item"
+}

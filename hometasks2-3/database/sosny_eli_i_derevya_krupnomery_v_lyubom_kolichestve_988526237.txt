@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 1000,
+  "index": 988526237,
+  "seller": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/sosny_eli_i_derevya_krupnomery_v_lyubom_kolichestve_988526237",
+  "address": "Зеленоград",
+  "title": "Сосны Ели и Деревья Крупномеры в любом количестве",
+  "seller_link": "/user/6a003a1fb74a036fc998539f1d8f48ed/profile?id=988526237&src=item",
+  "text": "Большое количество сосен ,елей разных сортов с комом !деревья лиственные от 1го метра до 6ти метров разные Каштаны ,Липы,рябина,дуб,Катальпы,Клены,многое другое!\n",
+  "post_date": "  07 October в 19:22  "
+}

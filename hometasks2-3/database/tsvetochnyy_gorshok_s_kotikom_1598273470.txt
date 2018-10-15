@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1598273470,
+  "title": "Цветочный горшок с котиком",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_s_kotikom_1598273470",
+  "seller": "Татьяна",
+  "address": "Москва, м. Кузьминки",
+  "text": "Материал полистоун.\nДиаметр горшка 13см,высота9см, высота кота18см. Длина горшка с котом 19см.\n",
+  "post_date": "  5 октября в 17:53  ",
+  "seller_link": "/user/e8b9a902e26a84991bc3f4b2e968f2dd/profile?id=1598273470&src=item"
+}

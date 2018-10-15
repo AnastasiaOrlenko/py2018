@@ -1,0 +1,12 @@
+{
+  "price": 2600,
+  "seller_status": "Частное лицо",
+  "index": 1343377181,
+  "title": "Цитрусовое дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsitrusovoe_derevo_1343377181",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 14д, высота 50см. Есть и другие размеры и другие цитрусовые (лимон, лайм, мандарин, апельсин, кумкват). Фото на ватцап.\n",
+  "post_date": "  07 October в 00:50  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1343377181&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 941922115,
+  "title": "Традесканция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_941922115",
+  "seller": "Евгения",
+  "address": "Москва, м. Чкаловская",
+  "text": "Традесканция бело-розовая, растёт шапочкой. Продаётся растение с фото 2 (без корзинки).\n",
+  "post_date": "  4 октября в 21:28  ",
+  "seller_link": "/user/7bfa29ddae1a6ee2e3ce5a37ca7071d2/profile?id=941922115&src=item"
+}

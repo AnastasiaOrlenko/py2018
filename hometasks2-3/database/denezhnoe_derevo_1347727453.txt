@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1347727453,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1347727453",
+  "seller": "Эльвира",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Высота 40 см. без горшка ; в горшке 3 дерева.\n",
+  "post_date": "  5 октября в 14:54  ",
+  "seller_link": "/user/3993a78e352998e2c56734ff63acf37f/profile?id=1347727453&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Медведково",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_mini_robs_jitterbug_tsvetuschaya_1589043715",
+  "price": 250,
+  "seller": "Наталья",
+  "post_date": "  08 October в 21:48  ",
+  "title": "Фиалка мини Rob's Jitterbug цветущая",
+  "text": "Взрослая розетка. Охотно цветущий сорт. Диаметр розетки 12 см. Много-много бутонов. Надежная упаковка в коробочку. Встречусь в метро в центре или м. Медведково. Возможна доставка по адресу- 100 р.\n",
+  "index": 1589043715,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/9d998253b1534ddf45775cc6e46c2e30/profile?id=1589043715&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/c9cbaf97e01aa50e279d7199b12eacd4/profile?id=1580852944&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zefirantes_vyskochka_1580852944",
+  "post_date": "  08 October в 09:49  ",
+  "address": "Москва, м. Ховрино",
+  "seller": "Лариса",
+  "text": "В горшке несколько луковиц разной величины. \nПересекусь в метро, могу подвезти на Вашу станцию.\n",
+  "index": 1580852944,
+  "seller_status": "Компания",
+  "price": 250,
+  "title": "Зефирантес (выскочка)"
+}

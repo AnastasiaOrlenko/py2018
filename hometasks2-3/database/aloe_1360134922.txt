@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1360134922,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1360134922",
+  "seller": "анастасия леонидовна",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Отростки лечебного алоэ вера\n",
+  "post_date": "  4 октября в 21:40  ",
+  "seller_link": "/user/9695b9ff35d3b6f71560c7d6685f4f0a/profile?id=1360134922&src=item"
+}

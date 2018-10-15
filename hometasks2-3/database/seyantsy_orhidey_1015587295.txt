@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щукинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/seyantsy_orhidey_1015587295",
+  "price": 500,
+  "seller": "Елена",
+  "post_date": "  08 October в 16:52  ",
+  "title": "Сеянцы орхидей",
+  "text": "1. Phal.Yu Pin Fireworks x Phal. stuartaiana var. nobilis, адаптированные сеянцы, 500 р. (верхний ряд). Рассажены в сентябре 2017 г., фото по запросу\n2. Сеянцы (Phal. lindenii x Phal. equestris) x Phal. equestris var. coerulea, 500 р., рассажены в декабре 2017 г., на фото\n3. P. tetraspis (purple x green), фото 5\n",
+  "index": 1015587295,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e5c587991ab63171bfd97f6c87245d81/profile?id=1015587295&src=item"
+}

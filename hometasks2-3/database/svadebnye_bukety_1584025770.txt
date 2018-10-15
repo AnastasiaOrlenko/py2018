@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1584025770,
+  "title": "Свадебные букеты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/svadebnye_bukety_1584025770",
+  "seller": "Светлана Цветкова",
+  "address": "Москва, м. Кузьминки",
+  "text": "Свадебные букеты на заказ\n",
+  "post_date": "  4 октября в 21:36  ",
+  "seller_link": "/user/d2a1b9f6683269449a23ea36050b4997/profile?id=1584025770&src=item"
+}

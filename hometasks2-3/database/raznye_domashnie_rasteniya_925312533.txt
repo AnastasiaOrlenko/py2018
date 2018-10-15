@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Лермонтовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/raznye_domashnie_rasteniya_925312533",
+  "price": 150,
+  "seller": "Ирина",
+  "post_date": "  08 October в 18:47  ",
+  "title": "Разные домашние растения",
+  "text": "У меня есть небольшая коллекция комнатные растения. на фотографиях не все только малая часть. Цены от 50 рублей в основном.\n",
+  "index": 925312533,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c8a0f41a8ec76f1772d1b8cfe330d8d0/profile?id=925312533&src=item"
+}

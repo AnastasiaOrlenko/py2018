@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 961425264,
+  "title": "Горшки для цветов рассады семена и прочее",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_rassady_semena_i_prochee_961425264",
+  "seller": "Anna777",
+  "address": "Москва, м. Щелковская",
+  "text": "За всё на фото.\n",
+  "post_date": "  6 октября в 17:15  ",
+  "seller_link": "/user/e95fc192298aa5e3f7e47406a5ad8f02/profile?id=961425264&src=item"
+}

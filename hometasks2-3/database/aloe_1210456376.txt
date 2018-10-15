@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1210456376,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1210456376",
+  "seller": "Ольга",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "**\n",
+  "post_date": "  07 October в 10:25  ",
+  "seller_link": "/user/67e532ae5c8a54fd0817298a4da9ee39/profile?id=1210456376&src=item"
+}

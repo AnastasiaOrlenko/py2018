@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам ростки алоэ вера\n",
+  "index": 1246127469,
+  "title": "Алоэ вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_vera_1246127469",
+  "seller": "Юлия",
+  "address": "Москва, м. ВДНХ",
+  "post_date": "  4 октября в 22:00  ",
+  "seller_link": "/user/af986c1dbdf8e225bf93da82f7b2c364/profile?id=1246127469&src=item"
+}

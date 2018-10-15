@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2800,
+  "index": 1322163873,
+  "seller": "Светлана Мазалова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1322163873",
+  "address": "Москва, м. Марьино",
+  "title": "Диффенбахия",
+  "seller_link": "/user/19eff5fe4b67f90ed233bf576be91463/profile?id=1322163873&src=item",
+  "text": "Дифенбахия ,раз.1,50 с горшком,горшок керамический.Самовывоз или доставка договор.\n",
+  "post_date": "  08 October в 07:33  "
+}

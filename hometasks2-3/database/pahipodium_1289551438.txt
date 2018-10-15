@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pahipodium_1289551438",
+  "price": 5000,
+  "seller": "Светлана",
+  "post_date": "  08 October в 15:07  ",
+  "title": "Пахиподиум",
+  "text": "Большой красивый суккулент ищет хозяина. Не сложен в уходе. Самовывоз.\n",
+  "index": 1289551438,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/7c42efa1e1d5292c8cb8990a9da6e9c7/profile?id=1289551438&src=item"
+}

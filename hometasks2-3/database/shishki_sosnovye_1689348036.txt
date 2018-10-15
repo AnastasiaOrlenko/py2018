@@ -1,0 +1,12 @@
+{
+  "price": 2,
+  "seller_status": "Компания",
+  "index": 1689348036,
+  "title": "Шишки сосновые",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishki_sosnovye_1689348036",
+  "seller": "Ирина",
+  "address": "Москва, м. Кузьминки",
+  "text": "Шишки сосновые (Подмосковье)\n100 шт. - 300 р.\n300 шт. - 600 р.\n500 шт. - 750 р.\nВ наличии средние - 4-6 см.\nмаленькие - 2-4 см.\n",
+  "post_date": "  5 октября в 12:07  ",
+  "seller_link": "/user/80bccc07955aa4edeb5bc82d317b91b0/profile?id=1689348036&src=item"
+}

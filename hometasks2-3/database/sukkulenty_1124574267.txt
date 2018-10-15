@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1124574267,
+  "title": "Суккуленты",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sukkulenty_1124574267",
+  "seller": "Елена",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Продаются два слоника с суккулентами. Очень стильная парочка. Два за 1000, отдельно по 600. В профиле еще цветы есть.\n",
+  "post_date": "  07 October в 08:55  ",
+  "seller_link": "/user/71ee11e110f605b05a1a2c229251efcc/profile?id=1124574267&src=item"
+}

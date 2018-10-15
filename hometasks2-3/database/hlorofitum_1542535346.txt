@@ -1,0 +1,12 @@
+{
+  "text": "Цена за корешок\n",
+  "title": "Хлорофитум",
+  "price": 20,
+  "index": 1542535346,
+  "address": "Москва, м. Академическая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1542535346",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:52  ",
+  "seller": "ольга",
+  "seller_link": "/user/2b125155de8284b3dacbfffe38160e83/profile?id=1542535346&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 15,
+  "seller_status": "Компания",
+  "index": 963556607,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_963556607",
+  "seller": "Елена",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Коньково",
+  "text": "Возможна встреча в центре\n",
+  "post_date": "  5 октября в 07:23  ",
+  "seller_link": "/user/2d229da2a2239f490d77e37e4a6684c3/profile?id=963556607&src=item"
+}

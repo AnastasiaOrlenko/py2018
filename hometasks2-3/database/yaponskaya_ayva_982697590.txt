@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 60,
+  "index": 982697590,
+  "seller": "Павел",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yaponskaya_ayva_982697590",
+  "address": "Москва, м. Водный стадион",
+  "title": "Японская айва",
+  "seller_link": "/user/5bfde527872ee6c193fce2d0b1f3ac70/profile?id=982697590&src=item",
+  "text": "В продаже семена японской айвы! Цена указана за порцию 10шт семян. Отправляю почтой, можно забирать в будни м. Водный Стадион, Смольная 14, г. Пушкино МО практически в любое время!\n",
+  "seller-contact": "Павел",
+  "post_date": "  07 October в 20:48  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 80,
+  "seller_status": "Магазин",
+  "index": 1555164520,
+  "title": "Хризантемы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hrizantemy_1555164520",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "35 свежих хризантем в стильной упаковке.\n",
+  "post_date": "  6 октября в 22:35  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

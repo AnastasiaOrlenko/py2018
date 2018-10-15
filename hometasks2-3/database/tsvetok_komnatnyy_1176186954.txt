@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кузьминки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_komnatnyy_1176186954",
+  "price": 200,
+  "seller": "леся",
+  "post_date": "  08 October в 16:51  ",
+  "title": "Цветок комнатный",
+  "text": "Цветок 200руб.\n",
+  "index": 1176186954,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c1e62c8b72f7c69c960953b72a0113e4/profile?id=1176186954&src=item"
+}

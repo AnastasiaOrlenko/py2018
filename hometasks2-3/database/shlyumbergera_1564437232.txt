@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 30,
+  "index": 1564437232,
+  "seller": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shlyumbergera_1564437232",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "title": "Шлюмбергера",
+  "seller_link": "/user/0c60143a53aa85547221385b331fe052/profile?id=1564437232&src=item",
+  "text": "Шлюмбергеры: \nЖёлтая, белая, красная, сиреневая-3-5 фаланги-30 р. Укоренённые-50 р.\n",
+  "post_date": "  07 October в 13:56  "
+}

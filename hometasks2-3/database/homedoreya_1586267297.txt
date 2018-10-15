@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1586267297,
+  "seller": "ЕЛЕНА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/homedoreya_1586267297",
+  "address": "Москва, м. Новогиреево",
+  "title": "Хомедорея",
+  "seller_link": "/user/199af50e6fa843bd7da997c240bcbe14/profile?id=1586267297&src=item",
+  "text": "Растение высотой в горшке -40 см.\n",
+  "post_date": "  07 October в 14:04  "
+}

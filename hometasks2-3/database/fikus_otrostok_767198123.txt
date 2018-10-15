@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Компания",
+  "index": 767198123,
+  "title": "Фикус отросток",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_otrostok_767198123",
+  "seller": "Алиса",
+  "address": "Москва, м. Проспект Вернадского",
+  "text": "фикус отросток с большими зелеными листьями.\n",
+  "post_date": "  4 октября в 18:58  ",
+  "seller_link": "/user/3903ac25a44b6e4b703dd6e6cb3b0906/profile?id=767198123&src=item"
+}

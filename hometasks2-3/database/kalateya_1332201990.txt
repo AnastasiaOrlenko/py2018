@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1332201990,
+  "title": "Калатея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalateya_1332201990",
+  "seller": "Наталья",
+  "address": "Москва, м. Соколиная гора",
+  "text": "Укорененные черенки.\nНа последнем фото взрослое (материнское)растение.Не продается.\n",
+  "post_date": "  5 октября в 22:02  ",
+  "seller_link": "/user/acb37a558c7e2fbae999ce92ab891b13/profile?id=1332201990&src=item"
+}

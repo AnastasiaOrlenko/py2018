@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1660468775,
+  "title": "Антуриум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1660468775",
+  "seller": "Фея",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "Сорт юта, детка, будет цвести как на 1 фото\n",
+  "post_date": "  07 October в 11:56  ",
+  "seller_link": "/user/1b3bf14de0da94945c9b7fea4564dc62/profile?id=1660468775&src=item"
+}

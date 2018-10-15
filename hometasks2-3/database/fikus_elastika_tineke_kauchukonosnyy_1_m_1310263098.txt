@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1310263098,
+  "title": "Фикус Эластика Тинеке (каучуконосный) 1 м",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_elastika_tineke_kauchukonosnyy_1_m_1310263098",
+  "seller": "Злата",
+  "address": "Москва, м. Улица Скобелевская",
+  "text": "Трехцветный. Высокое здоровое ухоженное растение вместе с горшком. Высота 1 метр.\n",
+  "post_date": "  5 октября в 14:08  ",
+  "seller_link": "/user/37528260729a0ec3da82d73773a28258/profile?id=1310263098&src=item"
+}

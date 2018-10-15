@@ -1,0 +1,12 @@
+{
+  "price": 15,
+  "seller_status": "Частное лицо",
+  "index": 724205129,
+  "title": "Семена помидоров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semena_pomidorov_724205129",
+  "seller": "Анжелика",
+  "address": "Москва, м. Нахимовский проспект",
+  "text": "Оранжевое сердце. Высокорослые. Цена за 1 пакет. Всего 2 пакетика. \nОтдам бесплатно. Начатые пакетики \nДикая роза\nБычье сердце\n",
+  "post_date": "  5 октября в 13:43  ",
+  "seller_link": "/user/aa066314cbca7c9f37cfb0cb99dcf0ad/profile?id=724205129&src=item"
+}

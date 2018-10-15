@@ -1,0 +1,12 @@
+{
+  "price": 10000,
+  "seller_status": "Частное лицо",
+  "index": 927686684,
+  "title": "Монстера,1.20 м",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera1.20_m_927686684",
+  "seller": "ирина",
+  "address": "Москва, м. Волгоградский проспект",
+  "text": "Монстера высотой 1,2 м +высота горшка 0,45 м и шириной 1,5м.\n",
+  "post_date": "  5 октября в 11:22  ",
+  "seller_link": "/user/1c0400857d3a4735d46c790a8b51ba5b/profile?id=927686684&src=item"
+}

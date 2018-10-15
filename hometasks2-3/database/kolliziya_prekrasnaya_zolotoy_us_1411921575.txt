@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/7842eb6ef08dc36ec1edf78c6cea6b7e/profile?id=1411921575&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kolliziya_prekrasnaya_zolotoy_us_1411921575",
+  "post_date": "  08 October в 09:03  ",
+  "address": "Москва, м. Жулебино",
+  "seller": "нина",
+  "text": "Укорененный отросток цветка Коллизия прекрасная (золотой ус). Высота от горшка 20 см. 200 руб\n",
+  "index": 1411921575,
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "title": "Коллизия прекрасная (золотой ус)"
+}

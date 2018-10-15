@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1248276942,
+  "seller": "Алексей Евгеньевич",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_novye_1248276942",
+  "address": "Москва, м. Чеховская",
+  "title": "Горшки для цветов новые",
+  "seller_link": "/user/c91af844b8b8da64f17ffbb1c75096d8/profile?id=1248276942&src=item",
+  "text": "Горшки для цветов новые\n1 Диаметр 20см Высота 12смОбъем 3литра -300руб\n2 Диаметр 23см Высота 17смОбъем 4,5литра -400руб\n",
+  "seller-contact": "Алексей Евгеньевич",
+  "post_date": "  07 October в 16:58  "
+}

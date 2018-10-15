@@ -1,0 +1,12 @@
+{
+  "text": "25 пионовидных роз в коробке\n",
+  "title": "Пионовидная роза в коробке",
+  "price": 2500,
+  "index": 1220554936,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pionovidnaya_roza_v_korobke_1220554936",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Анастасия",
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshochki_1023121253",
+  "seller_status": "Компания",
+  "title": "Горшочки",
+  "post_date": "  08 October в 10:53  ",
+  "price": 150,
+  "index": 1023121253,
+  "seller_link": "/user/ae17da92b1fc3092c8842722b38f7f5b/profile?id=1023121253&src=item",
+  "address": "Москва, м. Кунцевская",
+  "text": "Дарили в них кактусы пересадила ,а горшки с подставкой остались удобно для транспортировки рассады...м кунцевская\n"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 187465032,
+  "seller": "Елена (не компания)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_187465032",
+  "address": "Москва, м. Ховрино",
+  "title": "Кактус",
+  "seller_link": "/user/be107386392128eca47a8613cdc7398c/profile?id=187465032&src=item",
+  "text": "Предлагаю детку кактуса. Диаметр 4,5см. Дает большой розовый цветок с тонким нежным ароматом. На первых двух фото материнское растение.\n",
+  "post_date": "  07 October в 22:58  "
+}

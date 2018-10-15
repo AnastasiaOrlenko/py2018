@@ -1,0 +1,13 @@
+{
+  "text": "Черенки(отростки) толстянки или денежного дерева с корнями, нужно самостоятельно посадить в горшок с землёй.\nТолько самовывоз.\n",
+  "title": "Толстянка",
+  "price": 50,
+  "index": 1683817130,
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_1683817130",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:59  ",
+  "seller": "Частное лицо",
+  "seller_link": "/user/c82ca5b77c0ca5837ba093dbc59a9f3d/profile?id=1683817130&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "seller": "Евдокия Романова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dobavki_i_stimulyatory_general_hydroponics_1438925794",
+  "seller_status": "Частное лицо",
+  "title": "Добавки и стимуляторы General Hydroponics",
+  "post_date": "  08 October в 10:39  ",
+  "price": 580,
+  "index": 1438925794,
+  "seller_link": "/user/44d9bf763e6b9a6d312f31b76c29917f/profile?id=1438925794&src=item",
+  "text": "Продаю органические стимуляторы General Hydroponics: Bio Protect, Bio Bloom, Bio Roots 30 мл. Так же есть в наличии Ripen GHE Original 0.5 и 1 л.\n"
+}

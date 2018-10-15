@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 45,
+  "index": 882028405,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/polosy_tssp_20_mm_-gryadka_882028405",
+  "address": "Москва, м. Пятницкое шоссе",
+  "title": "Полосы цсп 20 мм -грядка",
+  "seller_link": "/user/3d627e8c22bb024fe493dc615952fc45/profile?id=882028405&src=item",
+  "text": "Полосы из ЦСП: 1250х250х20 по 65рублей Можно использовать как грядки, дорожки, обшивки садовых домиков и других целей\n",
+  "post_date": "  07 October в 17:23  "
+}

@@ -1,0 +1,13 @@
+{
+  "text": "В наличии взрослые растения детки черенки \nПомогу новичкам в уходе и размножении \nВсе растения без инфекций и бакболезней\n",
+  "title": "Фиалки красивые разные мини и стандарты",
+  "price": 50,
+  "index": 1465037794,
+  "address": "Москва, м. Царицыно",
+  "seller-contact": "Продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_krasivye_raznye_mini_i_standarty_1465037794",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:42  ",
+  "seller": "Продавец",
+  "seller_link": "/user/b3d06a31d8da97282200e87044e1868f/profile?id=1465037794&src=item"
+}

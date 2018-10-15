@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1226342185,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1226342185",
+  "seller": "y.batiaev",
+  "address": "Москва, м. Лермонтовский проспект",
+  "text": "Более 3 лет\n",
+  "post_date": "  07 October в 07:46  ",
+  "seller_link": "/user/5bffe61c6460fb58bb082aa2173a4b13/profile?id=1226342185&src=item"
+}

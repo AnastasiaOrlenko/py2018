@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1345473638,
+  "title": "Цветок, похожий на пальму",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_pohozhiy_na_palmu_1345473638",
+  "seller": "Ekaterina Chubaeva",
+  "address": "Москва, м. Дубровка",
+  "text": "Состояние хорошее\n",
+  "post_date": "  07 October в 07:20  ",
+  "seller_link": "/user/2975874ac30ce6838e415a2df1651928/profile?id=1345473638&src=item"
+}

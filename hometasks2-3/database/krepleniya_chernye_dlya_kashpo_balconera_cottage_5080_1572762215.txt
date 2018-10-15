@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1572762215,
+  "title": "Крепления черные для кашпо balconera cottage 50/80",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krepleniya_chernye_dlya_kashpo_balconera_cottage_5080_1572762215",
+  "seller": "Екатерина",
+  "address": "Москва, м. Выхино",
+  "text": "Крепления черные для кашпо BALCONERA COTTAGE 50/80\n",
+  "post_date": "  6 октября в 23:44  ",
+  "seller_link": "/user/64492d70660f61a7936ec673f26043bb/profile?id=1572762215&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1532139973,
+  "title": "BAC Silica Power 0,5 литра",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bac_silica_power_05_litra_1532139973",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "BAC Silica Power 0,5 литра\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1532139973&src=item"
+}

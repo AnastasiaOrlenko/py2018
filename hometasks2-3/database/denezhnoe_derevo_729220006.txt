@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 729220006,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_729220006",
+  "seller": "Мария",
+  "address": "Москва, м. Волоколамская",
+  "text": "Прекрасное растение, кустистое. С горшком цена 250 руб, без горшка отростки 3 шт. 150 руб.\n",
+  "post_date": "  5 октября в 22:09  ",
+  "seller_link": "/user/1faf9399c7f2fa45a60f5ebc3217d9bf/profile?id=729220006&src=item"
+}

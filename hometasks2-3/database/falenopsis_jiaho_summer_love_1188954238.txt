@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1188954238,
+  "title": "Фаленопсис Jiaho Summer Love",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/falenopsis_jiaho_summer_love_1188954238",
+  "seller": "*****",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Взрослое, ранее цветшее растение. Будет цвести ароматными бархатистыми цветами. Очень эффектный сорт! Продаю дубль!\n",
+  "post_date": "  4 октября в 20:13  ",
+  "seller_link": "/user/6f6a24e1840b1d2dfc0a461982aca277/profile?id=1188954238&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1576489417,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1576489417",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис Доминика, 2 ствола, высота 60см\n",
+  "post_date": "  6 октября в 23:03  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1576489417&src=item"
+}

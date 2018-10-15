@@ -1,0 +1,12 @@
+{
+  "price": 699,
+  "seller_status": "Частное лицо",
+  "index": 1364187655,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1364187655",
+  "seller": "Виктория",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Взрослое растение с горшком и землёй! Без торга. Только самовывоз.\n",
+  "post_date": "  07 October в 11:19  ",
+  "seller_link": "/user/a095a701ad2d18da9db81dd111f84a0c/profile?id=1364187655&src=item"
+}

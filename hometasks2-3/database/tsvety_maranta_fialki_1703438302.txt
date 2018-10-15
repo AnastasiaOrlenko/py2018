@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_maranta_fialki_1703438302",
+  "seller_status": "Компания",
+  "title": "Цветы маранта, фиалки",
+  "post_date": "  08 October в 13:07  ",
+  "price": 300,
+  "index": 1703438302,
+  "seller_link": "/user/73b51e1f96cd31e0d06e998a16fa3b01/profile?id=1703438302&src=item",
+  "text": "Цветы домашнего разведения. Маранта трехцветная. Фиалка трех видов. Так же у меня есть много других цветов, юка, драцена, денежное дерево и др.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1638578250,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1638578250",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис даймонд скай, 2 ствола.\n",
+  "post_date": "  6 октября в 22:59  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1638578250&src=item"
+}

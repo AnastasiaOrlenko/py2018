@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1408464134,
+  "title": "Для дома и дачи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dlya_doma_i_dachi_1408464134",
+  "seller": "светлана",
+  "address": "Москва, м. Первомайская",
+  "text": "Хойя паразитика (черенки).(200),цветы очень сильно пахнут духами!!!! Доставка до вашего метро 150р.\n",
+  "post_date": "  5 октября в 13:43  ",
+  "seller_link": "/user/3593e58a8147d2ce31f9a31d2f2f344d/profile?id=1408464134&src=item"
+}

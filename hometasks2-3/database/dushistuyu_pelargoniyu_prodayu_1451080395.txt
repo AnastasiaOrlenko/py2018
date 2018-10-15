@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1451080395,
+  "title": "Душистую пеларгонию продаю",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dushistuyu_pelargoniyu_prodayu_1451080395",
+  "seller": "Светлана",
+  "address": "Москва, м. Славянский бульвар",
+  "text": "Пеларгонии сортовые душистые P.graveolens cv Bontrosai по 350 рублей продаю. Подрощенные черенки.Могу встретиться в метро. Фото материнского растения и продаваемых черенков. Ст. м. Пионерская, Славянский бульвар.\n",
+  "post_date": "  07 October в 12:26  ",
+  "seller_link": "/user/689cc02be2c4639469ea2e26968ef024/profile?id=1451080395&src=item"
+}

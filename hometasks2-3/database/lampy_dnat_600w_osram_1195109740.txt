@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 1195109740,
+  "title": "Лампы днат 600W Osram",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampy_dnat_600w_osram_1195109740",
+  "seller": "КОЛЛЕКЦИОНЕР :)",
+  "address": "Москва, м. Молодежная",
+  "text": "Продаю лампы ДНАТ 600W. практически новые работали меньше месяца проаю за не надобностью. 1300 рублей за 1. В наличии 2шт. За две сразу 2500.\n",
+  "post_date": "  5 октября в 16:48  ",
+  "seller_link": "/user/59f31bbc9e7975d22fc884668588dd0f/profile?id=1195109740&src=item"
+}

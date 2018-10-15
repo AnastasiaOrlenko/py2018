@@ -1,0 +1,12 @@
+{
+  "price": 1,
+  "seller_status": "Частное лицо",
+  "index": 1507176436,
+  "title": "Денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1507176436",
+  "seller": "Ася",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "Детки денежного дерева. От 0.5 см до 10см\n",
+  "post_date": "  6 октября в 11:07  ",
+  "seller_link": "/user/63c5bf94acaac78f7cc45c3f94d9fbf1/profile?id=1507176436&src=item"
+}

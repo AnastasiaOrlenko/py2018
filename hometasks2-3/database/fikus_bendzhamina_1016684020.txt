@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1016684020,
+  "title": "Фикус бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1016684020",
+  "seller": "Мария",
+  "address": "Москва, м. Коломенская",
+  "text": "высота 65 см, около10 лет\nвместе с горшком\n",
+  "post_date": "  5 октября в 00:17  ",
+  "seller_link": "/user/0e9cfdbd7d4b0ec69dcc72d51029eac8/profile?id=1016684020&src=item"
+}

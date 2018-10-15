@@ -1,0 +1,13 @@
+{
+  "price": 10,
+  "seller_status": "Компания",
+  "index": 1148899456,
+  "title": "Удобрения и химия для огородов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/udobreniya_i_himiya_dlya_ogorodov_1148899456",
+  "seller": "По обьявлению",
+  "seller-contact": "по обьявлению",
+  "address": "Москва, м. Красные ворота",
+  "text": "в связи с закрытием ТТ продаю как товарный остаток удобрения\nхимия от клещей жуков ,, слизняков , улиток , муравьев , грызунов и т.д.возмоден обмен на кошкин корм\n",
+  "post_date": "  5 октября в 23:30  ",
+  "seller_link": "/user/e7e160b2d3765e39ebe7f2eac5f52439/profile?id=1148899456&src=item"
+}

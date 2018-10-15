@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1392317683,
+  "title": "Горшки для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_1392317683",
+  "seller": "Наталья",
+  "address": "Москва, м. Марксистская",
+  "text": "Б/у\nКоричневый - диаметр 16 см - 200 рублей\nБелый - диаметр 21 см- 250 рублей\n",
+  "post_date": "  6 октября в 18:13  ",
+  "seller_link": "/user/a2a027e99c70d76c274ceb3a72db7b91/profile?id=1392317683&src=item"
+}

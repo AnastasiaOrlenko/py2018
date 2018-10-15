@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1162096977,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1162096977",
+  "seller": "Ольга Мигунова (Смирнова)",
+  "address": "Москва, м. Волоколамская",
+  "text": "Домашний цветок Драцена.В хорошей земле.Пересажен по весне.Кого заинтересовало-пишите.\n",
+  "post_date": "  6 октября в 23:32  ",
+  "seller_link": "/user/648f2a7d77a79b134ad65d4f5631c3df/profile?id=1162096977&src=item"
+}

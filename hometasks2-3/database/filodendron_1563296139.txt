@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/filodendron_1563296139",
+  "price": 600,
+  "seller": "Наталья",
+  "post_date": "  08 October в 15:40  ",
+  "title": "Филодендрон",
+  "text": "Филодендрон 600 руб.\n",
+  "index": 1563296139,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/76f6e0e028a41440ffb0cdd37345416b/profile?id=1563296139&src=item"
+}

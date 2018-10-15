@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Профсоюзная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ehmeya._vzrosloe_rastenie_mnogoletnee_materinskoe_790392060",
+  "seller-contact": "Ася",
+  "price": 800,
+  "seller": "+",
+  "post_date": "  08 October в 21:01  ",
+  "title": "Эхмея. Взрослое растение, многолетнее, материнское",
+  "text": "Эхмея - взрослое материнское растение (давала много лет деток, цвела). Крепкое основание, крона широкая. Распродаю часть своих зеленых питомцев.\n",
+  "index": 790392060,
+  "seller_status": "Компания",
+  "seller_link": "/user/e2220e9e4348e21b66de8dfb0ff7dac1/profile?id=790392060&src=item"
+}

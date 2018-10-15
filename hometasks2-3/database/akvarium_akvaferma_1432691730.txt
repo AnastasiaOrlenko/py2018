@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Беляево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/akvarium_akvaferma_1432691730",
+  "price": 2000,
+  "seller": "анна",
+  "post_date": "  08 October в 23:50  ",
+  "title": "Аквариум акваферма",
+  "text": "В хорошем состоянии. Плюс камушки. Растения. Средство для очищения Воды. Корм для петушка.\n",
+  "index": 1432691730,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/ee31544b4fbce7ce2251f8e84b605b2b/profile?id=1432691730&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1379760554,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1379760554",
+  "seller": "Александра",
+  "address": "Москва, м. Братиславская",
+  "text": "Каланхоэ цены он 50.150.250.400 зависит от размера цветка.Есть рассада шт 10руб.Живу возле метро рядом могу на вынос поднести .\n",
+  "post_date": "  07 October в 09:35  ",
+  "seller_link": "/user/dabee659de0fb5d02882e4668c97f9b4/profile?id=1379760554&src=item"
+}

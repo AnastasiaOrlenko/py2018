@@ -1,0 +1,12 @@
+{
+  "text": "Хавортия - секкулент, зелёная морская звезда. \nХорошо растёт в затенённом месте, не требует частого полива, неприхотлива.\nПо смс не переписываюсь.\n",
+  "title": "Хавортия цветёт",
+  "price": 200,
+  "index": 808294757,
+  "address": "Москва, м. Алтуфьево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_tsvetet_808294757",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:25  ",
+  "seller": "Анна",
+  "seller_link": "/user/ddf3c4dd9dd7c9faa14da2c292b16504/profile?id=808294757&src=item"
+}

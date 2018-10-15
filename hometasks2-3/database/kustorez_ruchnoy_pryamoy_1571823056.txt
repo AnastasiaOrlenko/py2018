@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 1571823056,
+  "seller": "Olga",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kustorez_ruchnoy_pryamoy_1571823056",
+  "address": "Москва, м. Новокосино",
+  "title": "Кусторез ручной прямой",
+  "seller_link": "/user/de94248e6036047be4f7c565cc42d6f4/profile?id=1571823056&src=item",
+  "text": "Кусторез с деревянными ручками прямой плоский\nНожницы Кустарниковые , для формирования кустов\n",
+  "post_date": "  07 October в 13:48  "
+}

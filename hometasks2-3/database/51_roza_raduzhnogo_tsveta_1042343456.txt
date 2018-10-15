@@ -1,0 +1,13 @@
+{
+  "price": 5610,
+  "seller_status": "Магазин",
+  "index": 1042343456,
+  "title": "51 роза радужного цвета",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/51_roza_raduzhnogo_tsveta_1042343456",
+  "seller": "Btcflowers",
+  "seller-contact": "Менеджер Екатерина",
+  "address": "Москва, м. Рижская",
+  "text": "Радужные розы в букете с крупными бутонами!\nДоставка от 2 часов. Стойкость до 2 недель.\nВ пределах МКАД 400 руб. \nЗа МКАД +50 руб/1км\nДругие композиции смотрите ниже, сразу под объявлением или справа от фото, в нашем авито-магазине по ссылке btcflowers!\n",
+  "post_date": "  4 октября в 19:30  ",
+  "seller_link": "/dostavka-tsvetov?gdlkerfdnwq=101&shopId=100895"
+}

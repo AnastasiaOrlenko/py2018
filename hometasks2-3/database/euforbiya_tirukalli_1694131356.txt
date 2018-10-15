@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1694131356,
+  "title": "Эуфорбия Тирукалли",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/euforbiya_tirukalli_1694131356",
+  "seller": "Анна",
+  "address": "Москва, м. Соколиная гора",
+  "text": "Элегантное растение, 1,6м для современного интерьера. Неприхотливо к поливу, светолюбиво.\n",
+  "post_date": "  6 октября в 02:33  ",
+  "seller_link": "/user/85bdd925b708e52fd398966bfe4c2e57/profile?id=1694131356&src=item"
+}

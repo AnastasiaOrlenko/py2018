@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/237638a3687e4ffbf56144591454b3ac/profile?id=1398451837&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhenets_lichi_1398451837",
+  "post_date": "  08 October в 10:23  ",
+  "address": "Москва, м. Юго-Западная",
+  "seller": "Вадим",
+  "text": "Продам саженец личи. Отличное красивое плодоносящее растение, до 3-х метров, для крупного офиса.\n",
+  "index": 1398451837,
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "title": "Саженец личи"
+}

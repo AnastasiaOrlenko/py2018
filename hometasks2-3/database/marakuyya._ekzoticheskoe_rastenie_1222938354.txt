@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1222938354,
+  "title": "Маракуйя. Экзотическое растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/marakuyya._ekzoticheskoe_rastenie_1222938354",
+  "seller": "Ирина",
+  "address": "Москва, м. Первомайская",
+  "text": "Продам маракуйю. Привезена из Шри- Ланки. Подходит для выращивания как в открытом грунте, так и на подоконнике, лоджии. Плоды желтого цвета, съедобные. Корневая система отличная.\n",
+  "post_date": "  07 October в 00:10  ",
+  "seller_link": "/user/a281a7119083c6d7d6f9a84f19397aaa/profile?id=1222938354&src=item"
+}

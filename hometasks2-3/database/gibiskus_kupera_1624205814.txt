@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 70,
+  "index": 1624205814,
+  "seller": "обмена НЕТ!",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kupera_1624205814",
+  "address": "Москва, м. Серпуховская",
+  "title": "Гибискус купера",
+  "seller_link": "/user/b817462338611cb1e40b65cbbb408a3c/profile?id=1624205814&src=item",
+  "text": "Черенки на срез, вариегатный сорт гибискуса купера.\nЭксклюзив!\n",
+  "seller-contact": "Светлана",
+  "post_date": "  07 October в 23:52  "
+}

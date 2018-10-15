@@ -1,0 +1,13 @@
+{
+  "text": "Горшок для бонсай в хорошем состоянии. Длина 11 см ширина 8 см, высота 5 см.\n",
+  "title": "Горшок для бонсай",
+  "price": 300,
+  "index": 720347649,
+  "address": "Москва, м. Пролетарская",
+  "seller-contact": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_bonsay_720347649",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:15  ",
+  "seller": "Василий",
+  "seller_link": "/user/484551008c5d4b2c257757b68de6d202/profile?id=720347649&src=item"
+}

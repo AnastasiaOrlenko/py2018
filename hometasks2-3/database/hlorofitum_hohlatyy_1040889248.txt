@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1040889248,
+  "title": "Хлорофитум хохлатый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_hohlatyy_1040889248",
+  "seller": "Алла",
+  "address": "Москва, м. Пражская",
+  "text": "Без горшков. Взрослое растение 300р, растение высотой 30 см - 150р. Еще есть папоротник - 150р. На звонки не отвечаю, писать здесь\n",
+  "post_date": "  6 октября в 17:48  ",
+  "seller_link": "/user/516640f2584ec114d9eb912f9c7847df/profile?id=1040889248&src=item"
+}

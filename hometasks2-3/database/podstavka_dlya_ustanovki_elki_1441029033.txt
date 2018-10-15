@@ -1,0 +1,13 @@
+{
+  "price": 5,
+  "seller_status": "Компания",
+  "index": 1441029033,
+  "title": "Подставка для установки Ёлки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_dlya_ustanovki_elki_1441029033",
+  "seller": "Виталий",
+  "seller-contact": "Виталий",
+  "address": "Москва, м. Орехово",
+  "text": "Подставка новая под Ель,диаметр дерева 6 см\n",
+  "post_date": "  5 октября в 19:08  ",
+  "seller_link": "/user/666c7986e18876e390c17191a72d22ba/profile?id=1441029033&src=item"
+}

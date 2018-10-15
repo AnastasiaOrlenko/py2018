@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1041040156,
+  "title": "Агланема",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aglanema_1041040156",
+  "seller": "с",
+  "seller-contact": "Сергей",
+  "address": "Москва, м. Строгино",
+  "text": "Продаётся с горшком, длина без горшка 48 см\n",
+  "post_date": "  5 октября в 11:18  ",
+  "seller_link": "/user/6828e5be7b4bed86ee26870cb2ffe221/profile?id=1041040156&src=item"
+}

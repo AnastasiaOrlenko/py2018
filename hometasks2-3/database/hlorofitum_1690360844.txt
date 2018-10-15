@@ -1,0 +1,12 @@
+{
+  "price": 49,
+  "seller_status": "Частное лицо",
+  "index": 1690360844,
+  "title": "Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_1690360844",
+  "seller": "Антон",
+  "address": "Москва, м. Речной вокзал",
+  "text": "Добрый день! Продаю растение хлорофитум! Вид на фото! Звоните и пишите! Торг уместен\n",
+  "post_date": "  5 октября в 12:38  ",
+  "seller_link": "/user/5650f77a4d69d2fa2d172cb8a39cb21f/profile?id=1690360844&src=item"
+}

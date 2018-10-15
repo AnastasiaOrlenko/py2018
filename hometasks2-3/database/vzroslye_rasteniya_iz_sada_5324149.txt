@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Жулебино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vzroslye_rasteniya_iz_sada_5324149",
+  "price": 7000,
+  "seller": "Георгий Николаевич не компания",
+  "post_date": "  08 October в 22:27  ",
+  "title": "Взрослые растения из сада",
+  "text": "туя шарик не требует обрезки пересаживать можно сейчас корневая система очень компактная забрать 20 км.Егорьевского шоссе\n",
+  "index": 5324149,
+  "seller_status": "Компания",
+  "seller_link": "/user/762b7a0c45e802706a3a83f690fe8a65/profile?id=5324149&src=item"
+}

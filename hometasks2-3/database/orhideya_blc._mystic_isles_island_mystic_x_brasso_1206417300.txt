@@ -1,0 +1,13 @@
+{
+  "price": 2300,
+  "seller_status": "Компания",
+  "index": 1206417300,
+  "title": "Орхидея Blc. Mystic Isles 'Island Mystic' x Brasso",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_blc._mystic_isles_island_mystic_x_brasso_1206417300",
+  "seller": "Valerya",
+  "seller-contact": "не компания",
+  "address": "Москва, м. Беляево",
+  "text": "Орхидея Blc. Mystic Isles 'Island Mystic' x Brassocattleya Golf Green 'Hair Pig'\n",
+  "post_date": "  5 октября в 08:32  ",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=1206417300&src=item"
+}

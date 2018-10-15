@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Нагорная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pion_krasnyy_sharm_srezannye_1500217468",
+  "seller-contact": "Светлана",
+  "price": 530,
+  "seller": "Корзина Цветов",
+  "post_date": "  08 October в 16:31  ",
+  "title": "Пион красный Шарм срезанные",
+  "text": "Пион красный Шарм срезанные, от 9 шт в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n",
+  "index": 1500217468,
+  "seller_status": "Компания",
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1500217468&src=item"
+}

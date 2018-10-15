@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1620802025,
+  "title": "Кактус Пахиподиум ламери",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/kaktus_pahipodium_lameri_1620802025",
+  "seller": "Владимир",
+  "address": "Зеленоград",
+  "text": "Кактус — Пахиподиум ламери Высота более 80 см Цветёт 1 раз в году. Очень неприхотлив Спасибо\n",
+  "post_date": "  5 октября в 18:39  ",
+  "seller_link": "/user/5607ee194ee1981ecda8437c238d60ac/profile?id=1620802025&src=item"
+}

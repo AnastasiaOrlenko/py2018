@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1624207151,
+  "title": "Сеткреазия традесканция пурпурная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/setkreaziya_tradeskantsiya_purpurnaya_1624207151",
+  "seller": "Ольга",
+  "address": "Москва, м. Планерная",
+  "text": "Продаю черенки 15 см по 50₽, либо целое растение с 3 фото. 400₽. Обмен\n",
+  "post_date": "  6 октября в 11:38  ",
+  "seller_link": "/user/7ecea2a0a7090ccc72d622714f6e6d70/profile?id=1624207151&src=item"
+}

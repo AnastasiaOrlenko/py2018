@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1028293447,
+  "title": "Комнатная мята",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnaya_myata_1028293447",
+  "seller": "Не компания",
+  "seller-contact": "Владимир",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "плектрантус или комнатная мята\nмолодое растение в горшке\n",
+  "post_date": "  6 октября в 19:27  ",
+  "seller_link": "/user/0c4b627f4e55c0a074230cf4331bab50/profile?id=1028293447&src=item"
+}

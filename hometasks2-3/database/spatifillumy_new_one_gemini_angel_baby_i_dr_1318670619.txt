@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Отрадное",
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillumy_new_one_gemini_angel_baby_i_dr_1318670619",
+  "seller_status": "Частное лицо",
+  "title": "Спатифиллумы New One, Gemini, Angel Baby и др",
+  "post_date": "  08 October в 11:13  ",
+  "price": 400,
+  "index": 1318670619,
+  "seller_link": "/user/9d3a864c0187c2646571a9c3b1544adc/profile?id=1318670619&src=item",
+  "text": "Все фото свои!\nПродаю спатифиллумы из своей коллекции:\nФото 1: New One (пример, маточника, не продается)\nФото 2: деленки от маточника New One 400, 1000\nФото 3: Спатифиллум Angel Baby 500, 400\nФото 4: Cпатифиллум Gemini. Взрослое растение - 1000\nФото 5-6: Cпатифиллум sp. Тайский душистый. Маточник, лист шириной 14 см, высота 35 см - 1000\nЦветший 600\n"
+}

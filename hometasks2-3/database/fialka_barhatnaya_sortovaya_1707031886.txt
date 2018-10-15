@@ -1,0 +1,12 @@
+{
+  "price": 40,
+  "seller_status": "Частное лицо",
+  "index": 1707031886,
+  "title": "Фиалка бархатная сортовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_barhatnaya_sortovaya_1707031886",
+  "seller": "Светлана",
+  "address": "Москва, м. Новогиреево",
+  "text": "Продается бархатная фиалка двух цветов: фиолетовая и розовая.\nДетка сортовой фиалки - 90 руб., укорененный лист - 70 руб., лист - 40 руб.\n",
+  "post_date": "  5 октября в 22:09  ",
+  "seller_link": "/user/75235386dbe81961ab8f38495cf9911f/profile?id=1707031886&src=item"
+}

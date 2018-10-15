@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1106600944,
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_novye_i_b.u_1106600944",
+  "address": "Москва, м. Таганская",
+  "title": "Кашпо новые и б.у",
+  "seller_link": "/user/adf7435f98a26bf00d6d55bbd6156c1e/profile?id=1106600944&src=item",
+  "text": "3 новых горшка-диаметр-11 см.выс.-9 см.. и одно декоративное -диаметр-10 см.выс.-8 см.цена за все\n",
+  "post_date": "  08 October в 08:39  "
+}

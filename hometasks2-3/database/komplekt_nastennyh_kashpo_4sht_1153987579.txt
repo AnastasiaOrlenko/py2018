@@ -1,0 +1,13 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1153987579,
+  "title": "Комплект настенных кашпо 4шт",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komplekt_nastennyh_kashpo_4sht_1153987579",
+  "seller": "Галина",
+  "seller-contact": "Галина",
+  "address": "Москва, м. Семеновская",
+  "text": "Кашпо для цветов настенные из хорошего плотного пластика белого цвета из магазина Икея.\nРазмеры ДхШхВ 20х15х15, состояние новых, продаются комплектом.\nСамовывоз, на смс не отвечаю.\n",
+  "post_date": "  07 October в 04:34  ",
+  "seller_link": "/user/75d0727cae6ed0b0c18b8d41a6375df8/profile?id=1153987579&src=item"
+}

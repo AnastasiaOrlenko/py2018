@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3500,
+  "index": 1401050126,
+  "seller": "Аркадий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kultubsvetilnik_coolmaster_gipolite_125150_pro_1401050126",
+  "address": "Москва, м. Кунцевская",
+  "title": "Култуб/светильник CoolMaster GipoLite 125/150 PRO",
+  "seller_link": "/user/52d98f0324eb5dbe5d6060c34ccfa344/profile?id=1401050126&src=item",
+  "text": "култуб/светильник CoolMaster GipoLite 125/150 PRO\n",
+  "post_date": "  07 October в 21:48  "
+}

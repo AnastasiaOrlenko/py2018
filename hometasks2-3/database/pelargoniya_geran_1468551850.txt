@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1468551850,
+  "seller": "*",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_1468551850",
+  "address": "Москва, м. Митино",
+  "title": "Пеларгония герань",
+  "seller_link": "/user/0621bdabac43663e73ae5d0e30fb9d51/profile?id=1468551850&src=item",
+  "text": "Крепкое растение миниатюрной герани. Зацветает. Есть бутоны. Продаётся в керамическом горшке салатового цвета.Возможна встреча на м. Комсомольская\n",
+  "post_date": "  07 October в 16:00  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1481614420,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1481614420",
+  "seller": "Марина",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Продаю детку своего растения. С хорошей землёй и корневой системой.Рассматриваю обмен\n",
+  "post_date": "  6 октября в 10:33  ",
+  "seller_link": "/user/bd586b1658166a6055314037787ecd45/profile?id=1481614420&src=item"
+}

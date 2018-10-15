@@ -1,0 +1,13 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1672265927,
+  "title": "Кактус молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_molochay_1672265927",
+  "seller": "Диана",
+  "seller-contact": "Диана",
+  "address": "Москва, м. Пражская",
+  "text": "170 см\n",
+  "post_date": "  6 октября в 21:09  ",
+  "seller_link": "/user/1dfad5b89bd9019ae492f4aa90899380/profile?id=1672265927&src=item"
+}

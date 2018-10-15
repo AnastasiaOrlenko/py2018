@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1007435247,
+  "title": "Горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_1007435247",
+  "seller": "Максим",
+  "address": "Москва, м. Щелковская",
+  "text": "Горшок пластмассовый\nВысота 33см\nДиаметр верхней части 44см\nДиаметр подставки 28см\n",
+  "post_date": "  6 октября в 01:20  ",
+  "seller_link": "/user/b4b0fc652bad45f607c89e54fbbda2ec/profile?id=1007435247&src=item"
+}

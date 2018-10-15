@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1254697485,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1254697485",
+  "seller": "Марианна",
+  "address": "Москва, м. Савеловская",
+  "text": "Продаю алое 1 отросток 50р\n",
+  "post_date": "  6 октября в 15:44  ",
+  "seller_link": "/user/4e780004e198913cf1aaefffd44c092b/profile?id=1254697485&src=item"
+}

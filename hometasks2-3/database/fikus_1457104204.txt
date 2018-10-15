@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1457104204,
+  "seller": "Михаил",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1457104204",
+  "address": "Москва, м. Планерная",
+  "title": "Фикус",
+  "seller_link": "/user/4bb0884c88a938d421c7d0d3adcb6f42/profile?id=1457104204&src=item",
+  "text": "Высота приблизительно 2м, ветвистый, цена без горшка.\n",
+  "post_date": "  07 October в 20:46  "
+}

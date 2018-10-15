@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1590227383,
+  "seller": "Елена Горелова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/perets_kitayskiy_1590227383",
+  "address": "Москва, м. Солнцево",
+  "title": "Перец китайский",
+  "seller_link": "/user/caec3660ee3b26618e2884d24a30c155/profile?id=1590227383&src=item",
+  "text": "Перец декоративный домашний китайский, выращивается в спец.земле для перца, с удобрениями. Обработан против паутинного клеща. Есть несколько горшков.\n",
+  "post_date": "  07 October в 14:01  "
+}

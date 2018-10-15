@@ -1,0 +1,12 @@
+{
+  "text": "Укоренённые черенки жасмина Гранд Дюк, самого крупного и махрового.\n",
+  "title": "Жасмин Гранд Дюк",
+  "price": 500,
+  "index": 1411704031,
+  "address": "Москва, м. Белорусская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zhasmin_grand_dyuk_1411704031",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:31  ",
+  "seller": "Мария",
+  "seller_link": "/user/adab40b8ef78f7832b8ef3039b1a958b/profile?id=1411704031&src=item"
+}

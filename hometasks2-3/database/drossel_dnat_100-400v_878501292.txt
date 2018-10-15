@@ -1,0 +1,12 @@
+{
+  "text": "продаю дросселя все виды\n",
+  "title": "Дроссель днат 100-400v",
+  "price": 250,
+  "index": 878501292,
+  "address": "Москва, м. Динамо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/drossel_dnat_100-400v_878501292",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:38  ",
+  "seller": "Жанна Журавлева",
+  "seller_link": "/user/8d458b2e9d661e52ee45fd17e31c1205/profile?id=878501292&src=item"
+}

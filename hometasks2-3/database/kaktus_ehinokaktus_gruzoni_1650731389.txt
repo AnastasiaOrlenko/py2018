@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1650731389,
+  "title": "Кактус эхинокактус грузони",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_ehinokaktus_gruzoni_1650731389",
+  "seller": "Марина",
+  "address": "Москва, м. Молодежная",
+  "text": "Кактус размер 18×30.\n",
+  "post_date": "  07 October в 11:38  ",
+  "seller_link": "/user/616f06a85bac0f07e2afd7ebf77ae9ce/profile?id=1650731389&src=item"
+}

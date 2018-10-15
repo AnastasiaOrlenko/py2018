@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1317026199,
+  "seller": "Дмитрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1317026199",
+  "address": "Москва, м. Домодедовская",
+  "title": "Алоэ",
+  "seller_link": "/user/a495e89ab300baa1af1f26b56e9d2101/profile?id=1317026199&src=item",
+  "text": "Лечебный ,целительный цветок на лекарство.По цене договоримся\n",
+  "post_date": "  07 October в 15:24  "
+}

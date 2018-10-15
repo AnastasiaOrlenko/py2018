@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1107892972,
+  "title": "Горшок кашпо на колесиках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_kashpo_na_kolesikah_1107892972",
+  "seller": "Софья",
+  "address": "Москва, м. Новогиреево",
+  "text": "продам горшок кашпо идеальное состояние на колесиках\nцвет слоновой кости высота 35 см диаметр 40\n",
+  "post_date": "  5 октября в 06:34  ",
+  "seller_link": "/user/f0bf484765649bf11df98ddaafe5355a/profile?id=1107892972&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Киевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/giperastrum_1331572485",
+  "seller-contact": "продавец",
+  "price": 1000,
+  "seller": "-",
+  "post_date": "  08 October в 23:04  ",
+  "title": "Гипераструм",
+  "text": "Продаю.Цвёл оранжевыми цветами в прошлом году,в этом- отдыхает. В горшке больше 10 шт. Надо рассаживать. \nС горшком 1200 руб.\n",
+  "index": 1331572485,
+  "seller_status": "Компания",
+  "seller_link": "/user/36cf652701eca1d89aad9defc226173e/profile?id=1331572485&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1291967748,
+  "title": "Сансевиерия (тёщин язык)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_teschin_yazyk_1291967748",
+  "seller": "Екатерина",
+  "address": "Москва, м. Кузьминки",
+  "text": "2 растения Сансевиерия (тёщин язык) 100 см и 80 см в хороших горшках.\n",
+  "post_date": "  6 октября в 14:29  ",
+  "seller_link": "/user/d3c446364e080a45baef732e61d1a5ea/profile?id=1291967748&src=item"
+}

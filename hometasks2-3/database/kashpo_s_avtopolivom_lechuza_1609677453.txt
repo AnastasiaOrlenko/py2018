@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1609677453,
+  "title": "Кашпо с автополивом Lechuza",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_s_avtopolivom_lechuza_1609677453",
+  "seller": "Марина",
+  "address": "Москва, м. Тушинская",
+  "text": "Немецкий горшок Lechuza ,цвет -темно серый\nРазмеры, прим. (Ш х В)-Ø 43,5 x 39,5 cm\n",
+  "post_date": "  5 октября в 19:12  ",
+  "seller_link": "/user/291d88567eb20d2205272d55ff9d0b1a/profile?id=1609677453&src=item"
+}

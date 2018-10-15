@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1187042858,
+  "title": "Кашпо для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetov_1187042858",
+  "seller": "Наталия Михайловна",
+  "address": "Москва, м. Бибирево",
+  "text": "Керамическое кашпо настенное, привезли из Болгарии. Всего 2 шт. Каждое по 150₽\n",
+  "post_date": "  5 октября в 09:07  ",
+  "seller_link": "/user/3f4f407f25af8093ac6b6931c516839f/profile?id=1187042858&src=item"
+}

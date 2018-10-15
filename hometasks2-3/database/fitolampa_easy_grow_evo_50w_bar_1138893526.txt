@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Частное лицо",
+  "index": 1138893526,
+  "title": "Фитолампа Easy Grow Evo 50W BAR",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitolampa_easy_grow_evo_50w_bar_1138893526",
+  "seller": "Владимир",
+  "address": "Москва, м. Калужская",
+  "text": "Фитолампа (светодиодный светильник), не использовалась. Возможность соединения нескольких ламп каскадом, есть тросики с карабином для подвешивания и кабель питания.\n",
+  "post_date": "  4 октября в 21:49  ",
+  "seller_link": "/user/59532986ff7a557483239fa9aa4dfd09/profile?id=1138893526&src=item"
+}

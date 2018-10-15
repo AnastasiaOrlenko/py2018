@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ботанический сад",
+  "seller": "Наталья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/korolevskaya_pelargoniya_1052416983",
+  "seller_status": "Частное лицо",
+  "title": "Королевская пеларгония",
+  "post_date": "  08 October в 12:40  ",
+  "price": 150,
+  "index": 1052416983,
+  "seller_link": "/user/2c9228df46e364d3669ee159b3447dc5/profile?id=1052416983&src=item",
+  "text": "Продаются 3 черенка на срез (без корней) по 150 р за шт\n"
+}

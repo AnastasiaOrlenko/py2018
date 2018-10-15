@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 6000,
+  "index": 1496766477,
+  "seller": "Жан Голенко",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1496766477",
+  "address": "Москва, м. Выхино",
+  "title": "Фикус",
+  "seller_link": "/user/803d3f9151f1efc9bf2e8d894ece022d/profile?id=1496766477&src=item",
+  "text": "Высота 1: 160 см \nВысота 2: 150 \nВ одном горшке \nОтдаётся вместе с горшком\n",
+  "post_date": "  07 October в 23:31  "
+}

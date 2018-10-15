@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 1000,
+  "index": 1347425626,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vodyanaya_liliya_nimfeya_1347425626",
+  "address": "Москва, м. Лихоборы",
+  "title": "Водяная лилия Нимфея",
+  "seller_link": "/user/ae301a143f70aed17d7d92e6a71f85ab/profile?id=1347425626&src=item",
+  "text": "Водяная лилия Нимфея. Взрослое цветущее растение. Одно растение в четырёх литровом горшке. Можно встретиться в москве или в г. дмитрове\n",
+  "post_date": "  07 October в 14:18  "
+}

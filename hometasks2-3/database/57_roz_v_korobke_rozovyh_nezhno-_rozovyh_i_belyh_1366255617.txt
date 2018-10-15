@@ -1,0 +1,12 @@
+{
+  "text": "Нежно розовые, ярко розовые и белые розы в кол- ве 57 штук в розовой коробке\n",
+  "title": "57 роз в коробке розовых, нежно- розовых и белых",
+  "price": 3350,
+  "index": 1366255617,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/57_roz_v_korobke_rozovyh_nezhno-_rozovyh_i_belyh_1366255617",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:31  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 846183202,
+  "title": "Calla",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/calla_846183202",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Продаются детки каллы белой (фото 2 и 3). Хорошо укоренены, здоровые.\nПросьба звонить или писать через Авито, на смс не отвечаю.\n",
+  "post_date": "  07 October в 07:02  ",
+  "seller_link": "/user/e4191390a192a39b4785046b4f211148/profile?id=846183202&src=item"
+}

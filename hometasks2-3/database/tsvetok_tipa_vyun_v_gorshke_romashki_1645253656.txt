@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/ef040564f174e5d5a2b5ecf6378ba823/profile?id=1645253656&src=item",
+  "seller-contact": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_tipa_vyun_v_gorshke_romashki_1645253656",
+  "post_date": "  08 October в 09:48  ",
+  "address": "Москва, м. Киевская",
+  "seller": "Частное лицо Марина",
+  "text": "Не прихотливое растение. Цена вместе с горшком 400 руб.\n",
+  "index": 1645253656,
+  "seller_status": "Компания",
+  "price": 400,
+  "title": "Цветок типа «вьюн», в горшке «Ромашки»"
+}

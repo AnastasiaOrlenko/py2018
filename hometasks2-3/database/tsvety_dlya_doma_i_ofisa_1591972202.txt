@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1591972202,
+  "seller": "максим",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_dlya_doma_i_ofisa_1591972202",
+  "address": "Москва, м. Тверская",
+  "title": "Цветы для дома, и офиса",
+  "seller_link": "/user/9ebf49871fa17ddf40f4615560811177/profile?id=1591972202&src=item",
+  "text": "Фикус высота 2.50 м. = 3000 руб. Второй фикус 1.60м = 1500 руб. Третий фикус 1.70 м. = 800 руб.\n",
+  "post_date": "  07 October в 16:27  "
+}

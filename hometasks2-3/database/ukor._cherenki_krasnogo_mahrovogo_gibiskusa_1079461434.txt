@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Семеновская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ukor._cherenki_krasnogo_mahrovogo_gibiskusa_1079461434",
+  "price": 120,
+  "seller": "София",
+  "post_date": "  08 October в 19:40  ",
+  "title": "Укор. черенки красного махрового гибискуса",
+  "text": "Гибискус махровый красный. Высота черенков примерно 20 см., с хорошими корнями, посажены в свежую землю\n",
+  "index": 1079461434,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/1f94e30e8937cb4a3cae61a0eb344bc8/profile?id=1079461434&src=item"
+}

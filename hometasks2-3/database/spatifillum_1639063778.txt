@@ -1,0 +1,13 @@
+{
+  "price": 750,
+  "seller_status": "Компания",
+  "index": 1639063778,
+  "title": "Спатифиллум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_1639063778",
+  "seller": "Не компания",
+  "seller-contact": "ЛАРИСА",
+  "address": "Москва, м. Братиславская",
+  "text": "Женскте счастье. Большое пышное растение. Одновременно выбрасывает 6-8 цветов, кот. цветут длительное время. Любит воду. Не любит прямое солнце. Есть и поменьше от 250р.\n",
+  "post_date": "  6 октября в 12:49  ",
+  "seller_link": "/user/0ea0cc38efcbc67faefd1c6e339f4d66/profile?id=1639063778&src=item"
+}

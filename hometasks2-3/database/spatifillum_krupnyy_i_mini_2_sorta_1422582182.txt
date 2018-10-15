@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1422582182,
+  "title": "Спатифиллум крупный и мини 2 сорта",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_krupnyy_i_mini_2_sorta_1422582182",
+  "seller": "I&Е",
+  "address": "Москва, м. Ломоносовский проспект",
+  "text": "Продаю с горшком, сорт крупный и мини посажён в перемешку. Цветы белые\n",
+  "post_date": "  6 октября в 17:28  ",
+  "seller_link": "/user/68f018d646ac7b14d3081f2fc2dac9e2/profile?id=1422582182&src=item"
+}

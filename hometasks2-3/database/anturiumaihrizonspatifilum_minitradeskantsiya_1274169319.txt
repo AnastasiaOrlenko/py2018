@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бибирево",
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturiumaihrizonspatifilum_minitradeskantsiya_1274169319",
+  "seller_status": "Частное лицо",
+  "title": "Антуриум,аихризон,спатифилум мини,традесканция",
+  "post_date": "  08 October в 14:42  ",
+  "price": 50,
+  "index": 1274169319,
+  "seller_link": "/user/ebc92cefeb257704e3617caa66b105b2/profile?id=1274169319&src=item",
+  "text": "Традесканция 50р,спатифилумы мини в красном стакане 80р а в маленьких по 40р,антуриум красный 250р,аихризон деревце 200р\n"
+}

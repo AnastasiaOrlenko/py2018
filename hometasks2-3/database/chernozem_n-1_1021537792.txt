@@ -1,0 +1,13 @@
+{
+  "text": "Чернозём для газона рассыпчатый \nПо возможности осуществляем доставку в день обращения\n",
+  "title": "Чернозём (N-1)",
+  "price": 1350,
+  "index": 1021537792,
+  "address": "Москва, м. Проспект Вернадского",
+  "seller-contact": "Юрий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chernozem_n-1_1021537792",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:50  ",
+  "seller": "Юрий",
+  "seller_link": "/user/5320b665c1510e79ebcd2d31f7253420/profile?id=1021537792&src=item"
+}

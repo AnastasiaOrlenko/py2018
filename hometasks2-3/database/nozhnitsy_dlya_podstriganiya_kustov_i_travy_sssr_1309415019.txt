@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1100,
+  "index": 1309415019,
+  "seller": "Александр",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nozhnitsy_dlya_podstriganiya_kustov_i_travy_sssr_1309415019",
+  "address": "Москва, м. Люблино",
+  "title": "Ножницы для подстригания кустов и травы СССР",
+  "seller_link": "/user/2e5e39d57fdf65fa5bd990d4f2b2dc70/profile?id=1309415019&src=item",
+  "text": "Лезвия 20см длина 50см\n",
+  "post_date": "  07 October в 22:19  "
+}

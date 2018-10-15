@@ -1,0 +1,12 @@
+{
+  "text": "Набор деток из 4 растений + пятое в подарок = 2500 руб. Можно и по отдельности, 700 руб.\nДоставка по России.\n",
+  "title": "Дендробиумы, более 20 сортов",
+  "price": 700,
+  "index": 1448379459,
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dendrobiumy_bolee_20_sortov_1448379459",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 03:27  ",
+  "seller": "Ольга",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=1448379459&src=item"
+}

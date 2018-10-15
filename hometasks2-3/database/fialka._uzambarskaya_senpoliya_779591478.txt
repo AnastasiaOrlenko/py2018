@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 779591478,
+  "title": "Фиалка. узамбарская (Сенполия)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka._uzambarskaya_senpoliya_779591478",
+  "seller": "Зинаида",
+  "address": "Москва, м. Царицыно",
+  "text": "Продаю Узамбарскую фиалку фиолетово -синеватово цвета с желтыми тычинками.2)и 3)фото.с цветами..\n",
+  "post_date": "  5 октября в 12:29  ",
+  "seller_link": "/user/5c79916a33c6e75b1eaef54d13da0fec/profile?id=779591478&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1343978301,
+  "title": "Спатифиллум - женское счастье",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_-_zhenskoe_schaste_1343978301",
+  "seller": "Продавец",
+  "seller-contact": "ТатьЯна",
+  "address": "Москва, м. Планерная",
+  "text": "Спатифиллум - женское счастье -выс 35-40см\nхимки\nмосква доставка до метро\n",
+  "post_date": "  4 октября в 19:04  ",
+  "seller_link": "/user/73d9cb4637289754a11e70dae23e5528/profile?id=1343978301&src=item"
+}

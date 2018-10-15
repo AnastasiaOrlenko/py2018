@@ -1,0 +1,13 @@
+{
+  "price": 70,
+  "seller_status": "Компания",
+  "index": 1017157845,
+  "title": "Цветок комнатный в подвесном горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_komnatnyy_v_podvesnom_gorshke_1017157845",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Митино",
+  "text": "Хлорофитум укорененный в подвесном горшке,с кронштейном-120р, без кронштейна -70руб.\n",
+  "post_date": "  07 October в 12:29  ",
+  "seller_link": "/user/c05f3ba8b69df8566ce4bc7202e307a3/profile?id=1017157845&src=item"
+}

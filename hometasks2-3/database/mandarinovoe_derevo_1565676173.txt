@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1565676173,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mandarinovoe_derevo_1565676173",
+  "address": "Москва, м. Пражская",
+  "title": "Мандариновое дерево",
+  "seller_link": "/user/0f8f712a6c445fa01420b383ba8ee28b/profile?id=1565676173&src=item",
+  "text": "Выращены из косточки очень вкусного мандарина. Сама не ожидала что столько взойдёт =))\n",
+  "post_date": "  07 October в 13:07  "
+}

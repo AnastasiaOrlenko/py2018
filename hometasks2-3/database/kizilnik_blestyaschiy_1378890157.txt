@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 80,
+  "index": 1378890157,
+  "seller": "Антон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kizilnik_blestyaschiy_1378890157",
+  "address": "Москва, м. Смоленская",
+  "title": "Кизильник блестящий",
+  "seller_link": "/user/92675b677d3e321208145346070b92f6/profile?id=1378890157&src=item",
+  "text": "Продаю кизильник блестящий, саженцы роз, спирея, туи и многое другое. Наличный, безналичный расчет. Доставка. Сервис.\n",
+  "post_date": "  07 October в 20:56  "
+}

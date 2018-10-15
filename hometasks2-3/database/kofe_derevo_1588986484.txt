@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1588986484,
+  "title": "Кофе дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kofe_derevo_1588986484",
+  "seller": "Александра",
+  "address": "Москва, м. Щукинская",
+  "text": "Вместе с горошком. Высота большого растения - 1 м, маленького - 60 см, одному больше 10 лет, другому больше 6. Цена маленького 400 р, большого 800 р\n",
+  "post_date": "  07 October в 10:50  ",
+  "seller_link": "/user/ce9371666150e9882b23b884bdccb045/profile?id=1588986484&src=item"
+}

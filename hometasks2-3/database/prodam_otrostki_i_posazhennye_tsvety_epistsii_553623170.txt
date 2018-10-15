@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 553623170,
+  "title": "Продам отростки и посаженные цветы эписции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_otrostki_i_posazhennye_tsvety_epistsii_553623170",
+  "seller": "Екатерина",
+  "address": "Москва, м. Печатники",
+  "text": "Где то через 2-3 года будет как на фото, если цветку у Вас понравится и при условии, что есть тепло, свет, вода)\nНеприхотливый)\nМаленький отросток (неукорененный) - 50 р., побольше - 100 р.\n",
+  "post_date": "  5 октября в 11:01  ",
+  "seller_link": "/user/a43ef4b8ac82919b848dfd8bac11b429/profile?id=553623170&src=item"
+}

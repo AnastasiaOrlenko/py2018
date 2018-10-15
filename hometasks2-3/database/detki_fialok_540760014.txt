@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 540760014,
+  "title": "Детки фиалок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/detki_fialok_540760014",
+  "seller": "Анна",
+  "address": "Москва, м. Щелковская",
+  "text": "Продаю детки фиалок. Сорта написаны на стаканчиках. Одна 50, а 5 за 200.\n",
+  "post_date": "  6 октября в 22:29  ",
+  "seller_link": "/user/ef8e2f52c9bcb57bd31a3409c665ed78/profile?id=540760014&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Ховрино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_doktor_67057828",
+  "price": 230,
+  "seller": "Елена (не компания)",
+  "post_date": "  08 October в 19:30  ",
+  "title": "Каланхоэ доктор",
+  "text": "Растение ДОКТОР - каланхоэ. 6 пар листьев.\nЕсть разные растения.\n",
+  "index": 67057828,
+  "seller_status": "Компания",
+  "seller_link": "/user/be107386392128eca47a8613cdc7398c/profile?id=67057828&src=item"
+}

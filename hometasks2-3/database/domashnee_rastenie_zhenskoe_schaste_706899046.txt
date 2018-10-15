@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 706899046,
+  "title": "Домашнее растение \"Женское счастье\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/domashnee_rastenie_zhenskoe_schaste_706899046",
+  "seller": "не компания",
+  "seller-contact": "Марина (частное лицо)",
+  "address": "Москва, м. Строгино",
+  "text": "Ещё его называют \"Женское счастье\"\n400р.- на фото - БРОНЬ ......\nУкоренённые черенки в стаканчике с землёй - 100р., 150р.\n",
+  "post_date": "  6 октября в 11:27  ",
+  "seller_link": "/user/362e1795ef7919a5e658564bc7200bb5/profile?id=706899046&src=item"
+}

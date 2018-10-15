@@ -1,0 +1,12 @@
+{
+  "text": "Тент:\nSecret Jardin Hydro Shoot 80x80x160 cm (8384 руб.)\nСветильник:\nApollo 8 280Вт (26577руб.)\nВентиляция:\nКанальный вентилятор Soler &amp; Palau TD 350/125 (8625 руб.)\nФильтр угольный gw 280x140мм, 2л. угля silicarbon SC40 (3099руб.)\nСистема капельного полива (1000 руб.)\nМешок-горшок 15л. с поддоном 4шт. (600 руб.)\nИтого: 48285 руб.\nИдеальная система на 4 растения.\n",
+  "title": "Гроубокс",
+  "price": 38000,
+  "index": 981065183,
+  "address": "Москва, м. Рижская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grouboks_981065183",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:36  ",
+  "seller": "Кирилл",
+  "seller_link": "/user/c301892a76db080c8a6f07fdb3560de0/profile?id=981065183&src=item"
+}

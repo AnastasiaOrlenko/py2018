@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1305521480,
+  "title": "Комнатные растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_1305521480",
+  "seller": "Галина",
+  "address": "Москва, м. Тимирязевская",
+  "text": "Дримиоптис пятнистый, неприхотливое луковичное растение с пятнистыми листиками. С горшком 400 руб. В маленьком горшке на 3 луковки 100 руб.\n",
+  "post_date": "  5 октября в 23:28  ",
+  "seller_link": "/user/a3d1674edb6e852e672e79cc484630fb/profile?id=1305521480&src=item"
+}

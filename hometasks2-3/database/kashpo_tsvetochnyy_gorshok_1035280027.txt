@@ -1,0 +1,12 @@
+{
+  "price": 650,
+  "seller_status": "Частное лицо",
+  "index": 1035280027,
+  "title": "Кашпо, цветочный горшок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_tsvetochnyy_gorshok_1035280027",
+  "seller": "Любовь",
+  "address": "Москва, м. Сухаревская",
+  "text": "Продается оригинальное кашпо в форме полумесяца из качественной керамики. Размеры 24см на 16см, высота бортика 9 см. Цена 650 рублей.\n",
+  "post_date": "  5 октября в 21:52  ",
+  "seller_link": "/user/7d0b15872a678ff9e712989e8b63d60f/profile?id=1035280027&src=item"
+}

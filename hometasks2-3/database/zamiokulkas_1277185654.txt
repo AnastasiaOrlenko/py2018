@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1277185654,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1277185654",
+  "seller": "**&&**&&**",
+  "address": "Москва, м. Новогиреево",
+  "text": "Замиокулькас ( долларовое дерево) укорененный.2-е фото.\n",
+  "post_date": "  6 октября в 19:48  ",
+  "seller_link": "/user/7f1c28f457eb9a0ee81cad7aec9932d6/profile?id=1277185654&src=item"
+}

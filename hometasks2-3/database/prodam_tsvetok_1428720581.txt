@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1428720581,
+  "title": "Продам цветок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_tsvetok_1428720581",
+  "seller": "Александр",
+  "address": "Москва, м. Полянка",
+  "text": "По всем вопросам обращаться по телефонуи\n",
+  "post_date": "  6 октября в 13:03  ",
+  "seller_link": "/user/f62a0d48abe2259f0ca65f38eac283e9/profile?id=1428720581&src=item"
+}

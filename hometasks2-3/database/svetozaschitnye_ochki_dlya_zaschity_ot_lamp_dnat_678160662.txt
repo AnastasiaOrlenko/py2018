@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/69bbf71bb4658e5c1bcb40341065e47d/profile?id=678160662&src=item",
+  "seller-contact": "Денис или Тамара",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/svetozaschitnye_ochki_dlya_zaschity_ot_lamp_dnat_678160662",
+  "post_date": "  08 October в 09:27  ",
+  "address": "Москва, м. Тульская",
+  "seller": "HomeHarvest",
+  "text": "Описание\n \nПластиковые светозащитные очки предназначены для защиты глаз от лучей натриевых ламп.\nПроизводство Китай.\n",
+  "index": 678160662,
+  "seller_status": "Компания",
+  "price": 1450,
+  "title": "Светозащитные очки (для защиты от ламп днат)"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1240694736,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zemlya_plodorodnaya_1240694736",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Земля плодородная",
+  "seller_link": "/user/09f9158dd985d89965ef7d11bd9728a2/profile?id=1240694736&src=item",
+  "text": "продаю плодородную почву для огорода.\nдоставка самосвалами.\nзвоните.\n",
+  "post_date": "  07 October в 20:18  "
+}

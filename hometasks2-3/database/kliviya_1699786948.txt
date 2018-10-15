@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1699786948,
+  "seller": "татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_1699786948",
+  "address": "Москва, м. Царицыно",
+  "title": "Кливия",
+  "seller_link": "/user/3fd76525163637ae91959e0d9d86fba8/profile?id=1699786948&src=item",
+  "text": "комнатный цветок кливия(оранжево-красная) и другие цветы продаем так как мало места и света(солнца) торг\n",
+  "post_date": "  07 October в 14:42  "
+}

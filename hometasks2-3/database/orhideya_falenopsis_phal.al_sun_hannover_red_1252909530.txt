@@ -1,0 +1,13 @@
+{
+  "price": 5500,
+  "seller_status": "Компания",
+  "index": 1252909530,
+  "title": "Орхидея фаленопсис Phal.AL Sun Hannover red",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_phal.al_sun_hannover_red_1252909530",
+  "seller": "частное лицо",
+  "seller-contact": "Мария",
+  "address": "Москва, м. Тропарево",
+  "text": "Редкий сорт, в заказах встречается крайне нечасто. В коллекции около 2 лет. Продаю за что покупала. Встречи на м.Тропарево\n",
+  "post_date": "  07 October в 00:17  ",
+  "seller_link": "/user/3385f527076460ff628076579e6a53b4/profile?id=1252909530&src=item"
+}

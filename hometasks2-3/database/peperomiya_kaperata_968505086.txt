@@ -1,0 +1,12 @@
+{
+  "price": 470,
+  "seller_status": "Частное лицо",
+  "index": 968505086,
+  "title": "Пеперомия каперата",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/peperomiya_kaperata_968505086",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 35см.\n",
+  "post_date": "  07 October в 01:20  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=968505086&src=item"
+}

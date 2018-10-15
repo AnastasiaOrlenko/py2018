@@ -1,0 +1,10 @@
+{
+  "price": 1000,
+  "seller-contact": "Частное лицо ( Сергей )",
+  "index": 1043143063,
+  "title": "Стойка для цветов и растений 10 полок",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoyka_dlya_tsvetov_i_rasteniy_10_polok_1043143063",
+  "address": "Москва, м. Планерная",
+  "text": "Стойка для цветов и растений 10 полок \n",
+  "post_date": "  5 октября в 11:55  "
+}

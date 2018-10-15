@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Беляево",
+  "seller": "Ксения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kliviya_1256917653",
+  "seller_status": "Частное лицо",
+  "title": "Кливия",
+  "post_date": "  08 October в 12:23  ",
+  "price": 80,
+  "index": 1256917653,
+  "seller_link": "/user/f76f9d17e991646e8d3ca0f758d82aab/profile?id=1256917653&src=item",
+  "text": "Кливия , подрастет и будет цвести оранжевыми цветочками, в соцветии 12 штук, от моего взрослого растения , которое цветет два раза в год .\n"
+}

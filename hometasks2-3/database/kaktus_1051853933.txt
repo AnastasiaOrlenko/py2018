@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1051853933,
+  "title": "Кактус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1051853933",
+  "seller": "Нина",
+  "address": "Москва, м. Братиславская",
+  "text": "Кактус 4 см - 70 р, 5 см - 100 р, 3 см - 30 р. Растение на фото. Отдаю вместе с пластиковым контейнером.\n",
+  "post_date": "  5 октября в 15:07  ",
+  "seller_link": "/user/4c9269b88b8e527cfa7e1bf5fca39f88/profile?id=1051853933&src=item"
+}

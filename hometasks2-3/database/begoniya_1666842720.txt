@@ -1,0 +1,12 @@
+{
+  "price": 650,
+  "seller_status": "Частное лицо",
+  "index": 1666842720,
+  "title": "Бегония",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_1666842720",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д. Высота 35-40см.\n",
+  "post_date": "  6 октября в 21:33  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1666842720&src=item"
+}

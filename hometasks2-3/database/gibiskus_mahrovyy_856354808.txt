@@ -1,0 +1,12 @@
+{
+  "text": "Гибискус махровый красный, черенки.\nЕсть также фуксии, герань, каланхоэ, пахистахис, шеффлера.\n",
+  "title": "Гибискус махровый",
+  "price": 70,
+  "index": 856354808,
+  "address": "Москва, м. Кузьминки",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_mahrovyy_856354808",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:16  ",
+  "seller": "Частное лицо",
+  "seller_link": "/user/9da7650dee7e5108ad55d5fea3e64e8d/profile?id=856354808&src=item"
+}

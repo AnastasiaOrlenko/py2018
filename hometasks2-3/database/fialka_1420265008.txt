@@ -1,0 +1,12 @@
+{
+  "price": 70,
+  "seller_status": "Частное лицо",
+  "index": 1420265008,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1420265008",
+  "seller": "Алена",
+  "address": "Москва, м. Бибирево",
+  "text": "Фиалка\n",
+  "post_date": "  07 October в 12:11  ",
+  "seller_link": "/user/b772bb265196176e03656ebfeb319852/profile?id=1420265008&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 801522869,
+  "title": "Комнатные растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_801522869",
+  "seller": "Ирина",
+  "address": "Москва, м. Багратионовская",
+  "text": "Комнатные растения \nОзеленение балконов, окон и стен\nВсе что на фото продается\n",
+  "post_date": "  6 октября в 22:39  ",
+  "seller_link": "/user/6f4431cafee2f9af60934cbe0af04289/profile?id=801522869&src=item"
+}

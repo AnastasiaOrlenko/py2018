@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 120,
+  "index": 1138432388,
+  "seller": "ЕЛЕНА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1138432388",
+  "address": "Москва, м. Новогиреево",
+  "title": "Драцена",
+  "seller_link": "/user/199af50e6fa843bd7da997c240bcbe14/profile?id=1138432388&src=item",
+  "text": "Драцена, листья узкие зеленые с желто-красными полосками по краям. Высота в горшке-42 см.\n",
+  "post_date": "  07 October в 13:53  "
+}

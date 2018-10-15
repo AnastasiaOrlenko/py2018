@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бибирево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ananas_968425995",
+  "price": 400,
+  "seller": "Эльфира",
+  "post_date": "  08 October в 16:58  ",
+  "title": "Ананас",
+  "text": "Продаю ананас в горшке, з года. Самовывоз.\n",
+  "index": 968425995,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e2e729b22e30dcd34bdc419bc37002e1/profile?id=968425995&src=item"
+}

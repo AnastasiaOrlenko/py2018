@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1583730579,
+  "title": "Кактусы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_1583730579",
+  "seller": "хозяин",
+  "address": "Москва, м. Щелковская",
+  "text": "Два отростка кактуса. Самовывоз\n",
+  "post_date": "  6 октября в 06:50  ",
+  "seller_link": "/user/1d4d89824cce7c5f0adccb86a11ff9ca/profile?id=1583730579&src=item"
+}

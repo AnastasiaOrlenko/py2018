@@ -1,0 +1,13 @@
+{
+  "price": 2600,
+  "seller_status": "Компания",
+  "index": 1709545290,
+  "title": "Стабилизированные розы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stabilizirovannye_rozy_1709545290",
+  "seller": "Контакт",
+  "seller-contact": "Екатерина",
+  "address": "Москва, м. Медведково",
+  "text": "Розы в колбе оптом и в розницу!\nВ наличии 2 варианта размера Доставка по всей России.\nПодарочные коробки с wow эффектом так же в наличии .\nМишки тедди в наличии.\n",
+  "post_date": "  5 октября в 17:25  ",
+  "seller_link": "/user/aeeb0ad0d3b99e03d7e7a292998be892/profile?id=1709545290&src=item"
+}

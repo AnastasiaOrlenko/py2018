@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/e3a242566513c3407a9bc31169973c1d/profile?id=1656661749&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/opora_dlya_rasteniy_krugovaya_i_kashpo_1656661749",
+  "post_date": "  08 October в 10:15  ",
+  "address": "Москва, м. Новые Черемушки",
+  "seller": "Татьяна",
+  "text": "Опора для растений круговая\n150 см. - 200 руб\nкашпо + внутри еще горшок\nпластик терракот \nдиаметр кашпо 28 см - 200 руб\nвсе вместе за 350 руб\nостались от большого растения\nподвезу к любому метро\n",
+  "index": 1656661749,
+  "seller_status": "Компания",
+  "price": 200,
+  "title": "Опора для растений круговая и кашпо"
+}

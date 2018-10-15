@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1167786673,
+  "seller": "Лилия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/semena_chia_1167786673",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "title": "Семена Чиа",
+  "seller_link": "/user/708186d0495567ff7a5c966bc717f82d/profile?id=1167786673&src=item",
+  "text": "100гр = 150р, 500гр = 600р, 1 кг = 1150р, 4 кг = 4500р.\n",
+  "seller-contact": "Лилия",
+  "post_date": "  07 October в 23:31  "
+}

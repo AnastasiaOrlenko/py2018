@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1296355462,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_mas_artic_sky_1296355462",
+  "address": "Москва, м. Новокосино",
+  "title": "Фиалка Ma's Artic Sky",
+  "seller_link": "/user/7686f1b73b83f608ef06e4229f66c0b0/profile?id=1296355462&src=item",
+  "text": "Продаю излишки домашней коллекции.Фиалка молодая,Ma's Artic Sky Robinson.зарубежная коллекция.\nПродается вместе с горшочком.Первое цветение.\nСамовывоз из Старого Косино.\nЦена в 3 раза дешевле чем в доме фиалки.\nВозможна продажа листика.цена 50 руб.\n",
+  "post_date": "  07 October в 17:19  "
+}

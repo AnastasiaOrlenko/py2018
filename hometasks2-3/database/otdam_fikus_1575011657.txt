@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Отдам фикус за шоколадку молочную.\n",
+  "index": 1575011657,
+  "title": "Отдам Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/otdam_fikus_1575011657",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Улица академика Янгеля",
+  "post_date": "  6 октября в 11:56  ",
+  "seller_link": "/user/c887a859f9d534569abbcf93794921cc/profile?id=1575011657&src=item"
+}

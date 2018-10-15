@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1242695557,
+  "title": "Кротон (Кодиеум)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_kodieum_1242695557",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 12д, высота 40см.\n",
+  "post_date": "  07 October в 00:59  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1242695557&src=item"
+}

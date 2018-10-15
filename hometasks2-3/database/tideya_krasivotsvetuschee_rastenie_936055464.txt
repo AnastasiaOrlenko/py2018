@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 936055464,
+  "seller": "елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tideya_krasivotsvetuschee_rastenie_936055464",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Тидея красивоцветущее растение",
+  "seller_link": "/user/0d1cd36dad4fec584238d49bbfdc206d/profile?id=936055464&src=item",
+  "text": "разетка укорененная\n",
+  "post_date": "  07 October в 12:50  "
+}

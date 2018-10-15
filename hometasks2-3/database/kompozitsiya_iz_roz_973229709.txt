@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Молодежная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kompozitsiya_iz_roz_973229709",
+  "price": 5400,
+  "seller": "Елена",
+  "post_date": "  08 October в 19:21  ",
+  "title": "Композиция из роз",
+  "text": "Композиция из стабилизированных растений. Розы, амарант, гортензия, питоспорум, декоративная зелень. Не требует ухода. Сохраняет свежесть в течении 3-5 лет.\n",
+  "index": 973229709,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/f3fa67f0ef1edff860ba59beb1b5f092/profile?id=973229709&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1691513521,
+  "title": "Хатиора солеросовидная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hatiora_solerosovidnaya_1691513521",
+  "seller": "Екатерина",
+  "address": "Москва, м. Теплый стан",
+  "text": "Укоренённые черенки. Цветет мелкими жёлтыми цветочками.\n",
+  "post_date": "  5 октября в 13:42  ",
+  "seller_link": "/user/14cb6b67abad3a492f598891b624b043/profile?id=1691513521&src=item"
+}

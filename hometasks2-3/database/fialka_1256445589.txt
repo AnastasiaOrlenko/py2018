@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1256445589,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1256445589",
+  "address": "Москва, м. Коломенская",
+  "title": "Фиалка",
+  "seller_link": "/user/e8b0414d44aaaac55418a649458b7476/profile?id=1256445589&src=item",
+  "text": "Фиалка с горшком, продаются те, что на фото, метро Коломенская\n",
+  "post_date": "  07 October в 13:31  "
+}

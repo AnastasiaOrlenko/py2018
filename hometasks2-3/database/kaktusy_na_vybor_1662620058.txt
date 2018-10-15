@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1662620058,
+  "title": "Кактусы на выбор",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktusy_na_vybor_1662620058",
+  "seller": "Валерий  К.",
+  "address": "Москва, м. Улица Скобелевская",
+  "text": "1)100р.2)100р.3)500р. растет 12лет. 4)200р.5)100р.\n",
+  "post_date": "  5 октября в 19:29  ",
+  "seller_link": "/user/4090c8de0984377cb31c02b6843fe879/profile?id=1662620058&src=item"
+}

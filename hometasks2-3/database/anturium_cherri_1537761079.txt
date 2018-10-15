@@ -1,0 +1,12 @@
+{
+  "price": 1450,
+  "seller_status": "Частное лицо",
+  "index": 1537761079,
+  "title": "Антуриум Черри",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_cherri_1537761079",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 14д. Высота 50см.\n",
+  "post_date": "  6 октября в 20:49  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1537761079&src=item"
+}

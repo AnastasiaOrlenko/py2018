@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1528165890,
+  "title": "Дионея-мухоловка, хищное растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dioneya-muholovka_hischnoe_rastenie_1528165890",
+  "seller": "Екатерина",
+  "address": "Москва, м. Парк Победы",
+  "text": "На продажу дионеи, хищные растения-мухоловки. Самовывоз и доставка\n",
+  "post_date": "  5 октября в 14:49  ",
+  "seller_link": "/user/6902b364ac4484c1673821c021cc3208/profile?id=1528165890&src=item"
+}

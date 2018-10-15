@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Нагорная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_fragrans_kompakta_80-100_sm_1201234932",
+  "seller-contact": "Светлана",
+  "price": 3850,
+  "seller": "Корзина Цветов",
+  "post_date": "  08 October в 17:43  ",
+  "title": "Драцена фрагранс компакта 80-100 см",
+  "text": "Драцена фрагранс компакта 80-100 см в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n",
+  "index": 1201234932,
+  "seller_status": "Компания",
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1201234932&src=item"
+}

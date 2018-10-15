@@ -1,0 +1,12 @@
+{
+  "text": "101 роза в корзине\n",
+  "title": "Розы в корзине",
+  "price": 5750,
+  "index": 1387616534,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_v_korzine_1387616534",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:12  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

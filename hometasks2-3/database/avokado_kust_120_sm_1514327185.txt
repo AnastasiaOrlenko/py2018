@@ -1,0 +1,12 @@
+{
+  "price": 900,
+  "seller_status": "Частное лицо",
+  "index": 1514327185,
+  "title": "Авокадо куст 120 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avokado_kust_120_sm_1514327185",
+  "seller": "Надежда",
+  "address": "Москва, м. Сходненская",
+  "text": "Авокадо куст из 8 отростков, 120 см., продам в пластиковом декоративном горшке, торг уместен. Возможна доставка. Связаться можно через WhatsApp , Viber.\n",
+  "post_date": "  4 октября в 19:57  ",
+  "seller_link": "/user/4ec85c70221e3bf1ead42a2e4bca6a18/profile?id=1514327185&src=item"
+}

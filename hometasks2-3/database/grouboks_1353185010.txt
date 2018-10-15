@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Войковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grouboks_1353185010",
+  "price": 7000,
+  "seller": "Nasty Ney",
+  "post_date": "  08 October в 15:31  ",
+  "title": "Гроубокс",
+  "text": "Продаю гроубокс: ширина 80 см, глубина 62 см, высота 118 см. Оборудована вытяжка, электричество. Термометр и гигрометр в комплекте. Возможен торг.\n",
+  "index": 1353185010,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/714846981645d57b34f3c4ef572e7913/profile?id=1353185010&src=item"
+}

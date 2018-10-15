@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1065886761,
+  "title": "Лилейник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lileynik_1065886761",
+  "seller": "Татьяна",
+  "address": "Москва, м. Проспект Мира",
+  "text": "Лилейник сортовой, неприхотливый в уходе. Цветок крупный, более 15 см, плотный по структуре.\n",
+  "post_date": "  6 октября в 15:25  ",
+  "seller_link": "/user/a750de62bf5c9a00a757df1086c2a819/profile?id=1065886761&src=item"
+}

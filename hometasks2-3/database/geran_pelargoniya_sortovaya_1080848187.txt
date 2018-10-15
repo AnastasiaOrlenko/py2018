@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1080848187,
+  "title": "Герань пеларгония сортовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_sortovaya_1080848187",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Полежаевская",
+  "text": "Продаются укорененные черенки сотовых пеларгоний. \nФото-1- Marbaska Rose -350р продана \nФото-2- Lauren Alexandra -500р.Махровый глазастик. \nФото-3- Midfield rose - взрослое 1000р, молодое растение в горшке -700р. Взрослое продано. Черенок-500р\nФото -4- Swanland pink -350р.\nПример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте.\n",
+  "post_date": "  6 октября в 00:19  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1080848187&src=item"
+}

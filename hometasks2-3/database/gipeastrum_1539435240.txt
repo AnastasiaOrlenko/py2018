@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1539435240,
+  "title": "Гипеаструм",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gipeastrum_1539435240",
+  "seller": "Анна",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Не прихотливое домашнее растение.Цветет несколько раз в году.\n",
+  "post_date": "  07 October в 08:38  ",
+  "seller_link": "/user/51253a6d2e829d97adb958f8cd522257/profile?id=1539435240&src=item"
+}

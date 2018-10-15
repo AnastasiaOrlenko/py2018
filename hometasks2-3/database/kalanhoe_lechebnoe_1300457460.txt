@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1300457460,
+  "title": "Каланхоэ лечебное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_lechebnoe_1300457460",
+  "seller": "Продавец",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Маленькие отростки от каланхое..цена за весь горшочек.100..разрастутся быстро.есть уже большое растение.один куст-200р.\n",
+  "post_date": "  6 октября в 09:49  ",
+  "seller_link": "/user/5fe9b9d5092de3ae940948b4f758d0c1/profile?id=1300457460&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1017118125,
+  "title": "Традесканция медленнорастущая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tradeskantsiya_medlennorastuschaya_1017118125",
+  "seller": "Евгения",
+  "address": "Москва, м. Чкаловская",
+  "text": "Традесканция медленнорастущая. Растёт шапочкой. Бело-зелёная. На фото 2 взрослое растение (не продаётся).\n",
+  "post_date": "  4 октября в 21:25  ",
+  "seller_link": "/user/7bfa29ddae1a6ee2e3ce5a37ca7071d2/profile?id=1017118125&src=item"
+}

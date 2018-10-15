@@ -1,0 +1,12 @@
+{
+  "price": 30,
+  "seller_status": "Частное лицо",
+  "index": 1018389327,
+  "title": "Фиалка - сорт Dixie Doris",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_dixie_doris_1018389327",
+  "seller": "Алёна",
+  "address": "Москва, м. Каширская",
+  "text": "Фиалки - сорт Dixie Doris. \n(черенки - 30 руб., детки, стартеры, взрослые). \nЕсть другие сорта.\n",
+  "post_date": "  5 октября в 13:32  ",
+  "seller_link": "/user/7ce6d64ecd5b00fa79c1310ec3059e77/profile?id=1018389327&src=item"
+}

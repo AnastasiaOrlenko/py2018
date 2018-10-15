@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nabor_listov_10_20_sht_sortovyh_fialok_977108975",
+  "price": 300,
+  "seller": "Violets",
+  "post_date": "  08 October в 23:59  ",
+  "title": "Набор листов 10, 20 шт сортовых фиалок",
+  "text": "Набор листов 10 - 300₽, 20-500₽, 30-800₽, 40 - 1000₽. В основном мини , на ваш выбор из моего каталога. Больше 150 сортов. Спрашивайте сорта, которые ищите.\n",
+  "index": 977108975,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/424a50f325b1cdb66f3cac40ccdd3510/profile?id=977108975&src=item"
+}

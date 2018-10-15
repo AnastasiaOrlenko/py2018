@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1284249071,
+  "seller": "Эля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_1284249071",
+  "address": "Москва, м. Октябрьское поле",
+  "title": "Рео",
+  "seller_link": "/user/c7760812ecdcd6dd5fa9e294c9c6d676/profile?id=1284249071&src=item",
+  "text": "Не прихотлив в уходе\n",
+  "post_date": "  07 October в 22:22  "
+}

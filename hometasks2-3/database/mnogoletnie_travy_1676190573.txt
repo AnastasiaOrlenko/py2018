@@ -1,0 +1,13 @@
+{
+  "price": 160,
+  "seller_status": "Компания",
+  "index": 1676190573,
+  "title": "Многолетние травы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mnogoletnie_travy_1676190573",
+  "seller": "ПРИАП",
+  "seller-contact": "Вячеславович",
+  "address": "Москва, м. Арбатская",
+  "text": "смесь для восстановления плодородного слоя, и укрепления откосов обочин, при засеявании карьеров,\n",
+  "post_date": "  6 октября в 16:51  ",
+  "seller_link": "/user/3d4e051e9c28d60d87c911800bca7fc1/profile?id=1676190573&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 350,
+  "index": 1043296153,
+  "seller": "Мария",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_archboldiana_1043296153",
+  "address": "Москва, м. Марьино",
+  "title": "Хойя archboldiana",
+  "seller_link": "/user/2850e6a01f4c94f2bd5e806f7c0a376c/profile?id=1043296153&src=item",
+  "text": "Хойя арчболдиана. Так же в наличии много других сортов хойи, аглаонема, диффенбахия, филодендроны, замиокулькасы, дримиопсис, леписмиум, сансевиерии и другие суккуленты. Все вопросы только через форму Написать сообщение.\n",
+  "seller-contact": "Мария",
+  "post_date": "  08 October в 05:43  "
+}

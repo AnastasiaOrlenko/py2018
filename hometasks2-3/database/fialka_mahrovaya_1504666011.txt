@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_mahrovaya_1504666011",
+  "price": 150,
+  "seller": "Ольга",
+  "post_date": "  08 October в 16:52  ",
+  "title": "Фиалка махровая",
+  "text": "Продам взрослую фиалку. Махровая, фиолетовая (название сорта потеряла). Крепкое и здоровое растение.\n",
+  "index": 1504666011,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/7a902822bf2fd08ced1a135b25d5240b/profile?id=1504666011&src=item"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Алоэ",
+  "address": "Москва, м. Братиславская",
+  "seller": "Kate",
+  "seller_link": "/user/46ea5c2770de25e3fb1f9556d1cd2c66/profile?id=1503205819&src=item",
+  "index": 1503205819,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1503205819",
+  "text": "Растения от 1-4 лет.Цена договорная.телефон4957706310\n",
+  "post_date": "  4 октября в 17:51  "
+}

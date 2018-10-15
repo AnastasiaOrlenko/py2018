@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1020937649,
+  "title": "Примулы,маргаритки и другие растения для сада",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/primulymargaritki_i_drugie_rasteniya_dlya_sada_1020937649",
+  "seller": "RexVill",
+  "address": "Москва, м. Кунцевская",
+  "text": "Предлагаю выращенные на своём огороде растения.По запросу вышлю каталог с фотографиями и ценами.\nМаргаритки(смесь) и примулы по 150 р за деленку.\n",
+  "post_date": "  5 октября в 22:35  ",
+  "seller_link": "/user/dd976366c0a7b4893b48510fceaf8de8/profile?id=1020937649&src=item"
+}

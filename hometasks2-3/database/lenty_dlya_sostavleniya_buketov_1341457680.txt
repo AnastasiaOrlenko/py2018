@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 140,
+  "index": 1341457680,
+  "seller": "Валерий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lenty_dlya_sostavleniya_buketov_1341457680",
+  "address": "Москва, м. Электрозаводская",
+  "title": "Ленты для составления букетов",
+  "seller_link": "/user/de5446e91d5835f2869410e8960b7baf/profile?id=1341457680&src=item",
+  "text": "50 метровые 2шт. По 100р\n100 метровые 1шт. 140р\n",
+  "post_date": "  08 October в 08:38  "
+}

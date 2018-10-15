@@ -1,0 +1,12 @@
+{
+  "price": 2000,
+  "seller_status": "Частное лицо",
+  "index": 1381750664,
+  "title": "Фикус Бенжамина 175см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_benzhamina_175sm_1381750664",
+  "seller": "robot",
+  "address": "Москва, м. Домодедовская",
+  "text": "Растению уже 5 лет высота 175см полностью здорово . Торг .\n",
+  "post_date": "  6 октября в 10:56  ",
+  "seller_link": "/user/16a96ca32c4a242304f935c633897d3c/profile?id=1381750664&src=item"
+}

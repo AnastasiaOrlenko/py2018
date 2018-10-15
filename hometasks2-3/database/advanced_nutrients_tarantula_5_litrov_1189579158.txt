@@ -1,0 +1,12 @@
+{
+  "price": 10000,
+  "seller_status": "Частное лицо",
+  "index": 1189579158,
+  "title": "Advanced Nutrients Tarantula, 5 литров",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/advanced_nutrients_tarantula_5_litrov_1189579158",
+  "seller": "Mike",
+  "address": "Москва",
+  "text": "Advanced Nutrients Tarantula, 5 литров.\n",
+  "post_date": "  5 октября в 15:43  ",
+  "seller_link": "/user/7a2facde0c8ce22fc9d5353b64013c44/profile?id=1189579158&src=item"
+}

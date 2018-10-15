@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кантемировская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_1499848262",
+  "price": 150,
+  "seller": "Олеся",
+  "post_date": "  08 October в 23:24  ",
+  "title": "Золотой ус",
+  "text": "Отростки пророщенные, цена за штуку.\n",
+  "index": 1499848262,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/2eac450dcb4dc818bf1a61238a80bea9/profile?id=1499848262&src=item"
+}

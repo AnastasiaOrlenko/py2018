@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1250253952,
+  "title": "Подставка для цветов",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/podstavka_dlya_tsvetov_1250253952",
+  "seller": "Людмила",
+  "address": "Зеленоград",
+  "text": "продаю настенную подставку для цветов.\n",
+  "post_date": "  4 октября в 22:19  ",
+  "seller_link": "/user/6f796436dcccd0a7c61df14cda526c5d/profile?id=1250253952&src=item"
+}

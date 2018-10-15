@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "seller": "Нина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hosty_1712602451",
+  "seller_status": "Частное лицо",
+  "title": "Хосты",
+  "post_date": "  08 October в 13:34  ",
+  "price": 100,
+  "index": 1712602451,
+  "seller_link": "/user/4945fa5ea71da33940787343b6105595/profile?id=1712602451&src=item",
+  "text": "Хосты и другие красиволистные растения - многолетники, морозоустойчивые. Оптом.\n"
+}

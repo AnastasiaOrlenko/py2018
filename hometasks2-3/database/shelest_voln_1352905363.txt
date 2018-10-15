@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1352905363,
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shelest_voln_1352905363",
+  "address": "Москва, м. Жулебино",
+  "title": "Шелест волн",
+  "seller_link": "/user/2628176168fe503383c073b979acd9f1/profile?id=1352905363&src=item",
+  "text": "Шелест волн то что на фото\n",
+  "post_date": "  08 October в 05:01  "
+}

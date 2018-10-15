@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1498576697,
+  "seller": "Моника",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_klubnikipolza_i_krasota_1498576697",
+  "address": "Москва, м. Новогиреево",
+  "title": "Букет из клубники,польза и красота",
+  "seller_link": "/user/4713717ceecfaaa06272e1db2a22dfea/profile?id=1498576697&src=item",
+  "text": "Красивые букеты из клубники\nРазмер:\nS-1500\nМ-2500\nL-4000\n",
+  "post_date": "  07 October в 15:46  "
+}

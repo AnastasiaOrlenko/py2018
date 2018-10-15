@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Растение манго, выращенное из косточки. Отдам в хорошие руки\n",
+  "index": 1313485473,
+  "title": "Манго",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mango_1313485473",
+  "seller": "Полина",
+  "address": "Москва, м. Беляево",
+  "post_date": "  6 октября в 17:32  ",
+  "seller_link": "/user/7bcd78117af37be45628514c2ace55f6/profile?id=1313485473&src=item"
+}

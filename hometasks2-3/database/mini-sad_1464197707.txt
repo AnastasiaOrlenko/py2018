@@ -1,0 +1,12 @@
+{
+  "title": "Мини-сад",
+  "price": 1000,
+  "seller": "Елена Зайцева",
+  "seller_link": "/user/e9fcdbf00cf6d6527ce11641b4c6a44a/profile?id=1464197707&src=item",
+  "address": "Москва, м. Митино",
+  "index": 1464197707,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/mini-sad_1464197707",
+  "text": "Отличный вариант подарка！Оригинально и красиво！Зеленоград, Брехово, Митино\n",
+  "post_date": "  4 октября в 17:19  "
+}

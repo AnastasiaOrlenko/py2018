@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1163264320,
+  "title": "Драцена Рефлекса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_refleksa_1163264320",
+  "seller": "Мария",
+  "address": "Москва, м. Коломенская",
+  "text": "высота 1м.\n",
+  "post_date": "  5 октября в 00:17  ",
+  "seller_link": "/user/0e9cfdbd7d4b0ec69dcc72d51029eac8/profile?id=1163264320&src=item"
+}

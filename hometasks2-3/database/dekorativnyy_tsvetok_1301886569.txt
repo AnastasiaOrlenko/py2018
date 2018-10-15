@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Красносельская",
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekorativnyy_tsvetok_1301886569",
+  "seller_status": "Частное лицо",
+  "title": "Декоративный цветок",
+  "post_date": "  08 October в 14:22  ",
+  "price": 300,
+  "index": 1301886569,
+  "seller_link": "/user/c7436e5a78dbc0097fffd86964b84f69/profile?id=1301886569&src=item",
+  "text": "Цветок искусственный. Б у. 300р\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1700640033,
+  "title": "Комнатный цветок молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_molochay_1700640033",
+  "seller": "валентина",
+  "address": "Москва, м. Перово",
+  "text": "Цветок в горшке Возраст 2 года-вырастает в высоту.\n",
+  "post_date": "  6 октября в 14:38  ",
+  "seller_link": "/user/ac2cdb82a8401a9e36a24d9fa2c03f04/profile?id=1700640033&src=item"
+}

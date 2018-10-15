@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1072759324,
+  "title": "Хлорофитум, взрослое мощное растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_vzrosloe_moschnoe_rastenie_1072759324",
+  "seller": "Людмила",
+  "address": "Москва, м. Царицыно",
+  "text": "Продаю взрослое мощное растение хлорофитум кудрявый. Высота с горшком 35 см, ширина 55 см. На растение видно множество веток с детками.\n",
+  "post_date": "  6 октября в 16:10  ",
+  "seller_link": "/user/918b6c6bb2a34305b7f321d8b06373a8/profile?id=1072759324&src=item"
+}

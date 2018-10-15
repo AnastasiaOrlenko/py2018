@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 984307157,
+  "title": "Колбы для автополива Aqua Globes",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kolby_dlya_avtopoliva_aqua_globes_984307157",
+  "seller": "Дина",
+  "seller-contact": "Дина",
+  "address": "Москва, м. Братиславская",
+  "text": "В упаковке две штуки. \nХватает на 2-3 недели.\n",
+  "post_date": "  07 October в 08:23  ",
+  "seller_link": "/user/260eb0cecedb0ae50bf54044a254804e/profile?id=984307157&src=item"
+}

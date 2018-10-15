@@ -1,0 +1,12 @@
+{
+  "seller-contact": "продавец",
+  "seller": "продавец",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_ili_denezhnoe_derevo_1038889228",
+  "seller_status": "Компания",
+  "title": "Толстянка или денежное дерево",
+  "seller_link": "/user/538760acd68e6ad12cf4b83a01aedd87/profile?id=1038889228&src=item",
+  "index": 1038889228,
+  "post_date": "  08 October в 12:38  ",
+  "address": "Москва, м. Щелковская",
+  "text": "Отростки разных размеров. Самовывоз.\n"
+}

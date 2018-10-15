@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1678819070,
+  "seller": "вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nastennyy_derzhatel_dlya_gorshkov_1678819070",
+  "address": "Москва, м. Щелковская",
+  "title": "Настенный держатель для горшков",
+  "seller_link": "/user/0a72f1c2b9b4f09f47b7cec73794a475/profile?id=1678819070&src=item",
+  "text": "Для двух горшков\n",
+  "post_date": "  07 October в 20:22  "
+}

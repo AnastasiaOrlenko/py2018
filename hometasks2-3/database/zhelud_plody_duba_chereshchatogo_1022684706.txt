@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/78aa1863895c701409f82150d6638f99/profile?id=1022684706&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zhelud_plody_duba_chereshchatogo_1022684706",
+  "post_date": "  08 October в 09:42  ",
+  "address": "Москва, м. Ясенево",
+  "seller": "Сергей",
+  "text": "Продаю желуди и крышечки для поделок и пр. Плоды крупные, цельные.\nЖелудь- 4руб/шт.\nКрышечка - 2руб/шт.\nСергей. Встреча по договоренности.\n",
+  "index": 1022684706,
+  "seller_status": "Частное лицо",
+  "price": 4,
+  "title": "Желудь (плоды дуба черешчатого)"
+}

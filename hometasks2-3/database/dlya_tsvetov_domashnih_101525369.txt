@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/e3a242566513c3407a9bc31169973c1d/profile?id=101525369&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dlya_tsvetov_domashnih_101525369",
+  "post_date": "  08 October в 10:15  ",
+  "address": "Москва, м. Новые Черемушки",
+  "seller": "Татьяна",
+  "text": "Декоративные камни для оформления суккулентов и кактусов\nвпрочем и для любого творчества можно использовать\nвсе за 150 руб. \nПодвезу к любой станции метро.\n",
+  "index": 101525369,
+  "seller_status": "Компания",
+  "price": 150,
+  "title": "Для цветов домашних"
+}

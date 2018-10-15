@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1100646433,
+  "title": "Горшки с самополивом Tupperware",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_s_samopolivom_tupperware_1100646433",
+  "seller": "Maрьяна",
+  "address": "Москва, м. Тропарево",
+  "text": "Состояние отличное\n1 шт - 1500₽\n",
+  "post_date": "  5 октября в 12:52  ",
+  "seller_link": "/user/2f6c723a15180ab03fd2ad72500142fe/profile?id=1100646433&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1690,
+  "seller_status": "Магазин",
+  "index": 1133696854,
+  "title": "Свежие цветы в ящичке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/svezhie_tsvety_v_yaschichke_1133696854",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Свежие цветы в оригинальной упаковке деревянном ящичке. Доставка и самовывоз по Москве и обл\n",
+  "post_date": "  6 октября в 22:34  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

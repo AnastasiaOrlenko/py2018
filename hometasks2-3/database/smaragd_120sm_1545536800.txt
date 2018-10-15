@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1545536800,
+  "title": "Смарагд 120см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/smaragd_120sm_1545536800",
+  "seller": "Анна",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Пушистые туи Смарагд. 120см. Возможна доставка от 10 шт.Полная консультация по посадке и уходу.\n",
+  "post_date": "  6 октября в 11:01  ",
+  "seller_link": "/user/62ceb951a38c8723e0b7536f80523b77/profile?id=1545536800&src=item"
+}

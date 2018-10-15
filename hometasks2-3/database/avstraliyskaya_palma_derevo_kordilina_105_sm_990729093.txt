@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/b28c96e40991c24240728ab1819f8de3/profile?id=990729093&src=item",
+  "seller-contact": "Всё своё",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/avstraliyskaya_palma_derevo_kordilina_105_sm_990729093",
+  "post_date": "  08 October в 10:22  ",
+  "address": "Москва, м. Профсоюзная",
+  "seller": "Не компания",
+  "text": "Австралийская капустная пальма в горшке Кордилина 105 см. Неприхотлива в уходе.\n",
+  "index": 990729093,
+  "seller_status": "Компания",
+  "price": 1000,
+  "title": "Австралийская пальма дерево кордилина 105 см"
+}

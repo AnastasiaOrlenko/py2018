@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Медведково",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_sortovye_1619580317",
+  "seller_link": "/user/e2c81a2d3ee374bf8ca5f7fdf4b0965b/profile?id=1619580317&src=item",
+  "seller": "Ирина",
+  "post_date": "  08 October в 22:25  ",
+  "title": "Хойи сортовые",
+  "text": "Укорененные черенки хой, все с молодыми ростами, есть молодые растения. Каталог по запросу. Высылаю в другие города.\n",
+  "index": 1619580317,
+  "seller_status": "Компания"
+}

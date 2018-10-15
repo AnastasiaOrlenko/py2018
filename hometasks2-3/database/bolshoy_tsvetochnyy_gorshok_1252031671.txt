@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1252031671,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoy_tsvetochnyy_gorshok_1252031671",
+  "address": "Москва, м. ВДНХ",
+  "title": "Большой цветочный горшок",
+  "seller_link": "/user/9dd2282b4bf35e9c9777c75418ead7fb/profile?id=1252031671&src=item",
+  "text": "Самовывоз. С поддоном. Размеры: ширина -34 см, высота-30 см\n",
+  "post_date": "  07 October в 19:03  "
+}

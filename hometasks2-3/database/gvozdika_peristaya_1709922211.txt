@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица Скобелевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gvozdika_peristaya_1709922211",
+  "price": 200,
+  "seller": "Оксана",
+  "post_date": "  08 October в 19:35  ",
+  "title": "Гвоздика перистая",
+  "text": "Почвопокровного характера, цветет облаком, ароматная.\n",
+  "index": 1709922211,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/202a08d6828ba3bffaa0de59df943faf/profile?id=1709922211&src=item"
+}

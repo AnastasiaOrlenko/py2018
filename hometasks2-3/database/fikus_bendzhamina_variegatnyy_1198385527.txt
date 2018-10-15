@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1198385527,
+  "title": "Фикус Бенджамина вариегатный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_variegatnyy_1198385527",
+  "seller": "Андрей",
+  "address": "Москва, м. Новогиреево",
+  "text": "Продам 3 фикуса Бенджамина (вариегатная форма).\n",
+  "post_date": "  5 октября в 09:20  ",
+  "seller_link": "/user/2ee0e30fe616cb119322b3d80aa46d80/profile?id=1198385527&src=item"
+}

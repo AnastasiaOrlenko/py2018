@@ -1,0 +1,12 @@
+{
+  "price": 7500,
+  "seller_status": "Частное лицо",
+  "index": 1329341583,
+  "title": "Хойя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_1329341583",
+  "seller": "Юлия",
+  "address": "Москва, м. Рязанский проспект",
+  "text": "Большая, красивая хойя. Цветёт часто и обильно. Украсит любой интерьер. Высота - 130 см.\n",
+  "post_date": "  5 октября в 12:14  ",
+  "seller_link": "/user/677e144f59bd1e155281e787e9277120/profile?id=1329341583&src=item"
+}

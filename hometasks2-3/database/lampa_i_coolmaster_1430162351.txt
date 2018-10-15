@@ -1,0 +1,12 @@
+{
+  "text": "Growlamp 1000W HPS и к ней Coolmaster.\nВ отличном состоянии.\n",
+  "title": "Лампа и Coolmaster",
+  "price": 7000,
+  "index": 1430162351,
+  "address": "Москва, м. Нахимовский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lampa_i_coolmaster_1430162351",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:40  ",
+  "seller": "Георгий",
+  "seller_link": "/user/3ab98ff105886e50ef9e015048386020/profile?id=1430162351&src=item"
+}

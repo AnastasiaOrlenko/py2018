@@ -1,0 +1,12 @@
+{
+  "price": 15,
+  "seller_status": "Компания",
+  "index": 1722690903,
+  "title": "Шишки сосновые большие Крымские 7-8 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishki_sosnovye_bolshie_krymskie_7-8_sm_1722690903",
+  "seller": "Ирина",
+  "address": "Москва, м. Кузьминки",
+  "text": "Шишки южной сосны 7-8 см.\n20 шт. - 350 р.\n50 шт. - 700 р.\nШишки южной сосны 5-6 см\n20 шт. - 300 р.\n50 шт. - 600 р.\n",
+  "post_date": "  5 октября в 12:07  ",
+  "seller_link": "/user/80bccc07955aa4edeb5bc82d317b91b0/profile?id=1722690903&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 449,
+  "seller_status": "Компания",
+  "index": 96643527,
+  "title": "Дионея -венерина мухоловка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dioneya_-venerina_muholovka_96643527",
+  "seller": "Сергей",
+  "address": "Москва, м. Таганская",
+  "text": "Дионея -венерина мухоловка от 449р.\nВозможна доставка как по Москве так и в другие города.\n",
+  "post_date": "  5 октября в 06:50  ",
+  "seller_link": "/user/69f51cf2e55db9b9616372b8a88c7e22/profile?id=96643527&src=item"
+}

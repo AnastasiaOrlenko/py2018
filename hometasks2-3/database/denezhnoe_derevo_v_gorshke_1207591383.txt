@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Фрунзенская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_v_gorshke_1207591383",
+  "price": 1500,
+  "seller": "Наталья",
+  "post_date": "  08 October в 22:27  ",
+  "title": "Денежное дерево в горшке",
+  "text": "растет более 15 лет. размер от верхней кромки горшка в высоту 60 см, в ширину 70 см. \nзабирать с 3-й фрунзенской\n",
+  "index": 1207591383,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e6ae515f56002fdd506e881c30319118/profile?id=1207591383&src=item"
+}

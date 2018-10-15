@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1525469067,
+  "title": "Универсальный термометр для растений и улицы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/universalnyy_termometr_dlya_rasteniy_i_ulitsy_1525469067",
+  "seller": "Анастасия",
+  "address": "Москва, м. Перово",
+  "text": "в наличии 2 штуки-черный и белый.\nработает от 2 таблеток AG13\n",
+  "post_date": "  5 октября в 14:10  ",
+  "seller_link": "/user/98f2a674e65be6b37628658b2bc7793a/profile?id=1525469067&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1300,
+  "seller_status": "Частное лицо",
+  "index": 782703073,
+  "title": "Плодородный грунт с доставкой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/plodorodnyy_grunt_s_dostavkoy_782703073",
+  "seller": "Юрий",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Отличный грунт для теплиц и огорода, качество подтверждено сертификатом. Доставка самосвалами 15 и 20 кубов. Цена 1300 за куб\n",
+  "post_date": "  6 октября в 14:26  ",
+  "seller_link": "/user/e7c0a7c72f927450a1e59509ff6fc1b9/profile?id=782703073&src=item"
+}

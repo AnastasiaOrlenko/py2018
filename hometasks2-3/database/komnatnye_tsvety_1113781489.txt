@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Денежное дерево три отростка и кактусы маленькие 4 шт. по 100р. \nГлоксиния розовая и белая фото 4) 250р за одну\nГоршки 3шт отдам\nсамовывоз\n",
+  "index": 1113781489,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_1113781489",
+  "address": "Москва, м. Новокосино",
+  "title": "Комнатные цветы",
+  "seller_link": "/user/3fa5b0f7f177779521854c1aecba14ed/profile?id=1113781489&src=item",
+  "post_date": "  07 October в 18:59  "
+}

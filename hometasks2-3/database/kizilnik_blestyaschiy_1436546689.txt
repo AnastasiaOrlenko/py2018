@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Улица Скобелевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kizilnik_blestyaschiy_1436546689",
+  "price": 300,
+  "seller": "Оксана",
+  "post_date": "  08 October в 19:34  ",
+  "title": "Кизильник блестящий",
+  "text": "Прекрасно украсит альпийскую горку, будет яркой изюминкой вашего сада.\n",
+  "index": 1436546689,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/202a08d6828ba3bffaa0de59df943faf/profile?id=1436546689&src=item"
+}

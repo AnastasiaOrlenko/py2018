@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1014336977,
+  "title": "Спацифилум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatsifilum_1014336977",
+  "seller": "Любовь",
+  "address": "Москва, м. Выхино",
+  "text": "Продам большой отросток отделён от материнского растения.\n",
+  "post_date": "  5 октября в 22:14  ",
+  "seller_link": "/user/3668fd081ca7fc9d9401b3fb5699bcca/profile?id=1014336977&src=item"
+}

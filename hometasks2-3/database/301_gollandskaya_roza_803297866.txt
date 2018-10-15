@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/c09d657e664fdd9da00110b878242e72/profile?id=803297866&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/301_gollandskaya_roza_803297866",
+  "post_date": "  08 October в 09:25  ",
+  "address": "Москва, м. Тимирязевская",
+  "seller": "GUGS Jewelry",
+  "text": "АКЦИЯ !!! 301 голландская роза по супер цене !!!высота роз 60см\n",
+  "index": 803297866,
+  "seller_status": "Компания",
+  "price": 13500,
+  "title": "301 голландская роза"
+}

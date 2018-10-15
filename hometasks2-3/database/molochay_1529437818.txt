@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1529437818,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_1529437818",
+  "address": "Москва, м. Марьино",
+  "title": "Молочай",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1529437818&src=item",
+  "text": "Продам растение-молочай. Высота растения 57 см. В горшке множество отростков каланхоэ лекарственое. Возможна доставка до любой станции метро.\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 16:35  "
+}

@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1334605577,
+  "title": "Горшки для цветов (орхидей)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_dlya_tsvetov_orhidey_1334605577",
+  "seller": "Виктория",
+  "seller-contact": "Виктория",
+  "address": "Москва, м. Говорово",
+  "text": "2 горшка продам за 700 руб. В подарок палочки для поддержания цветов.\n",
+  "post_date": "  5 октября в 18:02  ",
+  "seller_link": "/user/b56a61db6dc57b2606a12d397f573ad3/profile?id=1334605577&src=item"
+}

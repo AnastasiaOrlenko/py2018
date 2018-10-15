@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Перово",
+  "seller": "Наталия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoe_kashpo_dlya_rasteniy_1250965998",
+  "seller_status": "Компания",
+  "title": "Большое кашпо для растений",
+  "post_date": "  08 October в 12:05  ",
+  "price": 150,
+  "index": 1250965998,
+  "seller_link": "/user/2c4f8671d0645ead76438ebeecb10d34/profile?id=1250965998&src=item",
+  "text": "Белый пластиковый горшок: высота 23 см. Верхний диаметр 29,5 см. Цена 150 руб.\n"
+}

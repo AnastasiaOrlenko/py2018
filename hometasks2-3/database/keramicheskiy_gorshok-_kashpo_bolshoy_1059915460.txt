@@ -1,0 +1,12 @@
+{
+  "price": 800,
+  "seller_status": "Частное лицо",
+  "index": 1059915460,
+  "title": "Керамический горшок- кашпо большой",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskiy_gorshok-_kashpo_bolshoy_1059915460",
+  "seller": "Наталья",
+  "address": "Москва, м. Пражская",
+  "text": "Продаю горшок 35×35 большой . Без дефектов.самовывоз\n",
+  "post_date": "  6 октября в 11:27  ",
+  "seller_link": "/user/73049d5f7101ae970c6a240193ff6adb/profile?id=1059915460&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/leyka_13_litra_1293593956",
+  "seller-contact": "Галина Анатольевна",
+  "price": 100,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:48  ",
+  "title": "Лейка 1,3 литра",
+  "text": "Лейка из пластмассы голубого цвета. Емкость 1,3 л. Используется для полива комнатных растений.\n",
+  "index": 1293593956,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=1293593956&src=item"
+}

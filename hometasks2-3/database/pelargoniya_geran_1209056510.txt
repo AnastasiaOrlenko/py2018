@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1209056510,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_1209056510",
+  "address": "Москва, м. Римская",
+  "title": "Пеларгония герань",
+  "seller_link": "/user/e45516de4863831619d811cf13f5f5b2/profile?id=1209056510&src=item",
+  "text": "Продаю розебудную красную пеларгонию в вазонах, до 4-х кустов в каждом горшке, так как привезла с дачи на зиму и некуда ставить 500-600 рублей. Также розовую махровую Cadara Barrierи лососевую. См. Фото\n",
+  "post_date": "  07 October в 16:01  "
+}

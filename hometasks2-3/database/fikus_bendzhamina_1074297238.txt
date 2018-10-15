@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1074297238,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1074297238",
+  "seller": "Ирина",
+  "address": "Москва, м. Первомайская",
+  "text": "Фикус Бенджамина\nВысота 24 см.\n",
+  "post_date": "  6 октября в 09:51  ",
+  "seller_link": "/user/a03d71870e6d0532c16ede23d1727170/profile?id=1074297238&src=item"
+}

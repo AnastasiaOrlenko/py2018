@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 450,
+  "index": 1476292579,
+  "seller": "Егор",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_kalei_zakatechichi_calea_zakatechichi_1476292579",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Саженцы Калеи Закатечичи (Calea Zakatechichi)",
+  "seller_link": "/user/f9f579cf23b8506f21feb2ddc9dcd9b1/profile?id=1476292579&src=item",
+  "text": "Укорененные ростки замечательного растения. Доставка по Москве до любого метро и почтой/транспортными компаниями по России.\nКалея закатечичи Calea zakatechichi - растение, настой (отвар) из калеи помогает улучшению пищеварения, укрепляет здоровье, делает сон глубже. Есть также высушенные растения, для \"гербария\"!\n",
+  "post_date": "  07 October в 15:31  "
+}

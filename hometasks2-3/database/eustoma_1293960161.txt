@@ -1,0 +1,12 @@
+{
+  "text": "Эустома свежая\n",
+  "title": "Эустома",
+  "price": 90,
+  "index": 1293960161,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eustoma_1293960161",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

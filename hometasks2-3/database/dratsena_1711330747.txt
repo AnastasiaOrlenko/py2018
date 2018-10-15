@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1711330747,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1711330747",
+  "seller": "Кама",
+  "address": "Москва, м. Новогиреево",
+  "text": "Драцена наша вымахала, уже больше 1,5 метров!!! Места мало! продам в хорошие заботливые руки. 5 лет цветочку. Отдадим с горшком.\n",
+  "post_date": "  5 октября в 10:33  ",
+  "seller_link": "/user/83853d8e56db6a6a4a64cb231d48d7bd/profile?id=1711330747&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 360,
+  "seller_status": "Частное лицо",
+  "index": 1068241579,
+  "title": "Комбайны для сбора ягод. Финляндия, разной ширины",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kombayny_dlya_sbora_yagod._finlyandiya_raznoy_shiriny_1068241579",
+  "seller": "Дмитрий",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Новые комбайны для сбора ягод. Ширина:10,14,17,22 см. Производитель -Финляндия.Зубья -метал, а так же есть пластик.\nСбор ягод, савочки, совочки, комбайн, ягоды\n",
+  "post_date": "  4 октября в 21:06  ",
+  "seller_link": "/user/c4c6e768e9133339da41f86923def53b/profile?id=1068241579&src=item"
+}

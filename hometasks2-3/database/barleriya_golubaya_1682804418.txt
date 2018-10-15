@@ -1,0 +1,13 @@
+{
+  "text": "Молодое давно укоренённое растение\n",
+  "title": "Барлерия голубая",
+  "price": 150,
+  "index": 1682804418,
+  "address": "Москва, м. Пражская",
+  "seller-contact": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/barleriya_golubaya_1682804418",
+  "seller_status": "Компания",
+  "post_date": "  12 October в 22:49  ",
+  "seller": "АННА",
+  "seller_link": "/user/8b7932a03297d8ceff945c5b36ce68b6/profile?id=1682804418&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 3000,
+  "seller_status": "Компания",
+  "index": 1449274727,
+  "title": "Цветок декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_dekabrist_1449274727",
+  "seller": "виктория",
+  "address": "Москва, м. Царицыно",
+  "text": "предлагаю цветок декабрист, очень мощный, возраст примерно 30 лет, при вашем уходе будет вас радовать обильным цветением.\n",
+  "post_date": "  6 октября в 12:07  ",
+  "seller_link": "/user/54abc98adb3c30f9dd580169bd9b1fc0/profile?id=1449274727&src=item"
+}

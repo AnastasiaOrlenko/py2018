@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 539270250,
+  "seller": "Владимир Александрович",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhentsy_vitaminnogo_shipovnika_v_vozr._2-h_let_539270250",
+  "address": "Москва, м. Бунинская аллея",
+  "title": "Саженцы витаминного шиповника в возр. 2-х лет",
+  "seller_link": "/user/fd2138d14c206f0b3ef7e66e11616345/profile?id=539270250&src=item",
+  "text": "Саженцы витаминного шиповника с повышенным содержанием витамина \"С\". Высота саженцев 1.5-2м в возрасте 2-х лет.\n",
+  "seller-contact": "Владимир Александрович",
+  "post_date": "  07 October в 17:11  "
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Продаю хойи. Укоренённые черенки и срезка. На фото только мои домашние растения. Не теплица, не тай. Все черенки только от моих адаптированных растений. Фото черенков по запросу. Можно Viber, WhatsApp. Покупку от 500р. могу привезти на любую ст. метро. Доставка бесплатно. Возможна встреча в Мытищах, Королёве.\nСписок редактирую, дополняю.\nH. Macrophylla \"Pot of Gold\"(фото 1)-300p.\nH. Macrophylla var.(фото 1)-250р.\nН. Australis Lisa(фото 2)-200р.\nH. Kentiana var.(фото 3)-400р.\nH. Heuschkeliana var.(фото 4)-200р.\nH. Obovata var.(фото 5)-350р.\nH. Verticillata var.(фото 6)-300р.\nH. sp. EPC-260(фото 7)-800р.\nH. cv. Mathilde splash(фото 8)-100р.\nH. Elliptica splash(фото 9)-200р.\nH. Megalaster(фото 10)-350р.\nH. Carnosa Grey Ghost-300p.\nH. Macrophylla Bai Bur-500p.\nH. Villosa-800p.\nH. aff Villosa Cao Dang Vietnam-800p.\nH. Kerrii albomarginata -400p.\nH. sp. Borneo Gunung Gading-200p.\nH. Lacunosa Langkawi -100p.\nH. Lacunosa Laos full splash -100p.\nH. Lacunosa Royal Flush -100p.\nH. Tsangii var.-100p.\nH. Parasitica Lao -100p.\nH. Parasitica alb. -200p.\nH. Australis alb. -200p.\nH. Minibelle splash -200p.\nH. Kenejiana alb. -200p.\nH. Wibergiae -200p.\nH. sp. Kalimantan -250p.\nH. Multiflora var. -150p.\nH. Manipurensis -100p.\nH. Kanyakumariana -100p.\nH. Pubicalyx \"Red Button\" -100p.\nH. Curtisii -100p.\nH. Blashernaezii -100p.\nH. sp.EPC-600 -100p.\nH. sp. Biakensis -100p.\nH. Fitchii -100p.\nH. Lеnearis -100p.\nH. Sigillatis -100p.\nH. Obscura -100p.\n",
+  "title": "Хойи",
+  "price": 100,
+  "index": 1624609522,
+  "address": "Москва, м. ВДНХ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_1624609522",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 08:17  ",
+  "seller": "яна",
+  "seller_link": "/user/0bc6ae652d5a99028e5e1086f6851520/profile?id=1624609522&src=item"
+}

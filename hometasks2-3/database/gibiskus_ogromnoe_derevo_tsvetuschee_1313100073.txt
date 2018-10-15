@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/f9fbae03e5cd20fc48e19b1e524c762f/profile?id=1313100073&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_ogromnoe_derevo_tsvetuschee_1313100073",
+  "post_date": "  08 October в 10:25  ",
+  "address": "Москва, м. Китай-город",
+  "seller": "КрисТина",
+  "text": "Регулярно цветет. \nНа фото есть бутоны которые распустятся в ближайшее время.\nБольшое пластиковое ведро.\n165 высота от пола. Высота горшка 26\n",
+  "index": 1313100073,
+  "seller_status": "Частное лицо",
+  "price": 1800,
+  "title": "Гибискус, огромное дерево цветущее"
+}

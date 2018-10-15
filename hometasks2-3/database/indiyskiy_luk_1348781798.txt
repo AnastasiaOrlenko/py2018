@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1348781798,
+  "title": "Индийский лук",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/indiyskiy_luk_1348781798",
+  "seller": "Oksana",
+  "address": "Москва, м. Медведково",
+  "text": "Продаю лечебный индийский лук в горшке (без кашпо!!!).\nСАМОВЫВОЗ\n",
+  "post_date": "  4 октября в 22:50  ",
+  "seller_link": "/user/86a69a0c2dc247ce73f12b3716ba7c29/profile?id=1348781798&src=item"
+}

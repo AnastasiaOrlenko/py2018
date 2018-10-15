@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1375617549,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_i_dratseny_1375617549",
+  "address": "Москва, м. Селигерская",
+  "title": "Хлорофитум и драцены",
+  "seller_link": "/user/a7d1453ca3f65339a584d4b071bd2e5d/profile?id=1375617549&src=item",
+  "text": "Раздаю цветочки в добрые руки\n",
+  "post_date": "  07 October в 13:52  "
+}

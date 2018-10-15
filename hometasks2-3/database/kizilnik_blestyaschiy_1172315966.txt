@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 75,
+  "index": 1172315966,
+  "seller": "иван",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kizilnik_blestyaschiy_1172315966",
+  "address": "Москва, м. Охотный ряд",
+  "title": "Кизильник блестящий",
+  "seller_link": "/user/a8cf62d18747f135ca608e53fdca8b42/profile?id=1172315966&src=item",
+  "text": "Кизильник блестящий,Высота 60-80 голый корень(Окс),упаковка в сырую глину и пакет.5-7 побегов.Стоимость 75рублей.Доставка. Такой кизильник только у меня!!!\n",
+  "post_date": "  08 October в 08:38  "
+}

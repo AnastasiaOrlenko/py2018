@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 350,
+  "index": 1588710586,
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1588710586",
+  "address": "Москва, м. Марьино",
+  "title": "Алоэ",
+  "seller_link": "/user/0d802ce8bac264e204ce175be586f8ce/profile?id=1588710586&src=item",
+  "text": "Продам алоэ,забрать можно в удобное для вас время,если есть вопросы-пишите на авито,или звоните.\n",
+  "seller-contact": "Руслана",
+  "post_date": "  07 October в 17:08  "
+}

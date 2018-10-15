@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Новокосино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1344400307",
+  "seller-contact": "Мария",
+  "price": 350,
+  "seller": "Мария",
+  "post_date": "  08 October в 21:36  ",
+  "title": "Антуриум",
+  "text": "Антуриум цветок благополучия и достатка \nПо фен шуй другое название Мужское счастье приносит удачу в дом \nВозможен обмен \nПродажа 2 и 3 фото\n",
+  "index": 1344400307,
+  "seller_status": "Компания",
+  "seller_link": "/user/1869f8eeb7bf6c5cb46b358e811b7b12/profile?id=1344400307&src=item"
+}

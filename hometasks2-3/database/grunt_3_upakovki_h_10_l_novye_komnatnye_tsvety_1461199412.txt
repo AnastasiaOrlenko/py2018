@@ -1,0 +1,13 @@
+{
+  "text": "новые 2 упаковки х 10 л и 1 шт - 13 л\n",
+  "title": "Грунт 3 упаковки х 10 л новые комнатные цветы",
+  "price": 190,
+  "index": 1461199412,
+  "address": "Москва, м. Калужская",
+  "seller-contact": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grunt_3_upakovki_h_10_l_novye_komnatnye_tsvety_1461199412",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:42  ",
+  "seller": "частное лицо",
+  "seller_link": "/user/db439ca691b442df39ce2daa70025fdb/profile?id=1461199412&src=item"
+}

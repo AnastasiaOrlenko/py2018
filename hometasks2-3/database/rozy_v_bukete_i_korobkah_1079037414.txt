@@ -1,0 +1,12 @@
+{
+  "price": 55,
+  "seller_status": "Частное лицо",
+  "index": 1079037414,
+  "title": "Розы в букете и коробках",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_v_bukete_i_korobkah_1079037414",
+  "seller": "Марина",
+  "address": "Москва, м. Войковская",
+  "text": "Цветы в подарочной коробке 16-35см, от 1600-5500\n",
+  "post_date": "  5 октября в 00:55  ",
+  "seller_link": "/user/87e6f0499a8b6158270e034a8de45cea/profile?id=1079037414&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 4700,
+  "seller_status": "Компания",
+  "index": 984620641,
+  "title": "Орхидея Неофинетия фальката benitengu",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_neofinetiya_falkata_benitengu_984620641",
+  "seller": "Valerya",
+  "seller-contact": "не компания",
+  "address": "Москва, м. Беляево",
+  "text": "Орхидея Неофинетия фальката benitengu, самая тёмная красная из неофинетий\n",
+  "post_date": "  6 октября в 11:31  ",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=984620641&src=item"
+}

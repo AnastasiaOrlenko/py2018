@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1182774200,
+  "title": "Золотой ус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_1182774200",
+  "seller": "Юлия (частное лицо)",
+  "seller-contact": "Борис Алексеевич",
+  "address": "Москва, м. Сходненская",
+  "text": "отростки продаю.\n",
+  "post_date": "  6 октября в 13:52  ",
+  "seller_link": "/user/14c6bc066a38ce6b6c9381f268494aee/profile?id=1182774200&src=item"
+}

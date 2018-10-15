@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1104878363,
+  "title": "Горшок в виде бочки для цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_v_vide_bochki_dlya_tsvetov_1104878363",
+  "seller": "Ирина",
+  "address": "Москва, м. Багратионовская",
+  "text": "Продается бочка, которую можно использовать как горшок - кадушку. Состояние на фото высота 38,5 см диам 30 см\n",
+  "post_date": "  6 октября в 22:36  ",
+  "seller_link": "/user/6f4431cafee2f9af60934cbe0af04289/profile?id=1104878363&src=item"
+}

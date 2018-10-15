@@ -1,0 +1,13 @@
+{
+  "text": "Молодое, здоровое растение, очень быстро разрастается. Продаю вместе с керамическим горшком. Часто цветет. Самовывоз. Есть Антуриум, Спатифилум, Тещин Язык, Пальма Юкка на продажу.\n",
+  "title": "Пеперомия крупнолистная",
+  "price": 999,
+  "index": 1678804237,
+  "address": "Москва, м. Домодедовская",
+  "seller-contact": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/peperomiya_krupnolistnaya_1678804237",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 09:32  ",
+  "seller": "Не компания",
+  "seller_link": "/user/53d0e9cad904b5b5b75f8836b202d5d8/profile?id=1678804237&src=item"
+}

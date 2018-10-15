@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_dratsenu_1143893858",
+  "seller_status": "Частное лицо",
+  "title": "Продам Драцену",
+  "post_date": "  08 October в 13:08  ",
+  "price": 1000,
+  "index": 1143893858,
+  "seller_link": "/user/2b1cf74dfd965d1a389dcf8b82c06a06/profile?id=1143893858&src=item",
+  "text": "Продам Драцену\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1603634433,
+  "title": "Кактус цветет как на фото",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_tsvetet_kak_na_foto_1603634433",
+  "seller": "Марина",
+  "address": "Москва, м. Водный стадион",
+  "text": "Детки цветущего кактуса, цветет граммофоном, в диаметре, размер цветка достигает 15 -20 см\n",
+  "post_date": "  5 октября в 08:18  ",
+  "seller_link": "/user/10f94360dbe58393fdbafde0afff9c44/profile?id=1603634433&src=item"
+}

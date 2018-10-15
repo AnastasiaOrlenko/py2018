@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1203852770,
+  "title": "Фиалки, цветы, растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_tsvety_rasteniya_1203852770",
+  "seller": "Елена",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "Фиалки нежно розового махрового цвета. Не требует пересадки. Хорошая земля. Полив два раза в неделю. Чем больше горшок тем больше цветок!\n",
+  "post_date": "  6 октября в 16:17  ",
+  "seller_link": "/user/379ecaea9c4412bc16b755239fdb0944/profile?id=1203852770&src=item"
+}

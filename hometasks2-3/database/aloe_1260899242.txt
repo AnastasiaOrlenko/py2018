@@ -1,0 +1,13 @@
+{
+  "text": "Цена за один цветок. Все четыре отдам 3000₽\n",
+  "title": "Алое",
+  "price": 800,
+  "index": 1260899242,
+  "address": "Москва, м. Улица Горчакова",
+  "seller-contact": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1260899242",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 00:00  ",
+  "seller": "не компания",
+  "seller_link": "/user/3e8e41676d94e90090b5aa187cdfddaa/profile?id=1260899242&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1091437822,
+  "title": "Декадрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekadrist_1091437822",
+  "seller": "Марина",
+  "address": "Москва, м. Водный стадион",
+  "text": "Декабрист, цвет розово-сиреневый цветущий, (см на фото)\n700 руб\n",
+  "post_date": "  5 октября в 08:18  ",
+  "seller_link": "/user/10f94360dbe58393fdbafde0afff9c44/profile?id=1091437822&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1497651379,
+  "title": "Шикарный молочай",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shikarnyy_molochay_1497651379",
+  "seller": "Natasha",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Любит гулять сам по себе особенно на балконе, ни к кому не пристает и не прихотлив.\n",
+  "post_date": "  07 October в 12:49  ",
+  "seller_link": "/user/b833c8d4bfb21bb19dcd51757e074c2e/profile?id=1497651379&src=item"
+}

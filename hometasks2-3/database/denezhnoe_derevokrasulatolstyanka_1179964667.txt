@@ -1,0 +1,13 @@
+{
+  "price": 499,
+  "seller_status": "Компания",
+  "index": 1179964667,
+  "title": "Денежное дерево,Красула,толстянка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevokrasulatolstyanka_1179964667",
+  "seller": "Марина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Царицыно",
+  "text": "Большое и красивое денежное дерево Красула сорт Овата древовидная.\nВыращено в кВ. Не Голандия!\n",
+  "post_date": "  6 октября в 09:54  ",
+  "seller_link": "/user/45b4734ea037f708ddd9e266dd4e17d5/profile?id=1179964667&src=item"
+}

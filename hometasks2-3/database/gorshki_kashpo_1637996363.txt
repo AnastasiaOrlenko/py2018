@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Измайлово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshki_kashpo_1637996363",
+  "price": 500,
+  "seller": "Александра",
+  "post_date": "  08 October в 22:18  ",
+  "title": "Горшки кашпо",
+  "text": "Два горшка, каждый по 500 рублей. Можно использовать как кашпо. Керамические. С поддонами. Высота 24 см. На 10 литров\n",
+  "index": 1637996363,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/e209f9b52895f0cd6d66050004bbf1c1/profile?id=1637996363&src=item"
+}

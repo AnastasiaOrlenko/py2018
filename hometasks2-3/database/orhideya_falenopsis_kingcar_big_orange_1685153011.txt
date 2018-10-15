@@ -1,0 +1,12 @@
+{
+  "text": "Фаленопсис, два цветоноса, сейчас один отцвел, второй еще цветет, пересадки не требуется\n",
+  "title": "Орхидея фаленопсис Kingcar big orange",
+  "price": 1000,
+  "index": 1685153011,
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_kingcar_big_orange_1685153011",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:34  ",
+  "seller": "Светлана",
+  "seller_link": "/user/4db86c96e3fb4fab5d9505c1c8d339c6/profile?id=1685153011&src=item"
+}

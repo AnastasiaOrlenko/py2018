@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 670971595,
+  "seller": "Olik",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tablichki_dlya_rasteniy_670971595",
+  "address": "Москва, м. Бибирево",
+  "title": "Таблички для растений",
+  "seller_link": "/user/0b39e5ef6221d1f751dcc528001ae438/profile?id=670971595&src=item",
+  "text": "Новые.\nИкея\nматериал железо\nВ одной упаковке 2 шт.\nв наличие 9 упаковок\nвсего получается 18 шт\nрозовые 2\nзеленые 5\nсиние 2\nцена за весь лот\nтерриториально м.Бибирево\nна смс не отвечаю, обмен на денежные знаки РФ\n",
+  "post_date": "  07 October в 13:58  "
+}

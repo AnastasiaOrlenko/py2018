@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 932480964,
+  "title": "Перчик в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/perchik_v_gorshke_932480964",
+  "seller": "Наташа",
+  "address": "Москва, м. Щелковская",
+  "text": "перчик с плодами\nна смс не отвечаю\n",
+  "post_date": "  6 октября в 13:05  ",
+  "seller_link": "/user/043e0b9f5a81790eaa135254ccdb0d5e/profile?id=932480964&src=item"
+}

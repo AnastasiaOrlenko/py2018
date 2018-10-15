@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1662100343,
+  "title": "Роза садовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_sadovaya_1662100343",
+  "seller": "Екатерина Домнина",
+  "address": "Москва, м. Автозаводская",
+  "text": "Роза садовая,красного цвета\n",
+  "post_date": "  5 октября в 11:11  ",
+  "seller_link": "/user/1d99ac2e1dadd22058ac52d0c736903a/profile?id=1662100343&src=item"
+}

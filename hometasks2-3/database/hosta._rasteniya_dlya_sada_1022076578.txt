@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1022076578,
+  "title": "Хоста. Растения для сада",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hosta._rasteniya_dlya_sada_1022076578",
+  "seller": "Арина",
+  "address": "Москва, м. Кантемировская",
+  "text": "Хоста (7 сортов, фото по вашему запросу) 300р\n",
+  "post_date": "  6 октября в 21:09  ",
+  "seller_link": "/user/b5d506d4d2006b48bc54cf157c04f939/profile?id=1022076578&src=item"
+}

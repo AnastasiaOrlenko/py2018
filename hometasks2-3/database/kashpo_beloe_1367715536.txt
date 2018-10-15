@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1367715536,
+  "title": "Кашпо белое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_beloe_1367715536",
+  "seller": "Маргарита",
+  "address": "Москва, м. Полежаевская",
+  "text": "Продаю белое кашпо для цветка.Диаметр верх-23 см, низ-19 см, высота 22 см.\n",
+  "post_date": "  5 октября в 13:11  ",
+  "seller_link": "/user/3c61199a5eccea13994c3169baaac37c/profile?id=1367715536&src=item"
+}

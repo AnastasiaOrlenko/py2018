@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1047678505,
+  "title": "Ирисы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/irisy_1047678505",
+  "seller": "Сергей",
+  "seller-contact": "Сергей",
+  "address": "Москва, м. Планерная",
+  "text": "самовывоз из Химок\n",
+  "post_date": "  5 октября в 11:22  ",
+  "seller_link": "/user/516e6667a2b6be6eb788203ec37b2f8f/profile?id=1047678505&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1536546325,
+  "title": "Кашпо для растений, цветов металлическое",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_rasteniy_tsvetov_metallicheskoe_1536546325",
+  "seller": "Леночка Соколова",
+  "seller-contact": "Леночка Соколова",
+  "address": "Москва, м. Дубровка",
+  "text": "Кашпо для растений, цветов металлическое , с ручками\nМожно использовать для декора горшечных растений или составлять цветочные композиции\n1 шт\nРазмер 23\"19 см\nВысота 10 см\n",
+  "post_date": "  5 октября в 09:39  ",
+  "seller_link": "/user/d29aad543701d69dcaf37e3ea64b2cc4/profile?id=1536546325&src=item"
+}

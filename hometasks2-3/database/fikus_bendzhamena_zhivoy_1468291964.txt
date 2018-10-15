@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 8000,
+  "index": 1468291964,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamena_zhivoy_1468291964",
+  "address": "Москва, м. Шаболовская",
+  "title": "Фикус Бенджамена живой",
+  "seller_link": "/user/3c9d80f6e41f8c11bf5f6bfbd0693d1a/profile?id=1468291964&src=item",
+  "text": "Растению уже 15 лет, если не больше. Было несколько стволиков, я их переплёта. Высота - 1 метр.\n",
+  "post_date": "  07 October в 17:42  "
+}

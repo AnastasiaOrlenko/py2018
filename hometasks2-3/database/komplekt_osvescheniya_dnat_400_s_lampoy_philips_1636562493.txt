@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1636562493,
+  "title": "Комплект освещения днат 400 с лампой Philips",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komplekt_osvescheniya_dnat_400_s_lampoy_philips_1636562493",
+  "seller": "Екатерина",
+  "address": "Москва, м. Площадь революции",
+  "text": "Продам комплект ДНат 400 Вт с лампой Филипс в сборе\n",
+  "post_date": "  6 октября в 23:43  ",
+  "seller_link": "/user/de4d96179dd3c04bae9a59b59a82482b/profile?id=1636562493&src=item"
+}

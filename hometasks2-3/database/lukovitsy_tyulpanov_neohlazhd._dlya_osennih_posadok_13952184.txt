@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 14,
+  "index": 13952184,
+  "seller": "Агрославна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lukovitsy_tyulpanov_neohlazhd._dlya_osennih_posadok_13952184",
+  "address": "Москва, м. Охотный ряд",
+  "title": "Луковицы тюльпанов неохлажд. для осенних посадок",
+  "seller_link": "/user/3a820c202e292a402bab4b6646a42815/profile?id=13952184&src=item",
+  "text": "Тепличное хозяйство предлагает луковицы тюльпанов для осенних посадок. Голландская селекция. \nМинимальная партия - 500 шт.\nСкидки для больших объемов.\nРазбор 11/12 и 12+\nНаименования:\nstrong gold\nsweet rosy\npink flag\nstrong fire\nfirst class\nstargazer \nille de france\nhelen valstar\norange juice\ntibet\nverandi\nbolroy geel\njumbo pink\nben fire\nКомпания на Авито с 2009 года.\n",
+  "seller-contact": "Наталия",
+  "post_date": "  07 October в 12:51  "
+}

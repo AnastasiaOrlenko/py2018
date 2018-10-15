@@ -1,0 +1,13 @@
+{
+  "text": "Цена за 1 шт. Все четыре отдам за 1000₽\n",
+  "title": "Алоэ",
+  "price": 300,
+  "index": 1077396497,
+  "address": "Москва, м. Улица Горчакова",
+  "seller-contact": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1077396497",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 00:00  ",
+  "seller": "не компания",
+  "seller_link": "/user/3e8e41676d94e90090b5aa187cdfddaa/profile?id=1077396497&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1701265750,
+  "title": "Разные интересные растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/raznye_interesnye_rasteniya_1701265750",
+  "seller": "Алена",
+  "address": "Москва, м. ВДНХ",
+  "text": "Распродаю укорененные колеусы и плектрантусы летнего укоренения по 50р, срезка по 30р. Есть очень много сортов - спрашивайте. \nФото 1 - Gilda\n2 - Henna\n3 - Firebird ru\n4 - плектрантус дуболистный\n5 - Juicy Lucy\n6 - Sedona\n7 - плектрантус Mona Lavender\n8 - Hermit Crab\n9 - UTS Bone Fish\n",
+  "post_date": "  5 октября в 02:04  ",
+  "seller_link": "/user/62bc91974506d9e129ef2dcd6fa0a418/profile?id=1701265750&src=item"
+}

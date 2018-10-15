@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 250,
+  "index": 790146261,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_dushistaya_790146261",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Герань душистая",
+  "seller_link": "/user/45bad73ca1605e073974ff0fb9e34d35/profile?id=790146261&src=item",
+  "text": "кустики хорошие крепкие еще подросли =высота от земли 30-35 см=осталось несколько шт по 300 руб\n",
+  "post_date": "  07 October в 17:12  "
+}

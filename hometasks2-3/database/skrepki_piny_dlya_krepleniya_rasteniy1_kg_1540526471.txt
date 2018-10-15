@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1540526471,
+  "title": "Скрепки пины для крепления растений1 кг",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/skrepki_piny_dlya_krepleniya_rasteniy1_kg_1540526471",
+  "seller": "Леночка Соколова",
+  "seller-contact": "Леночка Соколова",
+  "address": "Москва, м. Дубровка",
+  "text": "Скрепки пины для крепления растений\n1 кг\n",
+  "post_date": "  5 октября в 09:39  ",
+  "seller_link": "/user/d29aad543701d69dcaf37e3ea64b2cc4/profile?id=1540526471&src=item"
+}

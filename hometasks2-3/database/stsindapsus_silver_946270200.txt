@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 946270200,
+  "title": "Сциндапсус silver",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stsindapsus_silver_946270200",
+  "seller": "Андрей",
+  "address": "Москва, м. Братиславская",
+  "text": "Укорененные черенки сциндапсуса silver.\nм.Проспект Вернадского, м. Охотный ряд с 9-18 в будни, в другое время м.Братиславская\n",
+  "post_date": "  5 октября в 06:11  ",
+  "seller_link": "/user/83de5080910bea9b9283af798819d4c9/profile?id=946270200&src=item"
+}

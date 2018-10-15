@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/2b176b9b79e8953c5330e89fb750a3ae/profile?id=1412392585&src=item",
+  "seller-contact": "Марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/maranta_tradeskantsiya_miks_i_vyunok_1412392585",
+  "post_date": "  08 October в 08:57  ",
+  "address": "Москва, м. Университет",
+  "seller": "Марина",
+  "text": "Маранта маленькая 80р, большая 150р\n",
+  "index": 1412392585,
+  "seller_status": "Компания",
+  "price": 30,
+  "title": "Маранта, традесканция микс и вьюнок"
+}

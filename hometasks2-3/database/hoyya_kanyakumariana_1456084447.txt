@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 1456084447,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_kanyakumariana_1456084447",
+  "address": "Москва, м. Севастопольская",
+  "title": "Хойя kanyakumariana",
+  "seller_link": "/user/93d5fc7c74517a78411fb7be1bbc6668/profile?id=1456084447&src=item",
+  "text": "на фото, взрослая\n",
+  "post_date": "  07 October в 16:37  "
+}

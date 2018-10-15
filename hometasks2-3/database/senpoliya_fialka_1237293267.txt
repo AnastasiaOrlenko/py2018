@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/senpoliya_fialka_1237293267",
+  "price": 300,
+  "seller": "Полина",
+  "post_date": "  08 October в 18:14  ",
+  "title": "Сенполия (фиалка)",
+  "text": "Продам взрослое цветущее растение Сенполия.Цветки 4 см в диаметре.\n",
+  "index": 1237293267,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/8032805730744b6621b7d52006a78904/profile?id=1237293267&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Тимирязевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ostatki_grunt_dlya_orhidei_1718667552",
+  "price": 80,
+  "seller": "маша",
+  "post_date": "  08 October в 22:07  ",
+  "title": "Остатки грунт для орхидеи",
+  "text": "остаток отмечен лежащей ручкой\n80 р за все\n",
+  "index": 1718667552,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/dec1516363ab171aae50680cd583e236/profile?id=1718667552&src=item"
+}

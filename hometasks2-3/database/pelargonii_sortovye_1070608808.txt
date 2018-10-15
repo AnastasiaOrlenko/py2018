@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1070608808,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargonii_sortovye_1070608808",
+  "address": "Москва, м. Сходненская",
+  "title": "Пеларгонии сортовые",
+  "seller_link": "/user/7aeae0fd4f521c5c49f64cd35ed62005/profile?id=1070608808&src=item",
+  "text": "Продаю череночки следующих сортов:\nAnita – 250\nAppleblossom rosebud-250\nApril snow - 200\nBold Carmint- 150\nBold Mallow – 500\nBold Rose - 300\nCountess maritza – 350\nElnaryds Gusten – 500\nFee Cerise Polina – 550\nEdwards Embers Toscana – 300\nGardenia -350\nGypsy – 350\nLara Harmony – 250\nMadam Recamier – 150\nMajesta– 450\nOdensjö Rödluvan – 250\nOdensjö Sofie Arden - - 250\nOdensjö Symfonia – 350\nPowder Puff – 250\nSutarves Nada K – 200\nSwanland pink australien pink rosebud – 250\nShan Hoy -300\nWillowbrook – 400\nVectis Rosebud – 350\nЩеголь – 700\nШелк Аврора – 300\nЮГ-Нина - 800\nВстречи м. Митино, Сходненская, Юго-Западная (по договоренности), Китай-Город (среда с 18 до 19)\n",
+  "post_date": "  07 October в 22:08  "
+}

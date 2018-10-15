@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1375792575,
+  "title": "Сансевиерия Bonselensis mini",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_bonselensis_mini_1375792575",
+  "seller": "Наталья",
+  "address": "Москва, м. Братиславская",
+  "text": "Сансевиерия Бонселенсис мини с деткой 400 в белом горшке и 500 в коричневом горшке с двумя детками.\n",
+  "post_date": "  6 октября в 16:16  ",
+  "seller_link": "/user/76f6e0e028a41440ffb0cdd37345416b/profile?id=1375792575&src=item"
+}

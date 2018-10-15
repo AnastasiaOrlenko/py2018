@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1596843917,
+  "title": "Хойя Hoya lobbii cream",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_hoya_lobbii_cream_1596843917",
+  "seller": "Марфа Васильевна",
+  "address": "Москва, м. Ломоносовский проспект",
+  "text": "Продам укоренённые черенок хойи, проклюнулся ростик. Первое фото- зацветающая мама)\n",
+  "post_date": "  6 октября в 14:52  ",
+  "seller_link": "/user/0af0b3d72b8635642a04b8ce44bc6127/profile?id=1596843917&src=item"
+}

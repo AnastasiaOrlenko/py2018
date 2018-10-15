@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1502828374,
+  "seller": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sukkulenty_havortiya_retuza_1502828374",
+  "address": "Москва, м. Марьино",
+  "title": "Суккуленты хавортия ретуза",
+  "seller_link": "/user/04a5a97881c090c7dbc0199cee43298f/profile?id=1502828374&src=item",
+  "text": "Хавортия ретуза. На первом фото материнское растение. Не требует особого ухода. Бедная почва, скудный полив, светлое место.\nПоменьше отростки 150, побольше 250.\n",
+  "post_date": "  07 October в 23:28  "
+}

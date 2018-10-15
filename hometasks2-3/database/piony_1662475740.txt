@@ -1,0 +1,12 @@
+{
+  "text": "Пионы сортовые белые,розовые,вишнёвые,вишнёвые с неоновой серединкой записывайтесь на август кто заинтересуется.Цена за корень с 4-5почками.\n",
+  "title": "Пионы",
+  "price": 200,
+  "index": 1662475740,
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/piony_1662475740",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:39  ",
+  "seller": "Марина",
+  "seller_link": "/user/29273818f962d20e73d791da550efeca/profile?id=1662475740&src=item"
+}

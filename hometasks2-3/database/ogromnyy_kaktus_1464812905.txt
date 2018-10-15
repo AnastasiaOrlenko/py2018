@@ -1,0 +1,12 @@
+{
+  "text": "Высота с горшком 55см.Находится на даче под Чеховом.Желателен самовывоз,но иногда могу привезти в Москву\n",
+  "title": "Огромный кактус",
+  "price": 3000,
+  "index": 1464812905,
+  "address": "Москва, м. Университет",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ogromnyy_kaktus_1464812905",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 01:11  ",
+  "seller": "Полина",
+  "seller_link": "/user/7a53aeccb3e6ff5de5eb780409cafeb5/profile?id=1464812905&src=item"
+}

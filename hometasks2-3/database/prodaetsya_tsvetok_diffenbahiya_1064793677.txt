@@ -1,0 +1,12 @@
+{
+  "text": "Высота цветка от уровня грунта 1,20.\n",
+  "title": "Продаётся цветок \"Диффенбахия\"",
+  "price": 300,
+  "index": 1064793677,
+  "address": "Москва, м. Ясенево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodaetsya_tsvetok_diffenbahiya_1064793677",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:52  ",
+  "seller": "Агнесса",
+  "seller_link": "/user/0f0359093cf0e62951c45c5d26a779b7/profile?id=1064793677&src=item"
+}

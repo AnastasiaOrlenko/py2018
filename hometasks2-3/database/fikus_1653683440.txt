@@ -1,0 +1,12 @@
+{
+  "text": "Зеленоград\nФикус Microcarpa, 6 лет. Продаю вместе с горшком.\n",
+  "title": "Фикус",
+  "price": 1300,
+  "index": 1653683440,
+  "address": "Зеленоград",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/fikus_1653683440",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 22:08  ",
+  "seller": "Екатерина",
+  "seller_link": "/user/8de352b638e4a67084c568436c4fad87/profile?id=1653683440&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1496807564,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1496807564",
+  "address": "Москва, м. Проспект Вернадского",
+  "title": "Фиалка",
+  "seller_link": "/user/01e77ae1def67fcc4fe37d394fc83722/profile?id=1496807564&src=item",
+  "text": "Фиалка. Продаётся именно это растение вместе с горшком. Сейчас цветёт.\n",
+  "seller-contact": "Юлия",
+  "post_date": "  07 October в 13:00  "
+}

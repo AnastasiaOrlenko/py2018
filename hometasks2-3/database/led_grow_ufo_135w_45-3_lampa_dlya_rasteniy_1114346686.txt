@@ -1,0 +1,12 @@
+{
+  "price": 5150,
+  "seller_status": "Частное лицо",
+  "index": 1114346686,
+  "title": "Led Grow Ufo 135w 45-3 Лампа для растений",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/led_grow_ufo_135w_45-3_lampa_dlya_rasteniy_1114346686",
+  "seller": "Игорь",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Отличная лампа для роста рассады и досвечивания ваших растений 45-3(3-х ватные диоды) -135 ватт, красный и синий спектр. б.у. 6 месяцев светит очень ярко, дает отличные результаты!\n",
+  "post_date": "  4 октября в 22:33  ",
+  "seller_link": "/user/fe72ce80d0f4e5be0c6ffa95151074f9/profile?id=1114346686&src=item"
+}

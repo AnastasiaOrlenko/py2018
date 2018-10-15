@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1650473193,
+  "title": "Шишки Туи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishki_tui_1650473193",
+  "seller": "Оксана",
+  "address": "Москва, м. Тульская",
+  "text": "Шишки туи, маленькие и большие. Собраны на чистых горных склонах Крыма. Используются в медицине, ароматерапии, декоре, настойках, отварах.\n100 шт - 100 р.\n",
+  "post_date": "  5 октября в 14:58  ",
+  "seller_link": "/user/afeab6f183d4cedff059cc5a183aad0a/profile?id=1650473193&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Павелецкая",
+  "seller": "Inna",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_831367212",
+  "seller_status": "Частное лицо",
+  "title": "Алое",
+  "post_date": "  08 October в 11:42  ",
+  "price": 200,
+  "index": 831367212,
+  "seller_link": "/user/f5a995adbb1e684d994a8f156b22dc08/profile?id=831367212&src=item",
+  "text": "Растение 32 см высотой, возраст примерно два года - 200 рублей. Взрослое - лет 5 -80 см -1500 рублей. 65 см - 350 рублей.\n"
+}

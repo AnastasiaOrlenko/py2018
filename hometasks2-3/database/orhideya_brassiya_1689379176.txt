@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1689379176,
+  "title": "Орхидея Брассия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_brassiya_1689379176",
+  "seller": "Ирина",
+  "address": "Москва, м. Домодедовская",
+  "text": "Неприхотливая экзотическая орхидея. Цветёт регулярно. Содержится в комнатных условиях без особых требований. В наличии бульбы и Растение в горшке\n",
+  "post_date": "  6 октября в 16:39  ",
+  "seller_link": "/user/7be240fab10eed710c2c4f64e37c4b70/profile?id=1689379176&src=item"
+}

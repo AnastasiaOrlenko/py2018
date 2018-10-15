@@ -1,0 +1,12 @@
+{
+  "text": "Долговечная белоснежная роза в хрустальной колбе, высота и диаметр колбы на ваше усмотрение. От 1000₽\n",
+  "title": "Белоснежная роза в хрустальной колбе",
+  "price": 1000,
+  "index": 1121766816,
+  "address": "Москва, м. Сходненская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/belosnezhnaya_roza_v_hrustalnoy_kolbe_1121766816",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:55  ",
+  "seller": "Elena",
+  "seller_link": "/user/14783d013566dfa2818ff4770940386f/profile?id=1121766816&src=item"
+}

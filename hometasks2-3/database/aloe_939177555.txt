@@ -1,0 +1,13 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 939177555,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_939177555",
+  "seller": "НЕ компания",
+  "seller-contact": "Лора",
+  "address": "Москва, м. Отрадное",
+  "text": "Отростку примерно 7-8 месяцев. Посажен на рост.\n",
+  "post_date": "  5 октября в 17:36  ",
+  "seller_link": "/user/ed5d905c28d6c6ee4cfcd6c7e523c75f/profile?id=939177555&src=item"
+}

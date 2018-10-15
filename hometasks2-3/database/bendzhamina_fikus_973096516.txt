@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2800,
+  "index": 973096516,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bendzhamina_fikus_973096516",
+  "address": "Москва, м. Пятницкое шоссе",
+  "title": "Бенджамина фикус",
+  "seller_link": "/user/7c7f398b83cba955c0154785390fc490/profile?id=973096516&src=item",
+  "text": "Фикус Бенджамина, неприхотливое, благодарное растение. 120 см в высоту. Продаётся с горшком и подставкой на колесиках.\n",
+  "post_date": "  07 October в 15:33  "
+}

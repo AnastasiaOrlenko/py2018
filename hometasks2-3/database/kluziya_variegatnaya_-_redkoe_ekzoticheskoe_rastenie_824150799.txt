@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Компания",
+  "index": 824150799,
+  "title": "Клузия вариегатная - редкое, экзотическое растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kluziya_variegatnaya_-_redkoe_ekzoticheskoe_rastenie_824150799",
+  "seller": "Полина",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Клузия вариегатная ( 60см ) - редкое , экзотическое растение с фото \n растению почти 4 года - 1800р\n",
+  "post_date": "  5 октября в 12:36  ",
+  "seller_link": "/user/695008f1684377891c1cb1f6ea035769/profile?id=824150799&src=item"
+}

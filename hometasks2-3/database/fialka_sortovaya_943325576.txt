@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 943325576,
+  "title": "Фиалка сортовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sortovaya_943325576",
+  "seller": "Елена",
+  "address": "Москва, м. Кунцевская",
+  "text": "Продаю сортовую фиалку. Сорт Н-Адам. Зацветает.\n",
+  "post_date": "  6 октября в 12:02  ",
+  "seller_link": "/user/89b46633075164207e71869e5e34026b/profile?id=943325576&src=item"
+}

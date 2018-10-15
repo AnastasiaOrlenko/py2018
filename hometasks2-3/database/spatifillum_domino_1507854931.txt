@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1507854931,
+  "title": "Спатифиллум Домино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillum_domino_1507854931",
+  "seller": "Мария",
+  "address": "Москва, м. Молодежная",
+  "text": "Последнее фото не продаётся, это фото мамки.\n",
+  "post_date": "  5 октября в 17:36  ",
+  "seller_link": "/user/42b6317d0532e9ab5a2f4de8891a5fc1/profile?id=1507854931&src=item"
+}

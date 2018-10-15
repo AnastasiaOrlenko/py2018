@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 3000,
+  "index": 1465377590,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_phal_gigabell_1465377590",
+  "address": "Москва, м. Охотный ряд",
+  "title": "Орхидея Phal Gigabell",
+  "seller_link": "/user/fa0c8bf5d29dabe0e471cfcbac6d0f89/profile?id=1465377590&src=item",
+  "text": "Gigantea x bellina\nШикарное коллекционное растение, только отцвело, ароматный, цветонос живой, цветение должно продолжиться. \nВсе фото мои личные (в т.ч. и цветения).\nСамовывоз из дома у ст м Юго-Западная.\nСвязь через форму сайта.\n",
+  "post_date": "  07 October в 22:11  "
+}

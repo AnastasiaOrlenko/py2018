@@ -1,0 +1,12 @@
+{
+  "text": "Цилозия-5, роза куст-7, рускус -10, зинзибар-10, илиус-5\n",
+  "title": "Цилозия, роза кустовая, рускус",
+  "price": 2750,
+  "index": 1644357492,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiloziya_roza_kustovaya_ruskus_1644357492",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

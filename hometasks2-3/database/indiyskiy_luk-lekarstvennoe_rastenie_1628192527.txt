@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1628192527,
+  "title": "Индийский лук-лекарственное растение",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/indiyskiy_luk-lekarstvennoe_rastenie_1628192527",
+  "seller": "Юрий",
+  "address": "Москва, м. Красные ворота",
+  "text": "В сети найдёте много информации о его целебных свойствах и способах употребления.Возраст цветка 5 лет.Подъеду к метро.\n",
+  "post_date": "  5 октября в 12:59  ",
+  "seller_link": "/user/f540c859cf622438b0e7da2fd4ac81be/profile?id=1628192527&src=item"
+}

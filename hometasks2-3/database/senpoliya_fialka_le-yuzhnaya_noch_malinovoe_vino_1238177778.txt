@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1238177778,
+  "title": "Сенполия (фиалка) ле-Южная ночь Малиновое вино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/senpoliya_fialka_le-yuzhnaya_noch_malinovoe_vino_1238177778",
+  "seller": "Анна",
+  "address": "Москва, м. Юго-Западная",
+  "text": "1. Цветущая сенполия ЛЕ-Южная ночь ФОТО 1,2 - 300 руб \n2. Цветущая сенполия Малиновое вино ( цветы 5 см) ФОТО 5,6 - 200 руб.\nН/у листочки сенполий: Lavender Magic (S.Sorano), Rhapsodie Clementine (Holtkamp), EK-Перуанская лилия, ЛЕ-Южная ночь - 50 руб\nМогу подвезти к метро Юго-Западная, Саларьево, Раменки...\n",
+  "post_date": "  6 октября в 09:15  ",
+  "seller_link": "/user/d74bc2e0935c1474d7b90de1544c9f4b/profile?id=1238177778&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 800,
+  "seller_status": "Компания",
+  "index": 1120984255,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1120984255",
+  "seller": "Ирина",
+  "seller-contact": "Ирина",
+  "address": "Москва, м. Бульвар Рокоссовского",
+  "text": "Фикус Бенджамина высота с горшком 110см.\n",
+  "post_date": "  5 октября в 10:11  ",
+  "seller_link": "/user/d46f0fc385bf966544a5944bf76cabda/profile?id=1120984255&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1647072827,
+  "title": "Сансевиерия, щучий хвост",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sansevieriya_schuchiy_hvost_1647072827",
+  "seller": "Светлана",
+  "address": "Москва, м. Отрадное",
+  "text": "3 розетки в одном горшке. Сейчас высота 30см . Будет больше метра . Горшок-7см\n",
+  "post_date": "  5 октября в 08:39  ",
+  "seller_link": "/user/d581902008b5d466d3a3566b96e0c9f6/profile?id=1647072827&src=item"
+}

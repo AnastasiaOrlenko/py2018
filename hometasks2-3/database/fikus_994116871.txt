@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 994116871,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_994116871",
+  "seller": "Анастасия",
+  "address": "Москва, м. Медведково",
+  "text": "Растения высотой от 0,5 до 1,5 м от горшка, домашнего разведения. Забирать в Мытищах\n",
+  "post_date": "  6 октября в 11:17  ",
+  "seller_link": "/user/a982bcac5ee674d78de32e7e2fb95a22/profile?id=994116871&src=item"
+}

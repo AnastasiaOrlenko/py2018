@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2100,
+  "index": 1401451216,
+  "seller": "Алина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_1401451216",
+  "address": "Москва, м. Новогиреево",
+  "title": "Флорариум",
+  "seller_link": "/user/a0b42feea62c38edfa8cd949da78a0fa/profile?id=1401451216&src=item",
+  "text": "Флорариум с суккулентами\nРастения:\nКактус \nСуккулент микс\nЭхеверия\nДекорирован ремнем\n",
+  "post_date": "  07 October в 13:49  "
+}

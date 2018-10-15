@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1401336058,
+  "title": "Гипеаструм",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gipeastrum_1401336058",
+  "seller": "Вячеслав",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Продаю гипеаструм\n",
+  "post_date": "  5 октября в 13:11  ",
+  "seller_link": "/user/3385f46d80ba2cff2a15d7df27f54900/profile?id=1401336058&src=item"
+}

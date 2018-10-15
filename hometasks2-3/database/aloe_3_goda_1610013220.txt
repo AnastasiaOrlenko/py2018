@@ -1,0 +1,12 @@
+{
+  "price": 170,
+  "seller_status": "Частное лицо",
+  "index": 1610013220,
+  "title": "Алоэ, 3 года",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_3_goda_1610013220",
+  "seller": "Елена",
+  "address": "Москва, м. Планерная",
+  "text": "Алоэ. Возраст - 3 года.\n",
+  "post_date": "  07 October в 01:28  ",
+  "seller_link": "/user/d299e6121b8c09bd35eb82bafe30e377/profile?id=1610013220&src=item"
+}

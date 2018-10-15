@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 952117574,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hlorofitum_kudryavyy_952117574",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Хлорофитум кудрявый",
+  "seller_link": "/user/45bad73ca1605e073974ff0fb9e34d35/profile?id=952117574&src=item",
+  "text": "есть взрослые растения хлорофитума от 250 до 450 руб =алое вера осталось одно растение -150 руб\n",
+  "post_date": "  07 October в 17:12  "
+}

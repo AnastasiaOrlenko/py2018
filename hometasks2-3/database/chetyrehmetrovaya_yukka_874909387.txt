@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Алтуфьево",
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chetyrehmetrovaya_yukka_874909387",
+  "seller_status": "Частное лицо",
+  "title": "Четырехметровая юкка",
+  "post_date": "  08 October в 13:06  ",
+  "price": 20000,
+  "index": 874909387,
+  "seller_link": "/user/dc7b344dc7fdeefee487e4046350d170/profile?id=874909387&src=item",
+  "text": "Огромная четырехметровая юкка (слоновья нога) - замечательное, абсолютно неприхотливое растение.Создаст уют и гармонию в зимнем саду. Продаю вместе с итальянским горшком. Самовывоз.\n"
+}

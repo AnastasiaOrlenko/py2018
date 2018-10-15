@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Улица Горчакова",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rostki_komnatnyh_rasteniy_1615790971",
+  "seller-contact": "Юлия",
+  "price": 50,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 16:55  ",
+  "title": "Ростки комнатных растений",
+  "text": "Ростки алоэ,золотой ус,кактусы по 50р,росток пеперомии-70р,пишите,осталось не все!\n",
+  "index": 1615790971,
+  "seller_status": "Компания",
+  "seller_link": "/user/47ae73f3c6bad182b8a276d888629def/profile?id=1615790971&src=item"
+}

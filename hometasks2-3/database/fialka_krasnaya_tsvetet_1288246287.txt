@@ -1,0 +1,13 @@
+{
+  "text": "Фото сделано 13.10.18\n",
+  "title": "Фиалка красная, цветет",
+  "price": 350,
+  "index": 1288246287,
+  "address": "Москва, м. Авиамоторная",
+  "seller-contact": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_krasnaya_tsvetet_1288246287",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 10:23  ",
+  "seller": "Анастасия",
+  "seller_link": "/user/50f952a9c4f5d26cc758c5d38874bff6/profile?id=1288246287&src=item"
+}

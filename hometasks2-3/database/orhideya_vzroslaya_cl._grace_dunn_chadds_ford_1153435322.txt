@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 2599,
+  "index": 1153435322,
+  "seller": "Valerya",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_vzroslaya_cl._grace_dunn_chadds_ford_1153435322",
+  "address": "Москва, м. Беляево",
+  "title": "Орхидея взрослая Cl. Grace Dunn 'Chadds Ford'",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=1153435322&src=item",
+  "text": "Орхидея взрослая Cl. Grace Dunn 'Chadds Ford'\n",
+  "seller-contact": "не компания",
+  "post_date": "  07 October в 12:56  "
+}

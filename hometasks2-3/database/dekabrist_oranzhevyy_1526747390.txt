@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1526747390,
+  "title": "Декабрист оранжевый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_oranzhevyy_1526747390",
+  "seller": "Natalia Zavgorodnyaya",
+  "address": "Москва, м. Братиславская",
+  "text": "Растение цветёт красивым оранжевым цветом. Есть черенки в воде по 50 рублей.\n",
+  "post_date": "  6 октября в 09:47  ",
+  "seller_link": "/user/69b6d3de537f467faf0d10eb8bd49119/profile?id=1526747390&src=item"
+}

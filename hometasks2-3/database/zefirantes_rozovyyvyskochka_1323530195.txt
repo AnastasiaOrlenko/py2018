@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 1323530195,
+  "title": "Зефирантес розовый(выскочка)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zefirantes_rozovyyvyskochka_1323530195",
+  "seller": "Ольга",
+  "seller-contact": "Ольга",
+  "address": "Москва, м. Новокосино",
+  "text": "Прекрасное луковичное растение цветет с мая по сентябрь.Три большие луковицы с листьями в стаканчиках\n",
+  "post_date": "  5 октября в 18:25  ",
+  "seller_link": "/user/3396e0135187a288996731f1a313f160/profile?id=1323530195&src=item"
+}

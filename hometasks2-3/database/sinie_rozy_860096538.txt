@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/c09d657e664fdd9da00110b878242e72/profile?id=860096538&src=item",
+  "seller-contact": "Георгий",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sinie_rozy_860096538",
+  "post_date": "  08 October в 09:25  ",
+  "address": "Москва, м. Алексеевская",
+  "seller": "GUGS Jewelry",
+  "text": "Эквадорские розы по супер цене с крупным бутоном.Обязательно говорите что вы с авито!\n",
+  "index": 860096538,
+  "seller_status": "Компания",
+  "price": 140,
+  "title": "Синие розы"
+}

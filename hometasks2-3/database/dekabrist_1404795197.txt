@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1404795197,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1404795197",
+  "seller": "ИННА",
+  "address": "Москва, м. Новоясеневская",
+  "text": "Отдам просто переезжаем в другой город цвел практический всю зиму цветы розовые начал цвести с ноября до конца апреля очень красиво. ТОРГ УМЕСТЕН\n",
+  "post_date": "  07 October в 08:50  ",
+  "seller_link": "/user/01458a83224326de1beceec9725f6e31/profile?id=1404795197&src=item"
+}

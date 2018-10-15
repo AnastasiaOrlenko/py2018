@@ -1,0 +1,13 @@
+{
+  "price": 4990,
+  "seller_status": "Магазин",
+  "index": 1358312499,
+  "title": "Розы букеты корзины",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozy_bukety_korziny_1358312499",
+  "seller": "Btcflowers",
+  "seller-contact": "Менеджер Екатерина",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Цветы с доставкой по Москве и МО. Большой выбор свежих цветов. \n Букеты из пионовидных роз\n Букеты из радужных роз\n\nВ продаже есть разноцветные шарики!\n\nЗвоните!\n Другие композиции смотрите ниже, сразу под объявлением или справа от фото, в нашем авито-магазине по ссылке btcflowers! \n",
+  "post_date": "  07 October в 11:50  ",
+  "seller_link": "/dostavka-tsvetov?gdlkerfdnwq=101&shopId=100895"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 800,
+  "index": 1598352140,
+  "seller": "Оксана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_nevesty_iz_pionov_1598352140",
+  "address": "Москва, м. Полежаевская",
+  "title": "Букет невесты из пионов",
+  "seller_link": "/user/235fbf2bba9c2c208cf42f5e5af60809/profile?id=1598352140&src=item",
+  "text": "Букет невесты из пионов. С 15 июня по 1 августа , букет из пионов от 800 р !!!подмосковные пионы только срезанные будут радовать вас !!!\n",
+  "post_date": "  07 October в 22:40  "
+}

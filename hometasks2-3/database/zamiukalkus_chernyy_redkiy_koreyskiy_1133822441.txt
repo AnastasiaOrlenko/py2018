@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 1133822441,
+  "title": "Замиукалькус черный редкий корейский",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiukalkus_chernyy_redkiy_koreyskiy_1133822441",
+  "seller": "Екатерина",
+  "address": "Москва, м. Марьино",
+  "text": "Корейский черный замик и детки от него,давно домашний.цена разная.взависимости от растения.\n",
+  "post_date": "  6 октября в 22:28  ",
+  "seller_link": "/user/953b7f446b8557441aa3c911638f6a24/profile?id=1133822441&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 940173546,
+  "title": "Сортовые тюльпаны и примулы,мускарики,нарцысы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sortovye_tyulpany_i_primulymuskarikinartsysy_940173546",
+  "seller": "частное лицо",
+  "seller-contact": "Надежда",
+  "address": "Москва, м. Бабушкинская",
+  "text": "Тюльпаны по 60,махровые по 70, остальное по 100 руб.за деленку\n",
+  "post_date": "  5 октября в 07:00  ",
+  "seller_link": "/user/31b65ff9c1f4dea6c75cb6d646bff2e3/profile?id=940173546&src=item"
+}

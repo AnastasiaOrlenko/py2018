@@ -1,0 +1,13 @@
+{
+  "price": 320,
+  "seller_status": "Компания",
+  "index": 1698444389,
+  "title": "Хавортия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/havortiya_1698444389",
+  "seller": "Танита",
+  "seller-contact": "Танита",
+  "address": "Москва, м. Кантемировская",
+  "text": "Продаю\nХавортия извилистая — имеет мелкую выпуклую снизу листву тёмно-зелёного оттенка, покрытую пупырышками.\n",
+  "post_date": "  5 октября в 15:59  ",
+  "seller_link": "/user/2917fe62134c9d3564579ce61c526b93/profile?id=1698444389&src=item"
+}

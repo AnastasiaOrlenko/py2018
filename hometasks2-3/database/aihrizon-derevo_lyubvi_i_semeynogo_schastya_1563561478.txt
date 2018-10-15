@@ -1,0 +1,12 @@
+{
+  "text": "АИХРИЗОН-дерево любви и семейного благополучия. Как на фото. Встреча Подольск, Домодедово, мАннино.\n",
+  "title": "Аихризон-дерево любви и семейного счастья",
+  "price": 250,
+  "index": 1563561478,
+  "address": "Москва, м. Улица академика Янгеля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aihrizon-derevo_lyubvi_i_semeynogo_schastya_1563561478",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 10:24  ",
+  "seller": "света",
+  "seller_link": "/user/a5b4167c34ff40b981e73470699ef5b7/profile?id=1563561478&src=item"
+}

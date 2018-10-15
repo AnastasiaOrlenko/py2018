@@ -1,0 +1,12 @@
+{
+  "text": "Калы, хлопок, розы, декор, упаковка\n",
+  "title": "Калы",
+  "price": 2050,
+  "index": 967849436,
+  "address": "Москва, м. Электрозаводская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaly_967849436",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:09  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

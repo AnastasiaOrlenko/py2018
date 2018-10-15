@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Перово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1648847872",
+  "price": 20,
+  "seller": "Елена",
+  "post_date": "  08 October в 21:30  ",
+  "title": "Каланхоэ",
+  "text": "Детки каланхоэ 20 руб- 1 детёныш :) Великолепное средство если есть проблемы с кожей или насморк.\n",
+  "index": 1648847872,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/3bb3eecc1ed5b5f3be67729dc5ded1f7/profile?id=1648847872&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/1ddca40e075a6c8e6ecc9bf4a4886efb/profile?id=1512758279&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1512758279",
+  "post_date": "  08 October в 09:18  ",
+  "address": "Москва, м. Хорошево",
+  "seller": "Екатерина",
+  "text": "Продаю фикус Бенджамина, высота 2,5 м, с красивым белым горшком. Подойдёт для офиса и дома.\nСамовывоз.\n",
+  "index": 1512758279,
+  "seller_status": "Частное лицо",
+  "price": 3500,
+  "title": "Фикус Бенджамина"
+}

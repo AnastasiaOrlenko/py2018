@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1236039788,
+  "seller": "Юля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/glinyanyy_gorshok_bez_poddona_1236039788",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Глиняный горшок без поддона",
+  "seller_link": "/user/34007ab7e0cd4b7335a2b29e254f93bf/profile?id=1236039788&src=item",
+  "text": "Продам глиняный горшок за 300 р\n",
+  "post_date": "  07 October в 15:34  "
+}

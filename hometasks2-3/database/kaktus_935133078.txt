@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. ВДНХ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_935133078",
+  "price": 100,
+  "seller": "Карина",
+  "post_date": "  08 October в 17:55  ",
+  "title": "Кактус",
+  "text": "Кактус в красном горшочке с блюдцем\n",
+  "index": 935133078,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/54fe8824a0a7b13bd424e4732f5d1d45/profile?id=935133078&src=item"
+}

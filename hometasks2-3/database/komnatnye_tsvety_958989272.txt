@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2000,
+  "index": 958989272,
+  "seller": "Эдуард",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_tsvety_958989272",
+  "address": "Москва, м. Марьино",
+  "title": "Комнатные цветы",
+  "seller_link": "/user/cf11f8b47b70254e4cb82724847aaec8/profile?id=958989272&src=item",
+  "text": "1 фото: высота 1 метр. Цена 2000\n2 фото: высота 1 метр. Цена 6000 ( кашпо с автополивом Лечуза)\nРазмер указан вместе с кашпо.\n",
+  "post_date": "  07 October в 21:01  "
+}

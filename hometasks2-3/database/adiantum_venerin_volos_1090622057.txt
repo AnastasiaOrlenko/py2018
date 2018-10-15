@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 250,
+  "index": 1090622057,
+  "seller": "888",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/adiantum_venerin_volos_1090622057",
+  "address": "Москва, м. Каширская",
+  "title": "Адиантум (Венерин волос)",
+  "seller_link": "/user/9b9c3f3a5ba6f611a56563de18f58f03/profile?id=1090622057&src=item",
+  "text": "Адиантум (,Венерин волос)\nмолоденький, быстро разрастается.\nпо 250 руб.\n",
+  "post_date": "  07 October в 13:52  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Перово",
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1677831224",
+  "seller_status": "Частное лицо",
+  "title": "Гибискус",
+  "post_date": "  08 October в 14:42  ",
+  "price": 3500,
+  "index": 1677831224,
+  "seller_link": "/user/e897f54241982ed106dc97860244bf38/profile?id=1677831224&src=item",
+  "text": "Дерево суданской розы. Высота около 120 см. Торг.\n"
+}

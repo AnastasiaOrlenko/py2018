@@ -1,0 +1,12 @@
+{
+  "price": 2490,
+  "seller_status": "Частное лицо",
+  "index": 1022000325,
+  "title": "Антуриум Рэд Дакота красный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_red_dakota_krasnyy_1022000325",
+  "seller": "Veronika",
+  "address": "Москва, м. Каширская",
+  "text": "Продаю растения Антуриум Рэд Дакота красный 17см×75см... Большой выбор растений. Пишите...звоните...Накопительная система скидок. Доставка в день заказа.\n",
+  "post_date": "  6 октября в 10:55  ",
+  "seller_link": "/user/1d4e930cb3bfc79fd0e7cc374e178e56/profile?id=1022000325&src=item"
+}

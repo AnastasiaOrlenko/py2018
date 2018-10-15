@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/spatifillumy_pikasso_kupido_sebastyano_sensatsiya_988627325",
+  "price": 2200,
+  "seller": "Ольга",
+  "post_date": "  08 October в 17:50  ",
+  "title": "Спатифиллумы Пикассо, Купидо, Себастьяно Сенсация",
+  "text": "Продаю Спатифиллумы \"Женское счастье\", набор из 4 растений + пятое в подарок = 2200 руб. В набор входят Сенсация, Себастьяно, Шопен, Венди, Домино.\nПикассо и Купидо по 3500 руб.\n",
+  "index": 988627325,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/60dc437be2482d8792775c4ea668c9f6/profile?id=988627325&src=item"
+}

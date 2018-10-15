@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 777920702,
+  "title": "Сосна крымская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sosna_krymskaya_777920702",
+  "seller": "Александр",
+  "address": "Москва, м. Ясенево",
+  "text": "Сосна крымская , 500р метр.Обменяю на другие растения. В нарофоминском районе.\n",
+  "post_date": "  5 октября в 11:28  ",
+  "seller_link": "/user/4a2d917548e4c315f42d3f4cf5441495/profile?id=777920702&src=item"
+}

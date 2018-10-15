@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1462068225,
+  "title": "Пеларгония герань комнатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_komnatnaya_1462068225",
+  "seller": "Роза",
+  "address": "Москва, м. Кузьминки",
+  "text": "Герань розовая,цветет круглый год, запах листьев около кровати способствует спокойному сну.\n",
+  "post_date": "  6 октября в 21:03  ",
+  "seller_link": "/user/388d0beea5d62077c0b342ab08e79b90/profile?id=1462068225&src=item"
+}

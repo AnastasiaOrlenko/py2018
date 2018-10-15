@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 962309018,
+  "title": "Растение Гастерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_gasteriya_962309018",
+  "seller": "Татьяна",
+  "address": "Москва, м. Беляево",
+  "text": "Элегантное комнатное растение Гастерия, укорененные черенки. На двух последних фото - материнское растение, скоро зацветет.\n",
+  "post_date": "  4 октября в 22:16  ",
+  "seller_link": "/user/bbf42e0078242f59e49f52de3e372988/profile?id=962309018&src=item"
+}

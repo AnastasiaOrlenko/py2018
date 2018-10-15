@@ -1,0 +1,13 @@
+{
+  "price": 30,
+  "seller_status": "Компания",
+  "index": 113536997,
+  "title": "Фиалка - сорт \"Зивай\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_-_sort_zivay_113536997",
+  "seller": "ОБУВЬ МЕЧТЫ - OASIS SHOES",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Кантемировская",
+  "text": "Продаю фиалки - сорт \"Зивай\" (Zivay): черенки, детки, взрослые.\nЕсть другие сорта.\n",
+  "post_date": "  4 октября в 18:49  ",
+  "seller_link": "/user/c2900c4f264d126e41d9e617d2129963/profile?id=113536997&src=item"
+}

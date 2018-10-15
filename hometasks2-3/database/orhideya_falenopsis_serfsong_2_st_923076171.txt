@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_serfsong_2_st_923076171",
+  "seller_status": "Компания",
+  "title": "Орхидея Фаленопсис Серфсонг 2 ст",
+  "post_date": "  08 October в 11:17  ",
+  "price": 1790,
+  "index": 923076171,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=923076171&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Орхидея Фаленопсис Серфсонг 2 ст в интернет-магазине Корзина Цветов. Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России.\n"
+}

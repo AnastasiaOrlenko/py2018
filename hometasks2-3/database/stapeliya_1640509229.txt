@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1640509229,
+  "title": "Стапелия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stapeliya_1640509229",
+  "seller": "Александр",
+  "seller-contact": "Александр",
+  "address": "Москва, м. Октябрьское поле",
+  "text": "Продам отростки стапелии! Растение красиво цветет в летний период.\n",
+  "post_date": "  6 октября в 11:34  ",
+  "seller_link": "/user/de6fcdaa236227c199f1c724ded2b904/profile?id=1640509229&src=item"
+}

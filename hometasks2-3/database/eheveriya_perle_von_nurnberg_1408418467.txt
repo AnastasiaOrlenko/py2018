@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "index": 1408418467,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eheveriya_perle_von_nurnberg_1408418467",
+  "address": "Москва, м. Фрунзенская",
+  "title": "Эхеверия Perle von Nurnberg",
+  "seller_link": "/user/3c89372b5a3c74919cf7a201da041019/profile?id=1408418467&src=item",
+  "text": "Лист н/у\n",
+  "post_date": "  07 October в 22:36  "
+}

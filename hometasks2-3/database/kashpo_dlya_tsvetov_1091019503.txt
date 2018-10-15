@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 900,
+  "index": 1091019503,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_dlya_tsvetov_1091019503",
+  "address": "Москва, м. Севастопольская",
+  "title": "Кашпо для цветов",
+  "seller_link": "/user/be3f177d5a88dd087008e8138402cbd7/profile?id=1091019503&src=item",
+  "text": "Времен СССР, ппоизводитель неизвестен. Диаметр по верху 24 см., дно 14 см., высота 17 см. Состояние хорошее.\n",
+  "post_date": "  07 October в 18:45  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1413792527,
+  "title": "Комнатный цветок Хлорофитум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnyy_tsvetok_hlorofitum_1413792527",
+  "seller": "Мария",
+  "address": "Москва, м. Медведково",
+  "text": "Красивое комнатное растение Хлорофитум в пластиковом горшке. \nПродаю из-за ремонта в квартире.\n",
+  "post_date": "  07 October в 12:44  ",
+  "seller_link": "/user/783eacbe8a7e5c6a19ba434636fcbd74/profile?id=1413792527&src=item"
+}

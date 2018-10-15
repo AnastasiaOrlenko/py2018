@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1173162024,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1173162024",
+  "seller": "Наталья",
+  "address": "Москва, м. Перово",
+  "text": "Цветёт оранжевыми цветами.\n",
+  "post_date": "  5 октября в 22:50  ",
+  "seller_link": "/user/a445774c5e959fbef8e25e3b35bdf092/profile?id=1173162024&src=item"
+}

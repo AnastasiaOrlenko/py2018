@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1098500973,
+  "title": "Декабрист",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_1098500973",
+  "seller": "Ольга Куприянова",
+  "address": "Москва, м. Электрозаводская",
+  "text": "Укорененные черенки декабристов и пеларгонии грандифлора\n",
+  "post_date": "  07 October в 08:36  ",
+  "seller_link": "/user/ab506e8b113ce00fdedc6e2b3bc8c773/profile?id=1098500973&src=item"
+}

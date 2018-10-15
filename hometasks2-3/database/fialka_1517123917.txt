@@ -1,0 +1,12 @@
+{
+  "text": "Фиалка, в новом горшочке с поддоном. По восточному округу есть возможность привезти!\n",
+  "title": "Фиалка",
+  "price": 400,
+  "index": 1517123917,
+  "address": "Москва, м. Курская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1517123917",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:52  ",
+  "seller": "Андрей",
+  "seller_link": "/user/29443c2987fd1ee8cdf864de02f04e90/profile?id=1517123917&src=item"
+}

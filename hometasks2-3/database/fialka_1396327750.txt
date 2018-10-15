@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1396327750,
+  "seller": "Людмила",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1396327750",
+  "address": "Москва, м. Библиотека им. Ленина",
+  "title": "Фиалка",
+  "seller_link": "/user/adf7435f98a26bf00d6d55bbd6156c1e/profile?id=1396327750&src=item",
+  "text": "сиреневый цвет.отцвела.большая в диаметре.в красивом горшке.вот так зацветала\n",
+  "post_date": "  08 October в 08:40  "
+}

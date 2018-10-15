@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Славянский бульвар",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1121748562",
+  "price": 250,
+  "seller": "Не компания",
+  "post_date": "  08 October в 20:32  ",
+  "title": "Каланхоэ",
+  "text": "Каланхоэ.\nВидов Каланхоэ много, название данного вида в интернете не нашла. Листья пушистые, кромка листьев темно-бордового цвета.\n",
+  "index": 1121748562,
+  "seller_status": "Компания",
+  "seller_link": "/user/0453cb93e8867a2fea9ee97f50ffbdee/profile?id=1121748562&src=item"
+}

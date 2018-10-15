@@ -1,0 +1,12 @@
+{
+  "price": 60,
+  "seller_status": "Частное лицо",
+  "index": 1171315656,
+  "title": "Исландский мох",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/islandskiy_moh_1171315656",
+  "seller": "Татьяна",
+  "address": "Москва, м. Медведково",
+  "text": "Исландский мох (50гр -60руб. 1кг.-600руб.)и другие растения от заготовителя-Вячеслав Аркадьевич .\nЦены оптовые.\n",
+  "post_date": "  5 октября в 08:18  ",
+  "seller_link": "/user/6f805f1e7fa582d789126c9dd45a2880/profile?id=1171315656&src=item"
+}

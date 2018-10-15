@@ -1,0 +1,12 @@
+{
+  "price": 499,
+  "seller_status": "Частное лицо",
+  "index": 1014720616,
+  "title": "Орхидея в горшочке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_v_gorshochke_1014720616",
+  "seller": "Олеся",
+  "address": "Москва",
+  "text": "отлично украсит Ваш интерьер\nИскусственная\nВысота 30 см\n",
+  "post_date": "  5 октября в 15:27  ",
+  "seller_link": "/user/96bd86c0c0fbefdd857afec4cc058c0f/profile?id=1014720616&src=item"
+}

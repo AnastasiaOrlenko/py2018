@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 919889068,
+  "seller": "Anna",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/maranta_919889068",
+  "address": "Москва, м. Волоколамская",
+  "title": "Маранта",
+  "seller_link": "/user/29be170ebb720d43523c685d93a7c441/profile?id=919889068&src=item",
+  "text": "500-растение в красивом горшке\n300-в обычном горшке\n",
+  "post_date": "  07 October в 13:37  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1064570516,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1064570516",
+  "seller": "Михаил.",
+  "address": "Москва, м. Дубровка",
+  "text": "Продам веточками, т.к. разрослось. Вырастил с 94 года.\n",
+  "post_date": "  07 October в 02:05  ",
+  "seller_link": "/user/c71a3749c462b7a416ffc908da784f1b/profile?id=1064570516&src=item"
+}

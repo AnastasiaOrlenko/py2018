@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1534374982,
+  "seller": "Margarita Sharova",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_pyatigrannyy_fikus_palma_kaktus_1534374982",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Молочай пятигранный фикус пальма кактус",
+  "seller_link": "/user/b179f08ebbc9c949e88667b98a7e0f07/profile?id=1534374982&src=item",
+  "text": "В керамическом белом горшке 800, в черном пластиковом 300. Красивый комнатный цветок. Комнатное суккулентное растение. Уход минимален. Слишком много цветов, распродаю. Высота в горшке больше метра\nСамовывоз веерная ул по договоренности\n",
+  "post_date": "  07 October в 21:55  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1720983925,
+  "title": "Луковое счастье",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/lukovoe_schaste_1720983925",
+  "seller": "Людмила",
+  "address": "Москва, м. Тропарево",
+  "text": "Продам устройство для выгонки зеленого лука.\n",
+  "post_date": "  6 октября в 22:28  ",
+  "seller_link": "/user/288df9a7e5447b2f4a40122ffcf5ea47/profile?id=1720983925&src=item"
+}

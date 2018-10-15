@@ -1,0 +1,12 @@
+{
+  "price": 550,
+  "seller_status": "Частное лицо",
+  "index": 1403582342,
+  "title": "Орхидея онцидиум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_ontsidium_1403582342",
+  "seller": "Юлия",
+  "address": "Москва, м. Преображенская площадь",
+  "text": "Oncidium lanceanum в активном росте.\n",
+  "post_date": "  6 октября в 21:30  ",
+  "seller_link": "/user/7e902784bb646761abb4d35c86f23849/profile?id=1403582342&src=item"
+}

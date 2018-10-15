@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 388391124,
+  "title": "Для дома или офиса",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dlya_doma_ili_ofisa_388391124",
+  "seller": "Екатерина",
+  "address": "Москва, м. Планерная",
+  "text": "Цветок большой, идеально для больших помещений. Вьюнок. Легко размножается. Самовывоз.\n",
+  "post_date": "  5 октября в 07:54  ",
+  "seller_link": "/user/f7b134f31bc056a15f00a1a7ed7ee984/profile?id=388391124&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1019240716,
+  "title": "Гиппеаструм, цветущая луковица, 4 см",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gippeastrum_tsvetuschaya_lukovitsa_4_sm_1019240716",
+  "seller": "Ирина",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Сейчас луковица спит, готовится к цветению в феврале.\n",
+  "post_date": "  5 октября в 13:41  ",
+  "seller_link": "/user/278a200c9453e8fa4f2c7a3c2570047f/profile?id=1019240716&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1485904010,
+  "seller": "Вадим",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1485904010",
+  "address": "Москва, м. Славянский бульвар",
+  "title": "Замиокулькас",
+  "seller_link": "/user/3d7b532ea27cbb8255b6e165422a1dc7/profile?id=1485904010&src=item",
+  "text": "Продаю замиокулькас (долларовое дерево). \nВысота 50 см.\n",
+  "post_date": "  07 October в 14:55  "
+}

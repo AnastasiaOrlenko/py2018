@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/2974666675885b7cdffe59b3116abf37/profile?id=1518742368&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_s_podstavkoy_1518742368",
+  "post_date": "  08 October в 09:02  ",
+  "address": "Москва, м. Митино",
+  "seller": "Валентина",
+  "text": "Два хлорофитума и замиокулькас украсят интерьер и порадуют глаз.\n",
+  "index": 1518742368,
+  "seller_status": "Частное лицо",
+  "price": 3000,
+  "title": "Цветы с подставкой"
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Щелковская",
+  "seller": "павел",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prestizh_1093021011",
+  "seller_status": "Частное лицо",
+  "title": "Престиж",
+  "post_date": "  08 October в 13:32  ",
+  "price": 2000,
+  "index": 1093021011,
+  "seller_link": "/user/8576a73e530b667d20423a8cd108b823/profile?id=1093021011&src=item",
+  "text": "Инсекто-фунгицидный протравитель для обработки клубней картофеля против грызущих и сосущих вредителей в том числе и почвообитающих , а также некоторых болезней ( Viber,WhatsApp)\n"
+}

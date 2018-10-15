@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1271381930,
+  "title": "Горшок керамический",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_keramicheskiy_1271381930",
+  "seller": "Ирина А.",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Горшок керамический. состояние отличное. Без сколов и трещин. большой высота 20 см диаметр 25 см. заходите в профиль.много интересного.\n",
+  "post_date": "  5 октября в 21:53  ",
+  "seller_link": "/user/ace628042e396e8269acadb40961af81/profile?id=1271381930&src=item"
+}

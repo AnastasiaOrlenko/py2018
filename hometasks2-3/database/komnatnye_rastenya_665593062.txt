@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 665593062,
+  "seller": "Михаил",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rastenya_665593062",
+  "address": "Москва, м. Крылатское",
+  "title": "Комнатные растеня",
+  "seller_link": "/user/bbf139991145c0ed9e305906ca02b26d/profile?id=665593062&src=item",
+  "text": "Руководство по выбору растений и уходу за ними. Джейн Куртье и Грэхем Кларк. 2002 г.\n",
+  "seller-contact": "Михаил",
+  "post_date": "  07 October в 16:08  "
+}

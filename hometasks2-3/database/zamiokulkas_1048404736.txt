@@ -1,0 +1,12 @@
+{
+  "price": 5000,
+  "seller_status": "Частное лицо",
+  "index": 1048404736,
+  "title": "Замиокулькас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1048404736",
+  "seller": "Юлия",
+  "address": "Москва, м. Теплый стан",
+  "text": "Пот пола 120 см\n",
+  "post_date": "  6 октября в 19:47  ",
+  "seller_link": "/user/ef61d506edd869d87b876c4f75b5bd41/profile?id=1048404736&src=item"
+}

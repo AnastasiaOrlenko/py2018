@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Кантемировская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffenbahiya_1165482445",
+  "price": 850,
+  "seller": "Елена",
+  "post_date": "  08 October в 21:07  ",
+  "title": "Диффенбахия",
+  "text": "Молодое, ухоженное растение.\nВысота 60 см.\n6 листов.\nПродам вместе с керамической плошкой, диаметр 20 см.\n",
+  "index": 1165482445,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/5b5f00f7019743fc58c66b9e76dd1b97/profile?id=1165482445&src=item"
+}

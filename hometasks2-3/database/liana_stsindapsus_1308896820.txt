@@ -1,0 +1,12 @@
+{
+  "title": "Лиана сциндапсус",
+  "price": 300,
+  "seller": "Сергей",
+  "seller_link": "/user/0954df0d138bbef63ddda91729e93589/profile?id=1308896820&src=item",
+  "address": "Москва, м. Трубная",
+  "index": 1308896820,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/liana_stsindapsus_1308896820",
+  "text": "Продаю лиану сциндапсус. Несколько стеблей, длина 2,5 метра.\n",
+  "post_date": "  4 октября в 17:22  "
+}

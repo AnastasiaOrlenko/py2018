@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 992144275,
+  "title": "Колеусы одним лотом",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleusy_odnim_lotom_992144275",
+  "seller": "Мария",
+  "address": "Москва, м. Кузьминки",
+  "text": "Шесть растений, в горшочках, растут, в хорошей земле. \nЦена за все сразу. \nНа смс не отвечаю, смотрите профиль, есть другие растения.\n",
+  "post_date": "  07 October в 03:26  ",
+  "seller_link": "/user/013d938f420818671ce42df89cd9f217/profile?id=992144275&src=item"
+}

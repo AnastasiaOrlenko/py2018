@@ -1,0 +1,12 @@
+{
+  "text": "Три подсолнуха с сочной зеленью в деревянном ящичке\n",
+  "title": "Подсолнух в композиции",
+  "price": 2050,
+  "index": 1042514025,
+  "address": "Москва, м. Авиамоторная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podsolnuh_v_kompozitsii_1042514025",
+  "seller_status": "Магазин",
+  "post_date": "  12 October в 22:07  ",
+  "seller": "Rurose Цветочный супермаркет",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

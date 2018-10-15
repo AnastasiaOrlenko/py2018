@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1623047910,
+  "title": "Фиттония микс (фото всех сортов)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fittoniya_miks_foto_vseh_sortov_1623047910",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Размер горшка 10д, высота 15-20см.\n",
+  "post_date": "  07 October в 01:28  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1623047910&src=item"
+}

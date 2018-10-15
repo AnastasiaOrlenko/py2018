@@ -1,0 +1,12 @@
+{
+  "price": 1600,
+  "seller_status": "Частное лицо",
+  "index": 1702071515,
+  "title": "Букет фруктовый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_fruktovyy_1702071515",
+  "seller": "Анастасия",
+  "address": "Москва, м. Свиблово",
+  "text": "Это даже не будет , композиция из фруктов и цветов - красивый и необычный подарок . \nВ составе : яблоки, лимоны, киви, цветы .\n",
+  "post_date": "  07 October в 09:31  ",
+  "seller_link": "/user/26490118a3245ee92b70b8786c8eb8f8/profile?id=1702071515&src=item"
+}

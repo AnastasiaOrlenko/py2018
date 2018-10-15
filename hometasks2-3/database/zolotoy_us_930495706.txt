@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 930495706,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zolotoy_us_930495706",
+  "address": "Москва, м. Домодедовская",
+  "title": "Золотой ус",
+  "seller_link": "/user/d1de943d592f15a0038750a3631682f2/profile?id=930495706&src=item",
+  "text": "Комнатный цветок золотой ус\n",
+  "post_date": "  07 October в 18:21  "
+}

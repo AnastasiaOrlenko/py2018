@@ -1,0 +1,12 @@
+{
+  "title": "Травка из икеи искус",
+  "price": 500,
+  "seller": "ирина макарова",
+  "seller_link": "/user/4ccf2cc66bff6cb373452c01e4ec6723/profile?id=1087116553&src=item",
+  "address": "Москва, м. Строгино",
+  "index": 1087116553,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/travka_iz_ikei_iskus_1087116553",
+  "text": "Цена за 5 горшков.\n",
+  "post_date": "  4 октября в 17:02  "
+}

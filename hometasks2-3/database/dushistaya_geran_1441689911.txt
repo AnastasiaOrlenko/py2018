@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1441689911,
+  "title": "Душистая герань",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dushistaya_geran_1441689911",
+  "seller": "Полина",
+  "seller-contact": "Марина",
+  "address": "Москва, м. Крылатское",
+  "text": "100-200 р. Принесу в метро Крылатское в любой день и час.\n",
+  "post_date": "  6 октября в 22:06  ",
+  "seller_link": "/user/8a36da8db8e342ab21f6d97c198ea293/profile?id=1441689911&src=item"
+}

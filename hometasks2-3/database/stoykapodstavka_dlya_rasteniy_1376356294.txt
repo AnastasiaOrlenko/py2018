@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Юлия",
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stoykapodstavka_dlya_rasteniy_1376356294",
+  "seller_status": "Компания",
+  "title": "Стойка,подставка для растений",
+  "post_date": "  08 October в 11:31  ",
+  "price": 1400,
+  "index": 1376356294,
+  "seller_link": "/user/07b878cf478158c542d78237db146e40/profile?id=1376356294&src=item",
+  "address": "Москва, м. Тропарево",
+  "text": "В хорошем сохране, металлическая, высота 43 см, ширина 46 см, диаметр круга 20 см, регулируется высота. Используется также для животных.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1277521836,
+  "title": "Горшок настенный новый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_nastennyy_novyy_1277521836",
+  "seller": "Olga",
+  "address": "Москва, м. Братиславская",
+  "text": "Горшок настенный \"Фелиция\" \nВысота: 14 см\nдиаметр: 20 см\nПо всем вопросам пишите или звоните.\n",
+  "post_date": "  6 октября в 19:59  ",
+  "seller_link": "/user/0471aa1c9d627894ea9483e32903fee9/profile?id=1277521836&src=item"
+}

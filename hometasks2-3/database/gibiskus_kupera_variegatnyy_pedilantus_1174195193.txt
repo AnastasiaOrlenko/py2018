@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1174195193,
+  "title": "Гибискус Купера вариегатный, педилантус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_kupera_variegatnyy_pedilantus_1174195193",
+  "seller": "Алина",
+  "address": "Москва, м. Молодежная",
+  "text": "Давно укоренённый отросток Гибискуса Купера вариегатный. Высота 15 см. Неприхотливый, цветущее дерево у вас дома.\nУкоренённый педилантус цена 200 руб. фото №4\n",
+  "post_date": "  5 октября в 17:07  ",
+  "seller_link": "/user/52a6c5dcacd0d2354a3075c21f7f1b32/profile?id=1174195193&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 959181450,
+  "title": "Антуриум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_959181450",
+  "seller": "Юлия Алексеевна",
+  "address": "Москва, м. Павелецкая",
+  "text": "Красивый, цветущий, в пластиковом горшке.\n",
+  "post_date": "  6 октября в 13:23  ",
+  "seller_link": "/user/2048e072c637f062cab8489d99d4b3ef/profile?id=959181450&src=item"
+}

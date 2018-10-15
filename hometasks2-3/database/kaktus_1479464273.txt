@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/91809d58faa390a27ce24b75a81dcd5b/profile?id=1479464273&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_1479464273",
+  "post_date": "  08 October в 08:56  ",
+  "address": "Москва, м. Водный стадион",
+  "seller": "Sveta",
+  "text": "В наличии много таких каких кактусов разного размера по цене от 50 до 100 р\n",
+  "index": 1479464273,
+  "seller_status": "Частное лицо",
+  "price": 50,
+  "title": "Кактус"
+}

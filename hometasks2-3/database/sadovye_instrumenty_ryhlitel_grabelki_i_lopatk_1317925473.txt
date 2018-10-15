@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1317925473,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sadovye_instrumenty_ryhlitel_grabelki_i_lopatk_1317925473",
+  "address": "Москва, м. Щукинская",
+  "title": "Садовые инструменты (рыхлитель, грабельки и лопатк",
+  "seller_link": "/user/6b36eef80ab7fd7061a1989d06a0515d/profile?id=1317925473&src=item",
+  "text": "Не использовались. Новые.\n",
+  "seller-contact": "Анна",
+  "post_date": "  07 October в 22:18  "
+}

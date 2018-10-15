@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Гроубокс разноц комплектации. Есть под ключ. Цена от 6300 до 29000\n",
+  "index": 1337973963,
+  "title": "Гроубокс",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/grouboks_1337973963",
+  "seller": "Андреева Полина Андреевна",
+  "address": "Москва, м. Динамо",
+  "post_date": "  6 октября в 19:42  ",
+  "seller_link": "/user/fc7ba1671d81d0e22ce2639612cca2f6/profile?id=1337973963&src=item"
+}

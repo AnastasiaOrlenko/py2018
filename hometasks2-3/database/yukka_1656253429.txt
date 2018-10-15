@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1656253429,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1656253429",
+  "seller": "Кама",
+  "address": "Москва, м. Новогиреево",
+  "text": "Купили эту «малышку» 3 года назад, не думали что так вытянется в длину-ширину. Места мало ей, отдадим заботливому хозяину.\n",
+  "post_date": "  5 октября в 10:33  ",
+  "seller_link": "/user/83853d8e56db6a6a4a64cb231d48d7bd/profile?id=1656253429&src=item"
+}

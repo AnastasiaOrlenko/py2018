@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1274085195,
+  "title": "Алоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1274085195",
+  "seller": "Виктор",
+  "address": "Москва, м. Люблино",
+  "text": "Здоровый росток, пересажен от 5 летнего.\n",
+  "post_date": "  5 октября в 09:29  ",
+  "seller_link": "/user/13d88c83a6845eb9cf0e1732ab8ecab1/profile?id=1274085195&src=item"
+}

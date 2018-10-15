@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1421730900,
+  "title": "Амариллис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/amarillis_1421730900",
+  "seller": "Светлана",
+  "address": "Москва, м. Лихоборы",
+  "text": "красный по 250₽\n",
+  "post_date": "  07 October в 08:23  ",
+  "seller_link": "/user/59af362bd2f7ea86915d1a7e88ab0297/profile?id=1421730900&src=item"
+}

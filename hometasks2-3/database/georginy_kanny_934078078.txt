@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 934078078,
+  "title": "Георгины, Канны",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/georginy_kanny_934078078",
+  "seller": "Ольга",
+  "address": "Москва, м. Домодедовская",
+  "text": "Садовые многолетние цветы. Клубни георгины, клубни канны насыщенного темного цвета, цветки желтые. Все по 250 рублей. М. Домодедовская\n",
+  "post_date": "  6 октября в 23:20  ",
+  "seller_link": "/user/bea210134eef6721dc61bf6a01f45b99/profile?id=934078078&src=item"
+}

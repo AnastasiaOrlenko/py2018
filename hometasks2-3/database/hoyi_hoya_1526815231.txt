@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_hoya_1526815231",
+  "price": 100,
+  "seller": "сергей ш",
+  "post_date": "  08 October в 16:33  ",
+  "title": "Хойи hoya",
+  "text": "1. Hoya polystachya - Хойя полистахия 1500р\n2.Hoya tam-dao. 500\n3 Hoya erythrostemma EPC-762 (450р)\n4 Hoya obscura- Хойя обскура возможна продажа сс\\ч 1 узел 100р целиком растение (500)\n5Hoya parasitica kho chang- хойя паразитика ко Чанг сс\\ч 1 узел 200р растение целиком ( 1200 р) \n6.Hoya meliflua (Blanco) - Хойя мелифлуа сс\\ч 150р узел. растение целиком ( 750р)\n7. Hoya forbesii - хойя форбесси ( 700р)\n8.Hoya buotii-Хойя Буоти сс\\ч 100 рублей узел целое растение (900р) \n9.Hoya Graveolens -150р сс/ч целиком растение 700 рубHoya \nВозможна отправка почтой.\n",
+  "index": 1526815231,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/3e6362cdbb9ff537ce5b8f596b6e1337/profile?id=1526815231&src=item"
+}

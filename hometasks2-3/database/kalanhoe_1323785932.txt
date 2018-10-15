@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1323785932,
+  "seller": "Дарья",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1323785932",
+  "address": "Москва, м. Ховрино",
+  "title": "Каланхоэ",
+  "seller_link": "/user/b9dc7645997c1d7bef546b994561320c/profile?id=1323785932&src=item",
+  "text": "Цветок каланхоэ, растет хорошо, начинает куститься. Цвет бутонов красный)\n",
+  "post_date": "  07 October в 20:08  "
+}

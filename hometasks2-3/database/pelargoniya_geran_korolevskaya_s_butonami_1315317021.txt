@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "index": 1315317021,
+  "seller": "Серджиу",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_korolevskaya_s_butonami_1315317021",
+  "address": "Москва, м. Печатники",
+  "title": "Пеларгония герань Королевская с бутонами",
+  "seller_link": "/user/ac1fc5158c9c7f6b71e6e362e4e71383/profile?id=1315317021&src=item",
+  "text": "Укорененые черенки королевской пеларгоний с цветоносами уже\nЦветы крупные и цветет часто\n",
+  "post_date": "  07 October в 16:03  "
+}

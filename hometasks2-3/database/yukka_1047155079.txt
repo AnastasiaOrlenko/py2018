@@ -1,0 +1,12 @@
+{
+  "title": "Юкка",
+  "price": 12000,
+  "seller": "Елена",
+  "seller_link": "/user/4dd7fd987528b0e091d96738704c7ba7/profile?id=1047155079&src=item",
+  "address": "Москва, м. Дмитровская",
+  "index": 1047155079,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1047155079",
+  "text": "Продаю растение Юкка. В наличии 2 штуки. Каждая по 12 000 руб.\n",
+  "post_date": "  4 октября в 17:13  "
+}

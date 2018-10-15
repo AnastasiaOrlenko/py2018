@@ -1,0 +1,13 @@
+{
+  "price": 166,
+  "seller_status": "Компания",
+  "index": 773932638,
+  "title": "Цветы и растения, домашняя оранжерея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvety_i_rasteniya_domashnyaya_oranzhereya_773932638",
+  "seller": "Частное лицо",
+  "seller-contact": "Контактное лицо",
+  "address": "Москва, м. Первомайская",
+  "text": "Цветы и растения, любой 555р. (вместе дешевле!) \nкактус и т. д. всего 6 кустов за 1000, итого по 166\nзавтра пополнение, ставите в закладки! :)\nГлавное достоинство так это Горшки Глиняные!\n",
+  "post_date": "  07 October в 12:26  ",
+  "seller_link": "/user/b02c9eaa89cf7852886dacc0af716cb1/profile?id=773932638&src=item"
+}

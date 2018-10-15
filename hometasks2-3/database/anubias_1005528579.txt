@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1005528579,
+  "title": "Анубиас",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anubias_1005528579",
+  "seller": "Андрей Фрезе",
+  "address": "Москва, м. Кунцевская",
+  "text": "Анубиас высота около 30см. Самовывоз!\n",
+  "post_date": "  6 октября в 14:21  ",
+  "seller_link": "/user/7e99ee2d310bd9a656e7ecbbdfd6c138/profile?id=1005528579&src=item"
+}

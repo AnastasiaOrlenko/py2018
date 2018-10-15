@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1392531492,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eheveriya_chernyy_prints_1392531492",
+  "address": "Москва, м. Октябрьское поле",
+  "title": "Эхеверия Чёрный Принц",
+  "seller_link": "/user/f5f28ab7cc2db9babd7b7dfd94d14bfe/profile?id=1392531492&src=item",
+  "text": "Echeveria black prince Двойняшка и обычный, цена за каждый Светолюбивые, редкий полив\n",
+  "post_date": "  07 October в 18:20  "
+}

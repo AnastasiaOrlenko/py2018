@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1072490302,
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_trehgrannyy_1072490302",
+  "address": "Москва, м. Текстильщики",
+  "title": "Молочай трёхгранный",
+  "seller_link": "/user/b48de51dccc31891ec38f8207c9d794e/profile?id=1072490302&src=item",
+  "text": "Высота 123 см с горшком 143 см\n",
+  "post_date": "  07 October в 22:46  "
+}

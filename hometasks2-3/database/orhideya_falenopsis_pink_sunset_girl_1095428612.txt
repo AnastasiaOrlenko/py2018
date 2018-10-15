@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1100,
+  "index": 1095428612,
+  "seller": "олег",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_pink_sunset_girl_1095428612",
+  "address": "Москва, м. Пражская",
+  "title": "Орхидея фаленопсис Pink Sunset Girl",
+  "seller_link": "/user/dbc9848183555a31b98e4b6f66060839/profile?id=1095428612&src=item",
+  "text": "знаменитая орхидея Pink Sunset Girl, производство Азия ( питомник- Mikki orchid) размер 3,5. Посадка мох\n",
+  "post_date": "  07 October в 15:59  "
+}

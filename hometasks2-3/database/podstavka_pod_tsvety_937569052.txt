@@ -1,0 +1,13 @@
+{
+  "price": 400,
+  "seller_status": "Компания",
+  "index": 937569052,
+  "title": "Подставка под цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podstavka_pod_tsvety_937569052",
+  "seller": "Анна",
+  "seller-contact": "Анна",
+  "address": "Москва, м. Коньково",
+  "text": "Подставка круглая под цветы, передвижная, на колёсиках. 35х35. Максимальная нагрузка 50кг. Материал металл. Цена за шт. В наличии несколько.\n",
+  "post_date": "  6 октября в 13:42  ",
+  "seller_link": "/user/98b8f9eb1bee09a3b36e184d07d5a2f0/profile?id=937569052&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Новопеределкино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aihrizon_1033285376",
+  "seller-contact": "зоя",
+  "price": 100,
+  "seller": "Зоя",
+  "post_date": "  08 October в 21:56  ",
+  "title": "Аихризон",
+  "text": "Дерево любви. Много разнфх размеров. От 100 р. Переделкино\n",
+  "index": 1033285376,
+  "seller_status": "Компания",
+  "seller_link": "/user/d7aab04702d411e01d987f59136711c8/profile?id=1033285376&src=item"
+}

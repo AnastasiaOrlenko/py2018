@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 978996527,
+  "title": "Колерия Цветущая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/koleriya_tsvetuschaya_978996527",
+  "seller": "************",
+  "address": "Москва, м. Новогиреево",
+  "text": "Колерия укорененная.Цветет красным.\n",
+  "post_date": "  4 октября в 23:37  ",
+  "seller_link": "/user/e6151ad3dd55ef8d4b8becd9b8d342b6/profile?id=978996527&src=item"
+}

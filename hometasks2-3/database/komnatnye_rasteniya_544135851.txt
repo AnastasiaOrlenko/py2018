@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 544135851,
+  "seller": "Екатерина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnye_rasteniya_544135851",
+  "address": "Москва, м. Лермонтовский проспект",
+  "title": "Комнатные растения",
+  "seller_link": "/user/78a6a50fc8761255464d400645226f0c/profile?id=544135851&src=item",
+  "text": "Продам росточки. От 100р.\nУточняйте в лс\n",
+  "post_date": "  07 October в 17:12  "
+}

@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Площадь революции",
+  "seller": "Валентин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klerodendrumy_tibuhiny_alamandy_bugenvillii_i_m_1238266145",
+  "seller_status": "Частное лицо",
+  "title": "Клеродендрумы, тибухины, аламанды, бугенвиллии и м",
+  "post_date": "  08 October в 11:18  ",
+  "price": 300,
+  "index": 1238266145,
+  "seller_link": "/user/67798ea2a3fc093c657ff83f000a2811/profile?id=1238266145&src=item",
+  "text": "Бугенвиллии, фагреи, клеродендрумы, аламанды, тибухины и много других экзотических растений. Доставка автолайном через водителя. Наберите в поисковике ф-лора\n"
+}

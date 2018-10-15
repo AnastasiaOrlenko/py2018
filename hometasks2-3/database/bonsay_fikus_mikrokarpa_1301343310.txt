@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Отрадное",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bonsay_fikus_mikrokarpa_1301343310",
+  "price": 850,
+  "seller": "Максим",
+  "post_date": "  08 October в 20:20  ",
+  "title": "Бонсай фикус микрокарпа",
+  "text": "Продаю бонсай фикус микрокарпа, неприхотливое растение станет отличным украшением любого интерьера.\n",
+  "index": 1301343310,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/a5afa6ca10e5df8a2823d37d2c16b9f4/profile?id=1301343310&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1596243898,
+  "title": "Алоказия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/alokaziya_1596243898",
+  "seller": "Мария",
+  "address": "Москва, м. Аэропорт",
+  "text": "1,5 метра, быстро растёт\n",
+  "post_date": "  07 October в 07:50  ",
+  "seller_link": "/user/04c6f75a23ac7389f725d1d2205d8688/profile?id=1596243898&src=item"
+}

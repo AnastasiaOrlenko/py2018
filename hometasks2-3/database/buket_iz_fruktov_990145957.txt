@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Частное лицо",
+  "index": 990145957,
+  "title": "Букет из фруктов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_iz_fruktov_990145957",
+  "seller": "ms.pashok",
+  "address": "Москва, м. Пятницкое шоссе",
+  "text": "Букет из фруктов. Отличный оригинальный подарок. Доставка по Москве до Вашей станции метро+200р. По Митино бесплатно. Оригинальный подарок к 14му февраля\n",
+  "post_date": "  07 October в 07:32  ",
+  "seller_link": "/user/fd34f41fae2ffd18a87a72e6c9ee6d9c/profile?id=990145957&src=item"
+}

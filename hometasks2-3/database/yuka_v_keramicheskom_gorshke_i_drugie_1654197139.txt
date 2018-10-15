@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1654197139,
+  "title": "Юка в керамическом горшке и другие",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yuka_v_keramicheskom_gorshke_i_drugie_1654197139",
+  "seller": "Валерий Юрьевич",
+  "address": "Москва, м. Митино",
+  "text": "Продается шикарный пушистый цветок в большом красивом керамическом горшке высотой 120 см, есть еще драцена и пальма гибискус\n",
+  "post_date": "  5 октября в 13:02  ",
+  "seller_link": "/user/648d7b348200dc8937c108cde306df87/profile?id=1654197139&src=item"
+}

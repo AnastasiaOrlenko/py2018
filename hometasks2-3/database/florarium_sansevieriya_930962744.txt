@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 930962744,
+  "title": "Флорариум сансевиерия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/florarium_sansevieriya_930962744",
+  "seller": "Инна",
+  "address": "Москва, м. Пражская",
+  "text": "Флорариум, сансевиерия Сильвер ханни в стеклянном бокале.\n",
+  "post_date": "  5 октября в 20:38  ",
+  "seller_link": "/user/99297241100c4b3c6e7633e23d1df6ab/profile?id=930962744&src=item"
+}

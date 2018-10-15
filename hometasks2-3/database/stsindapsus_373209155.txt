@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Тверская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/stsindapsus_373209155",
+  "seller-contact": "Карина",
+  "price": 20,
+  "seller": "Карина",
+  "post_date": "  08 October в 23:53  ",
+  "title": "Сциндапсус",
+  "text": "Отростки сциндапсуса или сциндапсусы в горшках. Неприхотлив, только любит влагу и тень. Самовывоз с Маяковской.\n",
+  "index": 373209155,
+  "seller_status": "Компания",
+  "seller_link": "/user/338eda0af53df49870b64dcdaacd386c/profile?id=373209155&src=item"
+}

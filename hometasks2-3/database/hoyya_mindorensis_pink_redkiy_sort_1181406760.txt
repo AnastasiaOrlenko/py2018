@@ -1,0 +1,12 @@
+{
+  "text": "Большой черенок в активном росте. На фото видны новые росты.В профиле и вне объявления есть еще хойи\n",
+  "title": "Хойя Миндоренсис пинк, редкий сорт",
+  "price": 2000,
+  "index": 1181406760,
+  "address": "Москва, м. Коломенская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_mindorensis_pink_redkiy_sort_1181406760",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:42  ",
+  "seller": "юлия",
+  "seller_link": "/user/37136e7b61428a762a05e77fd76b5086/profile?id=1181406760&src=item"
+}

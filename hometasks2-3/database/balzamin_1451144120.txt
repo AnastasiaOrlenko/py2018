@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1451144120,
+  "title": "Бальзамин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/balzamin_1451144120",
+  "seller": "Галина",
+  "address": "Москва, м. Отрадное",
+  "text": "бальзамин,комнатное растение цветет сиреневым цветом,укорененный черенок что на 1 фото ,а на 2 его цветение.\n",
+  "post_date": "  6 октября в 16:53  ",
+  "seller_link": "/user/828f439fa401d5752984bc480f337b3e/profile?id=1451144120&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 2000,
+  "seller_status": "Компания",
+  "index": 1303208981,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1303208981",
+  "seller": "Приложения нет",
+  "seller-contact": "Николай",
+  "address": "Москва, м. Люблино",
+  "text": "В керамическом горшке, рост и диаметр растения 1 метр.\n",
+  "post_date": "  6 октября в 14:57  ",
+  "seller_link": "/user/423e1d5f41a49758314387e79000aa94/profile?id=1303208981&src=item"
+}

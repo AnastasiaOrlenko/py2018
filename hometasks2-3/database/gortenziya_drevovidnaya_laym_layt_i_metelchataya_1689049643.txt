@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "seller": "частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_drevovidnaya_laym_layt_i_metelchataya_1689049643",
+  "seller_status": "Частное лицо",
+  "title": "Гортензия древовидная лайм лайт и метельчатая",
+  "post_date": "  08 October в 12:12  ",
+  "price": 2000,
+  "index": 1689049643,
+  "seller_link": "/user/817f3feb2c53f6afdd92c83fd80d0422/profile?id=1689049643&src=item",
+  "text": "Цена от 2000 до 3500 в зависимости от куста \nГортензии роскошные \nСамовывоз с моего личного участка (70км от МКАД по Калужскому или Варшавскому шоссе), либо привезу после 100% предоплаты\n"
+}

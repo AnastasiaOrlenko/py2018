@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 100,
+  "index": 1499393550,
+  "seller": "юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1499393550",
+  "address": "Москва, м. Марьино",
+  "title": "Драцена",
+  "seller_link": "/user/b17226e85ea498ac8ad07e0b76ac3b74/profile?id=1499393550&src=item",
+  "text": "растение в горшке 100р укрепилось, приросло, пускает новые листочки.\n",
+  "post_date": "  08 October в 00:33  "
+}

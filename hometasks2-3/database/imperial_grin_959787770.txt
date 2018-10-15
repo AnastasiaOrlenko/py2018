@@ -1,0 +1,12 @@
+{
+  "price": 5345,
+  "seller_status": "Частное лицо",
+  "index": 959787770,
+  "title": "Империал Грин",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/imperial_grin_959787770",
+  "seller": "Veronika",
+  "address": "Москва, м. Каширская",
+  "text": "Продаю Империал Грин филодендрон 24см×60см. Большой выбор растений открытого и закрытого грунта. Быстрая доставка. Пишите...звоните...\n",
+  "post_date": "  6 октября в 10:52  ",
+  "seller_link": "/user/1d4e930cb3bfc79fd0e7cc374e178e56/profile?id=959787770&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1690934946,
+  "title": "Циссус(березка)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsissusberezka_1690934946",
+  "seller": "Лидия",
+  "address": "Москва, м. Отрадное",
+  "text": "Листья в виде виноградного листа,в керамическом горшке\n",
+  "post_date": "  4 октября в 21:25  ",
+  "seller_link": "/user/2f4329d3abb86614e101b99fbf3006bd/profile?id=1690934946&src=item"
+}

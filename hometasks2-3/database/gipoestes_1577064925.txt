@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/0937e74c0cd720acef454eac63f41790/profile?id=1577064925&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gipoestes_1577064925",
+  "post_date": "  08 October в 10:22  ",
+  "address": "Москва, м. Марксистская",
+  "seller": "Алексей",
+  "text": "Срочно продам Гипоэстес. В связи с переездом.\n",
+  "index": 1577064925,
+  "seller_status": "Частное лицо",
+  "price": 450,
+  "title": "Гипоэстес"
+}

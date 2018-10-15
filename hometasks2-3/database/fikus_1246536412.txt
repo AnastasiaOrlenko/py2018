@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. ВДНХ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1246536412",
+  "price": 2000,
+  "seller": "Елена",
+  "post_date": "  08 October в 15:08  ",
+  "title": "Фикус",
+  "text": "Фикус\nВысота 50 см + 20 см горшок\n",
+  "index": 1246536412,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/31ec275b795817b8b1dce4bf7a229f59/profile?id=1246536412&src=item"
+}

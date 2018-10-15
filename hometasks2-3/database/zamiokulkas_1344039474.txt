@@ -1,0 +1,12 @@
+{
+  "text": "Продаю замиокулькас, высота с горшком 110 см, ширина 180 см. Самовывоз, самовынос, самоупаковос)\nБольшой, красивый, растут новые листья.\nРазумный торг.\n",
+  "title": "Замиокулькас",
+  "price": 1500,
+  "index": 1344039474,
+  "address": "Москва, м. Выхино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkas_1344039474",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:03  ",
+  "seller": "Марина",
+  "seller_link": "/user/787fb8c5ffd65ca620dd3e25a7859361/profile?id=1344039474&src=item"
+}

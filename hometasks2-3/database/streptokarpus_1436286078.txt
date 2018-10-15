@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1436286078,
+  "title": "Стрептокарпус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/streptokarpus_1436286078",
+  "seller": "Елена",
+  "address": "Москва, м. Новопеределкино",
+  "text": "Продаю Стрептокарпусы. Сорта уточняйте.\n",
+  "post_date": "  5 октября в 00:25  ",
+  "seller_link": "/user/12e2a5550e221b489431b54bcb8ccba4/profile?id=1436286078&src=item"
+}

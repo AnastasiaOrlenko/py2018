@@ -1,0 +1,12 @@
+{
+  "title": "Бонсайницы",
+  "price": 300,
+  "seller": "Светлана",
+  "seller_link": "/user/04a5a97881c090c7dbc0199cee43298f/profile?id=1559355670&src=item",
+  "address": "Москва, м. Марьино",
+  "index": 1559355670,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bonsaynitsy_1559355670",
+  "text": "Бонсайницы новые, размеры\n1,2 фото - 34,5*19*12 - 500\n3,4 фото - 24,5*19,5*8,5 - 300 есть две шт.\n",
+  "post_date": "  4 октября в 17:30  "
+}

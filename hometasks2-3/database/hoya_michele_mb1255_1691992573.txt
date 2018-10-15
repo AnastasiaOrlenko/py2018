@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 2500,
+  "index": 1691992573,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoya_michele_mb1255_1691992573",
+  "address": "Москва, м. Севастопольская",
+  "title": "Hoya Michele MB1255",
+  "seller_link": "/user/93d5fc7c74517a78411fb7be1bbc6668/profile?id=1691992573&src=item",
+  "text": "на фото\n",
+  "post_date": "  07 October в 16:35  "
+}

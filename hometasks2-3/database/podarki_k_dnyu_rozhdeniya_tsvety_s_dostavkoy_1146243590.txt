@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/3bd038078d9dc209dd241cd882910bf0/profile?id=1146243590&src=item",
+  "seller-contact": "Собственник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podarki_k_dnyu_rozhdeniya_tsvety_s_dostavkoy_1146243590",
+  "post_date": "  08 October в 10:10  ",
+  "address": "Москва, м. Арбатская",
+  "seller": "ДОСТАВКА ЦВЕТОВ",
+  "text": "Мы уже придумали какой комплимент вы сделаете!)\nПривезем на работу, домой или кафе!\nУдивите ее своей проницательностью и вниманием!\nДевушки это ценят)\n",
+  "index": 1146243590,
+  "seller_status": "Компания",
+  "price": 2990,
+  "title": "Подарки к дню рождения, цветы с доставкой"
+}

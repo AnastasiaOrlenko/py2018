@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1546087432,
+  "title": "Роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_1546087432?slocation=637640",
+  "seller": "Татьяна",
+  "address": "Москва, м. Братиславская",
+  "text": "Новые.белые,розовые,красные,бордо,роз-белая.стандарт размер в колбе.\n",
+  "post_date": "  4 октября в 22:55  ",
+  "seller_link": "/user/dcd24a8f074d10c1c73746ac955fd4f9/profile?id=1546087432&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 950,
+  "seller_status": "Частное лицо",
+  "index": 1308296017,
+  "title": "Мох стабилизированный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/moh_stabilizirovannyy_1308296017",
+  "seller": "Михаил",
+  "address": "Москва, м. Площадь революции",
+  "text": "Высококачественный мох. Кочки, пластовый. Все цвета.\n",
+  "post_date": "  6 октября в 15:53  ",
+  "seller_link": "/user/513e813a6a7bb6125ca4328432dfa7a9/profile?id=1308296017&src=item"
+}

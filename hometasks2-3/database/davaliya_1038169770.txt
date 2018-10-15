@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Алтуфьево",
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/davaliya_1038169770",
+  "seller_status": "Компания",
+  "title": "Давалия",
+  "post_date": "  08 October в 12:02  ",
+  "price": 500,
+  "index": 1038169770,
+  "seller_link": "/user/e48e39d4107805e1980904ccc772f7e5/profile?id=1038169770&src=item",
+  "text": "интересный папоротник, в подвесном горшке, в хорошей земле, пересадки не требует.\nсамовывоз в любое удобное вам время..\n"
+}

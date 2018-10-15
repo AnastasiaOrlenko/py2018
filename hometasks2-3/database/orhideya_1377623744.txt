@@ -1,0 +1,12 @@
+{
+  "price": 650,
+  "seller_status": "Частное лицо",
+  "index": 1377623744,
+  "title": "Орхидея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_1377623744",
+  "seller": "Лидия",
+  "address": "Москва, м. Зябликово",
+  "text": "Орхидея зацвела 13 августа (цветонос около 40 см) - 650 руб\nПродам вместе с кашпо\n",
+  "post_date": "  6 октября в 10:20  ",
+  "seller_link": "/user/3ea9a898ed16967aaab8bd609676e45b/profile?id=1377623744&src=item"
+}

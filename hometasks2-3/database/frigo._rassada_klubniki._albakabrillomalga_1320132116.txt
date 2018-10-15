@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бауманская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/frigo._rassada_klubniki._albakabrillomalga_1320132116",
+  "price": 15,
+  "seller": "Сергей",
+  "post_date": "  08 October в 15:50  ",
+  "title": "Фриго. Рассада клубники. Альба,Кабрилло,Мальга",
+  "text": "Продаю рассаду клубники ФРИГО сортов:\nАльба, Азия - ранние - 15 руб.\nКабрилло, Мальга, Альбион - ремонтантные - 20 руб.\n+375296ноль9725восемь (Viber, Telegram)\nМесто нахождения: Беларусь\n",
+  "index": 1320132116,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/532bd309e37d536d3e5d149f7b74e1a6/profile?id=1320132116&src=item"
+}

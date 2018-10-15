@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1009903650,
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_dushistaya_lechebnaya_dlina_rasteniya_25_sm_1009903650",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Герань душистая лечебная, длина растения 25 см",
+  "seller_link": "/user/b98c1a12f71fbcdef9d21dd957665d3c/profile?id=1009903650&src=item",
+  "text": "поднесу к метро Бабушкинская\n",
+  "post_date": "  07 October в 21:18  "
+}

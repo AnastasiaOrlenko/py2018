@@ -1,0 +1,12 @@
+{
+  "price": 199,
+  "seller_status": "Частное лицо",
+  "index": 980782813,
+  "title": "Алоэ лечебное 3 года",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_lechebnoe_3_goda_980782813",
+  "seller": "Женя",
+  "address": "Москва, м. Выхино",
+  "text": "Алоэ древовидное (лечебное) возрастом 3 года, цена от 199 руб.\nТакже в наличии растения возрастом от 1 года до 7 лет.\n",
+  "post_date": "  6 октября в 20:35  ",
+  "seller_link": "/user/e9280c461e5f61724d3f229863140105/profile?id=980782813&src=item"
+}

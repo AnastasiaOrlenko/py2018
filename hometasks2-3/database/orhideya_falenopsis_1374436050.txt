@@ -1,0 +1,12 @@
+{
+  "price": 1350,
+  "seller_status": "Частное лицо",
+  "index": 1374436050,
+  "title": "Орхидея фаленопсис",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_falenopsis_1374436050",
+  "seller": "Дарья",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Фаленопсис фирида, 1 ствол\n",
+  "post_date": "  07 October в 00:37  ",
+  "seller_link": "/user/30eba020b7d840cf8fa43f702a67372b/profile?id=1374436050&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1428821566,
+  "title": "Комнатное растение Шеффелера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/komnatnoe_rastenie_sheffelera_1428821566",
+  "seller": "Римма",
+  "address": "Москва, м. Борисово",
+  "text": "Комнатное растение Шеффелера\n",
+  "post_date": "  6 октября в 18:17  ",
+  "seller_link": "/user/fa439c33581d81fd0c81f8f33c92ae4e/profile?id=1428821566&src=item"
+}

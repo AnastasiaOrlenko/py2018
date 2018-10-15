@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "seller": "Ольга",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialki_1305621848",
+  "seller_status": "Частное лицо",
+  "title": "Фиалки",
+  "seller_link": "/user/48069d5baeca71b991e670c0adb41903/profile?id=1305621848&src=item",
+  "index": 1305621848,
+  "post_date": "  08 October в 14:51  ",
+  "text": "Детки фиалок 50р,листик 15р.(г.Владимир)\n"
+}

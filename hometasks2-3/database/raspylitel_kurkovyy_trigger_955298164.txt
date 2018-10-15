@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Новокосино",
+  "seller": "Сергей",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/raspylitel_kurkovyy_trigger_955298164",
+  "seller_status": "Частное лицо",
+  "title": "Распылитель курковый (Триггер)",
+  "post_date": "  08 October в 12:05  ",
+  "price": 8,
+  "index": 955298164,
+  "seller_link": "/user/7bd220a10d5787ae227b86f7891aa100/profile?id=955298164&src=item",
+  "text": "Продам Распылители курковые, оптом. \nОт 1 короба - 500шт.\nЦена за шт. - 8,00 руб.\nКороб - 4000 руб.\nДиаметр/Резьба - 28/415, длина трубки - 280 мм.\n"
+}

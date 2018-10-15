@@ -1,0 +1,12 @@
+{
+  "text": "Продаётся сансевьерия с горшком, хорошо очищает воздух, неприхотлив. Растет в любых условиях.\n",
+  "title": "Сансевьерия",
+  "price": 300,
+  "index": 1531488787,
+  "address": "Москва, м. Домодедовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sanseveriya_1531488787",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:45  ",
+  "seller": "галя",
+  "seller_link": "/user/3fdd169e4aefcf7c0bd0d1a4e355d6ba/profile?id=1531488787&src=item"
+}

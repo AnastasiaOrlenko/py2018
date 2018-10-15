@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1035258904,
+  "title": "Фиалка сорт Прекрасная креолка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_sort_prekrasnaya_kreolka_1035258904",
+  "seller": "Оксана",
+  "address": "Москва, м. ВДНХ",
+  "text": "Отличный долгоцветущий сорт,молодые и здоровые розетки.Обильное цветение!\n",
+  "post_date": "  6 октября в 14:26  ",
+  "seller_link": "/user/87786f1ba322c5151f3bc12781984a37/profile?id=1035258904&src=item"
+}

@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Кизильник блестящий и другие многолетники.\n",
+  "index": 419194904,
+  "title": "Кизильник блестящий и другие многолетники",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kizilnik_blestyaschiy_i_drugie_mnogoletniki_419194904",
+  "seller": "Анна",
+  "address": "Москва, м. Алтуфьево",
+  "post_date": "  4 октября в 21:34  ",
+  "seller_link": "/user/fea59897cc9db98417fcae418e2cd769/profile?id=419194904&src=item"
+}

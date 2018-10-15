@@ -1,0 +1,13 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 1316501632,
+  "title": "Хойя карноза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_karnoza_1316501632",
+  "seller": "Екатерина",
+  "seller-contact": "Екатерина",
+  "address": "Москва, м. Строгино",
+  "text": "Продам в связи с переездом\n",
+  "post_date": "  5 октября в 09:53  ",
+  "seller_link": "/user/ea6745526ffd55a1a696e5ce98482216/profile?id=1316501632&src=item"
+}

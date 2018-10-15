@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1068741653,
+  "title": "Герань",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_1068741653",
+  "seller": "Ольга",
+  "address": "Москва, м. Белорусская",
+  "text": "Продам Цветы - 250 р., взрослые растения 350 р\n",
+  "post_date": "  5 октября в 07:03  ",
+  "seller_link": "/user/dd7e6973f2b0a8a32b2e5d0cdaec8e35/profile?id=1068741653&src=item"
+}

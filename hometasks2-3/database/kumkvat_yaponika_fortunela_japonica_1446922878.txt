@@ -1,0 +1,12 @@
+{
+  "title": "Кумкват Японика (Fortunela japonica )",
+  "price": 2800,
+  "seller": "Ольга",
+  "seller_link": "/user/346dd112ff475971682f454417354519/profile?id=1446922878&src=item",
+  "address": "Москва, м. Охотный ряд",
+  "index": 1446922878,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kumkvat_yaponika_fortunela_japonica_1446922878",
+  "text": "Кумкват (фортунела) Японика. Взрослое, давно домашнее растение с плодами. Цветёт и завязывает плоды круглый год. Плоды кисло-сладкие.\nГоршок на 5 литров.\n",
+  "post_date": "  4 октября в 16:55  "
+}

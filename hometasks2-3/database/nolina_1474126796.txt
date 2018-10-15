@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1000,
+  "index": 1474126796,
+  "seller": "Частное лицо.",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nolina_1474126796",
+  "address": "Москва, м. Бауманская",
+  "title": "Нолина",
+  "seller_link": "/user/9957c12e866d60a61a1fb68d6db15527/profile?id=1474126796&src=item",
+  "text": "Если купить все три,отдам за 3000 руб. \nЕсли по штучно, от 1500 руб.\n",
+  "post_date": "  08 October в 08:15  "
+}

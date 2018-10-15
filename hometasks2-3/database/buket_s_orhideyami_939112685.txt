@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 750,
+  "index": 939112685,
+  "seller": "любовь",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/buket_s_orhideyami_939112685",
+  "address": "Москва, м. Царицыно",
+  "title": "Букет с орхидеями",
+  "seller_link": "/user/d057f6d7abad86e3748ea75696f5c893/profile?id=939112685&src=item",
+  "text": "Букет с орхидеями, которые будут радовать Вас всегда, и никогда не завянут! Прекрасный подарок на свадьбу, юбилей, день рождения, Новый год, а также на любой случай.\n",
+  "post_date": "  07 October в 22:48  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1519058932,
+  "title": "Циперус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsiperus_1519058932",
+  "seller": "Ольга",
+  "address": "Москва, м. Медведково",
+  "text": "Молодое растение циперуса. На фото 2 и 3. Влаголюбивое. Лист около 80 см. На фото 1 - родительское.\n",
+  "post_date": "  6 октября в 13:01  ",
+  "seller_link": "/user/8ed9c48fa6702a5f50a11efca46d4a04/profile?id=1519058932&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 150,
+  "index": 1500505520,
+  "seller": "Анна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/martiranskaya_kislitsa_1500505520",
+  "address": "Москва, м. Войковская",
+  "title": "Мартиранская кислица",
+  "seller_link": "/user/721e79791559aebc4ae46bf5248adef9/profile?id=1500505520&src=item",
+  "text": "Оксалис (oxalis) цветет ярко розовым. Сверху вниз 150, 70, 200\nМ Войковская недалеко от метро\nМ Маяковская 5 мин пешком в будни\nБываю в Зеленограде Химки Мытищи Королёве Красногорск Алтуфьево\n",
+  "post_date": "  07 October в 19:25  "
+}

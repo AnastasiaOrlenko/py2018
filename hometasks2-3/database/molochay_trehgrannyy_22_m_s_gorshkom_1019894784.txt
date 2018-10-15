@@ -1,0 +1,12 @@
+{
+  "price": 1800,
+  "seller_status": "Частное лицо",
+  "index": 1019894784,
+  "title": "Молочай трехгранный (2,2 м с горшком)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/molochay_trehgrannyy_22_m_s_gorshkom_1019894784",
+  "seller": "Светлана",
+  "address": "Москва, м. Калужская",
+  "text": "Продам!\nМолочай трехгранный, возраст около 5 лет, высота 2,2 с горшком. Горшок новый.\nСамовывоз из города Железнодорожный\n",
+  "post_date": "  5 октября в 12:47  ",
+  "seller_link": "/user/e9bce46089601403373b177ee10a6ac3/profile?id=1019894784&src=item"
+}

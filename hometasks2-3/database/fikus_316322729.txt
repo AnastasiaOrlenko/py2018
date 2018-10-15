@@ -1,0 +1,12 @@
+{
+  "address": "Москва",
+  "seller": "час,лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_316322729",
+  "seller_status": "Компания",
+  "title": "Фикус",
+  "post_date": "  08 October в 13:47  ",
+  "price": 1000,
+  "index": 316322729,
+  "seller_link": "/user/625c1fd87ccb4d8378e3ea5e4997b93c/profile?id=316322729&src=item",
+  "text": "фикус от1метра и выше...\n"
+}

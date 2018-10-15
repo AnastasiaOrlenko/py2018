@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1394469400,
+  "title": "Малыш Грут. Кашпо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/malysh_grut._kashpo_1394469400",
+  "seller": "Андрей",
+  "address": "Москва, м. Митино",
+  "text": "Хороший подарок с цветами!\nМат. искусственный камень\nв.27 см. 19×19см.\n",
+  "post_date": "  5 октября в 18:29  ",
+  "seller_link": "/user/f9d32b015051c0648a03811311659f60/profile?id=1394469400&src=item"
+}

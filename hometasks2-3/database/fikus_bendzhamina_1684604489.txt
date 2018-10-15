@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1684604489,
+  "title": "Фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_bendzhamina_1684604489",
+  "seller": "Alla",
+  "address": "Москва, м. ВДНХ",
+  "text": "Неприхотливое, красивое растение! Не требует формировки и пересадки. Прекрасно впишется в интерьер и создаст уют. Высота около метра. Недорого! Есть ещё неприхотливые растения .... в бонус!))\n",
+  "post_date": "  07 October в 04:14  ",
+  "seller_link": "/user/b7bc3132af1daae4f78844beacaa8056/profile?id=1684604489&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "1) Obovata variegata 250 руб.\n2) Lockii 400 руб., с бутоном, ароматная.\n3) Monette 250 руб.\n4) Thomsonii 200 руб.\n5) Carnosa compacta 150 руб.\n6) Globulosa 150 руб. \n7) Finlaysonii long leaf 150 руб. \nВсе вопросы пожалуйста пишите через сайт. На работе на звонки не отвечаю. Передам от м. Ховрино в любое время, в центре утром 9.00\n",
+  "title": "Хойи",
+  "price": 150,
+  "index": 1685685963,
+  "address": "Москва, м. Ховрино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyi_1685685963",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 11:08  ",
+  "seller": "Екатерина",
+  "seller_link": "/user/7a54cd1573dfd92e38205a3fb24b29a1/profile?id=1685685963&src=item"
+}

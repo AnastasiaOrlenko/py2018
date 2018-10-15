@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1249481687,
+  "seller": "Аня",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaleya_zakatechichi_calea_zacatechichi_1249481687",
+  "address": "Москва, м. Каховская",
+  "title": "Калея Закатечичи Calea Zacatechichi",
+  "seller_link": "/user/4db3447ee1ec790db10a98c17f9f9860/profile?id=1249481687&src=item",
+  "text": "крепкое здоровое растение с горшком\n",
+  "post_date": "  07 October в 19:43  "
+}

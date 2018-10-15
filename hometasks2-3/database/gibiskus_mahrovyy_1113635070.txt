@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1113635070,
+  "seller": "марина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_mahrovyy_1113635070",
+  "address": "Москва, м. Ясенево",
+  "title": "Гибискус махровый",
+  "seller_link": "/user/81351fb2d25236b8e682bbf8d5f72257/profile?id=1113635070&src=item",
+  "text": "Красный махровый гибискус.Молодое растение.В керамическом горшке,начинает цвести,первое цветение.Высота от горшка 40 см. Связь по телефону и Ватсап\n",
+  "post_date": "  07 October в 22:10  "
+}

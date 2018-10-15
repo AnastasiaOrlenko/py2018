@@ -1,0 +1,12 @@
+{
+  "price": 400,
+  "seller_status": "Частное лицо",
+  "index": 1304138635,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1304138635",
+  "seller": "Марина",
+  "address": "Москва, м. Филевский парк",
+  "text": "Продаю фикус каучуковый с горшком. 40-45 см. Неприхотлив в уходе.\n",
+  "post_date": "  5 октября в 12:57  ",
+  "seller_link": "/user/8f775767e1b928ed0af51bdb7ec91179/profile?id=1304138635&src=item"
+}

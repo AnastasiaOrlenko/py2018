@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Славянский бульвар",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_austrotsilindropuntsiya_shilovidnaya_1005509615",
+  "price": 350,
+  "seller": "Ирина",
+  "post_date": "  08 October в 15:40  ",
+  "title": "Кактус аустроцилиндропунция шиловидная",
+  "text": "Композиция из 12 побегов аустроцилиндропунции в горшке с поддоном. Можно забрать на Славянском бульваре.\n",
+  "index": 1005509615,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/c6a07777d5a3fad99c4cbefff4269889/profile?id=1005509615&src=item"
+}

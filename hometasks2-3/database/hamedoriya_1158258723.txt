@@ -1,0 +1,13 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1158258723,
+  "title": "Хамедория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hamedoriya_1158258723",
+  "seller": "Вячеслав",
+  "seller-contact": "собственник",
+  "address": "Москва, м. Верхние Лихоборы",
+  "text": "Продам цветок Хамедория. Есть несколько\n",
+  "post_date": "  6 октября в 02:17  ",
+  "seller_link": "/user/7e8c788581f7f91e943f91dc017ddeca/profile?id=1158258723&src=item"
+}

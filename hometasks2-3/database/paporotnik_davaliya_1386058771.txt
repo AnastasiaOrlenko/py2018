@@ -1,0 +1,12 @@
+{
+  "price": 1900,
+  "seller_status": "Частное лицо",
+  "index": 1386058771,
+  "title": "Папоротник \"Давалия\"",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_davaliya_1386058771",
+  "seller": "не компания-частник",
+  "address": "Москва, м. Митино",
+  "text": "продам папоротник \"Давалия\", большой куст-50см, маточное растение, на фото.\n",
+  "post_date": "  6 октября в 23:22  ",
+  "seller_link": "/user/814d13afae36ac900dd009d34ddf3262/profile?id=1386058771&src=item"
+}

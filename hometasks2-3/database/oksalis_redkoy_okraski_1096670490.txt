@@ -1,0 +1,12 @@
+{
+  "seller_status": "Компания",
+  "price": 30,
+  "index": 1096670490,
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/oksalis_redkoy_okraski_1096670490",
+  "address": "Москва, м. Южная",
+  "title": "Оксалис редкой окраски",
+  "seller_link": "/user/846c23e34da524ee34b24f8cf3148fa5/profile?id=1096670490&src=item",
+  "text": "Продаю луковички мартианской кислицы, нового урожая (OXALIS CORYMBOSA / MARTIANA) . Луковички мелкие, размером с гречишное зернышко, 5 - 7 штук на горшочек будет достаточно. Цена за луковку 30 р. Пишите пожалуйста в лс.\n",
+  "post_date": "  07 October в 13:57  "
+}

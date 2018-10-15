@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Неля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_kaskad_1198980315",
+  "seller_status": "Компания",
+  "title": "Кашпо каскад",
+  "post_date": "  08 October в 11:01  ",
+  "price": 500,
+  "index": 1198980315,
+  "seller_link": "/user/fa51aa21ae295c13f723717f53e2dd31/profile?id=1198980315&src=item",
+  "text": "Кашпо каскад продаю в упаковке 3-х ярусная, писать смс или на Ватсапп не всегда могу ответить\n"
+}

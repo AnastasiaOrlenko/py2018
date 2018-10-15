@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1115590693,
+  "title": "Продаю дегежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodayu_degezhnoe_derevo_1115590693",
+  "seller": "Ольга",
+  "address": "Москва, м. Новокосино",
+  "text": "Продаю денежное дерево высота 17см\n",
+  "post_date": "  07 October в 09:32  ",
+  "seller_link": "/user/f4daa32c6a3cd3a9c1b99995f9429b43/profile?id=1115590693&src=item"
+}

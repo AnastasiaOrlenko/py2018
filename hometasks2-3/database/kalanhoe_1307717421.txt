@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1307717421,
+  "title": "Каланхоэ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_1307717421",
+  "seller": "Юлия",
+  "address": "Москва, м. Молодежная",
+  "text": "Пикированный ствол - в дальнейшем будет куститься. Самовывоз.\n",
+  "post_date": "  6 октября в 18:39  ",
+  "seller_link": "/user/8cf6b59dc6d44f8a9cbb9a4175258e5d/profile?id=1307717421&src=item"
+}

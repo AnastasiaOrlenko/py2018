@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1350,
+  "index": 1658509521,
+  "seller": "Natasha",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1658509521",
+  "address": "Москва, м. Бабушкинская",
+  "title": "Драцена",
+  "seller_link": "/user/cf82a4d25b6e9e0e234e453a235a5ebb/profile?id=1658509521&src=item",
+  "text": "Высота растения -115см, с горшком-135 см. Возраст около 13 лет. Нужно пересаживать, после этого быстро пойдет в рост.. Это мое любимое растение, но ее просто некуда ставить..\n",
+  "post_date": "  07 October в 17:58  "
+}

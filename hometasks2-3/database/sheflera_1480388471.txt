@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1480388471,
+  "seller": "Анар азформ",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sheflera_1480388471",
+  "address": "Москва, м. Коломенская",
+  "title": "Шефлера",
+  "seller_link": "/user/ced07c7cf8753ff1b8a9bff38a16a223/profile?id=1480388471&src=item",
+  "text": "За 1 штук\n",
+  "post_date": "  07 October в 14:43  "
+}

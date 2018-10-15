@@ -1,0 +1,12 @@
+{
+  "price": 2420,
+  "seller_status": "Магазин",
+  "index": 1112809149,
+  "title": "Роза свежая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_svezhaya_1112809149",
+  "seller": "Rurose Цветочный супермаркет",
+  "address": "Москва, м. Авиамоторная",
+  "text": "Микс из белых и красных роз ярко и необычно. Доставка и самовывоз по Москве и обл.\n",
+  "post_date": "  4 октября в 21:35  ",
+  "seller_link": "/rurose?gdlkerfdnwq=101&shopId=157715"
+}

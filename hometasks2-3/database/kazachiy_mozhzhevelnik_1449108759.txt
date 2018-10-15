@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1449108759,
+  "title": "Казачий можжевельник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kazachiy_mozhzhevelnik_1449108759",
+  "seller": "Ирина",
+  "address": "Москва, м. Алтуфьево",
+  "text": "Укоренённые отростки казачий можжевельник. На фото 1 материнский куст. Отросток на фото 2 - 400₽, фото 3,4 - 300₽\n",
+  "post_date": "  6 октября в 13:22  ",
+  "seller_link": "/user/b29c9e36554fb97c2c2f540ee39b2e60/profile?id=1449108759&src=item"
+}

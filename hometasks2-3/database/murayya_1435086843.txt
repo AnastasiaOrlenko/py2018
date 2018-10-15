@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Компания",
+  "index": 1435086843,
+  "title": "Мурайя",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/murayya_1435086843",
+  "seller": "Елена",
+  "address": "Москва, м. Выхино",
+  "text": "Чудесное растение мурайя. Цветет практически круглый год.\n",
+  "post_date": "  5 октября в 11:19  ",
+  "seller_link": "/user/61e1d67b10d2e17be78ac56ad06a380c/profile?id=1435086843&src=item"
+}

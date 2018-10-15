@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 645030964,
+  "title": "Инжир",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/inzhir_645030964",
+  "seller": "Денис",
+  "address": "Москва, м. Ясенево",
+  "text": "Инжир высотой 50-60 см, плодоносит в комнатных условиях.\n",
+  "post_date": "  6 октября в 07:36  ",
+  "seller_link": "/user/347a45128977531573bfb170c5a278a9/profile?id=645030964&src=item"
+}

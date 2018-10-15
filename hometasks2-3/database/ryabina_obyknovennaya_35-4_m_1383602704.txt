@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Охотный ряд",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ryabina_obyknovennaya_35-4_m_1383602704",
+  "seller-contact": "Андрей",
+  "price": 3000,
+  "seller": "ЯР-КРУПНОМЕР",
+  "post_date": "  08 October в 23:34  ",
+  "title": "Рябина обыкновенная 3,5-4 м",
+  "text": "Реализуем рябину обыкновенную высотой 3,5-4 метра, штамб 1,2-1,5м; \nВ наличии много, подходит по 3-4 группе городской посадки.\n",
+  "index": 1383602704,
+  "seller_status": "Магазин",
+  "seller_link": "/i68949607?gdlkerfdnwq=101&shopId=119204"
+}

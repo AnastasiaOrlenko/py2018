@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/zamiokulkos_1456399033",
+  "seller_status": "Частное лицо",
+  "title": "Замиокулькос",
+  "post_date": "  08 October в 13:45  ",
+  "price": 2500,
+  "index": 1456399033,
+  "seller_link": "/user/c846bdbba80feb06a7f331eaab439740/profile?id=1456399033&src=item",
+  "text": "Продам цветок замеокулькас.Самовывоз метро братиславская.\n"
+}

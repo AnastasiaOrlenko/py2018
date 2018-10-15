@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1369529445,
+  "title": "Юкка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/yukka_1369529445",
+  "seller": "Катя Кузнецова",
+  "address": "Москва, м. Мичуринский проспект",
+  "text": "Юкка в хорошие руки!!!\nЦветок вырос большой, некуда его ставить.\n",
+  "post_date": "  5 октября в 20:35  ",
+  "seller_link": "/user/43bc8360361a4bf4c5df80eaf17571b9/profile?id=1369529445&src=item"
+}

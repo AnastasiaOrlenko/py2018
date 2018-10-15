@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 949248256,
+  "title": "Диффебахия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/diffebahiya_949248256",
+  "seller": "Inna",
+  "address": "Москва, м. Павелецкая",
+  "text": "Молодое растеие диффебахия. Быстро растет\n",
+  "post_date": "  07 October в 11:23  ",
+  "seller_link": "/user/f5a995adbb1e684d994a8f156b22dc08/profile?id=949248256&src=item"
+}

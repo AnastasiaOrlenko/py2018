@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1395353139,
+  "title": "Рео",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_1395353139",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "1, 2 фото - 100р\n3 фото 150р\n",
+  "post_date": "  6 октября в 16:13  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1395353139&src=item"
+}

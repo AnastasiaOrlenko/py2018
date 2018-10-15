@@ -1,0 +1,13 @@
+{
+  "price": 200,
+  "seller_status": "Компания",
+  "index": 1411541641,
+  "title": "Толстянка (денежное дерево)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tolstyanka_denezhnoe_derevo_1411541641",
+  "seller": "Ксения",
+  "seller-contact": "Ксения",
+  "address": "Москва, м. Рижская",
+  "text": "С горшком.\n",
+  "post_date": "  5 октября в 14:04  ",
+  "seller_link": "/user/997271de647a2db68178b0c34668b450/profile?id=1411541641&src=item"
+}

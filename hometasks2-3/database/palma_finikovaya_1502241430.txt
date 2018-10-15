@@ -1,0 +1,11 @@
+{
+  "seller_status": "Частное лицо",
+  "text": "Пальма финиковая 8 шт.\n",
+  "index": 1502241430,
+  "title": "Пальма финиковая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/palma_finikovaya_1502241430",
+  "seller": "Анна",
+  "address": "Москва, м. Алма-Атинская",
+  "post_date": "  6 октября в 12:53  ",
+  "seller_link": "/user/c105f77683e0cd488e95939f158173a5/profile?id=1502241430&src=item"
+}

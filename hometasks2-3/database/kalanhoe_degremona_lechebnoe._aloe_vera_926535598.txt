@@ -1,0 +1,12 @@
+{
+  "price": 99,
+  "seller_status": "Частное лицо",
+  "index": 926535598,
+  "title": "Каланхоэ Дегремона (лечебное). Алоэ Вера",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_degremona_lechebnoe._aloe_vera_926535598",
+  "seller": "Женя",
+  "address": "Москва, м. Выхино",
+  "text": "Каланхоэ Дегремона. Растение высотой 10 см. Выращено без удобрений для использования в лечебных целях. Цена 99 руб.\nАлоэ Вера 5 лет. Цена 990 руб.\n",
+  "post_date": "  6 октября в 20:34  ",
+  "seller_link": "/user/e9280c461e5f61724d3f229863140105/profile?id=926535598&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 1100,
+  "seller_status": "Компания",
+  "index": 1252094420,
+  "title": "Кактус звездочка (суккулент), цветочная композиция",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_zvezdochka_sukkulent_tsvetochnaya_kompozitsiya_1252094420",
+  "seller": "Частное лицо",
+  "seller-contact": "Вера",
+  "address": "Москва, м. Выхино",
+  "text": "Кактус звездочка (суккулент) в горшке сапожок, цветочная композиция для интерьера. Размер 20х17х11 см (ДхВхШ)\n",
+  "post_date": "  6 октября в 15:09  ",
+  "seller_link": "/user/4601162d90d5e469bd9125f2bc070473/profile?id=1252094420&src=item"
+}

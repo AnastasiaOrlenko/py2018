@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 1440561737,
+  "title": "Сингониум",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/singonium_1440561737",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "Растенее с фото в горшке - 300р.\n3 стволика.\n",
+  "post_date": "  6 октября в 14:17  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1440561737&src=item"
+}

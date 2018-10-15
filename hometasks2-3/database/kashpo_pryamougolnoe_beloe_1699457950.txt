@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 600,
+  "index": 1699457950,
+  "seller": "Ксения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_pryamougolnoe_beloe_1699457950",
+  "address": "Москва, м. Саларьево",
+  "title": "Кашпо прямоугольное белое",
+  "seller_link": "/user/1f780139d15e0893441b0234837a6b8c/profile?id=1699457950&src=item",
+  "text": "Кашпо прямоугольное белое в упаковке. Размеры 45*15*15. Не использовала, не подошло по дизайну))\n",
+  "post_date": "  08 October в 00:23  "
+}

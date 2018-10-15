@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 60,
+  "index": 1691366041,
+  "seller": "ctaniclav",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chesnok_urozhay_2018_1691366041",
+  "address": "Москва, м. Алтуфьево",
+  "title": "Чеснок урожай 2018",
+  "seller_link": "/user/a86c80886a53a18f5b05a02bb4c6b23a/profile?id=1691366041&src=item",
+  "text": "Челнок, урожай 2018. Воронежская область. Цена за кг. Если оптом от 50 кг.\n",
+  "post_date": "  07 October в 14:11  "
+}

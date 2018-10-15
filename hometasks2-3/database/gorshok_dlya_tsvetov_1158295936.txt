@@ -1,0 +1,11 @@
+{
+  "text": "Обменяю один большой пластиковый горшок на цветок. Пишите сообщения.\n",
+  "title": "Горшок для цветов",
+  "seller_link": "/user/fd6655aabc5d584c45fc573bbf36d779/profile?id=1158295936&src=item",
+  "address": "Москва, м. Тульская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_dlya_tsvetov_1158295936",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 09:38  ",
+  "seller": "Ирина",
+  "index": 1158295936
+}

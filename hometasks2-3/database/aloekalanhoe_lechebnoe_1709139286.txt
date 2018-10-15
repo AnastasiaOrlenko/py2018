@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 150,
+  "index": 1709139286,
+  "seller": "ВЕРА",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloekalanhoe_lechebnoe_1709139286",
+  "address": "Москва, м. Марьино",
+  "title": "Алоэ+каланхоэ лечебное",
+  "seller_link": "/user/95198ee9a2edd273d7b794ce5d3c19b3/profile?id=1709139286&src=item",
+  "text": "Продам горшок с алоэ и 4 молодыми отростками каланхоэ лечебное. Цена за горшочек 150 рублей. Возможна доставка до любой станции метро.\n",
+  "seller-contact": "Вера",
+  "post_date": "  07 October в 22:00  "
+}

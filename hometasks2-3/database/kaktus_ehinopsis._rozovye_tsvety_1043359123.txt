@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 1043359123,
+  "title": "Кактус эхинопсис. Розовые цветы",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kaktus_ehinopsis._rozovye_tsvety_1043359123",
+  "seller": "Частное лицо",
+  "address": "Москва, м. Свиблово",
+  "text": "Цветущий кактус. \nПервые два фото мой кактус. Продаю детёныша 3 фото\nВ будни до 18 часов. У метро 18.10\n",
+  "post_date": "  5 октября в 16:04  ",
+  "seller_link": "/user/676b2ffe585b23483db7453233ab0ee4/profile?id=1043359123&src=item"
+}

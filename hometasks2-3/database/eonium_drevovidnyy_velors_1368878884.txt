@@ -1,0 +1,12 @@
+{
+  "price": 1200,
+  "seller_status": "Частное лицо",
+  "index": 1368878884,
+  "title": "Эониум древовидный Velors",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/eonium_drevovidnyy_velors_1368878884",
+  "seller": "Олег",
+  "address": "Москва, м. Беговая",
+  "text": "Эониум древовидный Velors, сорт с темными листьями. Высота с горшком примерно 35 см, диаметр горшка 17 см. Неприхотливое светолюбивое суккулентное растение.\n",
+  "post_date": "  6 октября в 17:03  ",
+  "seller_link": "/user/52a907a3ae21a7ca309f997301d74d65/profile?id=1368878884&src=item"
+}

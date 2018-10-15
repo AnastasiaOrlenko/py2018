@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Компания",
+  "index": 764756522,
+  "title": "Кроссандра розовая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krossandra_rozovaya_764756522",
+  "seller": "Татьяна",
+  "address": "Москва, м. Ясенево",
+  "text": "Продаю растение на втором фото.\n Есть другие красивоцветущие и лиственные растения, вышлю список по запросу.\nВозможна доставка до любого метро - 200р.\n",
+  "post_date": "  5 октября в 22:00  ",
+  "seller_link": "/user/f618c4ce4958d00cb577c13ca2e45cab/profile?id=764756522&src=item"
+}

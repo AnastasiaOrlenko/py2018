@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бабушкинская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kislitsa_957340648",
+  "price": 150,
+  "seller": "Ольга",
+  "post_date": "  08 October в 16:29  ",
+  "title": "Кислица",
+  "text": "Поднесу к м Бабушкинская\n",
+  "index": 957340648,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/b98c1a12f71fbcdef9d21dd957665d3c/profile?id=957340648&src=item"
+}

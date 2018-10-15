@@ -1,0 +1,13 @@
+{
+  "price": 1500,
+  "seller_status": "Компания",
+  "index": 1232302462,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_1232302462",
+  "seller": "Тамара",
+  "seller-contact": "Тамара",
+  "address": "Москва, м. Петровско-Разумовская",
+  "text": "Большое взрослое растение.\n",
+  "post_date": "  07 October в 02:10  ",
+  "seller_link": "/user/4abca503835aa8b833eff716ab2f45a6/profile?id=1232302462&src=item"
+}

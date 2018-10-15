@@ -1,0 +1,12 @@
+{
+  "price": 600,
+  "seller_status": "Частное лицо",
+  "index": 1014870513,
+  "title": "Фиалка",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_1014870513",
+  "seller": "Ирина",
+  "address": "Москва",
+  "text": "Продам фиалку в керамическом горшке,цвела все лето и сейчас цветет\n",
+  "post_date": "  4 октября в 20:13  ",
+  "seller_link": "/user/30fc1f801ea76eb73e2e3890ed299eac/profile?id=1014870513&src=item"
+}

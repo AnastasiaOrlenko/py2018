@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1037192998,
+  "title": "Кашпо желтые стокман",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_zheltye_stokman_1037192998",
+  "seller": "dannette",
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "text": "Из стокмана. Состояние новых. За пару 300 руб.\n",
+  "post_date": "  5 октября в 10:15  ",
+  "seller_link": "/user/ec36b4be50132de87abbc977cfa53807/profile?id=1037192998&src=item"
+}

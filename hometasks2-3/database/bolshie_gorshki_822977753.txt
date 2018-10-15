@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 200,
+  "index": 822977753,
+  "seller": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshie_gorshki_822977753",
+  "address": "Москва, м. ВДНХ",
+  "title": "Большие горшки",
+  "seller_link": "/user/ad3a5a6f132c33995019b719dab62309/profile?id=822977753&src=item",
+  "text": "Б.у,но в отличном состоянии,все горшки с поддонами,размер высота 23, диаметр 28 см,самый большой коричневый-28/31,-ПРОДАН,белые-24/26, второй \n25-26 см.цена за 1.\n",
+  "seller-contact": "Жанна",
+  "post_date": "  07 October в 19:37  "
+}

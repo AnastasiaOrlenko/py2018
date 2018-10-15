@@ -1,0 +1,12 @@
+{
+  "price": 10000,
+  "seller_status": "Частное лицо",
+  "index": 815299496,
+  "title": "Драцена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dratsena_815299496",
+  "seller": "Наталья",
+  "address": "Москва, м. Шаболовская",
+  "text": "Продаю драцену. 4 ствола высотой от 50 см до 2,60 м. Высота вместе с горшком 3 м. Горшок пластиковый.\n",
+  "post_date": "  5 октября в 16:17  ",
+  "seller_link": "/user/53914064105db9b0822fe23d8753cfd0/profile?id=815299496&src=item"
+}

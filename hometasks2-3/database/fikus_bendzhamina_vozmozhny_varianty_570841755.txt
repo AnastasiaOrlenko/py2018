@@ -1,0 +1,12 @@
+{
+  "address": "Зеленоград",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/fikus_bendzhamina_vozmozhny_varianty_570841755",
+  "price": 25000,
+  "seller": "Юлия",
+  "post_date": "  08 October в 20:45  ",
+  "title": "Фикус Бенджамина, возможны варианты)",
+  "text": "Любимцу 19 лет!! Полноценное листопадное дерево!! Красавец)) в свои переездом очень уж далеко((( продаю.... Офис, дома, квартира!! Любителям джунглей ловите и радуйтесь!!! Самовывоз!! С горшком\n",
+  "index": 570841755,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/52eb7aea115369bc8f65b5b8ecb0637e/profile?id=570841755&src=item"
+}

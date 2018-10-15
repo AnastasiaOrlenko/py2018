@@ -1,0 +1,12 @@
+{
+  "price": 399,
+  "seller_status": "Частное лицо",
+  "index": 950694879,
+  "title": "Крупный куст продам",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/krupnyy_kust_prodam_950694879",
+  "seller": "сергей",
+  "address": "Москва, м. Серпуховская",
+  "text": "60cm смотр.все мои об.\n",
+  "post_date": "  4 октября в 20:36  ",
+  "seller_link": "/user/41b91bded2994a1e09e56d148419bc2f/profile?id=950694879&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1324420669,
+  "title": "Растение - суккулент",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_-_sukkulent_1324420669",
+  "seller": "Евгения",
+  "address": "Москва, м. ВДНХ",
+  "text": "Очень красивое растение. Сможете пересадить его в новый горшок, подходящий под интерьер, и он его очень украсит и разнообразит.\n",
+  "post_date": "  07 October в 12:13  ",
+  "seller_link": "/user/7b681fda9535a8091958904853bf7048/profile?id=1324420669&src=item"
+}

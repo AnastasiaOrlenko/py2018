@@ -1,0 +1,12 @@
+{
+  "text": "Керамический 20 литровый, красивый горшок с родным поддоном\n",
+  "title": "Горшок",
+  "price": 1000,
+  "index": 1135796496,
+  "address": "Москва, м. Шаболовская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gorshok_1135796496",
+  "seller_status": "Частное лицо",
+  "post_date": "  13 October в 00:27  ",
+  "seller": "Александр",
+  "seller_link": "/user/2e9928955beddacccc8c6619e1852b9e/profile?id=1135796496&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1524573534,
+  "seller": "Юлия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_1524573534",
+  "address": "Москва, м. Щелковская",
+  "title": "Пеларгония герань",
+  "seller_link": "/user/04dc1ff257ef06bb657d4a23a541960c/profile?id=1524573534&src=item",
+  "text": "1. Герань королевская\n2. Герань уникум.\n",
+  "post_date": "  07 October в 17:00  "
+}

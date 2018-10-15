@@ -1,0 +1,12 @@
+{
+  "text": "Подвеска для кашпо 40 см. Зелёная, бежевая и коричневая.\nДля цветов.\n",
+  "title": "Подвеска для кашпо, горшков",
+  "price": 50,
+  "index": 596771275,
+  "address": "Москва, м. Люблино",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/podveska_dlya_kashpo_gorshkov_596771275",
+  "seller_status": "Частное лицо",
+  "post_date": "  12 October в 23:48  ",
+  "seller": "Антон",
+  "seller_link": "/user/fefbd51ff764e490e70df5367a58c4ee/profile?id=596771275&src=item"
+}

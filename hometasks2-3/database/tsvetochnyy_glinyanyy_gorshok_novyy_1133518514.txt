@@ -1,0 +1,12 @@
+{
+  "price": 700,
+  "seller_status": "Частное лицо",
+  "index": 1133518514,
+  "title": "Цветочный глиняный горшок новый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_glinyanyy_gorshok_novyy_1133518514",
+  "seller": "Надежда",
+  "address": "Москва, м. Щукинская",
+  "text": "Продаётся новый глиняный горшок. \nДиаметр - 23 см\nВысота - 17 см\nОбъём 3,5 литра\n",
+  "post_date": "  07 October в 11:17  ",
+  "seller_link": "/user/32f5739fb035983f10053fa0c46ebcbf/profile?id=1133518514&src=item"
+}

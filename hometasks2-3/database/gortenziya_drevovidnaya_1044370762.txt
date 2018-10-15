@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1044370762,
+  "title": "Гортензия древовидная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_drevovidnaya_1044370762",
+  "seller": "Мария",
+  "address": "Москва, м. Охотный ряд",
+  "text": "гортензия древовидная, крупные соцветия\n",
+  "post_date": "  4 октября в 22:36  ",
+  "seller_link": "/user/9207f3191f53e26858c27d1131f60562/profile?id=1044370762&src=item"
+}

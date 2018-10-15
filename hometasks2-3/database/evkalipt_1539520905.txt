@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 750,
+  "index": 1539520905,
+  "seller": "Ani",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/evkalipt_1539520905",
+  "address": "Москва, м. Академическая",
+  "title": "Эвкалипт",
+  "seller_link": "/user/194db70bf92c432c3cfded806a9396ed/profile?id=1539520905&src=item",
+  "text": "Продам эвкалипт комнатный\nВысота около 70см\n",
+  "post_date": "  07 October в 20:36  "
+}

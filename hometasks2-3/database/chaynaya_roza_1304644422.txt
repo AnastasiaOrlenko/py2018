@@ -1,0 +1,13 @@
+{
+  "price": 900,
+  "seller_status": "Компания",
+  "index": 1304644422,
+  "title": "Чайная роза",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/chaynaya_roza_1304644422",
+  "seller": "Ирина",
+  "seller-contact": "не компания",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Чайная роза в кадке,цветёт красными крупными цветами\n",
+  "post_date": "  07 October в 07:43  ",
+  "seller_link": "/user/57fa29def34e5886f60eff56b1812c32/profile?id=1304644422&src=item"
+}

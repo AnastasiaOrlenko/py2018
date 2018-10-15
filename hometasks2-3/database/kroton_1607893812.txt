@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1607893812,
+  "title": "Кротон",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kroton_1607893812",
+  "seller": "Галина",
+  "address": "Москва, м. Отрадное",
+  "text": "кратон укорененное растение\n",
+  "post_date": "  6 октября в 11:01  ",
+  "seller_link": "/user/828f439fa401d5752984bc480f337b3e/profile?id=1607893812&src=item"
+}

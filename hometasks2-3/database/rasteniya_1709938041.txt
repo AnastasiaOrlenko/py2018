@@ -1,0 +1,12 @@
+{
+  "price": 100,
+  "seller_status": "Частное лицо",
+  "index": 1709938041,
+  "title": "Растения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rasteniya_1709938041",
+  "seller": "комарова татьяна",
+  "address": "Москва, м. Тропарево",
+  "text": "Кактусы. Алое Вера. Сансиверии. Суккуленты. От 100 руб.\n",
+  "post_date": "  5 октября в 13:48  ",
+  "seller_link": "/user/4cf7fd4ca90da1014b1ba8f29108265e/profile?id=1709938041&src=item"
+}

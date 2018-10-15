@@ -1,0 +1,13 @@
+{
+  "price": 20,
+  "seller_status": "Компания",
+  "index": 1441239564,
+  "title": "Фиалка Ав Сахарная вата и др",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_av_saharnaya_vata_i_dr_1441239564",
+  "seller": "Дина",
+  "seller-contact": "Частное ,не компания",
+  "address": "Москва, м. Кропоткинская",
+  "text": "Листы Ав 50-100₽ ,другие по 20₽ от 25 шт альбом пришлю,детки мини 60₽ листы 30₽\n",
+  "post_date": "  6 октября в 10:04  ",
+  "seller_link": "/user/c3964d13e1477ee3b606826bd86dea2e/profile?id=1441239564&src=item"
+}

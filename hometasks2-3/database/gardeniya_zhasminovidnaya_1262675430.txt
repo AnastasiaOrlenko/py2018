@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 350,
+  "index": 1262675430,
+  "seller": "Evgeniya Telicheva",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gardeniya_zhasminovidnaya_1262675430",
+  "address": "Москва, м. Аэропорт",
+  "title": "Гардения жасминовидная",
+  "seller_link": "/user/8b5f34898df82b52e1a9aef9692a97c8/profile?id=1262675430&src=item",
+  "text": "Крепкие росточки\n",
+  "post_date": "  07 October в 18:59  "
+}

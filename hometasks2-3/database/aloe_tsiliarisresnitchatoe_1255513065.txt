@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1255513065,
+  "title": "Алоэ цилиарис(реснитчатое)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_tsiliarisresnitchatoe_1255513065",
+  "seller": "Юрий",
+  "address": "Москва, м. Партизанская",
+  "text": "Три черенка в горшке (фото4,5)-150р,\nБольшой куст -1000р.\n",
+  "post_date": "  07 October в 09:00  ",
+  "seller_link": "/user/512dc7e33705fc1ff414f05ff507aac3/profile?id=1255513065&src=item"
+}

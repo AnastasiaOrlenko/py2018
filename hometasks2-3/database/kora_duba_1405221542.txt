@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 1405221542,
+  "title": "Кора дуба",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kora_duba_1405221542",
+  "seller": "Матвей",
+  "address": "Москва, м. Семеновская",
+  "text": "кора дуба для орхидей. цена за весь пакет.\n",
+  "post_date": "  5 октября в 00:18  ",
+  "seller_link": "/user/b300432da241f28d8dba15a237f3355b/profile?id=1405221542&src=item"
+}

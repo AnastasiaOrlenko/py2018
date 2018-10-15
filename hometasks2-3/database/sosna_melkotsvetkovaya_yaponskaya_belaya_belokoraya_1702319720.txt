@@ -1,0 +1,12 @@
+{
+  "price": 6000,
+  "seller_status": "Частное лицо",
+  "index": 1702319720,
+  "title": "Сосна мелкоцветковая, японская белая, белокорая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sosna_melkotsvetkovaya_yaponskaya_belaya_belokoraya_1702319720",
+  "seller": "Юрий",
+  "address": "Москва, м. Юго-Западная",
+  "text": "Сосна мелкоцветковая \"Негиши\", Pinus parviflora \"Negishi\" \nфото 1 c40 - 13500 руб.\nСосна мелкоцветковая \"Глаука\", Pinus parviflora \"Glauca\"\nфото 2 c 35 - 9800 руб.\nСосна мелкоцветковая \"Бергман\", Pinus parviflora \"Bergman\"\nфото 3 70/80 c20- 10500 руб.\nСосна мелкоцветковая \"Ара Кава\", Pinus parviflora \"AraKawa\" \nфото 4 60/70 c18 10500 руб.\nСосна белокорая \"Малинки\", Pinus leucodermis \"Malimki\"\nфото 5 35/40 c8 6000 руб.\nСосна мелкоцветковая \"Темпелхоф\", Pinus parviflora \"Tempelhof\" \nфото 6 100/120 с12.5 6000 руб.\n",
+  "post_date": "  07 October в 08:09  ",
+  "seller_link": "/user/f56dd99c49bdc8c4953b9917c417ce09/profile?id=1702319720&src=item"
+}

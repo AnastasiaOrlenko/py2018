@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1413836178,
+  "title": "Фитолампа полного спектра LED UFO 216w",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fitolampa_polnogo_spektra_led_ufo_216w_1413836178",
+  "seller": "Иван",
+  "address": "Москва, м. Щукинская",
+  "text": "Продам новую лампу полного спектра 216 Вт UFO дял комнатных растений. \n52red + 12 синий + 2 теплый белый + 2 белый + 2IR + 2UV светодиоды\n",
+  "post_date": "  6 октября в 15:56  ",
+  "seller_link": "/user/5ea49a8707cdfa67e46def217c06dc71/profile?id=1413836178&src=item"
+}

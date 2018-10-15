@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1045851974,
+  "title": "Орхидеи",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhidei_1045851974",
+  "seller": "Анастасия",
+  "address": "Москва, м. ВДНХ",
+  "text": "Вечные цветы. Орхидеи в вакууме. Абсолютно новые, в упаковке.\n",
+  "post_date": "  5 октября в 13:34  ",
+  "seller_link": "/user/58092559d2b37573639ec0e4ca5831dd/profile?id=1045851974&src=item"
+}

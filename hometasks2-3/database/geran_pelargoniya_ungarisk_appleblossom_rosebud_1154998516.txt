@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1154998516,
+  "title": "Герань пеларгония Ungarisk Appleblossom rosebud",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_pelargoniya_ungarisk_appleblossom_rosebud_1154998516",
+  "seller": "Анна",
+  "seller-contact": "Анна.",
+  "address": "Москва, м. Полежаевская",
+  "text": "Продаются молодые и взрослые растения в горшках, цену уточняйте. Пример цветения на фото. Самовывоз. Звоните. Есть другие сорта смотрите, спрашивайте. Есть доставка. Укорененный черенок -350р. Молодое-500р, взрослое-1000р\n",
+  "post_date": "  07 October в 03:08  ",
+  "seller_link": "/user/7caa08873ae870739c568324a8f87110/profile?id=1154998516&src=item"
+}

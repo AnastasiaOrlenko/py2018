@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Рязанский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/okalis_drevovidnyy_variegatnyy._kislitsa_1444886323",
+  "seller-contact": "Инна",
+  "price": 100,
+  "seller": "Инна",
+  "post_date": "  08 October в 22:05  ",
+  "title": "Окалис древовидный вариегатный. Кислица",
+  "text": "Детка с хорошей корневой в горшочке.\n",
+  "index": 1444886323,
+  "seller_status": "Компания",
+  "seller_link": "/user/d6337a76d817d5616a17262bb59f28bf/profile?id=1444886323&src=item"
+}

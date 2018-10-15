@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1031269037,
+  "title": "Декабрист С бутонами.-розовый,белый и красный",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/dekabrist_s_butonami.-rozovyybelyy_i_krasnyy_1031269037",
+  "seller": "Елена",
+  "address": "Москва, м. Фонвизинская",
+  "text": "Есть три цвета (смотрите фото).\nСейчас все выкидывают бутоны.\nЧеренки подросли,по запросу сделаю новые фото.\nЦена от 150 до 250р зависит от размера черенка.\n",
+  "post_date": "  5 октября в 13:15  ",
+  "seller_link": "/user/b241e2fe73a02e731cae6d06bc14638f/profile?id=1031269037&src=item"
+}

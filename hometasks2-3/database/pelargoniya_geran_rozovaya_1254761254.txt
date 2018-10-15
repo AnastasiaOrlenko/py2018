@@ -1,0 +1,13 @@
+{
+  "text": "Продам нежно розовую пеларгонию.\n",
+  "title": "Пеларгония герань розовая",
+  "price": 300,
+  "index": 1254761254,
+  "address": "Москва, м. Курская",
+  "seller-contact": "Яна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pelargoniya_geran_rozovaya_1254761254",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 11:30  ",
+  "seller": "Яна. Отправка почтой возможна!",
+  "seller_link": "/user/6fa2588be68dc58246dc7aa968069396/profile?id=1254761254&src=item"
+}

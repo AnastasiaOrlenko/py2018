@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1440340603,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1440340603",
+  "seller": "Татьяна",
+  "address": "Москва, м. Савеловская",
+  "text": "Высота растения,вместе с горшком -65см.(есть ещё фикус,высотой-130 см.,если забираете оба,то отдам за 1200руб.)смотрите объявления в профиле.\n",
+  "post_date": "  07 October в 12:44  ",
+  "seller_link": "/user/4517b844cb0ce125c848fae53eedb173/profile?id=1440340603&src=item"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 1322795385,
+  "title": "Алоэ -столетник 3 года",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_-stoletnik_3_goda_1322795385",
+  "seller": "Наталья (ч.лицо)",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Тропарево",
+  "text": "Лечебное алое, в горшке\n",
+  "post_date": "  5 октября в 20:08  ",
+  "seller_link": "/user/1c78813ca9dd9f75c357dd3be35e6e7b/profile?id=1322795385&src=item"
+}

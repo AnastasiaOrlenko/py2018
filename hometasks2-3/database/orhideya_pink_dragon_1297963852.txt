@@ -1,0 +1,13 @@
+{
+  "price": 1200,
+  "seller_status": "Компания",
+  "index": 1297963852,
+  "title": "Орхидея Pink Dragon",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_pink_dragon_1297963852",
+  "seller": "Наталья",
+  "seller-contact": "Наталья",
+  "address": "Москва, м. Улица академика Янгеля",
+  "text": "Продам шикарную орхидею, хорошая корневая, отцвёла, в пересадке не нуждается!\n",
+  "post_date": "  5 октября в 23:10  ",
+  "seller_link": "/user/179515665ebd7e3f7f2c89afde57d483/profile?id=1297963852&src=item"
+}

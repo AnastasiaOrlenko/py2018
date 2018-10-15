@@ -1,0 +1,12 @@
+{
+  "price": 350,
+  "seller_status": "Частное лицо",
+  "index": 1598995898,
+  "title": "Фуксия ампельная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fuksiya_ampelnaya_1598995898",
+  "seller": "Екатерина",
+  "address": "Москва, м. Озёрная",
+  "text": "Фуксия ампельная.\n",
+  "post_date": "  6 октября в 13:40  ",
+  "seller_link": "/user/9796e2ae9f5e8ef8151ee1207740b8a1/profile?id=1598995898&src=item"
+}

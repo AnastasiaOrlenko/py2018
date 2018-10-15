@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Светлана",
+  "seller": "Корзина Цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_formidablo_v_kashpo_tsilindr_130-140_sm_1628191170",
+  "seller_status": "Компания",
+  "title": "Орхидея формидабло в кашпо цилиндр 130-140 см",
+  "post_date": "  08 October в 11:38  ",
+  "price": 44000,
+  "index": 1628191170,
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1628191170&src=item",
+  "address": "Москва, м. Нагорная",
+  "text": "Орхидея формидабло в кашпо цилиндр 130-140 см \nсентябрь в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России. \n"
+}

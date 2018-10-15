@@ -1,0 +1,13 @@
+{
+  "price": 250,
+  "seller_status": "Компания",
+  "index": 1434612295,
+  "title": "Виноград сорта Изабелла",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vinograd_sorta_izabella_1434612295",
+  "seller": "не компания",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Новокосино",
+  "text": "Морозостойкий виноград для средней полосы.Не требует укрытия на зиму.Продаю саженцы с корнями.Осталось на данный сезон 3 саженца\n",
+  "post_date": "  5 октября в 19:50  ",
+  "seller_link": "/user/82f3748ae808bd7aaa80299463a6f013/profile?id=1434612295&src=item"
+}

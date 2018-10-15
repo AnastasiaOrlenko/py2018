@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Бульвар Дмитрия Донского",
+  "seller": "Ирина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/geran_dushistaya_1474556310",
+  "seller_status": "Частное лицо",
+  "title": "Герань Душистая",
+  "post_date": "  08 October в 13:02  ",
+  "price": 200,
+  "index": 1474556310,
+  "seller_link": "/user/8dbca9f473fd861a82386b345e082bb3/profile?id=1474556310&src=item",
+  "text": "Продаю Герань Душистую. Большой цветок 75 см - 200 рублей, два маленьких цветка 25 см - 150 рублей. Все растения в горшках.\n"
+}

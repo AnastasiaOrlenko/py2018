@@ -1,0 +1,12 @@
+{
+  "price": 1500,
+  "seller_status": "Частное лицо",
+  "index": 1200226208,
+  "title": "Продам фикус Бенджамина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodam_fikus_bendzhamina_1200226208",
+  "seller": "Валерий",
+  "address": "Москва, м. Водный стадион",
+  "text": "Продам фикус Бенджамина (7лет, высота 1,3 м.) Не прихотливое растение,полив раз в неделю,удчно впишется в интерьер квартиры и офиса.\n",
+  "post_date": "  07 October в 11:57  ",
+  "seller_link": "/user/fed01c48bb599436a1ecf18f7064bd8e/profile?id=1200226208&src=item"
+}

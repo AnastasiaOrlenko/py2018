@@ -1,0 +1,13 @@
+{
+  "text": "Вазон для цветов, красная глина,выс.27, верх-17 см.\n",
+  "title": "Вазон",
+  "price": 200,
+  "index": 1083819060,
+  "address": "Москва, м. Марьино",
+  "seller-contact": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vazon_1083819060",
+  "seller_status": "Компания",
+  "post_date": "  13 October в 08:09  ",
+  "seller": "Елена",
+  "seller_link": "/user/12d3547355dbe94b2d416b2dd44549e4/profile?id=1083819060&src=item"
+}

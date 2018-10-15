@@ -1,0 +1,13 @@
+{
+  "seller_link": "/user/0a4bf22ae9f7698bd4f13df84681bd04/profile?id=1534926332&src=item",
+  "seller-contact": "Светлана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_15-20_sm_miks_v_gorshke_1534926332",
+  "post_date": "  08 October в 10:17  ",
+  "address": "Москва, м. Нагорная",
+  "seller": "Корзина Цветов",
+  "text": "Гортензия 15-20 см микс в горшке, цена за 1 шт в интернет-магазине Корзина Цветов (corzinaflowers). Наличие и размер уточните при запросе у специалиста. Возможна доставка в день заказа по Москве и МО, от 2-х дней по России.\n",
+  "index": 1534926332,
+  "seller_status": "Компания",
+  "price": 998,
+  "title": "Гортензия 15-20 см микс в горшке"
+}

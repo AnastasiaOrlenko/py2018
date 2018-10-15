@@ -1,0 +1,12 @@
+{
+  "price": 850,
+  "seller_status": "Частное лицо",
+  "index": 1704106165,
+  "title": "Фикус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fikus_1704106165",
+  "seller": "Анна",
+  "address": "Москва, м. Отрадное",
+  "text": "Композиция домашних цветов в красивом горшке ручной работы украсит ваш дом или офис\n",
+  "post_date": "  07 October в 12:21  ",
+  "seller_link": "/user/7b26cce021007d12ef63ae3bdbbb26b7/profile?id=1704106165&src=item"
+}

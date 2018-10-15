@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Братиславская",
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/monstera_1577550613",
+  "seller_status": "Частное лицо",
+  "title": "Монстера",
+  "post_date": "  08 October в 10:47  ",
+  "price": 1500,
+  "index": 1577550613,
+  "seller_link": "/user/330c4d4adcb4adcaaabe46c82ef0f514/profile?id=1577550613&src=item",
+  "text": "Продаю шикарную Монстеру.Идеальное растение для офиса и гостиницы.\n"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 50,
+  "seller_status": "Частное лицо",
+  "index": 1547636359,
+  "title": "Крапивка, бальзамин, денежное дерево",
+  "full_url": "https://www.avito.ru/moskva_zelenograd/rasteniya/krapivka_balzamin_denezhnoe_derevo_1547636359",
+  "seller": "Карина",
+  "address": "Зеленоград",
+  "text": "Цена за каждый цветок\n",
+  "post_date": "  5 октября в 18:18  ",
+  "seller_link": "/user/ebad7fbcc7a44312ab07c020a81cf3e3/profile?id=1547636359&src=item"
+}

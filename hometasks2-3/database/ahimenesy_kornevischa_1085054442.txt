@@ -1,0 +1,13 @@
+{
+  "title": "Ахименесы корневища",
+  "price": 50,
+  "seller": "Евгений",
+  "seller_link": "/user/a74041a8b3fcf59a23e93d2d3336b881/profile?id=1085054442&src=item",
+  "address": "Москва, м. Рижская",
+  "index": 1085054442,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/ahimenesy_kornevischa_1085054442",
+  "text": "Продаю излишки ризом ахименесов, следующие сорта -\n2 Double Picotee Rose-50 р не крупные 0,5 см фото 1\n3 Yellow Queen H - 80 p фото 2\n4 Famme Fatale -50 р не крупные, фото 3\n5 Red Elf -50 p\n6 Sagittarius 50 p не крупные фото 4\n7 Champs de Lavande -60, 50 p фото 5\n8 Buberry Lemon - 60 p фото 6\n9 Double Pink Rose - 60 р ризома не крупная 6 мм фото 7\nЕсть много других сортов, смотрите в моем профиле.\n",
+  "post_date": "  4 октября в 17:36  ",
+  "seller-contact": "Евгений"
+}

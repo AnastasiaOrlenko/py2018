@@ -1,0 +1,13 @@
+{
+  "price": 350,
+  "seller_status": "Компания",
+  "index": 591843580,
+  "title": "Каланхое (домашний доктор)",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_domashniy_doktor_591843580",
+  "seller": "Виктория",
+  "seller-contact": "виктория",
+  "address": "Москва, м. Войковская",
+  "text": "Продаю взрослое растение каланхое, крупные сочные листья с детками. Отлично помогает при насморке\n",
+  "post_date": "  6 октября в 09:05  ",
+  "seller_link": "/user/f195722eb53bb63daa29a2aec5622900/profile?id=591843580&src=item"
+}

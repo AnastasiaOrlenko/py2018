@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/19e2128d72b91cc0fa605fc8b7940498/profile?id=1577517450&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/bolshoe_ofisnoe_rastenie_1577517450",
+  "post_date": "  08 October в 10:22  ",
+  "address": "Москва, м. Автозаводская",
+  "seller": "Ольга",
+  "text": "Продаю большое офисное растение высота примерно 75-80 см. Цветет мелкими красными цветочками. Только самовывоз.\n",
+  "index": 1577517450,
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "title": "Большое офисное растение"
+}

@@ -1,0 +1,13 @@
+{
+  "price": 500,
+  "seller_status": "Компания",
+  "index": 714145069,
+  "title": "Керамический горшок с плетением 22см в диаметре",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/keramicheskiy_gorshok_s_pleteniem_22sm_v_diametre_714145069",
+  "seller": "Светлана (частное лицо)",
+  "seller-contact": "Светлана",
+  "address": "Москва, м. Нагорная",
+  "text": "Продам керамических горшок с плетением и поддоном. Диаметр 22см. Цена-500р.\nЗабирать ул.Нагорная.\nНА СМС ПО ТЕЛЕФОНУ НЕ ОТВЕЧАЮ.БЕЗ ТОРГА.\n",
+  "post_date": "  6 октября в 10:22  ",
+  "seller_link": "/user/7a91ff225af636eb89d8d2bd171e499b/profile?id=714145069&src=item"
+}

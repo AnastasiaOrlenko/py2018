@@ -1,0 +1,12 @@
+{
+  "price": 250,
+  "seller_status": "Частное лицо",
+  "index": 1620774361,
+  "title": "Гибискус персиковый, трехцветный. Срезанные черенк",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_persikovyy_trehtsvetnyy._srezannye_cherenk_1620774361",
+  "seller": "Юлия",
+  "address": "Москва, м. Чертановская",
+  "text": "Срежу черенок гибискуса с фото.\nБЕЗ корней!\nЦветение мое. \nМатеринское растение привезено с Сейшел.\nЕсть другие гибискусы. Смотрите все мои объявления.\n",
+  "post_date": "  4 октября в 19:08  ",
+  "seller_link": "/user/f9d0930d3a97ba31aaf0836b6ca19420/profile?id=1620774361&src=item"
+}

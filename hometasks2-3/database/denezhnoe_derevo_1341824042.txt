@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Бунинская аллея",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/denezhnoe_derevo_1341824042",
+  "seller-contact": "Продавец",
+  "price": 250,
+  "seller": "Продавец",
+  "post_date": "  08 October в 18:00  ",
+  "title": "Денежное дерево",
+  "text": "Небольшой росточек денежного дерева продаю вместе с горшочком. Вырастет большим и пышным деревцем. Встречусь в метро для продажи.\n",
+  "index": 1341824042,
+  "seller_status": "Компания",
+  "seller_link": "/user/94253a4eaab97c44f81188ecac997a16/profile?id=1341824042&src=item"
+}

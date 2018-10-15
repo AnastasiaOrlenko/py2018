@@ -1,0 +1,13 @@
+{
+  "price": 50,
+  "seller_status": "Компания",
+  "index": 1327770940,
+  "title": "Тюльпаны попугайные из моего сада",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tyulpany_popugaynye_iz_moego_sada_1327770940",
+  "seller": "Частное лицо",
+  "seller-contact": "Елена",
+  "address": "Москва, м. Домодедовская",
+  "text": "Луковичные из моего сада.\nТюльпаны попугайные.\n✔Количество луковиц ограничено, по три - четыре каждого сорта \n✔✔Фото N 1 для понимания о величине и величии попугайных тюльпанов.\n✔Фото N 2 Air\n✔Фото N 3 Amazing Parrot\n✔Фото N 4 Black Parrot\n✔Фото N 5 Bastogne Parrot\n✔ Фото N 6 Blumex\n✔ Фото N 7 Destiny\n✔ Фото N 8 Doortman's Record \n✔ Фото N 9 Flaming Parrot\n✔ Фото N 10 Libretto Parrot\n✔Дополнительный список попугайный тюльпанов:\n✔1. Априкот Пэррот\n✔2. Бастонье\n✔3. Брайт Пэррот\n✔4. Крэкер\n✔5. Диджей\n✔6. Эльзенбург\n✔7. Фрозен Найт\n✔8. Гарден Файр\n✔9. Мадонна\n✔10. Мистер Пэррот\n✔11. Пионер\n✔12. Принцесса Ирэн\n✔13. Йеллоу Сан\n✔14. Blue Parrot\n✔15. Green Wave\n✔16. Irene Parrot\n✔17. Silver Parrot\n✔Есть еще объявление, в нем сорта попугайных тюльпанов.\n✔В другие города высылаю.\n",
+  "post_date": "  07 October в 09:27  ",
+  "seller_link": "/user/cb0828e1553f9433cb9959155afa8419/profile?id=1327770940&src=item"
+}

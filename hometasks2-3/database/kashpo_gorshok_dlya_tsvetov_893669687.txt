@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Калужская",
+  "seller": "Татьяна",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kashpo_gorshok_dlya_tsvetov_893669687",
+  "seller_status": "Частное лицо",
+  "title": "Кашпо горшок для цветов",
+  "post_date": "  08 October в 12:42  ",
+  "price": 500,
+  "index": 893669687,
+  "seller_link": "/user/f7a4fab64960a5cb84e0217816dadde2/profile?id=893669687&src=item",
+  "text": "Керамика. Кашпо герметично. Состояние отличное. Сколов и царапин нет. Цвет пурпурный\nВысота: 13 см\nДиаметр: 15 см\n"
+}

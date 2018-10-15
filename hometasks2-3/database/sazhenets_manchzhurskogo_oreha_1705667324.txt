@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Библиотека им. Ленина",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/sazhenets_manchzhurskogo_oreha_1705667324",
+  "price": 700,
+  "seller": "Иван",
+  "post_date": "  08 October в 18:11  ",
+  "title": "Саженец манчжурского ореха",
+  "text": "Районированный саженец манчжурского ореха 2-х летний. Как грецкий, только адаптирован к более суровым условиям. У орехов более толстая скорлупа. Вкус ореха такой же.\n",
+  "index": 1705667324,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/1a06e3fc1c5da155b20a3aec21379cda/profile?id=1705667324&src=item"
+}

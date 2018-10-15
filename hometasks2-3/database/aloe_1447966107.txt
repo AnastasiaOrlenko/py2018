@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 500,
+  "index": 1447966107,
+  "seller": "Елена",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1447966107",
+  "address": "Москва, м. Хорошево",
+  "title": "Алоэ",
+  "seller_link": "/user/0c63b70d25e5960f0f7cdd233384d8dc/profile?id=1447966107&src=item",
+  "text": "Алое \nВысота 80 см\nВозраст 5 лет\n",
+  "post_date": "  07 October в 15:46  "
+}

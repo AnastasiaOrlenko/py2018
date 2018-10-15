@@ -1,0 +1,12 @@
+{
+  "price": 3,
+  "seller_status": "Частное лицо",
+  "index": 1018966382,
+  "title": "Шишка сосновая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/shishka_sosnovaya_1018966382",
+  "seller": "Татьяна",
+  "address": "Москва, м. Алексеевская",
+  "text": "Шишка сосновая для поделок и творчества\n",
+  "post_date": "  5 октября в 08:54  ",
+  "seller_link": "/user/eef8d18384f3df16159a51c8fc4960e6/profile?id=1018966382&src=item"
+}

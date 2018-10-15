@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 300,
+  "index": 1143390263,
+  "seller": "ХОЗЯИН",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/paporotnik_1143390263",
+  "address": "Москва, м. Орехово",
+  "title": "Папоротник",
+  "seller_link": "/user/6ee670dbdd6e5ba4804e31ac23f83925/profile?id=1143390263&src=item",
+  "text": "Домашны � цветок папоротник очень красивая и удобно .\n",
+  "seller-contact": "Хозяин",
+  "post_date": "  07 October в 14:21  "
+}

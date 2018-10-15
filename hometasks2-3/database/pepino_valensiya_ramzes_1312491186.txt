@@ -1,0 +1,11 @@
+{
+  "address": "Москва, м. Улица Скобелевская",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/pepino_valensiya_ramzes_1312491186",
+  "seller_link": "/user/202a08d6828ba3bffaa0de59df943faf/profile?id=1312491186&src=item",
+  "seller": "Оксана",
+  "post_date": "  08 October в 19:24  ",
+  "title": "Пепино (Валенсия, Рамзес)",
+  "text": "сорт Валенсия - 400 руб. (в наличие 1 шт)\nсорт Рамзес - 250 руб. (в наличие 11 шт)\n",
+  "index": 1312491186,
+  "seller_status": "Частное лицо"
+}

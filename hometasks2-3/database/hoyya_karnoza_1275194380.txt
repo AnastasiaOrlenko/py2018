@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Рязанский проспект",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/hoyya_karnoza_1275194380",
+  "seller-contact": "Светлана",
+  "price": 150,
+  "seller": "Не компания",
+  "post_date": "  08 October в 20:07  ",
+  "title": "Хойя Карноза",
+  "text": "Здоровое, с крепкой корневой системой растение \nВопросы пишите здесь \nВозможны встречи в метро\n",
+  "index": 1275194380,
+  "seller_status": "Компания",
+  "seller_link": "/user/d2198465bcad2a1b3fb127bcfc3159a4/profile?id=1275194380&src=item"
+}

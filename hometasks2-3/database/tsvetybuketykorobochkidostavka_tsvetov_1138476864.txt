@@ -1,0 +1,13 @@
+{
+  "price": 1590,
+  "seller_status": "Компания",
+  "index": 1138476864,
+  "title": "Цветы,букеты,коробочки,доставка цветов",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetybuketykorobochkidostavka_tsvetov_1138476864",
+  "seller": "ДОСТАВКА ЦВЕТОВ",
+  "seller-contact": "Собственник",
+  "address": "Москва, м. Арбатская",
+  "text": "Здравствуйте, специально для вас!\nПриятные цены - от 1.590\nБыстрая доставка - от 90 минут\nОткрыточка в подарок!\nСвежие цветы, поставки раз в два дня!\nХорошего утра, дня и вечера Вам)\n",
+  "post_date": "  5 октября в 10:46  ",
+  "seller_link": "/user/3bd038078d9dc209dd241cd882910bf0/profile?id=1138476864&src=item"
+}

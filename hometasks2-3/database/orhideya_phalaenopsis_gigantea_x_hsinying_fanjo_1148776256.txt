@@ -1,0 +1,13 @@
+{
+  "title": "Орхидея Phalaenopsis gigantea x Hsinying Fanjo",
+  "price": 5000,
+  "seller": "Valerya",
+  "seller_link": "/user/4f920fd3c90df398247da564dea8da0f/profile?id=1148776256&src=item",
+  "address": "Москва, м. Беляево",
+  "index": 1148776256,
+  "seller_status": "Компания",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/orhideya_phalaenopsis_gigantea_x_hsinying_fanjo_1148776256",
+  "text": "Орхидея взрослая Phalaenopsis gigantea x Hsinying Fanjo\n",
+  "post_date": "  4 октября в 18:17  ",
+  "seller-contact": "не компания"
+}

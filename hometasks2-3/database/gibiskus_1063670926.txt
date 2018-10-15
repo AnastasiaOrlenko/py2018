@@ -1,0 +1,12 @@
+{
+  "price": 2500,
+  "seller_status": "Частное лицо",
+  "index": 1063670926,
+  "title": "Гибискус",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gibiskus_1063670926",
+  "seller": "татьяна",
+  "address": "Москва, м. Тушинская",
+  "text": "Длина от корней 90 см\n",
+  "post_date": "  4 октября в 19:43  ",
+  "seller_link": "/user/3f36066450b3c65a9ffa77c52337de7b/profile?id=1063670926&src=item"
+}

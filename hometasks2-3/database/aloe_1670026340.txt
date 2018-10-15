@@ -1,0 +1,13 @@
+{
+  "seller-contact": "Ксения",
+  "seller": "Ксения",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_1670026340",
+  "seller_status": "Компания",
+  "title": "Алоэ",
+  "post_date": "  08 October в 11:04  ",
+  "price": 350,
+  "index": 1670026340,
+  "seller_link": "/user/80a74f57501ffd9ad36ce2eca44c1e1e/profile?id=1670026340&src=item",
+  "address": "Москва, м. Ленинский проспект",
+  "text": "Алоэ 40 см.\n"
+}

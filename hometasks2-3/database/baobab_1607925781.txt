@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 2300,
+  "index": 1607925781,
+  "seller": "Анастасия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/baobab_1607925781",
+  "address": "Москва, м. Верхние Лихоборы",
+  "title": "Баобаб",
+  "seller_link": "/user/90894f55e3416a11f207ba321d13cb22/profile?id=1607925781&src=item",
+  "text": "Баобаб\n",
+  "seller-contact": "Анастасия",
+  "post_date": "  07 October в 18:55  "
+}

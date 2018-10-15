@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 1500,
+  "index": 1290311099,
+  "seller": "Диана",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetochnyy_gorshok_iz_shamotnoy_gliny_s_poddonom_1290311099",
+  "address": "Москва, м. Улица Старокачаловская",
+  "title": "Цветочный горшок из шамотной глины с поддоном",
+  "seller_link": "/user/51d90c37304ddc7cbbfddfb34ad32aa0/profile?id=1290311099&src=item",
+  "text": "Продаю новый горшок для цветов из шамотной глины высокотемпературного обжига (не подошел по дизайну в квартире). Размеры: высота 37 см, диаметр 40см, объем 26 л. Возможен торг\n",
+  "post_date": "  08 October в 00:45  "
+}

@@ -1,0 +1,12 @@
+{
+  "price": 200,
+  "seller_status": "Частное лицо",
+  "index": 1006176697,
+  "title": "Фиалка в горшке",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/fialka_v_gorshke_1006176697",
+  "seller": "Майя",
+  "address": "Москва, м. Марксистская",
+  "text": "Фиалка цветущая в горшке.\n",
+  "post_date": "  07 October в 10:25  ",
+  "seller_link": "/user/eab2b2ce222d3f34b978fda88f6944e7/profile?id=1006176697&src=item"
+}

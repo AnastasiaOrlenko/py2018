@@ -1,0 +1,12 @@
+{
+  "price": 1450,
+  "seller_status": "Частное лицо",
+  "index": 1581122921,
+  "title": "Антуриум оранжевый",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_oranzhevyy_1581122921",
+  "seller": "Роман Меликсетов",
+  "address": "Москва, м. Охотный ряд",
+  "text": "Размер горшка 14д. Высота 50см.\n",
+  "post_date": "  6 октября в 20:47  ",
+  "seller_link": "/user/b1f6c80f6aebba86bd3f93cb828c0b8f/profile?id=1581122921&src=item"
+}

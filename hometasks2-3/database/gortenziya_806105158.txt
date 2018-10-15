@@ -1,0 +1,12 @@
+{
+  "price": 1000,
+  "seller_status": "Частное лицо",
+  "index": 806105158,
+  "title": "Гортензия",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/gortenziya_806105158",
+  "seller": "Денис",
+  "address": "Москва, м. Теплый стан",
+  "text": "Продам кусты гортензии, большие кусты хост, пионы, лилейники\n",
+  "post_date": "  6 октября в 07:35  ",
+  "seller_link": "/user/347a45128977531573bfb170c5a278a9/profile?id=806105158&src=item"
+}

@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 1364929911,
+  "title": "Рео",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/reo_1364929911",
+  "seller": "Наталья",
+  "address": "Москва, м. Селигерская",
+  "text": "Растение с фото в горшке -150р\n",
+  "post_date": "  6 октября в 16:15  ",
+  "seller_link": "/user/e4dc78dc56efadd4c4410ab241a137b1/profile?id=1364929911&src=item"
+}

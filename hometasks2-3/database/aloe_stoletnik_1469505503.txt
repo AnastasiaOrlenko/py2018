@@ -1,0 +1,12 @@
+{
+  "price": 500,
+  "seller_status": "Частное лицо",
+  "index": 1469505503,
+  "title": "Алоэ столетник",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/aloe_stoletnik_1469505503",
+  "seller": "елена",
+  "address": "Москва, м. Молодежная",
+  "text": "Цена за два годовалых растения с горшками. Цена за один 250р\n",
+  "post_date": "  5 октября в 19:26  ",
+  "seller_link": "/user/1b163ed290b25746c2336ec47450e401/profile?id=1469505503&src=item"
+}

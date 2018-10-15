@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/2830317e82254e1eafc7dd9482018ef4/profile?id=1120821056&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/roza_bengalskaya_nasyshenno_rozovaya_1120821056",
+  "post_date": "  08 October в 09:32  ",
+  "address": "Москва, м. Савеловская",
+  "seller": "Валентина",
+  "text": "Для дома, роза бенгальская насышенно розовая, бокаловидная, крупеоцветковая, нежный запах. Маленькое растение. Не требовательна к уходу.Другие цвета--от 200 р\n",
+  "index": 1120821056,
+  "seller_status": "Частное лицо",
+  "price": 300,
+  "title": "Роза бенгальская насышенно розовая"
+}

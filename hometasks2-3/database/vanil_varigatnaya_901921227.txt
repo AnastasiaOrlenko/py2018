@@ -1,0 +1,12 @@
+{
+  "price": 300,
+  "seller_status": "Частное лицо",
+  "index": 901921227,
+  "title": "Ваниль варигатная",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/vanil_varigatnaya_901921227",
+  "seller": "Екатерина",
+  "address": "Москва, м. Марьино",
+  "text": "Продаются укорененные и не укорененные черенки пестролистной орхидеи ваниль.цена взависимости от длины черенка.\n",
+  "post_date": "  6 октября в 22:40  ",
+  "seller_link": "/user/953b7f446b8557441aa3c911638f6a24/profile?id=901921227&src=item"
+}

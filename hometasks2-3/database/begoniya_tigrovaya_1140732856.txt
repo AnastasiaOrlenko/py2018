@@ -1,0 +1,12 @@
+{
+  "price": 450,
+  "seller_status": "Частное лицо",
+  "index": 1140732856,
+  "title": "Бегония тигровая",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/begoniya_tigrovaya_1140732856",
+  "seller": "Светлана",
+  "address": "Москва, м. Пражская",
+  "text": "Продаю молодую бегонию в прекрасном состоянии. Растение неприхотливое, не требует особого ухода. Могу поднести к метро.\n",
+  "post_date": "  5 октября в 07:03  ",
+  "seller_link": "/user/d80897b2a6f27230b93e2ab0ef8b3c62/profile?id=1140732856&src=item"
+}

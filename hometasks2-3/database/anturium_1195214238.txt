@@ -1,0 +1,12 @@
+{
+  "seller_status": "Частное лицо",
+  "price": 200,
+  "index": 1195214238,
+  "seller": "Виктория",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/anturium_1195214238",
+  "address": "Москва, м. Пражская",
+  "title": "Антуриум",
+  "seller_link": "/user/dd7733c5fec4de83d205bbbb5c395755/profile?id=1195214238&src=item",
+  "text": "Молодые растения в горшочках, цветут красным 🌹\n",
+  "post_date": "  07 October в 17:27  "
+}

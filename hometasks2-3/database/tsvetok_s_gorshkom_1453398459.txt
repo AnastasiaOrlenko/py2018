@@ -1,0 +1,12 @@
+{
+  "address": "Москва, м. Перово",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/tsvetok_s_gorshkom_1453398459",
+  "price": 2000,
+  "seller": "Маргарита",
+  "post_date": "  08 October в 17:38  ",
+  "title": "Цветок с горшком",
+  "text": "Самовывоз, без торга.\n",
+  "index": 1453398459,
+  "seller_status": "Частное лицо",
+  "seller_link": "/user/3358f42ac10e9261d29b8342f5ea0464/profile?id=1453398459&src=item"
+}

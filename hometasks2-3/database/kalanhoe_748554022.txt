@@ -1,0 +1,12 @@
+{
+  "title": "Каланхоэ",
+  "price": 150,
+  "seller": "Вячеслав",
+  "seller_link": "/user/2703558bf973ae1c6c4a60403b53b8c0/profile?id=748554022&src=item",
+  "address": "Москва, м. Юго-Западная",
+  "index": 748554022,
+  "seller_status": "Частное лицо",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kalanhoe_748554022",
+  "text": "ПРОДАМ ЛЕЧЕБНЫЙ ЦВЕТОК!ОЧЕНЬ ПОМОГАЕТ ДЕТЯМ ОТ НАСМОРКА.ВОЗРАСТ РАСТЕНИЯ 1.5-2 ГОДА.ЦЕНА ОТ 150 РУБЛЕЙ.\n",
+  "post_date": "  4 октября в 17:16  "
+}

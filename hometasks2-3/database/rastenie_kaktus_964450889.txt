@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Улица академика Янгеля",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rastenie_kaktus_964450889",
+  "seller-contact": "Марина Владимировна",
+  "price": 100,
+  "seller": "не компания",
+  "post_date": "  08 October в 21:54  ",
+  "title": "Растение кактус",
+  "text": "Цветут маленькими белыми цветочками. Большой кактус не продаётся.\n",
+  "index": 964450889,
+  "seller_status": "Компания",
+  "seller_link": "/user/f4f4977d349aa93afc00d06107995ce0/profile?id=964450889&src=item"
+}

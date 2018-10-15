@@ -1,0 +1,12 @@
+{
+  "seller_link": "/user/43b484160a8427263cb76c7f3a1420c3/profile?id=758701210&src=item",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/klen_serebristyy_kustovoy-krupnomer_8-9m_758701210",
+  "post_date": "  08 October в 09:51  ",
+  "address": "Москва, м. Селигерская",
+  "seller": "Игорь",
+  "text": "Продаю мощные многоствольные Серебристые клены, есть 2шт. несколько стволов в коме. Высота 9-10м. Организую перевозку, посадку с гарантией.\n",
+  "index": 758701210,
+  "seller_status": "Частное лицо",
+  "price": 95000,
+  "title": "Клён Серебристый кустовой-крупномер 8-9м"
+}

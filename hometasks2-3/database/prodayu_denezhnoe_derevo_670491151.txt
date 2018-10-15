@@ -1,0 +1,12 @@
+{
+  "price": 299,
+  "seller_status": "Частное лицо",
+  "index": 670491151,
+  "title": "Продаю денежное дерево",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/prodayu_denezhnoe_derevo_670491151",
+  "seller": "Ольга",
+  "address": "Москва, м. Новокосино",
+  "text": "Продаю денежное дерево ( дерево благополучия).\n",
+  "post_date": "  07 October в 09:31  ",
+  "seller_link": "/user/f4daa32c6a3cd3a9c1b99995f9429b43/profile?id=670491151&src=item"
+}

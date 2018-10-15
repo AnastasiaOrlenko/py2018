@@ -1,0 +1,12 @@
+{
+  "price": 150,
+  "seller_status": "Частное лицо",
+  "index": 645116730,
+  "title": "Розовая акация",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/rozovaya_akatsiya_645116730",
+  "seller": "Марина",
+  "address": "Москва, м. Новые Черемушки",
+  "text": "молодые кустики розовой акации высота от 40 см цветет до сих пор цена от 150руб продавать буду к концу месяца\n",
+  "post_date": "  5 октября в 15:04  ",
+  "seller_link": "/user/bd37aa1f13928f11cae7d40cd20aac3d/profile?id=645116730&src=item"
+}

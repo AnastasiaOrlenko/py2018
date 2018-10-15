@@ -1,0 +1,13 @@
+{
+  "seller_status": "Компания",
+  "price": 400,
+  "index": 1589325344,
+  "seller": "с",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/kitayskaya_roza_1589325344",
+  "address": "Москва, м. Мякинино",
+  "title": "Китайская роза",
+  "seller_link": "/user/6828e5be7b4bed86ee26870cb2ffe221/profile?id=1589325344&src=item",
+  "text": "Китайская роза 66 см без горшка\n",
+  "seller-contact": "Сергей",
+  "post_date": "  07 October в 14:03  "
+}

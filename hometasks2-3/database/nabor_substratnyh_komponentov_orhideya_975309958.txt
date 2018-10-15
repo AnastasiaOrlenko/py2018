@@ -1,0 +1,13 @@
+{
+  "address": "Москва, м. Царицыно",
+  "full_url": "https://www.avito.ru/moskva/rasteniya/nabor_substratnyh_komponentov_orhideya_975309958",
+  "seller-contact": "Галина Анатольевна",
+  "price": 100,
+  "seller": "Частное лицо",
+  "post_date": "  08 October в 21:48  ",
+  "title": "Набор субстратных компонентов Орхидея",
+  "text": "Набор для пересадки орхидей 1 литр. Более подробно указано на фото.\n",
+  "index": 975309958,
+  "seller_status": "Компания",
+  "seller_link": "/user/95baf5eefebc0b77c2dddefeb66005e5/profile?id=975309958&src=item"
+}
